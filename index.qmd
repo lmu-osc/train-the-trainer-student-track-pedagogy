@@ -2,7 +2,7 @@
 title: "Train the Trainer: Student Track - Pedagogical Meta Modules"
 ---
 
-This is the landing page for the Train-the-Trainer Student Track - Pedagogical Metamodules. 
+This is the landing page for the Train-the-Trainer Student Track - Pedagogical Meta Modules. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
