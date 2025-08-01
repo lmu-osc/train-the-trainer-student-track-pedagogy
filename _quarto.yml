@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Train the Trainer: Student Track: Pedagogical Content"
+  page-navigation: true
+  navbar:
+    right:
+      - about.qmd
+    left:
+      - href: index.qmd
+        text: Home
+      - href: help.qmd
+        text: Help
+  sidebar:
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - section: "Template Module"
+        contents:
+          - href: materials/template-module/template.qmd
+      - section: "Module 4: Leadership Skills"
+        contents:
+           - href: materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: website-custom.css
+    toc: true
