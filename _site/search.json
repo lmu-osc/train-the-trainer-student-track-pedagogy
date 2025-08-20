@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "materials/template-module/template.html",
-    "href": "materials/template-module/template.html",
+    "objectID": "materials/PMM-template-module/PMM-template.html",
+    "href": "materials/PMM-template-module/PMM-template.html",
     "title": "Welcome to the Test Submodule",
     "section": "",
     "text": "Something nice here\n\nFull Screen\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nDownload files\nDownload the csv file for the mtcars data:\n Download \n \n\n\nExport slides\nYou can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export.\n Download slides as PPTX",
@@ -12,27 +12,27 @@
     ]
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics.html",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics.html",
-    "title": "Welcome to Citation Politics",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.html",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.html",
+    "title": "4.3. Citation Politics",
     "section": "",
     "text": "Something nice here\n\nFull Screen\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nDownload files\nDownload the csv file for the mtcars data:\n Download \n \n\n\nExport slides\nYou can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export.\n Download slides as PPTX",
     "crumbs": [
       "Home",
       "Module 4: Leadership Skills",
-      "Welcome to Citation Politics"
+      "4.3. Citation Politics"
     ]
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment.html",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment.html",
-    "title": "Welcome to the Test Submodule",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment.html",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment.html",
+    "title": "1.1. Constructive Alignment",
     "section": "",
     "text": "Something nice here\n\nFull Screen\n\n\nOverview\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nDownload files\nDownload the csv file for the mtcars data:\n Download \n \n\n\nExport slides\nYou can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export.\n Download slides as PPTX",
     "crumbs": [
       "Home",
       "Module 1: Didactics 101",
-      "Welcome to the Test Submodule"
+      "1.1. Constructive Alignment"
     ]
   },
   {
@@ -78,891 +78,891 @@
     "text": "Contact\nFor any other questions, ideas, feedback or suggestions, please contact XXX."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#credit-statement-and-licence",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#credit-statement-and-licence",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#credit-statement-and-licence",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#credit-statement-and-licence",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Credit statement and licence",
     "text": "Credit statement and licence\nPossible roles using the CRediT contribition system:\n\nConceptualization: Ideas; formulation or evolution of overarching research goals and aims\nMethodology: Development or design of methodology; creation of models\nSoftware : Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components\nValidation: Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs\nFormal analysis: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data\nInvestigation: Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection\nResources: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools\nData Curation: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse\nWriting - Original Draft: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)\nWriting - Review & Editing: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages\nVisualization: Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation\nSupervision: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team\nProject administration: Management and coordination responsibility for the research activity planning and execution\nFunding acquisition: Acquisition of the financial support for the project leading to this publication"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#questions-from-previous-submodule",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#questions-from-previous-submodule",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#questions-from-previous-submodule",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#questions-from-previous-submodule",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Questions from previous submodule",
     "text": "Questions from previous submodule\n\nAim: This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments.\nAdditional slides may need to be added depending on the nature of the homework assignments.\nCritical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop.\nNot applicable if this set of slides corresponds to the first submodule of a new module."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#before-we-start-survey-time",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#before-we-start-survey-time",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#before-we-start-survey-time",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#before-we-start-survey-time",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Before we start: Survey time!",
     "text": "Before we start: Survey time!\n\nAim: The pre-submodule survey serves to examine students’ prior knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim”: Briefly examine the answers given to each question interactively with the group.\nUse visuals from the survey to highlight specific answers.\n\n\nMake it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#where-are-we-at",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#where-are-we-at",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#where-are-we-at",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#where-are-we-at",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Where are we at?",
     "text": "Where are we at?\n\nAim: Place the topic of the current submodule within a broader context.\nRemind students what you are working towards and what the bigger picture is."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#learning-goals",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#learning-goals",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#learning-goals",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#learning-goals",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Learning goals",
     "text": "Learning goals\n\nAim: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom’s taxonomy (Anderson et al., 2001; Bloom et al., 1956)\nPlace an emphasis on the verbs of the learning goals and choose verbs that align with the skills you want to develop or assess.\nExamples:\n\nStudents will describe the process of photosynthesis or\nStudents will construct a diagram illustrating the process of photosynthesis"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-much-teaching-experience-do-you-have",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-much-teaching-experience-do-you-have",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-much-teaching-experience-do-you-have",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-much-teaching-experience-do-you-have",
     "title": "Constructional Alignment and Learning Goals",
     "section": "How much teaching experience do you have?",
     "text": "How much teaching experience do you have?\n\ne.g., workshops, peer training, (guest) lectures etc.\n\n \n\n\nFor in-person participants: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-much-have-you-already-thought-about-didactics",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-much-have-you-already-thought-about-didactics",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-much-have-you-already-thought-about-didactics",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-much-have-you-already-thought-about-didactics",
     "title": "Constructional Alignment and Learning Goals",
     "section": "How much have you already thought about didactics?",
     "text": "How much have you already thought about didactics?\n  \n\n\nFor in-person participants: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-big-are-your-teachingtraining-audiences",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#how-big-are-your-teachingtraining-audiences",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-big-are-your-teachingtraining-audiences",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#how-big-are-your-teachingtraining-audiences",
     "title": "Constructional Alignment and Learning Goals",
     "section": "How big are your teaching/training audiences?",
     "text": "How big are your teaching/training audiences?\n  \n\n\nFor in-person participants: Get people to stand along imaginary line across the room in terms of how the audiences are they already train or teach. For online participants: Ask them to indicate their target audience size on the screen. Pick out two different people to discuss their repsectie target audiences."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructivism-in-learning",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructivism-in-learning",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructivism-in-learning",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructivism-in-learning",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Constructivism in learning",
     "text": "Constructivism in learning\nAs a process, learning is …\n\nactive and self-controlled\nstudent-centered\nintegrated in a broader context and a positive learning atmosphere\nsocial and emotional\n\n\nEfgivia et al., 2021\n\n\nUse of interactive white board/ interactive document.  Collect interactively: Which factors were important for your learnng process during your lest workshop/seminar/course? When do you learn worst?"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructivism-core-aspects",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructivism-core-aspects",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructivism-core-aspects",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructivism-core-aspects",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Constructivism: Core aspects",
     "text": "Constructivism: Core aspects\n\nKnowledge is actively constructed by the learner, not imposed\nLearners bring exisiting concepts to learning situations\n\nExisting ideas need to be incroporated into teaching in order to challenge/change these\n\nLearners construct knowledge through interaction with physical world/ social settings and within specific cultural/linguistic environments\nLearning environment is integrated into the learning process\n\n\nAsk what this could mean for the audience concretely. Call out specific names of audience members.\n\n\nSjoberg, 2010; Tauber, 2006"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructional-alignment",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#constructional-alignment",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructional-alignment",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#constructional-alignment",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Constructional alignment",
     "text": "Constructional alignment\nFocus here on learning objectives: what do we want (our audience) to achieve?\n\n\nBiggs, 1996\n\n\nAsk if someone in your audience has already heard about this concept. Ask to provide examples. ‘In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.)."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#hierarchy-learning-objectives",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#hierarchy-learning-objectives",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#hierarchy-learning-objectives",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#hierarchy-learning-objectives",
     "title": "Constructional Alignment and Learning Goals",
     "section": "“Hierarchy” learning objectives",
     "text": "“Hierarchy” learning objectives\n\nWhat is the general objective of this course?\nWhat are specific individual learning objectives?"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#blooms-taxonomy",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#blooms-taxonomy",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#blooms-taxonomy",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#blooms-taxonomy",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Bloom’s taxonomy",
     "text": "Bloom’s taxonomy\n\nThree learning domains: cognitive, affective, psychomotor (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)\n\n\n\n\ncognitive\naffective\npsychomotoric\n\n\n\n\n\n\norigination\n\n\ncreate\n\nadaptation\n\n\nevaluate\ncharacterising\ncomplex overt response\n\n\nanalyse\norganising\nmechanism\n\n\napply\nvaluing\nguided response\n\n\nunderstand\nresponding\nset\n\n\nremember\nreceiving\nperception"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#additional-slides-on-learning-goals",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#additional-slides-on-learning-goals",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#additional-slides-on-learning-goals",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#additional-slides-on-learning-goals",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Additional slides on learning goals",
     "text": "Additional slides on learning goals"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#examples",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#examples",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#examples",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#examples",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Examples",
     "text": "Examples\nCan you think of examples from your own experience on what aligned learning outcomes, assessment tasks and teaching activities could look like in practise?\n\nExample: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#formulating-learning-objectives",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#formulating-learning-objectives",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#formulating-learning-objectives",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#formulating-learning-objectives",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Formulating learning objectives",
     "text": "Formulating learning objectives\n\nExample: Formulate one learning objective for your own seminar.\n\nPick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#structuring-your-course",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#structuring-your-course",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#structuring-your-course",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#structuring-your-course",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Structuring your course",
     "text": "Structuring your course\n\nCheck your working conditions: how much time do I have? How long are the sessions? Mielstones?\nPlan time for orientation during first and last session: who is who? What is happening? What is expected? What remains unclear?\nFormulate learning objectives for course\nFormulate learning objectives for each session"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitude-towards-your-audience",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitude-towards-your-audience",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitude-towards-your-audience",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitude-towards-your-audience",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Attitude towards your audience",
     "text": "Attitude towards your audience\nWhat can you do to create a positive learning environment?\n\nWhat do you think are key aspects of a positive attitude towards your audience? Collect on papers and then try to sort into verbally, body language and methods."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-verbal",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-verbal",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-verbal",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-verbal",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Attitudes towards your audience: Verbal",
     "text": "Attitudes towards your audience: Verbal\n\nSmall-talk (yes, it is important)\nCall by name\nValidate and show appreciation\nParaphrase what audience members express\nGive tangible examples\nAsk open questions\nAccept silences"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-body-language",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-body-language",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-body-language",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-body-language",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Attitudes towards your audience: body language",
     "text": "Attitudes towards your audience: body language\n\nMaintain eye contact with students\nUse non-verbal communication (shake head, use hands)"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-methods",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-methods",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-methods",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attitudes-towards-your-audience-methods",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Attitudes towards your audience: methods",
     "text": "Attitudes towards your audience: methods\n\nHave introductory round\nMotivate audience to get involved as early as possible\nObserve the room\nUse different visualisation methods/tools\n\n\nCollect examples for each one of the bullet points and what they could mean - add to the existing papers."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#interactive-teaching-methods",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#interactive-teaching-methods",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#interactive-teaching-methods",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#interactive-teaching-methods",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Interactive teaching methods",
     "text": "Interactive teaching methods\ntransition to activation method"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#your-turn",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#your-turn",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#your-turn",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#your-turn",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Your turn!",
     "text": "Your turn!\nTake 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in “class”, with the rest acting as audience.\n\nInteractively ask participants to provide feedback on the selected method, delivery and improvement points."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#literature",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#literature",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#literature",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#literature",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Literature",
     "text": "Literature\n\nAntosch-Bardohn, J. (2018): Nicht-intentionale Lernprozesse im Alltag von Studierenden. Logos Verlag.\nAntosch-Bardohn, J., Beege, B., & Primus, N. (2019). In die Lehre starten. UTB GmbH.\nAntosch-Bardohn, J. (2019): “Für mein Thema brennen die Studis” - Lernmotivation in der Hochschullehre. In: Neues Handbuch Hochschullehre. Nummer 89, S. 1-18.\nHofmann, E. & Löhle, M. (2004). Erfolgreich lernen. Hogrefe Verlag.\nKergel, D. & Heidkamp-Kergel, B. (2020). E-Learning, EDidaktik und digitales Lernen. Springer VS."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#key-terms-and-definitions",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#key-terms-and-definitions",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#key-terms-and-definitions",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#key-terms-and-definitions",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Key terms and definitions",
     "text": "Key terms and definitions\n\nAim: Introduce key terms and definitions that students will come across throughout the session. \nKey Term 1: Definition\nKey Term 2: Definition\nKey Term 3: Definition\n\n\nBase yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#introduction-of-submodule-topic",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#introduction-of-submodule-topic",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#introduction-of-submodule-topic",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#introduction-of-submodule-topic",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Introduction of submodule topic",
     "text": "Introduction of submodule topic\n\nAim: Core theoretical introduction of submodule topic.\nPair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).\nUse multiple slides for this part.\n\n\nFor a 90-minute lesson, the instructor should try to “lecture” for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#submodule-content-slide",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#submodule-content-slide",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#submodule-content-slide",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#submodule-content-slide",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Submodule content slide",
     "text": "Submodule content slide\n\nAim: Present relevant content\nHighlight particularly important aspects with Quarto call-out boxes, for example:\n\n\n\n\n\n\n\nImportant with Title\n\n\nThis is an example of a callout box to highlight particularly important information.\n\n\n\n\n\n\n\n\n\nTip with Title\n\n\nThis is an example of a callout box to give important tips."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#practical-exercise-1",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#practical-exercise-1",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#practical-exercise-1",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#practical-exercise-1",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Practical exercise 1",
     "text": "Practical exercise 1\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#pre-break-survey",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#pre-break-survey",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#pre-break-survey",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#pre-break-survey",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Pre-break survey",
     "text": "Pre-break survey\n\nAim: This pre-break survey serves to examine students’ current understanding of key concepts of the submodule\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):\n\nWhich species is the largest type of penguin?\n\nChinstrap Penguin\nEmperor Penguin ✅\nAdélie Penguin\nKing Penguin"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#post-break-survey-discussion",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#post-break-survey-discussion",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#post-break-survey-discussion",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#post-break-survey-discussion",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Post-break survey discussion",
     "text": "Post-break survey discussion\n\nAim: To clarify concepts and aspects that are not yet understood\nHighlight specific answers given during the survey"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#practical-exercise-2",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#practical-exercise-2",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#practical-exercise-2",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#practical-exercise-2",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Practical Exercise 2",
     "text": "Practical Exercise 2\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3\n\n\nFor students who advance faster: Prepare extra exercises."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#relevance-and-implications",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#relevance-and-implications",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#relevance-and-implications",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#relevance-and-implications",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Relevance and implications",
     "text": "Relevance and implications\n\nAim: To work out the relevance of the topic to your students.\nIn an interactive setting, discuss how the new skills could be applied in practise with specific examples.\nExamine downfalls and practical obstacles."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#take-home-message",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#take-home-message",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#take-home-message",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#take-home-message",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Take-home message",
     "text": "Take-home message\nAim: End lesson on clear take-home message that are interactively compiled by students.\n\n\n\n\n\n\nTip with Title\n\n\nAdd one practical tips or take-home message."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#assignment",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#assignment",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#assignment",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#assignment",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Assignment",
     "text": "Assignment\n\nAim: Explain the homework assignment and the rationale behind the homework.\nExamine whether/how it will be assessed\nMention scoring rubrics, if applicable\nDesign a peer-review system for assignments to place students in role of reviewer and author"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#to-conclude-survey-time",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#to-conclude-survey-time",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#to-conclude-survey-time",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#to-conclude-survey-time",
     "title": "Constructional Alignment and Learning Goals",
     "section": "To conclude: Survey time!",
     "text": "To conclude: Survey time!\n\nAim: This post-submodule survey serves to examine students’ current knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results-1",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results-1",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results-1",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#discussion-of-survey-results-1",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim: Briefly examine the answers given to each question interactively with the group.\nCompare and highlight specific differences in answers between pre- and post-survey answers"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#references",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#references",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#references",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#references",
     "title": "Constructional Alignment and Learning Goals",
     "section": "References",
     "text": "References\n\nProvide literature you refer to throughout this lesson."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#pedagogical-add-on-tools-for-instructors",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#pedagogical-add-on-tools-for-instructors",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#pedagogical-add-on-tools-for-instructors",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#pedagogical-add-on-tools-for-instructors",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Pedagogical add-on tools for instructors",
     "text": "Pedagogical add-on tools for instructors\n\nThis section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:\n\nInformation about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.\nDiscussion/reflection on how tools can be incorporated into the teaching for this particular content.\nExtra exercises for faster students."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#additional-literature-for-instructors",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#additional-literature-for-instructors",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#additional-literature-for-instructors",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#additional-literature-for-instructors",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Additional literature for instructors",
     "text": "Additional literature for instructors\n\nReferences for content\nReferences for pedagogical add-on tools\n\nOther resources (videos etc.)"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#text-with-example-links",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#text-with-example-links",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#text-with-example-links",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#text-with-example-links",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Text with example links",
     "text": "Text with example links\n\nQuarto Documentation\nReveal.js Documentation\nMarkdown Guide\nGitHub"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#basic-text-formatting",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#basic-text-formatting",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#basic-text-formatting",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#basic-text-formatting",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Basic text formatting",
     "text": "Basic text formatting\n\nBold: **bold** → bold\nItalic: *italic* → italic\nStrikethrough: ~~text~~ → text\nInline code: `code` → code\n\nBlockquote: &gt; Quote →\n“This is a quote”"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#figure-with-caption",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#figure-with-caption",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#figure-with-caption",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#figure-with-caption",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Figure with caption",
     "text": "Figure with caption\n\nCentered image and caption below in italics\n\n\n\n\nThis is a Penguin."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#figure-with-bullet-points",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#figure-with-bullet-points",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#figure-with-bullet-points",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#figure-with-bullet-points",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Figure with bullet points",
     "text": "Figure with bullet points\n\n\n\n  \n  \n    \n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#side-by-side-figures",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#side-by-side-figures",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#side-by-side-figures",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#side-by-side-figures",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Side-by-side figures",
     "text": "Side-by-side figures\n\n\n  \n    \n    Figure 1: Penguin\n  \n\n  \n    \n    Figure 2: Seal"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#stacked-figures-with-text",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#stacked-figures-with-text",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#stacked-figures-with-text",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#stacked-figures-with-text",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Stacked figures with text",
     "text": "Stacked figures with text\n\n\n\n  \n  \n\n    \n    \n\n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#two-column-text-slide",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#two-column-text-slide",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#two-column-text-slide",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#two-column-text-slide",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Two-column text slide",
     "text": "Two-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\nCras venenatis euismod malesuada.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#three-column-text-slide",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#three-column-text-slide",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#three-column-text-slide",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#three-column-text-slide",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Three-column text slide",
     "text": "Three-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nColumn 3\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#simple-table",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#simple-table",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#simple-table",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#simple-table",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Simple table",
     "text": "Simple table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#complex-table",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#complex-table",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#complex-table",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#complex-table",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Complex table",
     "text": "Complex table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#task-list",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#task-list",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#task-list",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#task-list",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Task list",
     "text": "Task list\n\nDone\nTo do"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#embedding-videos",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#embedding-videos",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#embedding-videos",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#embedding-videos",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Embedding videos",
     "text": "Embedding videos"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#code-blocks",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#code-blocks",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#code-blocks",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#code-blocks",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Code blocks",
     "text": "Code blocks\n\n# A basic R code chunk\nx &lt;- 1:10\nmean(x)\n\n[1] 5.5\n\n# A simple plot\nhist(rnorm(100), main = \"Histogram of Random Normals\")"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attribution-and-license-details",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#attribution-and-license-details",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attribution-and-license-details",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#attribution-and-license-details",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Attribution and license details",
     "text": "Attribution and license details\n\nThis slide should contain information about the license and attribution details of this current set of slides.\nThe default for the created materials is CC-BY-SA 4.0\n\n= Creative Commons license that allows others to share, adapt, and build upon the original work\nonly if they attribute the creator and also share their new work under the same terms\nallows for both commercial and non-commercial use of the licensed material\n\nComponents of attributions:\n\nTitle\nAuthor\nSource\nLicense"
   },
   {
-    "objectID": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#example-attribution-for-previous-slide",
-    "href": "materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment-slides.html#example-attribution-for-previous-slide",
+    "objectID": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#example-attribution-for-previous-slide",
+    "href": "materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment-slides.html#example-attribution-for-previous-slide",
     "title": "Constructional Alignment and Learning Goals",
     "section": "Example attribution (for previous slide)",
     "text": "Example attribution (for previous slide)\n“Tutorial template for student track” by Sarah von Grebmer is licensed under CC-BY-SA 4.0."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#credit-statement-and-licence",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#credit-statement-and-licence",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#credit-statement-and-licence",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#credit-statement-and-licence",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Credit statement and licence",
     "text": "Credit statement and licence\nPossible roles using the CRediT contribition system:\n\nConceptualization: Ideas; formulation or evolution of overarching research goals and aims\nMethodology: Development or design of methodology; creation of models\nSoftware : Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components\nValidation: Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs\nFormal analysis: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data\nInvestigation: Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection\nResources: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools\nData Curation: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse\nWriting - Original Draft: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)\nWriting - Review & Editing: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages\nVisualization: Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation\nSupervision: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team\nProject administration: Management and coordination responsibility for the research activity planning and execution\nFunding acquisition: Acquisition of the financial support for the project leading to this publication"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#questions-from-previous-submodule",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#questions-from-previous-submodule",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#questions-from-previous-submodule",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#questions-from-previous-submodule",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Questions from previous submodule",
     "text": "Questions from previous submodule\n\nAim: This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments.\nAdditional slides may need to be added depending on the nature of the homework assignments.\nCritical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop.\nNot applicable if this set of slides corresponds to the first submodule of a new module."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#before-we-start-survey-time",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#before-we-start-survey-time",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#before-we-start-survey-time",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#before-we-start-survey-time",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Before we start: Survey time!",
     "text": "Before we start: Survey time!\n\nAim: The pre-submodule survey serves to examine students’ prior knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#discussion-of-survey-results",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#discussion-of-survey-results",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#discussion-of-survey-results",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#discussion-of-survey-results",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim”: Briefly examine the answers given to each question interactively with the group.\nUse visuals from the survey to highlight specific answers.\n\n\nMake it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#where-are-we-at",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#where-are-we-at",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#where-are-we-at",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#where-are-we-at",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Where are we at?",
     "text": "Where are we at?\n\nAim: Place the topic of the current submodule within a broader context.\nRemind students what you are working towards and what the bigger picture is."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#learning-goals",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#learning-goals",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#learning-goals",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#learning-goals",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Learning goals",
     "text": "Learning goals\n\nAim: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom’s taxonomy (Anderson et al., 2001; Bloom et al., 1956)\nPlace an emphasis on the verbs of the learning goals and choose verbs that align with the skills you want to develop or assess.\nExamples:\n\nStudents will describe the process of photosynthesis or\nStudents will construct a diagram illustrating the process of photosynthesis"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#key-terms-and-definitions",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#key-terms-and-definitions",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#key-terms-and-definitions",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#key-terms-and-definitions",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Key terms and definitions",
     "text": "Key terms and definitions\n\nAim: Introduce key terms and definitions that students will come across throughout the session. \nKey Term 1: Definition\nKey Term 2: Definition\nKey Term 3: Definition\n\n\nBase yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#introduction-of-submodule-topic",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#introduction-of-submodule-topic",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#introduction-of-submodule-topic",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#introduction-of-submodule-topic",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Introduction of submodule topic",
     "text": "Introduction of submodule topic\n\nAim: Core theoretical introduction of submodule topic.\nPair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).\nUse multiple slides for this part.\n\n\nFor a 90-minute lesson, the instructor should try to “lecture” for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#submodule-content-slide",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#submodule-content-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#submodule-content-slide",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#submodule-content-slide",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Submodule content slide",
     "text": "Submodule content slide\n\nAim: Present relevant content\nHighlight particularly important aspects with Quarto call-out boxes, for example:\n\n\n\n\n\n\n\nImportant with Title\n\n\nThis is an example of a callout box to highlight particularly important information.\n\n\n\n\n\n\n\n\n\nTip with Title\n\n\nThis is an example of a callout box to give important tips."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#practical-exercise-1",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#practical-exercise-1",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#practical-exercise-1",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#practical-exercise-1",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Practical exercise 1",
     "text": "Practical exercise 1\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#pre-break-survey",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#pre-break-survey",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#pre-break-survey",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#pre-break-survey",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Pre-break survey",
     "text": "Pre-break survey\n\nAim: This pre-break survey serves to examine students’ current understanding of key concepts of the submodule\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):\n\nWhich species is the largest type of penguin?\n\nChinstrap Penguin\nEmperor Penguin ✅\nAdélie Penguin\nKing Penguin"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#post-break-survey-discussion",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#post-break-survey-discussion",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#post-break-survey-discussion",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#post-break-survey-discussion",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Post-break survey discussion",
     "text": "Post-break survey discussion\n\nAim: To clarify concepts and aspects that are not yet understood\nHighlight specific answers given during the survey"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#practical-exercise-2",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#practical-exercise-2",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#practical-exercise-2",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#practical-exercise-2",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Practical Exercise 2",
     "text": "Practical Exercise 2\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3\n\n\nFor students who advance faster: Prepare extra exercises."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#relevance-and-implications",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#relevance-and-implications",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#relevance-and-implications",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#relevance-and-implications",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Relevance and implications",
     "text": "Relevance and implications\n\nAim: To work out the relevance of the topic to your students.\nIn an interactive setting, discuss how the new skills could be applied in practise with specific examples.\nExamine downfalls and practical obstacles."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#take-home-message",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#take-home-message",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#take-home-message",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#take-home-message",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Take-home message",
     "text": "Take-home message\nAim: End lesson on clear take-home message that are interactively compiled by students.\n\n\n\n\n\n\nTip with Title\n\n\nAdd one practical tips or take-home message."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#assignment",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#assignment",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#assignment",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#assignment",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Assignment",
     "text": "Assignment\n\nAim: Explain the homework assignment and the rationale behind the homework.\nExamine whether/how it will be assessed\nMention scoring rubrics, if applicable\nDesign a peer-review system for assignments to place students in role of reviewer and author"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#to-conclude-survey-time",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#to-conclude-survey-time",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#to-conclude-survey-time",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#to-conclude-survey-time",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "To conclude: Survey time!",
     "text": "To conclude: Survey time!\n\nAim: This post-submodule survey serves to examine students’ current knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#discussion-of-survey-results-1",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#discussion-of-survey-results-1",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#discussion-of-survey-results-1",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#discussion-of-survey-results-1",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim: Briefly examine the answers given to each question interactively with the group.\nCompare and highlight specific differences in answers between pre- and post-survey answers"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#references",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#references",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#references",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#references",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "References",
     "text": "References\n\nProvide literature you refer to throughout this lesson."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#pedagogical-add-on-tools-for-instructors",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#pedagogical-add-on-tools-for-instructors",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#pedagogical-add-on-tools-for-instructors",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#pedagogical-add-on-tools-for-instructors",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Pedagogical add-on tools for instructors",
     "text": "Pedagogical add-on tools for instructors\n\nThis section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:\n\nInformation about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.\nDiscussion/reflection on how tools can be incorporated into the teaching for this particular content.\nExtra exercises for faster students."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#additional-literature-for-instructors",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#additional-literature-for-instructors",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#additional-literature-for-instructors",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#additional-literature-for-instructors",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Additional literature for instructors",
     "text": "Additional literature for instructors\n\nReferences for content\nReferences for pedagogical add-on tools\n\nOther resources (videos etc.)"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#text-with-example-links",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#text-with-example-links",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#text-with-example-links",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#text-with-example-links",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Text with example links",
     "text": "Text with example links\n\nQuarto Documentation\nReveal.js Documentation\nMarkdown Guide\nGitHub"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#basic-text-formatting",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#basic-text-formatting",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#basic-text-formatting",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#basic-text-formatting",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Basic text formatting",
     "text": "Basic text formatting\n\nBold: **bold** → bold\nItalic: *italic* → italic\nStrikethrough: ~~text~~ → text\nInline code: `code` → code\n\nBlockquote: &gt; Quote →\n“This is a quote”"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#figure-with-caption",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#figure-with-caption",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#figure-with-caption",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#figure-with-caption",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Figure with caption",
     "text": "Figure with caption\n\nCentered image and caption below in italics\n\n\n\n\nThis is a Penguin."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#figure-with-bullet-points",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#figure-with-bullet-points",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#figure-with-bullet-points",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#figure-with-bullet-points",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Figure with bullet points",
     "text": "Figure with bullet points\n\n\n\n  \n  \n    \n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#side-by-side-figures",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#side-by-side-figures",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#side-by-side-figures",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#side-by-side-figures",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Side-by-side figures",
     "text": "Side-by-side figures\n\n\n  \n    \n    Figure 1: Penguin\n  \n\n  \n    \n    Figure 2: Seal"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#stacked-figures-with-text",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#stacked-figures-with-text",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#stacked-figures-with-text",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#stacked-figures-with-text",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Stacked figures with text",
     "text": "Stacked figures with text\n\n\n\n  \n  \n\n    \n    \n\n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#two-column-text-slide",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#two-column-text-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#two-column-text-slide",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#two-column-text-slide",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Two-column text slide",
     "text": "Two-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\nCras venenatis euismod malesuada.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#three-column-text-slide",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#three-column-text-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#three-column-text-slide",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#three-column-text-slide",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Three-column text slide",
     "text": "Three-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nColumn 3\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#simple-table",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#simple-table",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#simple-table",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#simple-table",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Simple table",
     "text": "Simple table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#complex-table",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#complex-table",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#complex-table",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#complex-table",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Complex table",
     "text": "Complex table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#task-list",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#task-list",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#task-list",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#task-list",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Task list",
     "text": "Task list\n\nDone\nTo do"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#embedding-videos",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#embedding-videos",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#embedding-videos",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#embedding-videos",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Embedding videos",
     "text": "Embedding videos"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#code-blocks",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#code-blocks",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#code-blocks",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#code-blocks",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Code blocks",
     "text": "Code blocks\n\n# A basic R code chunk\nx &lt;- 1:10\nmean(x)\n\n[1] 5.5\n\n# A simple plot\nhist(rnorm(100), main = \"Histogram of Random Normals\")"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#attribution-and-license-details",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#attribution-and-license-details",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#attribution-and-license-details",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#attribution-and-license-details",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Attribution and license details",
     "text": "Attribution and license details\n\nThis slide should contain information about the license and attribution details of this current set of slides.\nThe default for the created materials is CC-BY-SA 4.0\n\n= Creative Commons license that allows others to share, adapt, and build upon the original work\nonly if they attribute the creator and also share their new work under the same terms\nallows for both commercial and non-commercial use of the licensed material\n\nComponents of attributions:\n\nTitle\nAuthor\nSource\nLicense"
   },
   {
-    "objectID": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#example-attribution-for-previous-slide",
-    "href": "materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics-slides.html#example-attribution-for-previous-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#example-attribution-for-previous-slide",
+    "href": "materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics-slides.html#example-attribution-for-previous-slide",
+    "title": "Citation Politics: what is it and why should we care?",
     "section": "Example attribution (for previous slide)",
     "text": "Example attribution (for previous slide)\n“Tutorial template for student track” by Sarah von Grebmer is licensed under CC-BY-SA 4.0."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#credit-statement-and-licence",
-    "href": "materials/template-module/template-slides.html#credit-statement-and-licence",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#credit-statement-and-licence",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#credit-statement-and-licence",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Credit statement and licence",
     "text": "Credit statement and licence\nPossible roles using the CRediT contribition system:\n\nConceptualization: Ideas; formulation or evolution of overarching research goals and aims\nMethodology: Development or design of methodology; creation of models\nSoftware : Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components\nValidation: Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs\nFormal analysis: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data\nInvestigation: Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection\nResources: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools\nData Curation: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse\nWriting - Original Draft: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)\nWriting - Review & Editing: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages\nVisualization: Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation\nSupervision: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team\nProject administration: Management and coordination responsibility for the research activity planning and execution\nFunding acquisition: Acquisition of the financial support for the project leading to this publication"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#questions-from-previous-submodule",
-    "href": "materials/template-module/template-slides.html#questions-from-previous-submodule",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#questions-from-previous-submodule",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#questions-from-previous-submodule",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Questions from previous submodule",
     "text": "Questions from previous submodule\n\nAim: This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments.\nAdditional slides may need to be added depending on the nature of the homework assignments.\nCritical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop.\nNot applicable if this set of slides corresponds to the first submodule of a new module."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#before-we-start-survey-time",
-    "href": "materials/template-module/template-slides.html#before-we-start-survey-time",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#before-we-start-survey-time",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#before-we-start-survey-time",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Before we start: Survey time!",
     "text": "Before we start: Survey time!\n\nAim: The pre-submodule survey serves to examine students’ prior knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#discussion-of-survey-results",
-    "href": "materials/template-module/template-slides.html#discussion-of-survey-results",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#discussion-of-survey-results",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#discussion-of-survey-results",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim”: Briefly examine the answers given to each question interactively with the group.\nUse visuals from the survey to highlight specific answers.\n\n\nMake it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#where-are-we-at",
-    "href": "materials/template-module/template-slides.html#where-are-we-at",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#where-are-we-at",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#where-are-we-at",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Where are we at?",
     "text": "Where are we at?\n\nAim: Place the topic of the current submodule within a broader context.\nRemind students what you are working towards and what the bigger picture is."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#learning-goals",
-    "href": "materials/template-module/template-slides.html#learning-goals",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#learning-goals",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#learning-goals",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Learning goals",
     "text": "Learning goals\n\nAim: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom’s taxonomy (Anderson et al., 2001; Bloom et al., 1956)\nPlace an emphasis on the verbs of the learning goals and choose verbs that align with the skills you want to develop or assess.\nExamples:\n\nStudents will describe the process of photosynthesis or\nStudents will construct a diagram illustrating the process of photosynthesis"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#key-terms-and-definitions",
-    "href": "materials/template-module/template-slides.html#key-terms-and-definitions",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#key-terms-and-definitions",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#key-terms-and-definitions",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Key terms and definitions",
     "text": "Key terms and definitions\n\nAim: Introduce key terms and definitions that students will come across throughout the session. \nKey Term 1: Definition\nKey Term 2: Definition\nKey Term 3: Definition\n\n\nBase yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#introduction-of-submodule-topic",
-    "href": "materials/template-module/template-slides.html#introduction-of-submodule-topic",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#introduction-of-submodule-topic",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#introduction-of-submodule-topic",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Introduction of submodule topic",
     "text": "Introduction of submodule topic\n\nAim: Core theoretical introduction of submodule topic.\nPair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).\nUse multiple slides for this part.\n\n\nFor a 90-minute lesson, the instructor should try to “lecture” for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#submodule-content-slide",
-    "href": "materials/template-module/template-slides.html#submodule-content-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#submodule-content-slide",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#submodule-content-slide",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Submodule content slide",
     "text": "Submodule content slide\n\nAim: Present relevant content\nHighlight particularly important aspects with Quarto call-out boxes, for example:\n\n\n\n\n\n\n\nImportant with Title\n\n\nThis is an example of a callout box to highlight particularly important information.\n\n\n\n\n\n\n\n\n\nTip with Title\n\n\nThis is an example of a callout box to give important tips."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#practical-exercise-1",
-    "href": "materials/template-module/template-slides.html#practical-exercise-1",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#practical-exercise-1",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#practical-exercise-1",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Practical exercise 1",
     "text": "Practical exercise 1\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#pre-break-survey",
-    "href": "materials/template-module/template-slides.html#pre-break-survey",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#pre-break-survey",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#pre-break-survey",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Pre-break survey",
     "text": "Pre-break survey\n\nAim: This pre-break survey serves to examine students’ current understanding of key concepts of the submodule\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):\n\nWhich species is the largest type of penguin?\n\nChinstrap Penguin\nEmperor Penguin ✅\nAdélie Penguin\nKing Penguin"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#post-break-survey-discussion",
-    "href": "materials/template-module/template-slides.html#post-break-survey-discussion",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#post-break-survey-discussion",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#post-break-survey-discussion",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Post-break survey discussion",
     "text": "Post-break survey discussion\n\nAim: To clarify concepts and aspects that are not yet understood\nHighlight specific answers given during the survey"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#practical-exercise-2",
-    "href": "materials/template-module/template-slides.html#practical-exercise-2",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#practical-exercise-2",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#practical-exercise-2",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Practical Exercise 2",
     "text": "Practical Exercise 2\n\nAim: Design more practical exercises for students to apply the new skills in practise.\nDepending on the topic, the exercises should be in accordance with the learning objective(s).\nAdd a description of the task, as well as a checklist as an overview of that your students need to be doing.\nStep 1\nStep 2\nStep 3\n\n\nFor students who advance faster: Prepare extra exercises."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#relevance-and-implications",
-    "href": "materials/template-module/template-slides.html#relevance-and-implications",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#relevance-and-implications",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#relevance-and-implications",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Relevance and implications",
     "text": "Relevance and implications\n\nAim: To work out the relevance of the topic to your students.\nIn an interactive setting, discuss how the new skills could be applied in practise with specific examples.\nExamine downfalls and practical obstacles."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#take-home-message",
-    "href": "materials/template-module/template-slides.html#take-home-message",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#take-home-message",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#take-home-message",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Take-home message",
     "text": "Take-home message\nAim: End lesson on clear take-home message that are interactively compiled by students.\n\n\n\n\n\n\nTip with Title\n\n\nAdd one practical tips or take-home message."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#assignment",
-    "href": "materials/template-module/template-slides.html#assignment",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#assignment",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#assignment",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Assignment",
     "text": "Assignment\n\nAim: Explain the homework assignment and the rationale behind the homework.\nExamine whether/how it will be assessed\nMention scoring rubrics, if applicable\nDesign a peer-review system for assignments to place students in role of reviewer and author"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#to-conclude-survey-time",
-    "href": "materials/template-module/template-slides.html#to-conclude-survey-time",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#to-conclude-survey-time",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#to-conclude-survey-time",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "To conclude: Survey time!",
     "text": "To conclude: Survey time!\n\nAim: This post-submodule survey serves to examine students’ current knowledge about the sumodule’s topic.\nUse free survey software such as or other survey software (particify, formR) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#discussion-of-survey-results-1",
-    "href": "materials/template-module/template-slides.html#discussion-of-survey-results-1",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#discussion-of-survey-results-1",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#discussion-of-survey-results-1",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nAim: Briefly examine the answers given to each question interactively with the group.\nCompare and highlight specific differences in answers between pre- and post-survey answers"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#references",
-    "href": "materials/template-module/template-slides.html#references",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#references",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#references",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "References",
     "text": "References\n\nProvide literature you refer to throughout this lesson."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#pedagogical-add-on-tools-for-instructors",
-    "href": "materials/template-module/template-slides.html#pedagogical-add-on-tools-for-instructors",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#pedagogical-add-on-tools-for-instructors",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#pedagogical-add-on-tools-for-instructors",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Pedagogical add-on tools for instructors",
     "text": "Pedagogical add-on tools for instructors\n\nThis section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:\n\nInformation about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.\nDiscussion/reflection on how tools can be incorporated into the teaching for this particular content.\nExtra exercises for faster students."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#additional-literature-for-instructors",
-    "href": "materials/template-module/template-slides.html#additional-literature-for-instructors",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#additional-literature-for-instructors",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#additional-literature-for-instructors",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Additional literature for instructors",
     "text": "Additional literature for instructors\n\nReferences for content\nReferences for pedagogical add-on tools\n\nOther resources (videos etc.)"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#text-with-example-links",
-    "href": "materials/template-module/template-slides.html#text-with-example-links",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#text-with-example-links",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#text-with-example-links",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Text with example links",
     "text": "Text with example links\n\nQuarto Documentation\nReveal.js Documentation\nMarkdown Guide\nGitHub"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#basic-text-formatting",
-    "href": "materials/template-module/template-slides.html#basic-text-formatting",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#basic-text-formatting",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#basic-text-formatting",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Basic text formatting",
     "text": "Basic text formatting\n\nBold: **bold** → bold\nItalic: *italic* → italic\nStrikethrough: ~~text~~ → text\nInline code: `code` → code\n\nBlockquote: &gt; Quote →\n“This is a quote”"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#figure-with-caption",
-    "href": "materials/template-module/template-slides.html#figure-with-caption",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#figure-with-caption",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#figure-with-caption",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Figure with caption",
     "text": "Figure with caption\n\nCentered image and caption below in italics\n\n\n\n\nThis is a Penguin."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#figure-with-bullet-points",
-    "href": "materials/template-module/template-slides.html#figure-with-bullet-points",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#figure-with-bullet-points",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#figure-with-bullet-points",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Figure with bullet points",
     "text": "Figure with bullet points\n\n\n\n  \n  \n    \n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#side-by-side-figures",
-    "href": "materials/template-module/template-slides.html#side-by-side-figures",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#side-by-side-figures",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#side-by-side-figures",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Side-by-side figures",
     "text": "Side-by-side figures\n\n\n  \n    \n    Figure 1: Penguin\n  \n\n  \n    \n    Figure 2: Seal"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#stacked-figures-with-text",
-    "href": "materials/template-module/template-slides.html#stacked-figures-with-text",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#stacked-figures-with-text",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#stacked-figures-with-text",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Stacked figures with text",
     "text": "Stacked figures with text\n\n\n\n  \n  \n\n    \n    \n\n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#two-column-text-slide",
-    "href": "materials/template-module/template-slides.html#two-column-text-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#two-column-text-slide",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#two-column-text-slide",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Two-column text slide",
     "text": "Two-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\nCras venenatis euismod malesuada.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#three-column-text-slide",
-    "href": "materials/template-module/template-slides.html#three-column-text-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#three-column-text-slide",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#three-column-text-slide",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Three-column text slide",
     "text": "Three-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nColumn 3\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
-    "objectID": "materials/template-module/template-slides.html#simple-table",
-    "href": "materials/template-module/template-slides.html#simple-table",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#simple-table",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#simple-table",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Simple table",
     "text": "Simple table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#complex-table",
-    "href": "materials/template-module/template-slides.html#complex-table",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#complex-table",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#complex-table",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Complex table",
     "text": "Complex table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#task-list",
-    "href": "materials/template-module/template-slides.html#task-list",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#task-list",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#task-list",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Task list",
     "text": "Task list\n\nDone\nTo do"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#embedding-videos",
-    "href": "materials/template-module/template-slides.html#embedding-videos",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#embedding-videos",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#embedding-videos",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Embedding videos",
     "text": "Embedding videos"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#code-blocks",
-    "href": "materials/template-module/template-slides.html#code-blocks",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#code-blocks",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#code-blocks",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Code blocks",
     "text": "Code blocks\n\n# A basic R code chunk\nx &lt;- 1:10\nmean(x)\n\n[1] 5.5\n\n# A simple plot\nhist(rnorm(100), main = \"Histogram of Random Normals\")"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#attribution-and-license-details",
-    "href": "materials/template-module/template-slides.html#attribution-and-license-details",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#attribution-and-license-details",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#attribution-and-license-details",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Attribution and license details",
     "text": "Attribution and license details\n\nThis slide should contain information about the license and attribution details of this current set of slides.\nThe default for the created materials is CC-BY-SA 4.0\n\n= Creative Commons license that allows others to share, adapt, and build upon the original work\nonly if they attribute the creator and also share their new work under the same terms\nallows for both commercial and non-commercial use of the licensed material\n\nComponents of attributions:\n\nTitle\nAuthor\nSource\nLicense"
   },
   {
-    "objectID": "materials/template-module/template-slides.html#example-attribution-for-previous-slide",
-    "href": "materials/template-module/template-slides.html#example-attribution-for-previous-slide",
-    "title": "Template Slides: Title of Submodule",
+    "objectID": "materials/PMM-template-module/PMM-template-slides.html#example-attribution-for-previous-slide",
+    "href": "materials/PMM-template-module/PMM-template-slides.html#example-attribution-for-previous-slide",
+    "title": "PMM Template Slides: Title of Submodule",
     "section": "Example attribution (for previous slide)",
     "text": "Example attribution (for previous slide)\n“Tutorial template for student track” by Sarah von Grebmer is licensed under CC-BY-SA 4.0."
   }

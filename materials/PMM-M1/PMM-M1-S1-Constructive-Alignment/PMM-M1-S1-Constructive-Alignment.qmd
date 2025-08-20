@@ -1,13 +1,13 @@
 ---
-title: "Welcome to the Test Submodule"
+title: "1.1. Constructive Alignment"
 ---
 
 > Something nice here
 
-[Full Screen](M1-S1-Constructive-Alignment-slides.qmd)
+[Full Screen](PMM-M1-S1-Constructive-Alignment-slides.qmd)
 
 ```{=html}
-<iframe class="slide-deck" src="M1-S1-Constructive-Alignment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="PMM-M1-S1-Constructive-Alignment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
 # Overview
@@ -26,6 +26,6 @@ Download the csv file for the mtcars data:
 
 You can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export. 
 
-{{< downloadthis M1-S1-Constructive-Alignment-slides.pptx dname="M1-S1-Constructive-Alignment-slides" label="Download slides as PPTX">}}
+{{< downloadthis PMM-M1-S1-Constructive-Alignment-slides.pptx dname="PMM-M1-S1-Constructive-Alignment-slides" label="Download slides as PPTX">}}
 
  <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->

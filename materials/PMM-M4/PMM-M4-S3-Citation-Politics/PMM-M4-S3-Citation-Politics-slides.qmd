@@ -1,6 +1,6 @@
 ---
-title: "PMM Template Slides: Title of Submodule"
-author: "Author"
+title: "Citation Politics: what is it and why should we care?"
+author: "Sara Lil Middleton"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 

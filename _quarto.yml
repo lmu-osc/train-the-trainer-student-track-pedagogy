@@ -18,13 +18,13 @@ website:
     contents:
       - section: "Template Module"
         contents:
-          - href: materials/template-module/template.qmd
+          - href: materials/PMM-template-module/PMM-template.qmd
       - section: "Module 1: Didactics 101"
         contents:
-           - href: materials/module-1/M1-S1-Constructive-Alignment/M1-S1-Constructive-Alignment.qmd
+          - href: materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment.qmd
       - section: "Module 4: Leadership Skills"
         contents:
-           - href: materials/module-4/M4-S3-Citation-Politics/M4-S3-Citation-Politics.qmd
+          - href: materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.qmd
 
 
 format:
