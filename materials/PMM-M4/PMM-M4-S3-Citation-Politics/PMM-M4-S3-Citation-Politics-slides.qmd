@@ -1,6 +1,6 @@
 ---
-title: "PMM Template Slides: Title of submodule"
-author: "Author"
+title: "Citation Politics: what is it and why should we care?"
+author: "Sara Lil Middleton"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
@@ -15,492 +15,757 @@ format:
       - left=30mm
   pptx: 
     css: ../../../slides-custom.css # looks for css file in root
-
 execute:
   echo: true
   eval: true
   engine: knitr
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-## Credit statement and licence
+## Contributor statement and licence
 
-Possible roles using the CRediT contribition system: 
+**Created by:** Sara Lil Middleton
+[*0000-0001-5307-8029*](https://orcid.org/0000-0001-5307-8029)
 
-**Name main content creator**: Conceptualization, Software, Writing - Original Draft, Visualization. **Sara Lil Middleton**: Writing - Review & Editing, Supervision. **Sarah von Grebmer zu Wolfsthurn**: Conceptualisation, Writing - Review & Editing, Supervision, Project Administration, Validation.
+**Reviewed by:** Sarah von Grebmer zu Wolfsthurn
 
-<br>
-<br>
+**Acknowledgements:** Flavio Azevedo
 
-<div style="font-size: 0.6em;">
-This work by YYY XXX, Sara Lil Middleton and Sarah von Grebmer zu Wolfsthurn is licensed under a CC-BY 4.0 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
-</div>
+<br> <br>
 
-::: {.notes}
-*Speaker Notes*
-These are the **speaker notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these speaker notes, they are only visible to the presenter. 
-
-*Instructor Notes*
-There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+::: {style="font-size: 0.6em;"}
+This work by Sara Lil Middleton and Sarah von Grebmer zu Wolfsthurn is
+licensed under a CC-BY 4.0 [Creative Commons Attribution 4.0
+International
+License](https://creativecommons.org/licenses/by/4.0/deed.en).
 :::
 
----
+::: notes
+*Speaker Notes* These are the **speaker notes**. You will a script for
+the presenter for every slide. In presentation mode, your audience will
+not be able to see these speaker notes, they are only visible to the
+presenter.
+
+*Instructor Notes* There are also **instructor notes**. For some slides,
+there will be pedagogical tips, suggestions for acitivities and
+troubleshooting tips for issues your audience might run into. You can
+find these notes underneath the speaker notes.
+:::
+
+------------------------------------------------------------------------
 
 ## Prerequisites
 
-::: {.callout-important}
-Before completing this submodule, please carefully read about the necessary prerequisites.
+::: callout-important
+Before completing this submodule, please carefully read about the
+necessary prerequisites.
 :::
 
-| Prerequisite   |  Description  | Link/Where to find it   |
-|------------|------------|------------|
-| Topic Name | Basic intro to X | Module + Submodule |
-| Software Name | Configuring the environment | [Download Link](https://quarto.org) |
+-   You will need access to a piece of your **own work** (a report,
+    essay, journal article, blogpost, presentation) containing a
+    **bibliography** with **10 or more references**, preferably in
+    **.bib** or **.txt** file format (this is needed for the [GBAT
+    assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
 ::: notes
 *Speaker Notes*
-Script for the presentation here. 
+
+Before we start, a reminder towards the end of the session, we will be
+doing an activity where we assess the bibliography in our own work.
+
+*Instructor Notes*
+
+For submodule delivery in person:
+
+-   You will need an account set up with
+    [Particify](https://www.particify.de/en/)
+
+-   Post it notes and pens
+
+    In advance of delivery of submodule:
+
+-   Send out the pre-submodule survey questions to learners using
+    Particify (they will appear between slides X and Y)
+
+-   Remind learners i that they will need to have access to a computer
+    and internet connection and a piece of their own work for GBAT
+    assessment.
+
+-   Their work can be from anywhere (previous schooling, organisation,
+    personal writing project)
 :::
 
----
+------------------------------------------------------------------------
 
 ## Questions from previous submodule
 
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
+-   **Aim**: This first slide is dedicated to clarifying questions from
+    the previous submodule and/or to discuss assignments.
+-   Additional slides may need to be added depending on the nature of
+    the homework assignments.
+-   Critical for the learning process to ensure that students are on the
+    same page and have been able to achieve the learning goals of the
+    previous workshop.
+-   Not applicable if this set of slides corresponds to the first
+    submodule of a new module.
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
-## Before we start: Survey time!
+## Before we start: Results of survey!
 
-- **Aim**: The pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides).
-
-::: {.notes}
+::: notes
 *Speaker Notes*
-Script for the presentation here. 
+
+Let's take a look at the results of the short survey that was sent out
+before class. We will then compare our answers at the end of class.
 :::
 
----
+------------------------------------------------------------------------
 
-**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+**How *familiar* are you with the concept of citational politics?**
 
-a. I have never heard of it before.
+**Scale 1 to 5: 1 = never heard of it, 5 = extensive knowledge.**
 
-b. I have heard of it but have never worked with it.
+1.  Never heard of it
 
-c. I have basic understanding and experience with it.
+2.  Basic knowledge, but cannot describe in detail
 
-d. I am very familiar and have worked with it extensively.
+3.  Some knowledge and can discuss
 
----
+4.  Some knowledge, can discuss and relate to with other issues
 
-**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
+5.  Extensive knowledge
 
-a. Concept 1
+------------------------------------------------------------------------
 
-b. Concept 2
+**How would you rate your *confidence* to carry out an audit of your
+citational practices on your work?**
 
-c. Concept 3
+**Scale 1 to 5: 1 = Not confident at all , 5 = Completely confident)**
 
-d. Concept 4
+1.  Not confident at all
 
-e. I am not sure about any of these concepts.
+2.  Slightly confident
 
----
+3.  Somewhat confident
 
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
-(1 = Not comfortable at all, 5 = Very comfortable)**
+4.  Very confident
 
-a. 1
+5.  Completely confident
 
-b. 2
+------------------------------------------------------------------------
 
-c. 3
+**List three adjectives that you expect or hope to *feel* at the end of
+the class**
 
-d. 4
-
-e. 5
-
----
-
-## Discussion of survey results
-
-- **Aim"**: Briefly examine the answers given to each question interactively with the group.
-- Use visuals from the survey to highlight specific answers.
-
-::: {.notes}
-*Speaker Notes*
-Make it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress.
-:::
-
----
+------------------------------------------------------------------------
 
 ## Where are we at?
 
-- **Aim**: Place the topic of the current submodule within a broader context.
-- Remind students what you are working towards and what the bigger picture is.
+::: notes
+*Speaker Notes:*
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+Here are the results from the survey
+
+*Instructor Notes:*
+
+-   Briefly examine the answers given to each question interactively
+    with the group
+
+-   Use visuals from the survey to highlight specific answers.
+
+-   Make it clear to the group that there will be a similar
+    post-submodule survey to examine understanding and learning
+    progress.
 :::
 
----
+------------------------------------------------------------------------
 
-## Learning goals
+## Aim and overview of submodule
 
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+**Aim**: Examine the concept of citational politics, its links to
+knowledge production and dissemination and learn to use some tools and
+practices for more contentious citations. <br>
 
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-- Examples: 
-  - Students will **describe** the process of photosynthesis or
-  - Students will **construct** a diagram illustrating the process of photosynthesis
+There are **five** sections to this submodule:
+
+-   **Section 1**: Introduction and pre-submodule survey
+
+-   **Section 2:** Citation politics: the mechanisms and consequence of
+    citational inequities
+
+-   **Section 3:** When should we think about citations?
+
+-   **Section 4:** Conducting a citational self-audit
+
+-   **Section 5:** Wrap up and what can we do to move towards citational
+    equity?
+
+::: notes
+*Speaker Notes:*
+
+The over all of this submodule is to examine the concept of citational
+politics, its links to knowledge production and dissemination and learn
+to use some tools and practices for more contentious citations.
+
+There are five sections to this submodule where the first two sections
+focus on the issues and the third and fourth sections focus on
+solutions.
+
+We will end with wrap up session and think about what next.
+:::
+
+------------------------------------------------------------------------
+
+### Section 1: Learning goals and overview
+
+Section 1 is all about learning the key terms and definitions and to get
+you thinking about the *what* and the *why* of citations.
+
+Activity: "Think-pair-share" discussions
+
+After completing section 1 you should be able to:
+
+-   **Recognize** the social and political context of citations
+
+-   **Explain** why citational practices are not neutral
+
+::: notes
+*Speaker Notes:*
+
+After completing section 1 you should be able to:
+
+-   **Recognize** the social and political context of citations
+
+-   **Explain** why citational practices are not neutral
+:::
+
+------------------------------------------------------------------------
+
+### Section 2: Learning goals and overview
+
+In Section 2 we will examine the *mechanisms* and *consequences* of
+citational inequities.
+
+Activity: Pass the discussion (ball)
+
+After completing Section 2 you should be able to:
+
+-   **Describe** some of the mechanisms and effects of citational
+    inequities
+
+-   **Identify** the key principles of citational equity
+
+-   **Give** examples of how consequences of citational disparities
+    impact individuals and the research ecosystem
+
+::: notes
+*Speaker Notes:*
+
+After completing section 2 you should be able to:
+
+-   **Describe** some of the mechanisms and effects of citational
+    inequities
+
+-   **Identify** the key principles of citational equity
+
+-   **Give** examples of how consequences of citational disparities
+    impact individuals and the research ecosystem
+:::
+
+------------------------------------------------------------------------
+
+### Section 3: Learning goals and overview
+
+Section 3 looks at which stages in our work we should think about
+citations.
+
+Activity: 4 corners (small group discussions)
+
+After completing Section 3 you should be able to:
+
+-   **Recognize** the main stages of research from ideas to producing a
+    report, essay, journal article
+
+-   Be able to **classify** which citational tools and practices can be
+    used during each of the four major research stages: planning,
+    project, paper and publication.
+
+::: notes
+*Speaker Notes:*
+
+After completing section 3 you should be able to:
+
+-   **Recognize** the main stages of research from ideas to producing a
+    report, essay, journal article
+
+-   Be able to **classify** which citational tools and practices can be
+    used during each of the four major research stages: planning,
+    project, paper and publication.
+:::
+
+------------------------------------------------------------------------
+
+### Section 4: Learning goals and overview
+
+Section 4 is all about putting to practice what you have learned and
+conducting your own citational self-audit!
+
+Activity: Citational self-audit for gender diversity
+
+After completing Section 4 you should be able to:
+
+-   **Assess** the gender diversity in a bibliography from your own
+    work.
+
+::: notes
+*Speaker Notes*:
+
+After completing section 4 you should be able to:
+
+-   **Assess** the gender diversity in a bibliography from your own
+    work.
+:::
+
+------------------------------------------------------------------------
+
+### Section 5: Learning goals and overview
+
+In the last section (5) we will recap the previous sections
+
+Activity: End of submodule quiz (open book)
+
+After completing Section 5 you should be able to:
+
+-   **Summarize** the key terms relating to citational politics
+    (citations, citational politics, citational cliques)
+-   Be able to **explain** how to conduct a self-audit of their citation
+    practices
+
+::: notes
+*Speaker Notes*:
+
+After completing section 5 you should be able to:
+
+-   **Summarize** the key terms relating to citational politics
+    (citations, citational politics, citational cliques)
+-   Be able to **explain** how to conduct a self-audit of their citation
+    practices
+:::
+
+------------------------------------------------------------------------
+
+## Warm up question to get us started!
+
+**What are citations, and why do we cite?**
+
+1.  *think* about answer on your own
+2.  *discuss* answer with neighbor and *write* out a joint answer
+3.  we will *share* our answers in class
+
+::: notes
+*Speaker Notes*:
+
+We will now do a think-pair-share activity based on a two part question:
+What are citations, and why do we cite?
+
+On your own you will first think about the answer. Then find a partner
+to discuss your answers before writing out a collective response to the
+question. We are aiming for a sentence or two answer. Then we will come
+together and each pair will report back their answers before we discuss
+as a class.
+
+*Instructor Notes:*
+
+Activity delivery mode:
+
+If an in-person class: Learners first think about answers individually.
+Learners then discuss in pairs their answers and write a collective
+response on a post it note. Invite learners to explain their answers,
+one pair at a time. Stick their post it notes answers on the class
+board.
+
+Online class (Zoom): Have learners think independently before discussing
+answers in pairs in break out rooms. Ask pairs to submit their answer in
+a pre-prepared Mentimeter and project onto Zoom whiteboard
+
+Hybrid class: Particify (requires in person learners to have access to
+device to participate). Follow steps outlined in online class mode,
+where in person learners and online learners pair up respectively.
+
+*Accessibility tip:*Explain to learners why the tasks are designed the
+way they are (link to learning objectives). Setting out expectations of
+the class should increase engagement (e.g. improved note taking and in
+class discussions)
+:::
+
+------------------------------------------------------------------------
+
+## What are citations?
+
+::: callout-tip
+## Definition
+
+-   A reference to an information *source*, where the original author is
+    given *credit*.
+
+-   Citations map out the lineage of ideas upon which scholarship is
+    built and informs what knowledge we *value* and whose knowledge we
+    *platform*.
+
+-   Citations are a key *currency* in academia where more citations
+    equal more *prestige* (e.g. H index) (Sauve *et al.,* 2025).
+:::
+
+For example, this definition cites work by Sauve and colleagues from
+2025 where the full reference will appear in the bibliography at the
+end.
+
+::: notes
+*Speaker notes* In everyday life we use citations, perhaps without
+realizing, for example verbal citations “X said this y”.
+
+This is the basis for the basic definition of a citation: a reference to
+an information source, where the original author is given credit.
+
+But citations are more than referencing an information source
+
+In the current academic system, patterns of citations reflect dominant
+world views (Western, racialized white men, Anglophone, non-disabled,
+higher socio-economic status)
+
+How and who we cite informs what type of knowledge we value and whose
+knowledge we platform
+
+*Instructor Notes:* Link definition presented here to answers learners
+gave in the warm up question
+:::
+
+------------------------------------------------------------------------
+
+## Citations as a knowledge map
+
+```{=html}
+
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+
+  <!-- Left side: single image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="images/citation map.png" style="width: 100%;" />
+  </div>
   
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+```
+
+<!-- Right side: bullet points -->
+
+::: {style="flex: 1;"}
+-   *Bibliometric* analyses reveal patterns in citation practices (e.g.
+    most cited papers or scholars)
+-   A *node* is like a busy urban center that is linked to other nodes
+    via highways, where several nodes can form *clusters*
+-   Example: the Changning, Hongkou, Yangpu districts (*nodes*) have
+    closer *links* forming city of Shanghai (*cluster*) compared to
+    districts in Jiaxing \>100 km away
+-   Figure adapted Lin *et al.* (2022)
 :::
 
----
+</div>
 
-### Covered in in this session
+::: notes
+*Speaker Notes*:
 
-- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-- Topic 1
-- Topic 2
-- Topic 3
+-   We can map knowledge relationships made up of nodes that link
+    together using Bibliometric analyses
+-   This colorful network maps out citations of documents relating to
+    the medical field of Coronary microvascular dysfunction. Different
+    color indicates different clusters. The size of the nodes represents
+    the counts of citations. The distance between the two nodes
+    indicates their correlation.
+-   We can also see how these knowledge maps change through time
+-   This particular figure was made using VosViewer
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+*Instructor Notes:*
+
+-   To add an interactive element to this slide you can ask learners to
+    guess which paper is cited the most based on figure from Lin *et
+    al.* (2022). Answer is the largest node labelled as "paulus
+    (2023)" - the red one on the top left of the image.
 :::
 
----
+------------------------------------------------------------------------
 
-## Key terms and definitions
+## Citations as a politic
 
-- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
-<br>
+Citations are more than a technical formality.
 
-- **Key Term 1**: Definition
-- **Key Term 2**: Definition
-- **Key Term 3**: Definition
+::: callout-tip
+## Definition
 
-::: {.notes}
-*Speaker notes*
-Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+-   Citations reflect *choices* scholars make in who they cite and who
+    they overlook in their work.
+-   There are inherent *biases* and *systemic inequalities* that result
+    in epistemic hierarchies – that is the recognition and
+    legitimization of *dominant* world views at the *exclusion* of
+    others knowledge systems (Sauve *et al.,* 2025).
 :::
 
----
+::: notes
+*Speaker Notes*:
 
-## Introduction of submodule topic
+-   As we saw with the example knowledge map, it is evident when we see
+    a highly cited paper.
 
-- **Aim**: Core theoretical introduction of submodule topic.
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
-- Use multiple slides for this part.
+-   Citations reflect *choices* scholars make in who they cite and who
+    they overlook in their work.
 
-::: {.notes}
-*Speaker notes*
-For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break).
+-   It is just not about merit - there are inherent *biases* and
+    *systemic inequalities* that result in epistemic hierarchies – that
+    is the recognition and legitimization of *dominant* world views at
+    the *exclusion* of others knowledge systems (Sauve *et al.,* 2025).
+
+-   In the next section we will look at citation politics in more detail
 :::
 
----
+------------------------------------------------------------------------
 
-## Submodule content slide
+## Section 2: Citation politics: the mechanisms and consequence of citational inequities
 
-- **Aim**: Present relevant content
-- Highlight particularly important aspects with Quarto call-out boxes, for example: 
-
-::: {.callout-important}
-## Important with Title
-
-This is an example of a callout box to highlight particularly important information.
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
-::: {.callout-tip}
-## Tip with Title
-
-This is an example of a callout box to give important tips. 
-:::
-
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
-:::
-
----
-
-## Practical exercise 1
-
-- **Aim**: Design more practical exercises for students to apply the new skills in practise.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your students need to be doing. 
-
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
-:::
-
----
-
-## Pre-break survey
-
-- **Aim**: This pre-break survey serves to examine students' current understanding of key concepts of the submodule
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
-
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
-:::
-
----
-
-**Which species is the largest type of penguin**?
-
-a. Chinstrap Penguin
-
-b. Emperor Penguin ✅
-
-c. Adélie Penguin
-
-d. King Penguin
-
----
-
-**What is the key biological feature that helps penguins swim efficiently?**
-
-a. Hollow bones for buoyancy
-
-b. Webbed feet for paddling
-
-c. Waterproof feathers and flipper-like wings ✅
-
-d. Gills to breathe underwater
-
----
-
-# Break! 15 minutes
-
----
-
-## Post-break survey discussion
-
-- **Aim**: To clarify concepts and aspects that are not yet understood
-- Highlight specific answers given during the survey
-
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
-:::
-
----
+------------------------------------------------------------------------
 
 ## Practical exercise 2
 
-- **Aim**: Design more practical exercises for students to apply the new skills in practise.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your students need to be doing. 
+-   **Aim**: Design more practical exercises for students to apply the
+    new skills in practise.
 
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
+-   Depending on the topic, the exercises should be in accordance with
+    the learning objective(s).
 
-::: {.notes}
-*Speaker notes*
-For students who advance faster: Prepare extra exercises. 
+-   Add a description of the task, as well as a checklist as an overview
+    of that your students need to be doing.
+
+-   [x] Step 1
+
+-   [ ] Step 2
+
+-   [ ] Step 3
+
+::: notes
+*Speaker notes* For students who advance faster: Prepare extra
+exercises.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Relevance and implications
 
-- **Aim**: To work out the relevance of the topic to your students.
-- In an interactive setting, discuss how the new skills could be applied in practise with specific examples.
-- Examine downfalls and practical obstacles.
+-   **Aim**: To work out the relevance of the topic to your students.
+-   In an interactive setting, discuss how the new skills could be
+    applied in practise with specific examples.
+-   Examine downfalls and practical obstacles.
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Take-home message
 
-**Aim**: End lesson on clear take-home message that are interactively compiled by students.
+**Aim**: End lesson on clear take-home message that are interactively
+compiled by students.
 
-::: {.callout-tip}
+::: callout-tip
 ## Tip with Title
 
 Add one practical tips or take-home message.
 :::
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Assignment
 
-- **Aim**: Explain the homework assignment and the rationale behind the homework.
-- Examine whether/how it will be assessed
-- Mention scoring rubrics, if applicable
-- Design a peer-review system for assignments to place students in role of reviewer and author
+-   **Aim**: Explain the homework assignment and the rationale behind
+    the homework.
+-   Examine whether/how it will be assessed
+-   Mention scoring rubrics, if applicable
+-   Design a peer-review system for assignments to place students in
+    role of reviewer and author
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
 ## To conclude: Survey time!
 
-- **Aim**: This post-submodule survey serves to examine students' current knowledge about the sumodule's topic.
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
+-   **Aim**: This post-submodule survey serves to examine students'
+    current knowledge about the sumodule's topic.
+-   Use free survey software such as or other survey software
+    (particify, formR) to establish the following questions (shown on
+    separate slides):
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
-**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+**What is your level of familiarity with \[Topic\] (e.g., basic
+concepts, terminology, or tools)?**
 
-a. I have never heard of it before.
+a.  I have never heard of it before.
 
-b. I have heard of it but have never worked with it.
+b.  I have heard of it but have never worked with it.
 
-c. I have basic understanding and experience with it.
+c.  I have basic understanding and experience with it.
 
-d. I am very familiar and have worked with it extensively.
+d.  I am very familiar and have worked with it extensively.
 
----
+------------------------------------------------------------------------
 
-**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
+**Which of the following concepts or skills do you feel most confident
+about in relation to \[Topic\]? (Select all that apply)**
 
-a. Concept 1
+a.  Concept 1
 
-b. Concept 2
+b.  Concept 2
 
-c. Concept 3
+c.  Concept 3
 
-d. Concept 4
+d.  Concept 4
 
-e. I am not sure about any of these concepts.
+e.  I am not sure about any of these concepts.
 
----
+------------------------------------------------------------------------
 
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
-(1 = Not comfortable at all, 5 = Very comfortable)**
+**On a scale of 1 to 5, how comfortable are you with using \[specific
+tool/technology\] related to \[Topic\]? (1 = Not comfortable at all, 5 =
+Very comfortable)**
 
-a. 1
+a.  1
 
-b. 2
+b.  2
 
-c. 3
+c.  3
 
-d. 4
+d.  4
 
-e. 5
+e.  5
 
----
+------------------------------------------------------------------------
 
 ## Discussion of survey results
 
-- **Aim**: Briefly examine the answers given to each question interactively with the group.
-- Compare and highlight specific differences in answers between pre- and post-survey answers
+-   **Aim**: Briefly examine the answers given to each question
+    interactively with the group.
+-   Compare and highlight specific differences in answers between pre-
+    and post-survey answers
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
 ## References
 
-- Provide literature you refer to throughout this lesson.
+-   Provide literature you refer to throughout this lesson.
 
-::: {.notes}
-*Speaker Notes*
-Script for the presentation here. 
+::: notes
+*Speaker Notes* Script for the presentation here.
 :::
 
----
+------------------------------------------------------------------------
 
 # Thanks! <br>
+
 See you next class :)
 
----
+------------------------------------------------------------------------
 
 ## Pedagogical add-on tools for instructors
 
-- This section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:
-  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.
-  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content.
-  - Extra exercises for faster students.	
+-   This section is dedicated to ideas on how to incorporate pedagogical
+    tools into teaching for this specific submodule topic. This could
+    mean:
+    -   Information about the scientific evidence on the theory of the
+        pedagogical add-on tool and the evidence for its efficacy.
+    -   Discussion/reflection on how tools can be incorporated into the
+        teaching for this particular content.
+    -   Extra exercises for faster students.
 
----
+------------------------------------------------------------------------
 
 ## Additional literature for instructors
 
-- References for content
-- References for pedagogical add-on tools	
-- Other resources (videos etc.)	
+-   References for content
+-   References for pedagogical add-on tools\
+-   Other resources (videos etc.)
 
----
+------------------------------------------------------------------------
 
 # Formatting elements for instructors
 
-- **Aim**: This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
+-   **Aim**: This section contains templates for different formatting
+    elements, which can be modified and adapted for the instructor's
+    individual purposes.
 
----
+------------------------------------------------------------------------
 
 ## Text with example links
 
-- [Quarto Documentation](https://quarto.org/docs/)
-- [Reveal.js Documentation](https://revealjs.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub](https://github.com/)
+-   [Quarto Documentation](https://quarto.org/docs/)
+-   [Reveal.js Documentation](https://revealjs.com/)
+-   [Markdown Guide](https://www.markdownguide.org/)
+-   [GitHub](https://github.com/)
 
----
+------------------------------------------------------------------------
 
 ## Basic text formatting
 
-- **Bold:** `**bold**` → **bold**
-- *Italic:* `*italic*` → *italic*
-- ~~Strikethrough:~~ `~~text~~` → ~~text~~
-- `Inline code:` `` `code` `` → `code`
-- > Blockquote: `> Quote` →  
-  > "This is a quote"
-  
----
+-   **Bold:** `**bold**` → **bold**
+
+-   *Italic:* `*italic*` → *italic*
+
+-   ~~Strikethrough:~~ `~~text~~` → ~~text~~
+
+-   `Inline code:` `` `code` `` → `code`
+
+-   
+
+    > Blockquote: `> Quote` →\
+    > "This is a quote"
+
+------------------------------------------------------------------------
 
 ## Figure with caption
 
-- Centered image and caption below in italics
+-   Centered image and caption below in italics
 
-<div style="text-align: center;">
-  <img src="images/penguin.png" style="width:50%;" />
-  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>This is a Penguin.</em></div>
-</div>
+:::: {style="text-align: center;"}
+<img src="images/penguin.png" style="width:50%;"/>
 
----
+::: {style="font-size: 0.6em; margin-top: 0.5em;"}
+<em>This is a Penguin.</em>
+:::
+::::
+
+------------------------------------------------------------------------
 
 ## Figure with bullet points
 
@@ -515,18 +780,17 @@ See you next class :)
   
 ```
 
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
+<!-- Right side: bullet points -->
 
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
+::: {style="flex: 1;"}
+-   First bullet point
+-   Second bullet point
+-   Third bullet point
+:::
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ## Side-by-side figures
 
@@ -544,10 +808,9 @@ See you next class :)
   </div>
 
 </div>
-
 ```
 
----
+------------------------------------------------------------------------
 
 ## Stacked figures with text
 
@@ -565,74 +828,70 @@ See you next class :)
   
 ```
 
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
+<!-- Right side: bullet points -->
 
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
+::: {style="flex: 1;"}
+-   First bullet point
+-   Second bullet point
+-   Third bullet point
+:::
 
 </div>
 
----
+------------------------------------------------------------------------
 
 ## Two-column text slide
 
-<div style="display: flex; gap: 2em;">
+::::: {style="display: flex; gap: 2em;"}
+::: {style="flex: 1;"}
+**Column 1**
 
-  <div style="flex: 1;">
-  **Column 1**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.\
+Vivamus lacinia odio vitae vestibulum vestibulum.\
+Cras venenatis euismod malesuada.
+:::
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.  
-  Cras venenatis euismod malesuada.
-  </div>
+::: {style="flex: 1;"}
+**Column 2**
 
-  <div style="flex: 1;">
-  **Column 2**
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+:::
+:::::
 
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## Three-column text slide
 
-<div style="display: flex; gap: 1em;">
+:::::: {style="display: flex; gap: 1em;"}
+::: {style="flex: 1;"}
+**Column 1**
 
-  <div style="flex: 1;">
-  **Column 1**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.\
+Vivamus lacinia odio vitae vestibulum vestibulum.
+:::
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.
-  </div>
+::: {style="flex: 1;"}
+**Column 2**
 
-  <div style="flex: 1;">
-  **Column 2**
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+:::
 
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
+::: {style="flex: 1;"}
+**Column 3**
 
-  <div style="flex: 1;">
-  **Column 3**
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur.
+:::
+::::::
 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  </div>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## Simple table
 
-<div style="height: 2cm;"></div>
-
+::: {style="height: 2cm;"}
+:::
 
 | Column 1   | Column 2   | Column 3   |
 |------------|------------|------------|
@@ -641,11 +900,12 @@ See you next class :)
 | Row 3 Cell | Row 3 Cell | Row 3 Cell |
 | Row 4 Cell | Row 4 Cell | Row 4 Cell |
 
----
+------------------------------------------------------------------------
 
 ## Complex table
 
-<div style="height: 2cm;"></div>
+::: {style="height: 2cm;"}
+:::
 
 ```{=html}
 
@@ -683,29 +943,26 @@ See you next class :)
   </tbody>
 
 </table>
-
 ```
----
+
+------------------------------------------------------------------------
 
 ## Task list
-- [x] Done
-- [ ] To do
 
----
+-   [x] Done
+-   [ ] To do
+
+------------------------------------------------------------------------
 
 ## Embedding videos
 
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/q3uXXh1sHcI"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+::: {style="text-align: center;"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3uXXh1sHcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
----
+</iframe>
+:::
+
+------------------------------------------------------------------------
 
 ## Code blocks
 
@@ -720,27 +977,39 @@ hist(rnorm(100), main = "Histogram of Random Normals")
 
 ```
 
----
+------------------------------------------------------------------------
 
 ## Attribution and license details
 
-- This slide should contain information about the license and attribution details of this current set of slides. 
+-   This slide should contain information about the license and
+    attribution details of this current set of slides.
 
-- The default for the created materials is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
-  - = Creative Commons license that allows others to **share, adapt, and build upon** the original work
-  - **only** if they attribute the creator and also share their new work under the **same terms**
-  - allows for both **commercial and non-commercial** use of the licensed material
+-   The default for the created materials is [CC-BY-SA
+    4.0](https://creativecommons.org/licenses/by/4.0/)
 
-- Components of attributions: 
-  - `Title`
-  - `Author`
-  - `Source`
-  - `License`
+    -   = Creative Commons license that allows others to **share, adapt,
+        and build upon** the original work
+    -   **only** if they attribute the creator and also share their new
+        work under the **same terms**
+    -   allows for both **commercial and non-commercial** use of the
+        licensed material
 
----
+-   Components of attributions:
+
+    -   `Title`
+    -   `Author`
+    -   `Source`
+    -   `License`
+
+------------------------------------------------------------------------
 
 ## Example attribution (for previous slide)
 
-"[Tutorial template for student track](https://github.com/SvonGrebmer/Template-Slides-Students)" by Sarah von Grebmer is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
+"[Tutorial template for student
+track](https://github.com/SvonGrebmer/Template-Slides-Students)" by
+Sarah von Grebmer is licensed under [CC-BY-SA
+4.0](https://creativecommons.org/licenses/by/4.0/).
 
----
+------------------------------------------------------------------------
+
+::::::::::::::::::::::::::
