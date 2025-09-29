@@ -99,21 +99,13 @@ For submodule delivery in person:
 
 ------------------------------------------------------------------------
 
-## Questions from previous submodule
-
--   **Aim**: This first slide is dedicated to clarifying questions from
-    the previous submodule and/or to discuss assignments.
--   Additional slides may need to be added depending on the nature of
-    the homework assignments.
--   Critical for the learning process to ensure that students are on the
-    same page and have been able to achieve the learning goals of the
-    previous workshop.
--   Not applicable if this set of slides corresponds to the first
-    submodule of a new module.
-
-::: notes
-*Speaker Notes* Script for the presentation here.
-:::
+## Your citation politics journey
+<br>
+<br>
+From: "I am not sure what citation politics is or why it is important" 
+<br>
+<br>
+To: "I feel empowered to adopt more contentious citation practices"
 
 ------------------------------------------------------------------------
 
@@ -132,15 +124,15 @@ before class. We will then compare our answers at the end of class.
 
 **Scale 1 to 5: 1 = never heard of it, 5 = extensive knowledge.**
 
-1.  Never heard of it
+1. [ ] Never heard of it 
 
-2.  Basic knowledge, but cannot describe in detail
+2. [ ] Basic knowledge, but cannot describe in detail
 
-3.  Some knowledge and can discuss
+3. [ ] Some knowledge and can discuss
 
-4.  Some knowledge, can discuss and relate to with other issues
+4. [ ] Some knowledge, can discuss and relate to with other issues
 
-5.  Extensive knowledge
+5. [ ] Extensive knowledge
 
 ------------------------------------------------------------------------
 
@@ -149,15 +141,15 @@ citational practices on your work?**
 
 **Scale 1 to 5: 1 = Not confident at all , 5 = Completely confident)**
 
-1.  Not confident at all
+1. [ ] Not confident at all
 
-2.  Slightly confident
+2. [ ] Slightly confident
 
-3.  Somewhat confident
+3. [ ] Somewhat confident
 
-4.  Very confident
+4. [ ] Very confident
 
-5.  Completely confident
+5. [ ] Completely confident
 
 ------------------------------------------------------------------------
 
@@ -195,7 +187,7 @@ practices for more contentious citations. <br>
 
 There are **five** sections to this submodule:
 
--   **Section 1**: Introduction and pre-submodule survey
+-   **Section 1**: Introduction to citations
 
 -   **Section 2:** Citation politics: the mechanisms and consequence of
     citational inequities
@@ -210,7 +202,7 @@ There are **five** sections to this submodule:
 ::: notes
 *Speaker Notes:*
 
-The over all of this submodule is to examine the concept of citational
+The over all aim of this submodule is to examine the concept of citational
 politics, its links to knowledge production and dissemination and learn
 to use some tools and practices for more contentious citations.
 
@@ -227,9 +219,11 @@ We will end with wrap up session and think about what next.
 
 Section 1 is all about learning the key terms and definitions and to get
 you thinking about the *what* and the *why* of citations.
-
+<br>
+<br>
 Activity: "Think-pair-share" discussions
-
+<br>
+<br>
 After completing section 1 you should be able to:
 
 -   **Recognize** the social and political context of citations
@@ -252,9 +246,11 @@ After completing section 1 you should be able to:
 
 In Section 2 we will examine the *mechanisms* and *consequences* of
 citational inequities.
-
+<br>
+<br>
 Activity: Pass the discussion (ball)
-
+<br>
+<br>
 After completing Section 2 you should be able to:
 
 -   **Describe** some of the mechanisms and effects of citational
@@ -285,15 +281,17 @@ After completing section 2 you should be able to:
 
 Section 3 looks at which stages in our work we should think about
 citations.
-
+<br>
+<br>
 Activity: 4 corners (small group discussions)
-
+<br>
+<br>
 After completing Section 3 you should be able to:
 
 -   **Recognize** the main stages of research from ideas to producing a
     report, essay, journal article
 
--   Be able to **classify** which citational tools and practices can be
+-   **Classify** which citational tools and practices can be
     used during each of the four major research stages: planning,
     project, paper and publication.
 
@@ -305,7 +303,7 @@ After completing section 3 you should be able to:
 -   **Recognize** the main stages of research from ideas to producing a
     report, essay, journal article
 
--   Be able to **classify** which citational tools and practices can be
+-   **Classify** which citational tools and practices can be
     used during each of the four major research stages: planning,
     project, paper and publication.
 :::
@@ -316,9 +314,11 @@ After completing section 3 you should be able to:
 
 Section 4 is all about putting to practice what you have learned and
 conducting your own citational self-audit!
-
+<br>
+<br>
 Activity: Citational self-audit for gender diversity
-
+<br>
+<br>
 After completing Section 4 you should be able to:
 
 -   **Assess** the gender diversity in a bibliography from your own
@@ -338,14 +338,16 @@ After completing section 4 you should be able to:
 ### Section 5: Learning goals and overview
 
 In the last section (5) we will recap the previous sections
-
+<br>
+<br>
 Activity: End of submodule quiz (open book)
-
+<br>
+<br>
 After completing Section 5 you should be able to:
 
 -   **Summarize** the key terms relating to citational politics
     (citations, citational politics, citational cliques)
--   Be able to **explain** how to conduct a self-audit of their citation
+-   **Explain** how to conduct a self-audit of their citation
     practices
 
 ::: notes
@@ -355,8 +357,19 @@ After completing section 5 you should be able to:
 
 -   **Summarize** the key terms relating to citational politics
     (citations, citational politics, citational cliques)
--   Be able to **explain** how to conduct a self-audit of their citation
+-   **Explain** how to conduct a self-audit of their citation
     practices
+:::
+
+------------------------------------------------------------------------
+
+## Section 1: Introduction to citations
+
+::: notes
+*Speaker Notes:*
+
+In this first section we will take a look at what citations are
+
 :::
 
 ------------------------------------------------------------------------
@@ -409,7 +422,7 @@ class discussions)
 
 ## What are citations?
 
-::: callout-tip
+::: callout-note
 ## Definition
 
 -   A reference to an information *source*, where the original author is
@@ -420,7 +433,7 @@ class discussions)
     *platform*.
 
 -   Citations are a key *currency* in academia where more citations
-    equal more *prestige* (e.g. H index) (Sauve *et al.,* 2025).
+    equal more *prestige* (e.g. H-Index) (Sauve *et al.,* 2025).
 :::
 
 For example, this definition cites work by Sauve and colleagues from
@@ -451,6 +464,62 @@ gave in the warm up question
 
 ## Citations as a knowledge map
 
+-   Citations play an important role in tracing the *conceptual* origins
+    and evolution of *ideas* during literature searches (Ghosal *et
+    al.,* 2022)
+
+-   Citations are used to provide background *context* to piece of work,
+    particularly in introductory sections.
+
+-   Some papers cite other works with closely tied research themes,
+    *build* on these ideas and *push* the boundaries of knowledge in new
+    directions.
+
+::: callout-tip
+## Did you know?
+
+The study of citations and other bibliographic data is known as
+*bibliometrics* (Donthu *et al.,* 2021)
+:::
+
+------------------------------------------------------------------------
+
+## Analyzing citation practices
+
+*Bibliometric* analyses can reveal patterns in citation practices (e.g.
+most cited papers or scholars and citational clusters)
+
+:::: {style="text-align: center;"}
+<img src="images/citation map.png" style="width:40%;"/>
+
+::: {style="font-size: 0.6em; margin-top: 0.5em;"}
+<em>Figure adapted from Lin *et al.* (2022)</em>
+:::
+::::
+
+::: notes
+*Speaker notes:* 
+
+Citation practices can be analyzed using bibliometric
+analyses. It can show you who cites who and identify clusters of
+citation bubbles.
+
+This colorful network maps by Lin et al shows the citations of documents
+relating to the medical field of Coronary microvascular dysfunction.
+Different color indicates different clusters. The size of the nodes
+represents the counts of citations. The distance between the two nodes
+indicates their correlation.
+
+*Instructor Notes:*
+
+Indicate that the next slide the components of this
+network map will be explained.
+:::
+
+------------------------------------------------------------------------
+
+## Components of citation maps
+
 ```{=html}
 
 <div style="display: flex; align-items: flex-start; gap: 2em;">
@@ -465,20 +534,20 @@ gave in the warm up question
 <!-- Right side: bullet points -->
 
 ::: {style="flex: 1;"}
--   *Bibliometric* analyses reveal patterns in citation practices (e.g.
-    most cited papers or scholars)
--   A *node* is like a busy urban center that is linked to other nodes
-    via highways, where several nodes can form *clusters*
--   Example: the Changning, Hongkou, Yangpu districts (*nodes*) have
+-   A *node* is like a busy urban center with *links* to other nodes via
+    highways, where several nodes can form *clusters*
+
+-   Analogy: the Changning, Hongkou, Yangpu districts (*nodes*) have
     closer *links* forming city of Shanghai (*cluster*) compared to
     districts in Jiaxing \>100 km away
--   Figure adapted Lin *et al.* (2022)
+
+-   Figure adapted from Lin *et al.* (2022)
 :::
 
 </div>
 
 ::: notes
-*Speaker Notes*:
+*Speaker Notes:*
 
 -   We can map knowledge relationships made up of nodes that link
     together using Bibliometric analyses
@@ -500,11 +569,98 @@ gave in the warm up question
 
 ------------------------------------------------------------------------
 
+## Citation metrics as an evaluation tool
+
+Citation metrics (e.g. H-Index) are an evaluation tool used to make
+important decisions like career progression, funding allocations and
+conference speaker invites (Gupta *et al.,* 2023).
+
+::: callout-note
+# Definition
+
+-   Hirsch's Index (H-Index) is an author-level metric used to assess
+    *productivity* and *impact* of publications (Hirsch, 2005)
+
+-   It is calculated by the number of publications with citation number
+    ≥ h (e.g. if a scholar has a total of 10 publications and 7 of those
+    each have at least 7 citations, then their H-Index = 7)
+:::
+
+Scholars with higher H-Indices are often evaluated more highly, but
+there are inherit *biases* with this...
+
+::: notes
+*Speaker Notes:*
+
+Citation metrics like the H-Index are an evaluation
+tool used to make important decisions like career progression, funding
+allocations and conference speaker invites
+
+This metric was developed by a physicist Jorge Hirsch who was looking to
+create objective measure of scientific achievement in his field of
+theoretical physics.
+
+It is an author-level metric calculated by the number of publications
+with citation number greater or equal to h.
+
+For example: if a scholar has a total of 10 publications and 7 of those
+each have at least 7 citations, then their H-Index = 7
+
+*Instructor Notes:* 
+
+To provide more context about H-Indices you can
+share some examples of famous scholars e.g. Albert Einstein who has an
+H-Index of 129 (as of 10/09/2025 on Google Scholar)
+:::
+
+------------------------------------------------------------------------
+
+## Biases in citation metrics
+
+The number of citations is not only a measure of *quality* and
+*productivity*, as being highly cited relies on *opportunities* to
+publish a lot which links to:
+
+-   **Academic** factors: career stage, academic discipline,
+    institutional affiliation, mentoring, support networks.
+-   **Social, cultural** and **economic** factors: gender, race,
+    ethnicity, nationality, socio-economic status, disability.
+
+Where these factors *interact* and *compound* resulting in disparities
+in citation rates.
+
+::: notes
+*Speaker Notes:*
+
+The number of citations is not only a measure of
+*quality* and *productivity*, as being highly cited relies on
+*opportunities* to publish a lot.
+
+It also does not necessarily correlate with validity of a publication
+and can be skewed towards trending research topics
+
+There are many factors that can influence how many publication you have
+or even if you can publish your work.
+
+These factors can be academic in nature such as whether you are early
+career or niche academic discipline. Other factors relate to your
+socio-economic and cultural identities.
+
+Each of these factors *interact* and *compound* resulting in disparities
+in citation rates.
+
+*Instructor Notes:*
+:::
+
+------------------------------------------------------------------------
+
 ## Citations as a politic
 
 Citations are more than a technical formality.
+<br>
+<br>
 
-::: callout-tip
+::: callout-note
 ## Definition
 
 -   Citations reflect *choices* scholars make in who they cite and who
@@ -515,8 +671,10 @@ Citations are more than a technical formality.
     others knowledge systems (Sauve *et al.,* 2025).
 :::
 
+- There is lots of evidence to show citational biases towards Anglophone racialised white men across disciplines (Sauve *et al.,* 2025).
+
 ::: notes
-*Speaker Notes*:
+*Speaker Notes:*
 
 -   As we saw with the example knowledge map, it is evident when we see
     a highly cited paper.
@@ -534,13 +692,518 @@ Citations are more than a technical formality.
 
 ------------------------------------------------------------------------
 
-## Section 2: Citation politics: the mechanisms and consequence of citational inequities
+## Section 2: Citation politics: the mechanisms and consequences of citational inequities
 
 ::: notes
-*Speaker Notes* Script for the presentation here.
+*Speaker Notes:*
+
+In this section we will take a look at the mechanisms and consequences of citational inequities
+
 :::
 
 ------------------------------------------------------------------------
+
+## Patterns of citational inequities: Gender bias
+
+- There is currently more research on gender bias in citation patterns than for other marginalized identities
+
+- Madilda effect
+
+::: callout-tip
+## Did you know?
+
+- The women's share of highly cited researchers (HCRs) *increased 0.9%* from 13.1% in 2014 to 14.0% in 2021. 
+
+- To reach *parity* with men, women's share of HCRs would need to increase *100%* in health and social sciences and *500%* in engineering, chemistry and computer science (Meho, 2022).   
+:::
+
+
+**Next we will look at some mechanisms leading to disparity in citational patterns.**
+    
+::: notes
+    
+*Speaker Notes:* 
+
+- As we saw earlier with biases in citation metrics, there are many factors that influence citation patterns
+
+- There is currently more research on gender bias in citation patterns than for other marginalized identities
+
+:::
+
+------------------------------------------------------------------------
+
+## Patterns of citational inequities: Racial bias
+
+
+::: callout-tip
+## Did you know?
+
+Koffi,Pongou & Wantchekon (2024) analyzed 330,000 papers from 1950 to 2021 in economics
+and found that Black, Hispanic and Asian scholars receive 5.1% to 9.6% fewer citations
+than white scholars. 
+:::
+
+
+::: notes
+    
+*Speaker Notes:* 
+
+- As we saw earlier with biases in citation metrics, there are many factors that influence citation patterns
+
+- There is currently more research on gender bias in citation patterns than for other marginalized identities
+
+:::
+
+------------------------------------------------------------------------
+
+## Mechanisms and effects of citational inequities
+
+:::: {style="text-align: center;"}
+<img src="images/mechanisms and effects citation politics PMM-M4-S3.png" style="width:60%;"/>
+
+::::
+
+::: notes
+    
+*Speaker Notes* 
+
+There are several mechanisms that contribute to the inequitable citational patterns.
+
+These mechanisms can positively contribute to citation rates such as elite networks or negative effects like misogyny as displayed in the table. 
+
+Over time, citational and institutional inequities can add up to more or less
+(academic) privilege
+
+:::
+
+------------------------------------------------------------------------
+
+## Academic mechanisms leading to citational inequities
+
+*Plagiarism*, *citational cliques* and the *"hidden curriculum"* are some key contributors to citational disparities. 
+
+::: callout-note
+## Definitions
+
+- **Plagiarism:** To present work ideas from another author or work as one’s own *without crediting* the source (Park, 2017)
+
+- **Citational cliques:** A citational practice that describes how networks of authors or journal editors can game the system by *excessively citing* each other to increase their *citational metrics* (H-Index for authors, Impact Factors for journals). (Franck, 1999; Kojaku *et al.,* 2021)
+
+- **Hidden Curriculum:** A highly contextual set of social norms, practices and values *not explicitly taught* as part of official teaching. The impact of the hidden curriculum *disproportionately* felt by marginalized groups (Jackson, 2002) (e.g. many scholarly awards allow self-nomination, which might not be immediately apparent).
+:::
+
+::: notes
+    
+*Speaker Notes* 
+
+
+
+:::
+
+------------------------------------------------------------------------
+
+## The Matthew effect
+
+The impact of biases and systemic inequalities in citation practices are *cumulative*:
+
+- Scholars with more *advantages* (e.g. white male privilege, citational cliques) are *more likely* to publish, be cited, receive academic recognition and promotion and vice versa for 
+scholars experiencing academic barriers (e.g. sexism, racism, plagiarism).
+
+::: callout-note
+## Definition
+The Matthew effect is a phenomenon coined by Merton (1968) after the 'rich get richer; poor get poorer' saying in the Gospel of Matthew. It describes the *self-reinforcing accumulation* of recognition and prestige within the academic system.  
+
+:::
+
+------------------------------------------------------------------------
+
+## Group discussion exercise
+
+**Pass the discussion (ball)**
+
+1.  *Read* both case studies
+2.  *Think* about mechanisms and effects
+3.  *Discuss* the case studies as a group
+
+
+::: {.callout-tip}
+## Questions to think about
+
+- What are some mechanisms you can identify?
+- Can you distinguish between social vs academic mechanisms?
+- What are the main differences in consequences that exist between these two case studies?
+- Can you describe what are some of the negative effects to the research ecosystem?
+:::
+
+::: notes
+*Speaker notes* 
+In this activity of “pass the discussion (ball)” there will be two case studies to discuss.
+To contribute to the discussion, you must be holding the ball.
+The aim to identify key mechanisms and consequences of citational inequities
+
+First you will *Read* both case studies. Then *Think* about mechanisms and effects and then we will come together as a group and *Discuss* the case studies.
+
+There are four guiding questions to think about while you read the case studies
+- What are some mechanisms you can identify?
+- Can you distinguish between social vs academic mechanisms?
+- What are the main differences in consequences that exist between these two case studies?
+- Can you describe what are some of the negative effects to the research ecosystem?
+
+*Instructor notes* 
+Gamifying discussions encourages all learners to contribute. Divergent questions have wider set of possible answers which facilitate deeper engagement with topic (University of Waterloo, 2025).
+ 
+- Activity delivery mode:
+if an in-person class: ask learners to stand up (if able to) in a circle. (see speaker notes). Instructor reads case studies then passes the ball to a student who makes a point then passes ball on to the next student and so on. Start by addressing each case study in turn then compare and contrast them.
+
+- Online class (Zoom):
+Have gallery view on Zoom, so each student is visible (ensure each student has their name written out). Instructor reads case studies then passes the imaginary ball. Passing the ball involves gesturing to throwing the ball at someone and calling their name to catch. The discussion process follows in person mode. As discussion progresses, to more easily see who has not yet spoken, have learners put hands up if they have not had the ball yet.
+
+- Hybrid class:
+Follow blend of in person and online discussion process. Ensure the case study texts are visible to both in person and online participants. 
+
+If student catches the ball but has no point to add they can pass the ball to another student and contribute later in the discussion.
+At the end, instructor can check all learners have had a chance to contribute
+
+*Accessibility tip:*
+If learners are not able to pass the ball, instructor or nominated person can mediate the ball passing.
+
+:::
+
+------------------------------------------------------------------------
+
+## Case study 1: Adriana
+
+:::: {style="text-align: center;"}
+<img src="images/case study 1 Adriana.png" style="width:60%;"/>
+
+::::
+
+
+::: notes
+*Speaker notes* 
+- Adriana is originally from Brazil and was the first in her family to go to university. She is doing a post doc in Germany in computational social sciences researching patterns of human migration. 
+
+- After experiencing bullying during her PhD, she worked in industry as a consultant and made R software packages and infographics in her spare time (which were used widely but rarely credited).
+
+- Adriana is now part of a supportive interdisciplinary lab group and has recently co-authored a paper in a speciality journal. She is finding it challenging navigating the peer review system after multiple paper rejections. 
+
+- Her manager is flexible with her taking time off for childcare and has been helpful in guiding her through the visa renewal process.
+
+:::
+
+------------------------------------------------------------------------
+
+
+## Case study 1: Andrew
+
+:::: {style="text-align: center;"}
+<img src="images/case study 2 Andrew.png" style="width:60%;"/>
+
+::::
+
+::: notes
+*Speaker notes* 
+- Andrew is British and a post-doctoral researcher at a Canadian university researching vaccines. After finishing his bachelor’s degree, his aunt helped him secure an unpaid internship in a top biomedical institute, where he met his future PhD supervisor. 
+
+- He had a positive experience during his PhD, travelled extensively for conferences and continues to publish research with his PhD supervisor who is a key collaborator of head of the lab Andrew is in. Andrew recently had a paper published in a prestigious journal with a MSc student he co-supervised.
+
+- The lab head recently won a big grant allowing Andrew to extend his post doc for another year. This would allow Andrew to be a visiting researcher at another Canadian university for a month.
+:::
+
+------------------------------------------------------------------------
+
+## Comparing case studies
+
+```{=html}
+<div style="display: flex; justify-content: center; gap: 2em; align-items: flex-start;">
+
+  <div style="text-align: center; width: 50%;">
+    <img src="images/case study 1 Adriana.png" style="width: 80%;" />
+  </div>
+
+  <div style="text-align: center; width: 50%;">
+    <img src="images/case study 2 Andrew.png" style="width: 80%;" />
+  </div>
+
+</div>
+```
+
+::: {.callout-tip}
+## Questions to think about
+
+- What are some mechanisms you can identify?
+- Can you distinguish between social vs academic mechanisms?
+- What are the main differences in consequences that exist between these two case studies?
+- Can you describe what are some of the negative effects to the research ecosystem?
+:::
+
+::: notes
+*Speaker notes:* 
+
+Now we have both case studies side by side and the guide questions to help us in this discussion
+
+*Instructor notes:*
+
+- Having the case studies next to each other allows for easier comparison and referencing during the discussions.
+
+- Some additional questions designed to extend critical thinking and for more advanced learners:
+
+- 1. In what ways does being a parent add potential barriers to Adriana's publication record? 
+
+*Answers:* Additional competing demands (assuming that Adriana is the main care giver), less time to publish her research compared to her peers without childcare responsibilities, additional time tax and money to go to conferences to share her research (time and cost of arranging childcare). 
+
+- 2. How could Andrew's opportunity to be a visiting researcher in another university positively impact his citation rates?
+
+*Answers:* increased networking opportunities by talking to other scholars, sharing his work increases awareness of his publications, building collaborations for future projects.
+
+
+
+:::
+
+------------------------------------------------------------------------
+
+## Summary of sections 1 and 2
+
+- Citations are more than *referencing* a source of information 
+- Citations practices (e.g. citational cliques) can be *mapped* using *bibliometric analyses*
+- Extensive documented evidence to show citational *biases* and 
+*systemic inequalities*, particularly against women (e.g. Matilda effect)
+- Citations are key *currency* in academia influencing hiring, funding and promotion decisions
+
+::: callout-tip
+
+## Take home message
+Academic recognition is regulated via the *choices* we make in who we cite and who we do not.
+
+:::
+
+::: notes
+*Speaker notes:*
+
+In the first two sections we have learned that:
+- Citations are more than *referencing* a source of information 
+- Citations practices (e.g. citational cliques) can be *mapped* using *bibliometric analyses*
+- There is extensive documented evidence to show citational *biases* and 
+*systemic inequalities*, particularly against women (e.g. Matilda effect) 
+- Citations are key *currency* in academia influencing hiring, funding and promotion decisions
+
+In the first two sections we have focused on the problems, now we will switch our attention to equipping ourselves with doing something about citational disparities!
+
+*Instructor notes:*
+After summarizing the key take home messages of sections 1 and 2, use this opportunity to allow learners to ask questions
+:::
+
+------------------------------------------------------------------------
+
+## Break time!
+
+------------------------------------------------------------------------
+
+## Section 3: When should we think about citations?
+
+
+::: notes
+*Speaker notes:* 
+Section 2 focused on mechanisms that are mostly structural and here we will focus on individual actions to address citational disparities
+
+:::
+
+
+------------------------------------------------------------------------
+
+## Section 4: Conducting a citational self-audit
+
+
+::: notes
+*Speaker notes:* 
+
+
+:::
+
+------------------------------------------------------------------------
+
+## What does it mean to do a self-audit?
+
+
+::: callout-tip
+
+## Definition
+Self-auditing is a process of *self- reflection* and *evaluation* of one’s knowledge, skills or practices and taking *accountability* by implementing plans to *improve* standards/performance (Middleton *et al.,* 2025).
+:::
+
+
+::: notes
+*Speaker notes:* 
+
+Self-auditing is an important part of evaluating our skills sets and ways of working.
+:::
+
+
+------------------------------------------------------------------------
+
+## Tools to do a citational self-audit?
+
+If we were to examine the reference list of our own work, it is likely we would struggle to assess how diverse it is unless we know the authors we cite (also it is time consuming).
+
+There are a number of tools that help automate this process like Gender Balance Assessment Tool (GBAT) (Sumner, 2018; 2020).
+
+
+::: notes
+*Speaker notes:* 
+
+If we were to examine the reference list of our own work, it is likely we would struggle to assess how diverse it is unless we know the authors we cite (also it is time consuming).
+
+There are a number of tools that help automate this process like GBAT
+
+As we have shown, there is a citational bias against women and a tool that is helpful to assess the gender diversity of your bibliography during the paper writing stage
+
+:::
+
+------------------------------------------------------------------------
+
+## Task 4: Citational self-audit for gender diversity
+
+
+
+
+------------------------------------------------------------------------
+
+## Pros and cons of GBAT
+
+(automated, probabilistic) 
+
+
+------------------------------------------------------------------------
+
+## Section 5: Wrap up and what can we do to move towards citational equity?
+
+
+::: notes
+*Speaker notes:* 
+Now we will summarize the key points of the whole submodule, with a quiz and a revisit of the pre-submodule survey.
+
+:::
+
+------------------------------------------------------------------------
+
+## Final summary: the what, why and how of citation politics 
+
+- **What:** Citation politics acknowledges citations as more than academic bookkeeping. They reflect *choices* scholars make in who they cite and who they overlook in their work. There are inherent *biases* and *systemic inequalities* that result in *epistemic hierarchies* 
+<br>
+<br>
+- **Why:** Citation politics matters because these inequalities are *unjust* with big impacts on *individual scholars livelihoods* with wider implications for *research ecosystem* 
+<br>
+<br>
+- **How:** As individual scholars we have a role to play in addressing citational inequities through applying tools and practices that promote *conscientious citations*.
+
+::: notes
+*Speaker notes:* 
+- This submodule explored the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more contentious citations.
+
+- The main takeaway is that citations are more than academic bookkeeping and reflect choices we make in who we cite and who we don’t. 
+
+- Many of the mechanisms leading to citational disparities are systemic which create epistemic hierarchies
+
+- As individual researchers/scholars/students we can reflect on our citational practices and make choices about who we value and recognize when we cite. 
+
+:::
+
+------------------------------------------------------------------------
+
+## End of submodule quiz!
+
+
+::: notes
+*Speaker notes:* 
+Now time for a quick quiz with four questions of a mix of multiple choice and true or false questions.
+
+
+*Instructor notes:*
+- Quiz questions focus on memory recall and incentivises learner engagement during class 
+
+- Activity delivery mode:
+In person/online (Zoom)/hybrid show questions on screen and have learners submit answers through virtual learning environment which logs their answers (personal computers needed in class for this)
+
+*Accessibility tip:*
+Allow open book for the quiz to assist learners with memory recall challenges
+:::
+
+------------------------------------------------------------------------
+
+**Q1. Citational politics is about:**
+
+-   [ ] Enforcing a technical formality as citations are an important part of academic research practice
+<br>
+<br>
+-   [ ] Recognizing that citation practices are not neutral in the current academic system and mechanisms leading to citational disparities are only systemic 
+<br>
+<br>
+-   [ ] Reflecting on the choices scholars make in who they cite and who they overlook in their work because of inherent biases and systemic inequalities that result in epistemic hierarchies
+
+------------------------------------------------------------------------
+
+**Q2. Which one of the following is an example of a mechanism typically resulting in academic advantages?**
+
+-   [ ] Being an inter/transdisciplinary researcher
+-   [ ] Being part of citational cliques
+-   [ ] Having limited understanding of the “hidden curriculum”
+
+------------------------------------------------------------------------
+
+**Q3. True or false, citation practices only matter when writing up my research?**
+
+-   [ ] True
+-   [ ] False
+
+------------------------------------------------------------------------
+
+**Q4. True of false, Part of (citational) self-auditing is about taking accountability for how we engage with the practice of citation?**
+
+-   [ ] True
+-   [ ] False
+
+------------------------------------------------------------------------
+
+
+## Advanced task: Citational justice action plan with accountability buddies 
+
+Using the citational justice toolkit by Sauve *et al.* (2025):
+
+- Pick *one too*l or *practice* to commit to implementing in your work over the next X number of months
+
+- To remain *accountable*, share the *time frame* and *evaluation* of implementing a citational tool/practice with *someone else* in the class.
+
+::: notes
+*Instructor notes:* 
+
+**Activity delivery mode:**
+*In person:*
+display the citational justice toolkit Figure 2 on screen and allow learners time to choose one tool or practice.
+
+Ask learners to write down which tool or practice they plan to commit to and ask them to 1) explain why they have chosen this tool/practice, 2) why is it needed in their work/research context, 3) explain how they will evaluate the success of their chosen citational tool/practice after X months. 4) Decide what action you will take in the coming 1) days, 2) weeks, 3) months/end of term.
+
+After learners have a had a chance to self-reflect and devise a strategy for implementing the tool/practice, ask them to find an accountability buddy from someone else in the course. Ask them to share their strategies and schedule mutual check in for the 3 check-in points to assess each other’s progress. 
+
+*Online (Zoom):* 
+Similar format to in person, but learners will use break out rooms for pairs to discuss their citational justice action plan
+
+*Hybrid:* 
+Similar format to in person, but learners joining online will discuss citational justice action plan in break out rooms and in person learners will buddy up with in person attendees.
+
+
+- This task promotes self-reflection, critical thinking and a sense of agency in the choices that are made in how and who we cite. Setting manageable goals and check-ins makes it less overwhelming and more attainable. Accountability buddy system allows learners to mutually support each other in reaching their goals and reduces anxiety.
+
+- Allow learners time to think about their own research cycle and where they can improve their citational practices. This task format follows a similar style to Liboiron (2023)
+
+
+:::
+------------------------------------------------------------------------
+
+## References
+Using the Gender Balance Assessment Tool (GBAT) by Sumner (2018), this reference list contains approximately 47.83% women and 52.17% men.
+
+------------------------------------------------------------------------
+
 
 ## Practical exercise 2
 
