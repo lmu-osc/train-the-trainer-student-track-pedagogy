@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+.DS_Store
+materials/.DS_Store
+materials/PMM-M4/.DS_Store
