@@ -1113,7 +1113,7 @@ ecosystem?
 
 Gamifying discussions encourages all learners to contribute. Divergent
 questions have wider set of possible answers which facilitate deeper
-engagement with topic (University of Waterloo, 2025).
+engagement with topic (University of Waterloo, n.d.).
 
 Activity delivery mode:
 
@@ -2389,8 +2389,8 @@ Majority scholars. We assessed the gender diversity of our reference
 list using the Gender Balance Assessment Tool (GBAT) by @sumner2018.
 Names were identified from the author list, and an estimate of the
 gender balance was produced using proboblastic techniques, where the
-author list in this training module contains approximately 47.83% women
-and 52.17% men. We acknowledge this method can misidentify an author's
+author list in this training module contains approximately 49.32% women
+and 50.68% men. We acknowledge this method can misidentify an author's
 gender especially those with uncommon names, names common to both
 genders or identifying as non-binary, transgender or gender diverse. We
 strive to continually improve on the quality and diversity of our
@@ -2405,68 +2405,36 @@ suggestions.
 
 ------------------------------------------------------------------------
 
-# The end!
+## The end!
 
-------------------------------------------------------------------------
-
-## Pedagogical add-on tools for instructors
-
--   This section is dedicated to ideas on how to incorporate pedagogical
-    tools into teaching for this specific submodule topic. This could
-    mean:
-    -   Information about the scientific evidence on the theory of the
-        pedagogical add-on tool and the evidence for its efficacy.
-    -   Discussion/reflection on how tools can be incorporated into the
-        teaching for this particular content.
-    -   Extra exercises for faster students.
 
 ------------------------------------------------------------------------
 
 ## Additional literature for instructors
 
--   References for content
--   References for pedagogical add-on tools\
--   Other resources (videos etc.)
+References from instructor notes:
 
-------------------------------------------------------------------------
+- Liboiron, M. (2023, August 8). Citational politics training module. CLEAR. https://civiclaboratory.nl/2023/08/08/citational-politics-training-module/
 
-# Formatting elements for instructors
 
--   **Aim**: This section contains templates for different formatting
-    elements, which can be modified and adapted for the instructor's
-    individual purposes.
+- Active Learning Activities | Centre for Teaching Excellence. (n.d.). Uwaterloo.ca. https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/active-learning-activities
 
 ------------------------------------------------------------------------
 
 ## Attribution and license details
 
--   This slide should contain information about the license and
-    attribution details of this current set of slides.
+These training materials are licensed under *[CC-BY-SA
+    4.0](https://creativecommons.org/licenses/by/4.0/)*
 
--   The default for the created materials is [CC-BY-SA
-    4.0](https://creativecommons.org/licenses/by/4.0/)
-
-    -   = Creative Commons license that allows others to **share, adapt,
-        and build upon** the original work
-    -   **only** if they attribute the creator and also share their new
+- This means you can:
+    - **share**, **adapt**, and **build upon** the original work
+    -   **only** if you attribute the creator and also share their new
         work under the **same terms**
-    -   allows for both **commercial and non-commercial** use of the
-        licensed material
+    -  both **commercial and non-commercial** use of the
+        licensed material is allowed
 
--   Components of attributions:
-
-    -   `Title`
-    -   `Author`
-    -   `Source`
-    -   `License`
+**How to cite:**
+Middleton, S;......(2025) Citation Politics: what is it and why should we care? (v ....)
 
 ------------------------------------------------------------------------
 
-## Attribution
-
-"[Tutorial template for student
-track](https://github.com/SvonGrebmer/Template-Slides-Students)" by
-Sarah von Grebmer is licensed under [CC-BY-SA
-4.0](https://creativecommons.org/licenses/by/4.0/).
-
-------------------------------------------------------------------------
