@@ -519,7 +519,7 @@ For example, this definition cites work by Sauvé and colleagues from
 end.
 
 ::: notes
-**Speaker Notes**:In everyday life we use citations, perhaps without realizing, for
+**Speaker Notes**: In everyday life we use citations, perhaps without realizing, for
 example verbal citations “X said this y”. 
 
 This is the basis for the basic definition of a citation: a reference to
@@ -563,9 +563,7 @@ The study of citations and other bibliographic data is known as
 :::
 
 ::: notes
-**Speaker Notes**:
-
-Citations play an important role in tracing the *conceptual* origins and
+**Speaker Notes**: Citations play an important role in tracing the *conceptual* origins and
 evolution of *ideas* during literature searches
 
 Citations are used to provide background *context* to piece of work,
@@ -611,20 +609,12 @@ explained.
 
 ## Components of citation maps
 
-```{=html}
+::: columns
+::: column
+![](images/3_citation_map_analogy.png)
+:::
 
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-
-  <!-- Left side: single image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="images/3_citation_map_analogy.png" style="width: 100%;" />
-  </div>
-  
-```
-
-<!-- Right side: bullet points -->
-
-::: {style="flex: 1;"}
+::: column
 -   A *node* is like a busy urban center with *links* to other nodes via
     highways, where several nodes can form *clusters*
 
@@ -632,8 +622,7 @@ explained.
     closer *links* forming city of Shanghai (*cluster*) compared to
     districts in Jiaxing \>100 km away
 :::
-
-</div>
+:::
 
 ::: notes
 **Speaker Notes**:
@@ -651,15 +640,13 @@ We can also see how these knowledge maps change through time
 
 This particular figure was made using VosViewer
 
-**Instructor Notes**:
-
-To add an interactive element to this slide you can ask learners to
+**Instructor Notes**: To add an interactive element to this slide you can ask learners to
 guess which paper is cited the most based on figure from Lin *et al.*
 (2022). Answer is the largest node labelled as "paulus (2023)" - the red
 one on the top left of the image.
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Citation metrics as an evaluation tool
 
@@ -742,7 +729,7 @@ Each of these factors *interact* and *compound* resulting in disparities
 in citation rates.
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Citations as a politic
 
@@ -780,7 +767,7 @@ recognition and legitimization of *dominant* world views at the
 In the next section we will look at citation politics in more detail
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Section 2: Citation politics: the mechanisms and consequences of citational inequities
 
@@ -800,7 +787,7 @@ disparities and then at the mechanisms contributing to these disparities
 
 ------------------------------------------------------------------------
 
-## Patterns of citational inequities 1
+## Patterns of citational inequities (I)
 
 ::: {style="font-size: 0.6em; margin-top: 0.5em;"}
 <em>Citational disparities across marginalized groups</em>
@@ -829,7 +816,7 @@ academia
 
 ------------------------------------------------------------------------
 
-## Patterns of citational inequities 2
+## Patterns of citational inequities (II)
 
 -   There is currently more research on *gender bias* in citation
     patterns than for other marginalized identities (e.g. *Matilda
@@ -856,9 +843,7 @@ academia
 :::
 
 ::: notes
-**Speaker Notes**:
-
-There is currently more research on gender bias in citation patterns
+**Speaker Notes**: There is currently more research on gender bias in citation patterns
 than for other marginalized identities
 
 For example this case study on highly cited researchers: The women's
@@ -886,7 +871,7 @@ following section about types of mechanisms leading to citational
 inequities.
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Mechanisms of citational inequities
 
@@ -2240,7 +2225,7 @@ confident at all and 5 = Completely confident)
 ------------------------------------------------------------------------
 
 **3. List three adjectives that you expect or hope to *feel* at the end
-of the class**
+of the class**.
 
 ::: notes
 **Speaker Notes**:
