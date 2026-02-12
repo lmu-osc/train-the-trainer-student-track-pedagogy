@@ -99,7 +99,7 @@ doing an activity where we assess the bibliography in our own work.
 -   Send out the pre-submodule survey questions to learners using
     Particify (they will appear between slides X and Y)
 
--   Remind learners i that they will need to have access to a computer
+-   Remind learners that they will need to have access to a computer
     and internet connection and a piece of their own work for GBAT
     assessment.
 
@@ -208,7 +208,7 @@ What do we see in the results?
 ::: notes
 **Speaker Notes**: Let us have a look at these results.
 
-**Instructor Notes**: ADD.
+**Instructor Notes**:
 
 -   **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
 
@@ -243,7 +243,7 @@ What do we see in the results?
 
 ---
 
-## Aim and overview of submodule
+## Aim and overview of this submodule
 
 ::: incremental
 **Aim**: Examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. <br>
@@ -276,7 +276,11 @@ We will end with wrap up session and think about what next.
 ### Section 1: Learning goals and overview
 
 ::: incremental
-Section 1 is all about learning the key terms and definitions and to get you thinking about the *what* and the *why* of citations. <br> <br> Activity: "Think-pair-share" discussions <br> <br> After completing section 1 you should be able to:
+Section 1 is all about learning the key terms and definitions and to get you thinking about the *what* and the *why* of citations.
+<br> <br>
+Activity: "Think-pair-share" discussions 
+<br> <br>
+After completing Section 1 you should be able to:
 
 -   **Recognize** the social and political context of citations
 
@@ -284,7 +288,7 @@ Section 1 is all about learning the key terms and definitions and to get you thi
 :::
 
 ::: notes
-**Speaker Notes**: After completing section 1 you should be able to:
+**Speaker Notes**: After completing Section 1 you should be able to:
 
 -   **Recognize** the social and political context of citations
 
@@ -348,7 +352,7 @@ Section 4 is all about putting to practice what you have learned and conducting 
 :::
 
 ::: notes
-*Speaker Notes*: After completing section 4 you should be able to:
+**Speaker Notes**: After completing section 4 you should be able to:
 
 -   **Assess** the gender diversity in a bibliography from your own work.
 
@@ -367,7 +371,7 @@ In the last section (5) we will recap the previous sections <br> <br> Activity: 
 :::
 
 ::: notes
-*Speaker Notes*: After completing section 5 you should be able to:
+**Speaker Notes**: After completing section 5 you should be able to:
 
 -   **Summarize** the key terms relating to citational politics (citations, citational politics, citational cliques)
 -   **Explain** how to conduct a self-audit of your citation practices
@@ -400,7 +404,7 @@ Our last activity is a short open book quiz.
 :::
 
 ::: notes
-*Speaker Notes*: We will now do a think-pair-share activity based on a two part question: What are citations, and why do we cite?
+**Speaker Notes**: We will now do a think-pair-share activity based on a two part question: What are citations, and why do we cite?
 
 On your own you will first think about the answer. Then find a partner to discuss your answers before writing out a collective response to the question. We are aiming for a sentence or two answer. Then we will come together and each pair will report back their answers before we discuss as a class.
 
@@ -412,7 +416,7 @@ On your own you will first think about the answer. Then find a partner to discus
 
 -   Hybrid class: Particify (requires in person learners to have access to device to participate). Follow steps outlined in online class mode, where in person learners and online learners pair up respectively.
 
-*Accessibility Tip:* Explain to learners why the tasks are designed the way they are (link to learning objectives). Setting out expectations of the class should increase engagement (e.g. improved note taking and in class discussions)
+**Accessibility Tip:** Explain to learners why the tasks are designed the way they are (link to learning objectives). Setting out expectations of the class should increase engagement (e.g. improved note taking and in class discussions)
 :::
 
 ---
@@ -757,10 +761,6 @@ Next we will look at how both socio-economic and academic mechanisms lead to pos
 
 ---
 
-## Continue from here!
-
----
-
 ## Mechanisms and effects of citational inequities
 
 ::: {style="text-align: center;"}
@@ -825,9 +825,17 @@ The term was coined by Merton (1968) after the 'rich get richer; poor get poorer
 
 In this activity of “pass the discussion (ball)” there will be two case studies to discuss. To contribute to the discussion, you must be holding the ball. The aim to identify key mechanisms and consequences of citational inequities
 
-First you will *Read* both case studies. Then *Think* about mechanisms and effects and then we will come together as a group and *Discuss* the case studies. The pictures are also important context to the case studies.
+First you will *read* both case studies. Then *think* about mechanisms and effects and then we will come together as a group and *discuss* the case studies. The pictures are also important context to the case studies.
 
-There are four guiding questions to think about while you read the case studies - What are some mechanisms you can identify? - Can you distinguish between social vs academic mechanisms? - What are the main differences in consequences that exist between these two case studies? - Can you describe what are some of the negative effects to the research ecosystem?
+There are four guiding questions to think about while you read the case studies:
+
+- What are some mechanisms you can identify?
+
+- Can you distinguish between social vs academic mechanisms? 
+
+- What are the main differences in consequences that exist between these two case studies? 
+
+- Can you describe what are some of the negative effects to the research ecosystem?
 
 **Instructor Notes**:
 
@@ -835,7 +843,7 @@ Gamifying discussions encourages all learners to contribute. Divergent questions
 
 Activity delivery mode:
 
-if an in-person class: ask learners to stand up (if able to) in a circle. (see speaker notes). Instructor reads case studies then passes the ball to a student who makes a point then passes ball on to the next student and so on. Start by addressing each case study in turn then compare and contrast them.
+If an in-person class: ask learners to stand up (if able to) in a circle. (see speaker notes). Instructor reads case studies then passes the ball to a student who makes a point then passes ball on to the next student and so on. Start by addressing each case study in turn then compare and contrast them.
 
 Online class (Zoom):
 
@@ -994,7 +1002,7 @@ Undervaluing of Adriana's interdisciplinary knowledge, unique perspectives from 
 
 ---
 
-## Summary of sections 1 and 2
+## Summary of Sections 1 and 2
 
 -   Citations are more than *referencing* a source of information
 -   Citations practices (e.g. citational cliques) can be *mapped* using *bibliometric analyses*
@@ -1102,7 +1110,7 @@ This activity works well with at least 12 learners to generate discussions. Hybr
 
 Instructors should be mindful that in some disciplines like the arts and humanities outputs may not always be in a written format (e.g. art pieces, audio or video) or if written output (e.g. a monograph), research deals with ancient texts and contain fewer citations than in STEM subjects. See Colavizza et al. (2023)
 
-*Accessibility tip:*
+**Accessibility tip:**
 
 If moving around the classroom is not accessible to learners then encourage non-disabled learners to move to disabled person for group discussions. Consider having colored cards with research stage number and descriptions written on to help direct learners to their chosen discussion group.
 :::
@@ -1413,11 +1421,14 @@ Now we will summarize the key points of the whole submodule, with a quiz and a r
 
 ## Final summary
 
+:::incremental
 -   Citation politics recognizes citations as more than academic bookkeeping. They are *choices* we make in whose knowledge is valued or sidelined, reflecting the inherent *biases* and *systemic inequalities* present in academia
 
 -   Citation politics matters because these inequalities are *unjust*, leading to *epistemic hierarchies* that impact *individual scholars livelihoods* and the wider *research ecosystem*
 
 -   We all have a role to play in addressing these inequities by doing citational self-audits and adopting tools that promote *conscientious citations*.
+
+:::
 
 ::: callout-tip
 ## Take home message
@@ -1470,7 +1481,7 @@ show questions on screen and have learners submit answers through virtual learni
 
 Particify has an option to add a time limit on answering questions, you can set this to 20 seconds.
 
-*Accessibility tip:*
+**Accessibility Tip:**
 
 Allow open book for the quiz to assist learners with memory recall challenges
 :::
@@ -1754,7 +1765,7 @@ To help you make your action plan, consider the questions below. You can also as
 ::: notes
 **Speaker Notes**:
 
-These guiding questions can help you create your action plant. You can also ask your accountability buddy these questions to help improve their plan.
+These guiding questions can help you create your action plan. You can also ask your accountability buddy these questions to help improve their plan.
 :::
 
 ---
