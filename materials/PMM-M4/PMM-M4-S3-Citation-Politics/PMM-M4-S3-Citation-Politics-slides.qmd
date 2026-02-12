@@ -136,7 +136,7 @@ doing an activity where we assess the bibliography in our own work.
 
 **Instructor Notes**: Communicating the overall learning outcomes as a journey helps embed the step by step build up of complexity of the topic (i.e. moving along Bloom's Taxonomy levels).
 
-*Accessibility Tip*: It is a good idea to pre-warn learners that some of the topics covered might be upsetting, particularly to those who have experienced academic injustices. Consider signposting resources for support for learners to access if needed.
+**Accessibility Tip**: It is a good idea to pre-warn learners that some of the topics covered might be upsetting, particularly to those who have experienced academic injustices. Consider signposting resources for support for learners to access if needed.
 :::
 
 ---
@@ -284,7 +284,7 @@ Section 1 is all about learning the key terms and definitions and to get you thi
 :::
 
 ::: notes
-**Speaker Notes**:After completing section 1 you should be able to:
+**Speaker Notes**: After completing section 1 you should be able to:
 
 -   **Recognize** the social and political context of citations
 
@@ -553,12 +553,15 @@ For example: if a scholar has a total of 10 publications and 7 of those each hav
 
 ## Biases in citation metrics
 
+:::incremental
 The number of citations is not only a measure of *quality* and *productivity*, as being highly cited relies on *opportunities* to publish a lot which links to:
 
 -   **Academic** factors: career stage, academic discipline, institutional affiliation, mentoring, support networks.
 -   **Social, cultural** and **economic** factors: gender, race, ethnicity, nationality, socio-economic status, disability.
 
 Where these factors *interact* and *compound* resulting in disparities in citation rates.
+
+:::
 
 ::: notes
 **Speaker Notes**: The number of citations is not only a measure of *quality* and *productivity*, as being highly cited relies on *opportunities* to publish a lot.
@@ -576,9 +579,11 @@ Each of these factors *interact* and *compound* resulting in disparities in cita
 
 ## Citations as a politic
 
+:::incremental
 -   Citations are more than a technical formality
 -   Citation practices are not neutral as they reflect an academic system that is unequal
 -   There is lots of evidence to show citational biases towards Anglophone racialized white men across disciplines [@sauvé]
+:::
 
 ::: callout-note
 ## Definition
@@ -588,9 +593,7 @@ Each of these factors *interact* and *compound* resulting in disparities in cita
 :::
 
 ::: notes
-**Speaker Notes**:
-
-As we saw with the example knowledge map, it is evident when we see a highly cited paper. Citations reflect *choices* scholars make in who they cite and who they overlook in their work.
+**Speaker Notes**: As we saw with the example knowledge map, it is evident when we see a highly cited paper. Citations reflect *choices* scholars make in who they cite and who they overlook in their work.
 
 It is just not about merit - there are inherent *biases* and *systemic inequalities* that result in epistemic hierarchies – that is the recognition and legitimization of *dominant* world views at the *exclusion* of others knowledge systems (Sauve *et al.,* 2025).
 
@@ -633,11 +636,15 @@ We'll start with briefly looking at studies that document citational disparities
 
 ## Patterns of citational inequities (II)
 
+:::incremental
+
 -   There is currently more research on *gender bias* in citation patterns than for other marginalized identities (e.g. *Matilda effect*)
 
 -   This does not mean other marginalized scholars are not also experiencing a lack of citation!
 
 -   Identities are *multifaceted*, where scholars with more marginalized identities face *compounding barriers*
+
+:::
 
 ::: callout-tip
 ## Did you know?
@@ -669,9 +676,12 @@ Identities are multifaceted, where scholars with more marginalized identities fa
 
 ## Mechanisms of citational inequities
 
+:::incremental
 -   **Socio-economic and cultural** mechanisms: operate at *systemic*, *structural* and *inter-personal* levels relating to systems in our society such economic, political and health (e.g. *racism* and *sexism*)
 
 -   **Academic** mechanisms: relate to *policies*, *practices*, and *norms* occurring *within* the *academic system* (e.g., *citational cliques*)
+
+:::
 
 ::: callout-note
 ## Mechanism levels
@@ -742,10 +752,12 @@ Inter/transdisciplinarity: Scholars whose research covers multiple domains, espe
 
 Next we will look at how both socio-economic and academic mechanisms lead to positive or negative citation rates and their consequences for individuals and the research ecosystem as a whole
 
-**Instructor Notes**:
-
-Signpost learners to the academic mechanism levels they learnt in the previous slides
+**Instructor Notes**: Signpost learners to the academic mechanism levels they learnt in the previous slides
 :::
+
+---
+
+## Continue from here!
 
 ---
 
@@ -835,7 +847,7 @@ Follow blend of in person and online discussion process. Ensure the case study t
 
 If student catches the ball but has no point to add they can pass the ball to another student and contribute later in the discussion. At the end, instructor can check all learners have had a chance to contribute
 
-*Accessibility tip:*
+**Accessibility tip:**
 
 If learners are not able to pass the ball, instructor or nominated person can mediate the ball passing.
 :::
