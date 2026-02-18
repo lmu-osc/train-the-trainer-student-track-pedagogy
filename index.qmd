@@ -1,21 +1,107 @@
 ---
-title: "Train the Trainer: Student Track - Pedagogical Meta Modules"
+title: "Pedagogical tools for teaching Open Research"
 ---
 
-This is the landing page for the Train-the-Trainer Student Track - Pedagogical Meta Modules. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome!
 
-# Overview
+On this page you will find **pedagogy materials and practical tips** on topics such as **critical didactic skills, didactics, activation methods for learners, leadership in open research and accessibility**  to successfully convey and deliver classes and workshops on Open Research topics to different audiences. 
 
-Add overview of tracks here.
+### What is the aim?
 
-# Learning goals
+The materials aim to **provide** you with **essential pedagogical skills** to share your Open Research knowledge and skills across **different teaching settings** (courses, seminars, workshops, in-person, virtual or hybrid settings) and **different audiences** (students, researchers, research support staff etc.). The materials consist of slide decks corresponding to a particular topic, speaker notes as well as supplementary materials such as home work assignments, extra exercises or cheatsheets. Detailed **speaker notes**, **instructor notes** and **accessibility tips** where relevant serve as **guidance** through the materials.
 
-Add here.
+## Who are these materials for?
 
-# Requirements
+**Educators in higher education** (e.g., universities, colleges) aiming to:
 
-Add requirements here.
+- **Convey** foundational Open Research knowledge and skills to their learners
+- **Build upon** their teaching skills across different settings
+- **Boost their confidence** in their own teaching skills
+- **Learn** more about the surrounding issues and potential challenges of teaching about Open Research
+
+## How can I use these materials?
+
+The materials are completely **free to use**, given that you provide an appropriate citation. Here is how you can use the materials:
+
+1. Use the **navigation bar** on the left to navigate through the different topics. The topics are divided into broader modules, which are arranged in a **chronological order**, meaning that they logically build up on one another. If you opt for the pick-and-choose-your-topic-style, make sure to thoroughly **read the prerequisites** for each topic. 
+
+2. When selecting a topic, you are directed to the website for the topic. The website contains a **general introduction** of the materials, the **intended target audience** as well as **prerequisites** and **learning objectives**. It also specifies the contributors and the licence details.
+
+3. Next, you will find the **slides corresponding to the topic** embedded in the website. You can navigate the slides in *Full Screen* using the arrow key, or by viewing the slides in *Speaker View* together with the *speaker and instructor notes* (recommended, see [here](https://quarto.org/docs/presentations/revealjs/presenting.html) for more information).
+
+4. The detailed **speaker notes** and **instructor notes** provide information about the content of the materials and many practical tips and examples how to convey the materials to your learners. 
+
+5. Once you are finished with a topic, you can use the *arrow on the bottom of the website* to navigate to the next topic. 
 
 
+## Getting started!
+
+When you click the following button, it takes you to the first developed module as we are still working on the introductory modules. Enjoy!
+
+<a href="materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.html" target="_blank" 
+   style="display:inline-block;
+          padding:12px 20px;
+          background-color:#009933;
+          color:white;
+          text-decoration:none;
+          border-radius:8px;
+          font-weight:bold;">
+  Get started!
+</a>
+
+
+## How can I give feedback on the materials?
+
+Do you feel like there is **content missing** from the slides? Do you want to share your own ideas about pedagogical activities you tried when teaching about Open Research? Have you spotted another **way to improve our materials**, or would like to add or **contribute** to the materials? **We would love to hear your feedback!** There are different ways to give feedback:
+
+- **The quick and easy way**: Contact the program coordinator [Sarah von Grebmer](mailto:s.grebmer@lmu.de)
+
+- **The pro way** (involves GitHub): Navigate to the GitHub repository and open an issue, see [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) for instructions on how to do this. Provide a descriptive title for your feedback, and describe your feedback in greater detail in the text box. Include which materials you want to provide feedback on, what the issue is and if it is low, medium or high priority. Tag Sarah von Grebmer (using her GitHub username [SvonGrebmer](https://github.com/SvonGrebmer)). 
+
+## Frequently asked questions
+
+1. **What previous teaching experience do I need?**
+
+  - No prior teaching experience is required! The materials will introduce you to the teaching basics. It is helpful if you have given a talk or presentation to an audience before. Also, it is critical that you know the audience you are teaching or going to teach. 
+  
+2. **Do I need to be familiar with Open Research to use these materials?**
+
+- Yes! We do require a basic familiarity with Open Research principles. This is because the aim of the current materials is to develop your pedagogical skills to convey your Open Research knowledge and skills to different audiences. We will work with practical examples directly from Open Research. If you feel like you need to develop your Open Research skills first, please browse the available self-paced tutorials in our [self-learning catalogue](https://ree-gupta.github.io/lmu-osc.github.io/training/self_training.html).
+
+3. **I am not a member of the LMU Open Science Center, can I still use these materials to develop my skills?**
+
+  - Yes! These materials are made for educators beyond the LMU Munich. However, if you are based at LMU, consider [joining the LMU Open Science Center](https://lmu-osc.github.io/about/join-us.html) to support the goal of open, responsible, and reproducible research within your disciplines or at LMU Munich more broadly.
+
+::: {.callout-note}
+## Cannot find the answer you are looking for?
+
+Please get in touch with the program coordinator [Sarah von Grebmer](mailto:s.grebmer@lmu.de).
+:::
+
+
+## Licence and citation statement
+
+::: {.callout-note}
+## How to cite these materials while they are work in progress
+Von Grebmer Zu Wolfsthurn, S., Middleton S., Ihle, M., & Schönbrodt, F. (2026). *Pedagogical tools for teaching Open Research*. LMU Open Science Center. Retrieved February 18, 2026, from [https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/)
+:::
+
+Unless otherwise specified, the text, images and supplementary materials on these pages is licenced under a **CC-BY-SA-4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)**. It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Note that code embedded in these materials is licenced under a **CC0 [Creative Commons 0 Public Domain License](https://creativecommons.org/public-domain/cc0/)**. This licence enables the creators of these materials to waive their copyright and related rights worldwide, placing a work as close as legally possible into the public domain so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
+
+## List of contributors
+
+- Sarah von Grebmer zu Wolfsthurn, [ORCID 0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895), LMU Open Science Center
+
+- Sara Middleton, [ORCID 0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029), LMU Open Science Center
+
+- Malika Ihle, [ORCID 0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981), LMU Open Science Center
+
+- Felix Schönbrodt, [ORCID 0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910), LMU Open Science Center and Ludwig-Maximilians-Universität München, Faculty of Psychology and Pedagogy
+
+
+## Funding and partners
+
+This project is funded by the [VolksWagen Foundation](https://www.volkswagenstiftung.de/de) and is developed in collaboration with [FORRT](https://forrt.org/).
