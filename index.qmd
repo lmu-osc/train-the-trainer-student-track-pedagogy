@@ -30,7 +30,7 @@ The materials are completely **free to use**, given that you provide an appropri
 
 3. Next, you will find the **slides corresponding to the topic** embedded in the website. You can navigate the slides in *Full Screen* using the arrow key, or by viewing the slides in *Speaker View* together with the *speaker and instructor notes* (recommended, see [here](https://quarto.org/docs/presentations/revealjs/presenting.html) for more information).
 
-4. The detailed **speaker notes** and **instructor notes** provide information about the content of the materials and many practical tips and examples how to convey the materials to your learners. 
+4. The detailed **speaker notes**, **instructor notes** and **accessibility tips** provide information about the content of the materials and many practical tips and examples how to convey the materials to your learners. 
 
 5. Once you are finished with a topic, you can use the *arrow on the bottom of the website* to navigate to the next topic. 
 
@@ -55,7 +55,7 @@ When you click the following button, it takes you to the first developed module 
 
 Do you feel like there is **content missing** from the slides? Do you want to share your own ideas about pedagogical activities you tried when teaching about Open Research? Have you spotted another **way to improve our materials**, or would like to add or **contribute** to the materials? **We would love to hear your feedback!** There are different ways to give feedback:
 
-- **The quick and easy way**: Contact the program coordinator [Sarah von Grebmer](mailto:s.grebmer@lmu.de)
+- **The quick and easy way**: Contact the program coordinator, [Sarah von Grebmer](mailto:s.grebmer@lmu.de) (LMU Open Science Center).
 
 - **The pro way** (involves GitHub): Navigate to the GitHub repository and open an issue, see [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) for instructions on how to do this. Provide a descriptive title for your feedback, and describe your feedback in greater detail in the text box. Include which materials you want to provide feedback on, what the issue is and if it is low, medium or high priority. Tag Sarah von Grebmer (using her GitHub username [SvonGrebmer](https://github.com/SvonGrebmer)). 
 
@@ -76,7 +76,7 @@ Do you feel like there is **content missing** from the slides? Do you want to sh
 ::: {.callout-note}
 ## Cannot find the answer you are looking for?
 
-Please get in touch with the program coordinator [Sarah von Grebmer](mailto:s.grebmer@lmu.de).
+Please get in touch with the program coordinator, [Sarah von Grebmer](mailto:s.grebmer@lmu.de) (LMU Open Science Center).
 :::
 
 
