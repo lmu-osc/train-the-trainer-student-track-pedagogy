@@ -2,30 +2,87 @@
 title: "4.3. Citation Politics"
 ---
 
-> Something nice here
+# About these materials
 
-[Full Screen](PMM-M4-S3-Citation-Politics-slides.qmd)
+**Welcome!** This workshops aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think  about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercice. 
+
+
+### Who are these materials for?
+
+The target audience of this workshop is threefold:
+
+- **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **develop their pedagogical skills and leadership skills** in the context of Open Research by exploring critical issues connected to both Open Research and teaching Open Research practices to various audiences. You can follow the materials by chronologically going through the slides and following along the practical exercises. You **go at your own pace** and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
+
+- **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **convey this topic to their learners** in a synchronous (in-person, virtual or hybrid) class-room setting. The slides can be directly presented in full screen below, with presenter and instructor notes providing guidance about the narrative of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint slides corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
+
+## Prerequisites
+
+You will need access to a piece of your **own work** (a report, essay, journal article, blogpost, presentation) containing a **bibliography** with **10 or more references**, preferably in **.bib** or **.txt** file format (this is needed for the [GBAT assessment](https://jlsumner.shinyapps.io/syllabustool/)).
+    
+## Learning goals
+
+- **Recognize** the social and political context of citations
+- **Explain** why citational practices are not neutral
+- **Identify** and **describe** some of the mechanisms and effects of citational inequities
+- **Give** examples of how consequences of citational disparities impact individuals and the research ecosystem
+- **Recognize** the main stages of research from ideas to producing a report, essay, journal article
+- **Classify** which citational tools and practices can be used during each of the four major research stages: planning, project, paper and publication
+- **Assess** the gender diversity of a bibliography from your own work
+- **Summarize** the key terms relating to citational politics (citations, citational politics, citational cliques)
+- **Explain** how to conduct a self-audit of your citation practices
+
+
+# Materials
+
+[Click here to see the materials in full Screen](PMM-M4-S3-Citation-Politics-slides.qmd)
 
 ```{=html}
 <iframe class="slide-deck" src="PMM-M4-S3-Citation-Politics-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-# Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Download files
+## Supplementary files
 
-Download the csv file for the mtcars data: 
+### Practical exercises - solutions
 
-{{< downloadthis assets/mtcars.csv dname="carz.csv" label="Download">}}
+Download the solutions for the practical exercises here: 
 
- <!-- https://github.com/shafayetShafee/downloadthis -->
-<!--  https://cran.r-project.org/web/packages/downloadthis/vignettes/downloadthis.html -->
+{{< downloadthis assets/example_data.csv dname="example_data.csv" label="Download">}}
+
+### Helpfiles
+
+Download the csv file for the example data: 
+
+{{< downloadthis assets/example_data.csv dname="example_data.csv" label="Download">}}
+
 
 # Export slides
 
 You can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export. 
 
+
 {{< downloadthis PMM-M4-S3-Citation-Politics-slides.pptx dname="PMM-M4-S3-Citation-Politics-slides" label="Download slides as PPTX">}}
 
- <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+{{< downloadthis PMM-M4-S3-Citation-Politics-slides.pdf dname="PMM-M4-S3-Citation-Politics-slides" label="Download slides as PDF">}}
+
+ 
+# Contributors and licence details
+
+**Creator**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+
+**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Consultant**: Azevedo, Flavio (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sara Middleton, Sarah von Grebmer zu Wolfsthurn and Flavio Azevedo is licensed under a **CC-BY-SA 4.0** [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+</div>
