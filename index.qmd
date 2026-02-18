@@ -9,7 +9,7 @@ On this page you will find **pedagogy materials and practical tips** on topics s
 
 ### What is the aim?
 
-The materials aim to **provide** you with **essential pedagogical skills** to share your Open Research knowledge and skills across **different teaching settings** (courses, seminars, workshops, in-person, virtual or hybrid settings) and **different audiences** (students, researchers, research support staff etc.). The materials consist of slide decks corresponding to a particular topic, speaker notes as well as supplementary materials such as home work assignments, extra exercises or cheatsheets. Detailed **speaker notes**, **instructor notes** and **accessibility tips** where relevant serve as **guidance** through the materials.
+The materials aim to **provide** you with **essential pedagogical skills** to share your Open Research knowledge and skills across **different teaching settings** (courses, seminars, workshops, in-person, virtual or hybrid settings) and **different audiences** (students, researchers, research support staff etc.). The materials consist of slide decks corresponding to a particular topic, presenter notes as well as supplementary materials such as home work assignments, extra exercises or cheatsheets. Detailed **presenter notes** (intended narrative of the presentation), further **instructor notes** (additional guidance intended only for the presenter) and **accessibility tips** (where applicable) serve as **guidance** through the materials.
 
 ## Who are these materials for?
 
@@ -28,16 +28,16 @@ The materials are completely **free to use**, given that you provide an appropri
 
 2. When selecting a topic, you are directed to the website for the topic. The website contains a **general introduction** of the materials, the **intended target audience** as well as **prerequisites** and **learning objectives**. It also specifies the contributors and the licence details.
 
-3. Next, you will find the **slides corresponding to the topic** embedded in the website. You can navigate the slides in *Full Screen* using the arrow key, or by viewing the slides in *Speaker View* together with the *speaker and instructor notes* (recommended, see [here](https://quarto.org/docs/presentations/revealjs/presenting.html) for more information).
+3. Next, you will find the **slides corresponding to the topic** embedded in the website. You can navigate the slides in *Full Screen* using the arrow key, or by viewing the slides in *Speaker View* together with the *presenter and instructor notes* (recommended, see [here](https://quarto.org/docs/presentations/revealjs/presenting.html) for more information).
 
-4. The detailed **speaker notes**, **instructor notes** and **accessibility tips** provide information about the content of the materials and many practical tips and examples how to convey the materials to your learners. 
+4. The detailed **presenter notes**, **instructor notes** and **accessibility tips** provide information about the narrative of the materials, and many practical tips and guided examples how to convey the materials to your learners. 
 
 5. Once you are finished with a topic, you can use the *arrow on the bottom of the website* to navigate to the next topic. 
 
 
 ## Getting started!
 
-When you click the following button, it takes you to the first developed module as we are still working on the introductory modules. Enjoy!
+When you click the following button, it takes you to the first developed module, as we are still working on the introductory modules. Enjoy!
 
 <a href="materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.html" target="_blank" 
    style="display:inline-block;
