@@ -43,7 +43,8 @@ This current work by Sara Middleton, Sarah von Grebmer zu Wolfsthurn and Flavio 
 
 
 ::: {.notes}
-**Speaker Notes**: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
+**Speaker Notes**:
+The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
 :::
 
 ---
@@ -61,11 +62,17 @@ This current work by Sara Middleton, Sarah von Grebmer zu Wolfsthurn and Flavio 
 
 
 ::: {.notes}
-**Speaker Notes**: These are the **speaker notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these speaker notes, they are only visible to the presenter. 
+**Speaker Notes**: 
 
-**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+These are the **speaker notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these speaker notes, they are only visible to the presenter. 
 
-**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
+**Instructor Notes**: 
+
+There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+
+**Accessibility Tips**:
+
+Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
 
 ---
@@ -84,27 +91,31 @@ necessary prerequisites.
     assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
 ::: {.notes}
-**Speaker Notes**: Before we start, a reminder towards the end of the session, we will be
+**Speaker Notes**:
+
+Before we start, a reminder towards the end of the session, we will be
 doing an activity where we assess the bibliography in our own work.
 
-**Instructor Notes:** For submodule delivery in person:
+**Instructor Notes:** 
+
+For submodule delivery in person:
 
 -   You will need an account set up with
-    [Particify](https://www.particify.de/en/)
+    [Particify](https://www.particify.de/en/).
 
--   Post it notes and pens
+-   Post it notes and pens.
 
     In advance of delivery of submodule:
 
 -   Send out the pre-submodule survey questions to learners using
-    Particify (they will appear between slides X and Y)
+    Particify (they will appear between slides X and Y).
 
 -   Remind learners that they will need to have access to a computer
     and internet connection and a piece of their own work for GBAT
     assessment.
 
 -   Their work can be from anywhere (previous schooling, organisation,
-    personal writing project)
+    personal writing project).
 :::
 
 ---
@@ -112,7 +123,9 @@ doing an activity where we assess the bibliography in our own work.
 ## Questions from the previous submodule?
 
 ::: notes
-**Speaker Notes**: Script for the slide here.
+**Speaker Notes**: 
+
+Script for the slide here.
 
 **Instructor Notes**:
 
@@ -132,11 +145,17 @@ doing an activity where we assess the bibliography in our own work.
 <br> <br> From: *"I am not sure what citation politics is or why it is important"* <br> <br> To: "*I feel empowered to adopt more contentious citation practices"*
 
 ::: notes
-**Speaker Notes**: This journey aims to take you from the what or why is citation politics important? to feeling empowered to be more contentious in your citation practices.
+**Speaker Notes**: 
 
-**Instructor Notes**: Communicating the overall learning outcomes as a journey helps embed the step by step build up of complexity of the topic (i.e. moving along Bloom's Taxonomy levels).
+This journey aims to take you from the what or why is citation politics important? to feeling empowered to be more contentious in your citation practices.
 
-**Accessibility Tip**: It is a good idea to pre-warn learners that some of the topics covered might be upsetting, particularly to those who have experienced academic injustices. Consider signposting resources for support for learners to access if needed.
+**Instructor Notes**: 
+
+Communicating the overall learning outcomes as a journey helps embed the step by step build up of complexity of the topic (i.e. moving along Bloom's Taxonomy levels).
+
+**Accessibility Tip**: 
+
+It is a good idea to pre-warn learners that some of the topics covered might be upsetting, particularly to those who have experienced academic injustices. Consider signposting resources for support for learners to access if needed.
 :::
 
 ---
@@ -144,7 +163,9 @@ doing an activity where we assess the bibliography in our own work.
 ## Before we start: Results of survey!
 
 ::: notes
-**Speaker Notes**: Let's take a look at the results of the short survey that was sent out before class. We will then compare our answers at the end of class.
+**Speaker Notes**: 
+
+Let's take a look at the results of the short survey that was sent out before class. We will then compare our answers at the end of class.
 :::
 
 ---
@@ -184,7 +205,9 @@ doing an activity where we assess the bibliography in our own work.
 5.  Completely confident
 
 ::: notes
-**Speaker Notes**: How would you rate your confidence to carry out an audit of your citational practices on your work? Scale runs from 1 to 5 where: 1 = Not confident at all and 5 = Completely confident)
+**Speaker Notes**: 
+
+How would you rate your confidence to carry out an audit of your citational practices on your work? Scale runs from 1 to 5 where: 1 = Not confident at all and 5 = Completely confident).
 :::
 
 ---
@@ -206,13 +229,17 @@ What do we see in the results?
 :::
 
 ::: notes
-**Speaker Notes**: Let us have a look at these results.
+**Speaker Notes**: 
+
+Let us have a look at these results.
 
 **Instructor Notes**:
 
 -   **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
 
-**Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting.
+**Accessibility Tip**: 
+
+Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting.
 :::
 
 ---
@@ -232,7 +259,9 @@ What do we see in the results?
 :::
 
 ::: notes
-**Speaker Notes**: Script for the slide here.
+**Speaker Notes**: 
+
+Script for the slide here.
 
 **Instructor Notes**:
 
@@ -262,13 +291,17 @@ There are **five** sections to this submodule:
 :::
 
 ::: notes
-**Speaker Notes**: The over all aim of this submodule is to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more contentious citations.
+**Speaker Notes**: 
+
+The over all aim of this submodule is to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more contentious citations.
 
 There are five sections to this submodule where the first two sections focus on the issues and the third and fourth sections focus on solutions.
 
 We will end with wrap up session and think about what next.
 
-**Instructor Notes**: Giving the whole overview at the start of the session provides learners with structure and clarity about what to expect.
+**Instructor Notes**: 
+
+Giving the whole overview at the start of the session provides learners with structure and clarity about what to expect.
 :::
 
 ---
@@ -288,7 +321,9 @@ After completing Section 1 you should be able to:
 :::
 
 ::: notes
-**Speaker Notes**: After completing Section 1 you should be able to:
+**Speaker Notes**: 
+
+After completing Section 1 you should be able to:
 
 -   **Recognize** the social and political context of citations
 
@@ -310,7 +345,9 @@ In Section 2 we will examine the *mechanisms* and *consequences* of citational i
 :::
 
 ::: notes
-**Speaker Notes**: After completing section 2 you should be able to:
+**Speaker Notes**:
+
+After completing section 2 you should be able to:
 
 -   **Identify** and **describe** some of the mechanisms and effects of citational inequities
 
@@ -332,7 +369,9 @@ Section 3 looks at which stages in our work we should think about citations. <br
 :::
 
 ::: notes
-**Speaker Notes**: After completing section 3 you should be able to:
+**Speaker Notes**: 
+
+After completing section 3 you should be able to:
 
 -   **Recognize** the main stages of research from ideas to producing a report, essay, journal article
 
@@ -352,7 +391,9 @@ Section 4 is all about putting to practice what you have learned and conducting 
 :::
 
 ::: notes
-**Speaker Notes**: After completing section 4 you should be able to:
+**Speaker Notes**:
+
+After completing section 4 you should be able to:
 
 -   **Assess** the gender diversity in a bibliography from your own work.
 
@@ -371,7 +412,9 @@ In the last section (5) we will recap the previous sections <br> <br> Activity: 
 :::
 
 ::: notes
-**Speaker Notes**: After completing section 5 you should be able to:
+**Speaker Notes**:
+
+After completing section 5 you should be able to:
 
 -   **Summarize** the key terms relating to citational politics (citations, citational politics, citational cliques)
 -   **Explain** how to conduct a self-audit of your citation practices
@@ -388,7 +431,9 @@ Our last activity is a short open book quiz.
 :::
 
 ::: notes
-**Speaker Notes**: In this first section we will take a look at what citations are.
+**Speaker Notes**:
+
+In this first section we will take a look at what citations are.
 :::
 
 ---
@@ -404,11 +449,15 @@ Our last activity is a short open book quiz.
 :::
 
 ::: notes
-**Speaker Notes**: We will now do a think-pair-share activity based on a two part question: What are citations, and why do we cite?
+**Speaker Notes**:
+
+We will now do a think-pair-share activity based on a two part question: What are citations, and why do we cite?
 
 On your own you will first think about the answer. Then find a partner to discuss your answers before writing out a collective response to the question. We are aiming for a sentence or two answer. Then we will come together and each pair will report back their answers before we discuss as a class.
 
-**Instructor Notes**: Activity delivery mode:
+**Instructor Notes**:
+
+Activity delivery mode:
 
 -   If an in-person class: Learners first think about answers individually. Learners then discuss in pairs their answers and write a collective response on a post it note. Invite learners to explain their answers, one pair at a time. Stick their post it notes answers on the class board.
 
@@ -416,7 +465,9 @@ On your own you will first think about the answer. Then find a partner to discus
 
 -   Hybrid class: Particify (requires in person learners to have access to device to participate). Follow steps outlined in online class mode, where in person learners and online learners pair up respectively.
 
-**Accessibility Tip:** Explain to learners why the tasks are designed the way they are (link to learning objectives). Setting out expectations of the class should increase engagement (e.g. improved note taking and in class discussions)
+**Accessibility Tip:**
+
+Explain to learners why the tasks are designed the way they are (link to learning objectives). Setting out expectations of the class should increase engagement (e.g. improved note taking and in class discussions).
 :::
 
 ---
@@ -436,7 +487,9 @@ On your own you will first think about the answer. Then find a partner to discus
 For example, this definition cites work by Sauvé and colleagues from 2025 where the full reference will appear in the bibliography at the end.
 
 ::: notes
-**Speaker Notes**: In everyday life we use citations, perhaps without realizing, for example verbal citations “X said this y”.
+**Speaker Notes**:
+
+In everyday life we use citations, perhaps without realizing, for example verbal citations “X said this y”.
 
 This is the basis for the basic definition of a citation: a reference to an information source, where the original author is given credit.
 
@@ -446,7 +499,9 @@ In the current academic system, patterns of citations reflect dominant world vie
 
 How and who we cite informs what type of knowledge we value and whose knowledge we platform.
 
-**Instructor Notes**: Link definition presented here to answers learners gave in the warm up question.
+**Instructor Notes**:
+
+Link definition presented here to answers learners gave in the warm up question.
 :::
 
 ---
@@ -468,7 +523,9 @@ The study of citations and other bibliographic data is known as *bibliometrics* 
 :::
 
 ::: notes
-**Speaker Notes**: Citations play an important role in tracing the *conceptual* origins and evolution of *ideas* during literature searches.
+**Speaker Notes**:
+
+Citations play an important role in tracing the *conceptual* origins and evolution of *ideas* during literature searches.
 
 Citations are used to provide background *context* to piece of work, particularly in introductory sections.
 
@@ -492,11 +549,15 @@ People who work with citation data are part of the field of bibliometrics.
 ::::
 
 ::: notes
-**Speaker Notes**: Citation practices can be analyzed using bibliometric analyses. It can show you who cites who and identify clusters of citation bubbles.
+**Speaker Notes**:
+
+Citation practices can be analyzed using bibliometric analyses. It can show you who cites who and identify clusters of citation bubbles.
 
 This colorful network maps by Lin et al shows the citations of documents relating to the medical field of Coronary microvascular dysfunction. Different color indicates different clusters. The size of the nodes represents the counts of citations. The distance between the two nodes indicates their correlation.
 
-**Instructor Notes**: Indicate that the next slide the components of this network map will be explained.
+**Instructor Notes**: 
+
+Indicate that the next slide the components of this network map will be explained.
 :::
 
 ---
@@ -516,13 +577,17 @@ This colorful network maps by Lin et al shows the citations of documents relatin
 :::::
 
 ::: notes
-**Speaker Notes**: We can map knowledge relationships made up of nodes that link together using Bibliometric analyses.
+**Speaker Notes**:
+
+We can map knowledge relationships made up of nodes that link together using Bibliometric analyses.
 
 This colorful network maps out citations of documents relating to the medical field of Coronary microvascular dysfunction. Different color indicates different clusters. The size of the nodes represents the counts of citations. The distance between the two nodes indicates their correlation.
 
 We can also see how these knowledge maps change through time. This particular figure was made using VosViewer.
 
-**Instructor Notes**: To add an interactive element to this slide you can ask learners to guess which paper is cited the most based on figure from Lin *et al.* (2022). Answer is the largest node labelled as "paulus (2023)" - the red one on the top left of the image.
+**Instructor Notes**:
+
+To add an interactive element to this slide you can ask learners to guess which paper is cited the most based on figure from Lin *et al.* (2022). Answer is the largest node labelled as "paulus (2023)" - the red one on the top left of the image.
 :::
 
 ---
@@ -542,7 +607,9 @@ We can also see how these knowledge maps change through time. This particular fi
 -   Scholars with higher H-Indices are often evaluated more highly, but there are inherit *biases* with this...
 
 ::: notes
-**Speaker Notes**: Citation metrics like the H-Index are an evaluation tool used to make important decisions like career progression, funding allocations and conference speaker invites.
+**Speaker Notes**: 
+
+Citation metrics like the H-Index are an evaluation tool used to make important decisions like career progression, funding allocations and conference speaker invites.
 
 This metric was developed by a physicist Jorge Hirsch who was looking to create objective measure of scientific achievement in his field of theoretical physics.
 
@@ -550,7 +617,9 @@ It is an author-level metric calculated by the number of publications with citat
 
 For example: if a scholar has a total of 10 publications and 7 of those each have at least 7 citations, then their H-Index = 7.
 
-**Instructor Notes**: To provide more context about H-Indices you can share some examples of famous scholars e.g. Albert Einstein who has an H-Index of 129 (as of 10/09/2025 on Google Scholar).
+**Instructor Notes**:
+
+To provide more context about H-Indices you can share some examples of famous scholars e.g. Albert Einstein who has an H-Index of 129 (as of 10/09/2025 on Google Scholar).
 :::
 
 ---
@@ -568,7 +637,9 @@ Where these factors *interact* and *compound* resulting in disparities in citati
 :::
 
 ::: notes
-**Speaker Notes**: The number of citations is not only a measure of *quality* and *productivity*, as being highly cited relies on *opportunities* to publish a lot.
+**Speaker Notes**:
+
+The number of citations is not only a measure of *quality* and *productivity*, as being highly cited relies on *opportunities* to publish a lot.
 
 It also does not necessarily correlate with validity of a publication and can be skewed towards trending research topics.
 
@@ -597,7 +668,9 @@ Each of these factors *interact* and *compound* resulting in disparities in cita
 :::
 
 ::: notes
-**Speaker Notes**: As we saw with the example knowledge map, it is evident when we see a highly cited paper. Citations reflect *choices* scholars make in who they cite and who they overlook in their work.
+**Speaker Notes**:
+
+As we saw with the example knowledge map, it is evident when we see a highly cited paper. Citations reflect *choices* scholars make in who they cite and who they overlook in their work.
 
 It is just not about merit - there are inherent *biases* and *systemic inequalities* that result in epistemic hierarchies – that is the recognition and legitimization of *dominant* world views at the *exclusion* of others knowledge systems (Sauve *et al.,* 2025).
 
@@ -613,7 +686,9 @@ In the next section we will look at citation politics in more detail
 :::
 
 ::: notes
-**Speaker Notes**: In this section we will take a look at the mechanisms and consequences of citational inequities.
+**Speaker Notes**:
+
+In this section we will take a look at the mechanisms and consequences of citational inequities.
 
 We'll start with briefly looking at studies that document citational disparities and then at the mechanisms contributing to these disparities.
 :::
@@ -631,9 +706,13 @@ We'll start with briefly looking at studies that document citational disparities
 :::
 
 ::: notes
-**Speaker Notes**: This collage of screenshots showcase a selection of recent articles documenting citational disparities across multiple marginalized groups (Black women, Indigenous scholars, transgender researchers) and disciplines (anthropology and neuroscience). The references for these screenshots will appear at the end.
+**Speaker Notes**:
 
-**Instructor Notes**: Highlight to learners that these examples are recent 2018-2024 and the issue of citation politics is not an issue of the "golden days" of academia.
+This collage of screenshots showcase a selection of recent articles documenting citational disparities across multiple marginalized groups (Black women, Indigenous scholars, transgender researchers) and disciplines (anthropology and neuroscience). The references for these screenshots will appear at the end.
+
+**Instructor Notes**:
+
+Highlight to learners that these examples are recent 2018-2024 and the issue of citation politics is not an issue of the "golden days" of academia.
 :::
 
 ---
@@ -661,7 +740,9 @@ We'll start with briefly looking at studies that document citational disparities
 :::
 
 ::: notes
-**Speaker Notes**: There is currently more research on gender bias in citation patterns than for other marginalized identities.
+**Speaker Notes**:
+
+There is currently more research on gender bias in citation patterns than for other marginalized identities.
 
 For example this case study on highly cited researchers: The women's share of highly cited researchers (HCRs) *increased 0.9%* from 13.1% in 2014 to 14.0% in 2021.
 
@@ -673,7 +754,9 @@ A reminder that an absence of published evidence, does not mean marginalized sch
 
 Identities are multifaceted, where scholars with more marginalized identities face compounding barriers.
 
-**Instructor Notes**: Highlighting the Matilda effect offers a smooth transition into the following section about types of mechanisms leading to citational inequities.
+**Instructor Notes**:
+
+Highlighting the Matilda effect offers a smooth transition into the following section about types of mechanisms leading to citational inequities.
 :::
 
 ---
@@ -694,7 +777,9 @@ Identities are multifaceted, where scholars with more marginalized identities fa
 :::
 
 ::: notes
-**Speaker Notes**: Socio-economic and academic are two main types of mechanisms leading to the *under representation* of *marginalized* scholars and *over representation* of *privileged* scholars in reference lists.
+**Speaker Notes**:
+
+Socio-economic and academic are two main types of mechanisms leading to the *under representation* of *marginalized* scholars and *over representation* of *privileged* scholars in reference lists.
 
 You may be more familiar with socio-economic mechanisms such as racism and sexism which operate at *systemic*, *structural* and *inter-personal* levels.
 
@@ -704,7 +789,9 @@ Academic mechanisms relate to *policies*, *practices*, and *norms* occurring *wi
 
 We will focus more academic mechanisms (and what we can do about them) as they are more structural and inter-personal in nature. Thus closer to our spheres of influence to address the inequities of citation practices.
 
-**Instructor Notes**: Highlight to learners that they were introduced to some of these mechanisms in the section earlier about barriers to publishing.
+**Instructor Notes**:
+
+Highlight to learners that they were introduced to some of these mechanisms in the section earlier about barriers to publishing.
 :::
 
 ---
@@ -722,13 +809,17 @@ We will focus more academic mechanisms (and what we can do about them) as they a
 :::
 
 ::: notes
-**Speaker Notes**: You may of heard about *Plagiarism*, *citational cliques* and the *"hidden curriculum"*. These mechanisms span structural and inter-personal levels. Plagiarism is to present work ideas from another author or work as one’s own *without crediting* the source.
+**Speaker Notes**:
+
+You may of heard about *Plagiarism*, *citational cliques* and the *"hidden curriculum"*. These mechanisms span structural and inter-personal levels. Plagiarism is to present work ideas from another author or work as one’s own *without crediting* the source.
 
 Citational cliques: is a citational practice that describes how networks of authors or journal editors can game the system by *excessively citing* each other to increase their *citational metrics* (H-Index for authors, Impact Factors for journals).
 
 Hidden Curriculum relates to the highly contextual set of social norms, practices and values *not explicitly taught* as part of official teaching. The impact of the hidden curriculum *disproportionately* felt by marginalized groups. For example many scholarly awards allow self-nomination, which might not be immediately apparent.
 
-**Instructor Notes**: Signpost learners to the academic mechanism levels they learnt in the previous slides.
+**Instructor Notes**:
+
+Signpost learners to the academic mechanism levels they learnt in the previous slides.
 :::
 
 ---
@@ -746,17 +837,21 @@ Hidden Curriculum relates to the highly contextual set of social norms, practice
 :::
 
 ::: notes
-**Speaker Notes**: *Linguistic privilege* and *inter/transdisciplinarity* are two contributors to citational disparities that are often overlooked.
+**Speaker Notes**:
 
-Linguistic privilege: The operating language of academia is English. Native (or near native fluent) speakers hold more advantages than non-native speakers in publishing, peer review process, citation rates and conferences
+*Linguistic privilege* and *inter/transdisciplinarity* are two contributors to citational disparities that are often overlooked.
+
+Linguistic privilege: The operating language of academia is English. Native (or near native fluent) speakers hold more advantages than non-native speakers in publishing, peer review process, citation rates and conferences.
 
 Linguistic privilege can also be a socio-economic mechanism, especially for people who have emigrated to a country with a different native language than their own and can experience barriers accessing services.
 
-Inter/transdisciplinarity: Scholars whose research covers multiple domains, especially in biological and health sciences, can be disadvantaged during the publishing process and are often evaluated the same as scholars working within a single domain
+Inter/transdisciplinarity: Scholars whose research covers multiple domains, especially in biological and health sciences, can be disadvantaged during the publishing process and are often evaluated the same as scholars working within a single domain.
 
-Next we will look at how both socio-economic and academic mechanisms lead to positive or negative citation rates and their consequences for individuals and the research ecosystem as a whole
+Next we will look at how both socio-economic and academic mechanisms lead to positive or negative citation rates and their consequences for individuals and the research ecosystem as a whole.
 
-**Instructor Notes**: Signpost learners to the academic mechanism levels they learnt in the previous slides
+**Instructor Notes**:
+
+Signpost learners to the academic mechanism levels they learnt in the previous slides.
 :::
 
 ---
@@ -774,7 +869,7 @@ There are several mechanisms that contribute to the inequitable citational patte
 
 These mechanisms can positively contribute to citation rates such as elite networks or negative effects like misogyny as displayed in the table.
 
-Over time, citational and institutional inequities can add up to more or less (academic) privilege
+Over time, citational and institutional inequities can add up to more or less (academic) privilege.
 :::
 
 ---
@@ -935,7 +1030,7 @@ The lab head recently won a big grant allowing Andrew to extend his post doc for
 ::: notes
 **Speaker Notes**:
 
-Now we have both case studies side by side and the guide questions to help us in this discussion
+Now we have both case studies side by side and the guide questions to help us in this discussion.
 
 **Instructor Notes**:
 
@@ -979,7 +1074,9 @@ Some mechanisms are not always explicit (e.g. Adriana is likely to be less aware
 :::
 
 ::: notes
-**Speaker Notes**: Here we have some clues as to some of the mechanisms operating for both people. Note that some mechanisms are not as explicit (e.g. Adriana is likely to be less aware of the hidden curriculum as she is a first generation student)
+**Speaker Notes**: 
+
+Here we have some clues as to some of the mechanisms operating for both people. Note that some mechanisms are not as explicit (e.g. Adriana is likely to be less aware of the hidden curriculum as she is a first generation student)
 
 **Instructor Notes**:
 
@@ -1034,7 +1131,7 @@ In the first two sections we have focused on the problems, now we will switch ou
 
 After summarizing the key take home messages of sections 1 and 2, use this opportunity to allow learners to ask questions.
 
-Suggestion: allow students 1 minute to write out some reflections
+Suggestion: allow students 1 minute to write out some reflections.
 :::
 
 ---
@@ -1073,9 +1170,15 @@ In arts and humanities, outputs may not always be in a written format (e.g. art 
 ::: notes
 **Speaker Notes**:
 
-Even across disciplines the way we carry out and disseminate research can be broadly divided into four stages: planning, project, paper and publication
+Even across disciplines the way we carry out and disseminate research can be broadly divided into four stages: planning, project, paper and publication.
 
-The planning stage involves project conceptualization and funding acquizition. The project stage is when we carry out literature searches, collect and analyze qualitative or quantitative data. The third stage involves writing up research findings to share with the world, this often involves submitting a manuscript to a journal. The last stage is the publication stage which covers the peer review process and actual publishing research.
+The planning stage involves project conceptualization and funding acquizition. 
+
+The project stage is when we carry out literature searches, collect and analyze qualitative or quantitative data. 
+
+The third stage involves writing up research findings to share with the world, this often involves submitting a manuscript to a journal. 
+
+The last stage is the publication stage which covers the peer review process and actual publishing research.
 :::
 
 ---
@@ -1108,7 +1211,7 @@ This exercise is in two parts, aimed to get you thinking about your own research
 
 This activity works well with at least 12 learners to generate discussions. Hybrid format is more challenging to carry out and therefore would recommend either fully in person or online.
 
-Instructors should be mindful that in some disciplines like the arts and humanities outputs may not always be in a written format (e.g. art pieces, audio or video) or if written output (e.g. a monograph), research deals with ancient texts and contain fewer citations than in STEM subjects. See Colavizza et al. (2023)
+Instructors should be mindful that in some disciplines like the arts and humanities outputs may not always be in a written format (e.g. art pieces, audio or video) or if written output (e.g. a monograph), research deals with ancient texts and contain fewer citations than in STEM subjects. See Colavizza et al. (2023).
 
 **Accessibility tip:**
 
@@ -1128,7 +1231,9 @@ Q2: At which stage of research do you consider the most important to think about
 4.  [ ] **Publication:** (peer review process, publishing research)
 
 ::: notes
-**Instructor Notes**: This question is designed for learners to think more broadly about how and when citations are relevant as they conduct their research. It is likely many learners will choose 3 – during the paper writing stage. There is no incorrect answer as practicing conscientious citation happens throughout the research process.
+**Instructor Notes**:
+
+This question is designed for learners to think more broadly about how and when citations are relevant as they conduct their research. It is likely many learners will choose 3 – during the paper writing stage. There is no incorrect answer as practicing conscientious citation happens throughout the research process.
 :::
 
 ---
@@ -1202,7 +1307,7 @@ Allow learners some time to read the tools and practices
 
 Inform learners they can access the full list of tools and practices in Sauve et al. paper
 
-Pause and ask if learners have any questions about the terms
+Pause and ask if learners have any questions about the terms.
 :::
 
 ---
@@ -1286,9 +1391,9 @@ GBAT uses *probabilistic inference* meaning it relies on algorithms to identify 
 ::: notes
 **Speaker Notes**:
 
-As we have shown, there is a citational bias against women and GBAT is a tool that is helpful to assess the gender diversity of your bibliography during the paper writing stage
+As we have shown, there is a citational bias against women and GBAT is a tool that is helpful to assess the gender diversity of your bibliography during the paper writing stage.
 
-This automated web-based tool was developed by Jane Sumner in response to the chronic under citing of women in political science
+This automated web-based tool was developed by Jane Sumner in response to the chronic under citing of women in political science.
 
 It is important to note that GBAT uses *probabilistic inference* meaning it relies on algorithms to identify and predict the gender of names. It can misidentify authors' gender (e.g. those with uncommon names, names common to both genders or identifying as non-binary, transgender or gender diverse).
 :::
@@ -1364,7 +1469,7 @@ Citation diversity statements have *four* parts: *1)* the issues and importance 
 
 **Instructor Notes**:
 
-Inform learners that an example citation diversity statement will appear at the end of these slides
+Inform learners that an example citation diversity statement will appear at the end of these slides.
 :::
 
 ---
@@ -1392,15 +1497,15 @@ Citations are more than *referencing* a source of information
 
 Citations practices (e.g. citational cliques) can be *mapped* using *bibliometric analyses*
 
-There is extensive documented evidence to show citational *biases* and *systemic inequalities*, particularly against women (e.g. Matilda effect)
+There is extensive documented evidence to show citational *biases* and *systemic inequalities*, particularly against women (e.g. Matilda effect).
 
-Citations are key *currency* in academia influencing hiring, funding and promotion decisions
+Citations are key *currency* in academia influencing hiring, funding and promotion decisions.
 
 In the first two sections we have focused on the problems, now we will switch our attention to equipping ourselves with doing something about citational disparities!
 
 **Instructor Notes**:
 
-After summarizing the key take home messages of sections 1 and 2, use this opportunity to allow learners to ask questions
+After summarizing the key take home messages of sections 1 and 2, use this opportunity to allow learners to ask questions.
 :::
 
 ---
@@ -1439,13 +1544,13 @@ Now we will summarize the key points of the whole submodule, with a quiz and a r
 ::: notes
 **Speaker Notes**:
 
-Before we take questions and have the end of submodule quiz let's take the opportunity to summarize the key points of this submodule
+Before we take questions and have the end of submodule quiz let's take the opportunity to summarize the key points of this submodule.
 
 We explored the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more contentious citations.
 
 Citations are more than academic bookkeeping and reflect choices we make in who we cite and who we don’t.
 
-Many of the mechanisms leading to citational disparities are systemic which create epistemic hierarchies
+Many of the mechanisms leading to citational disparities are systemic which create epistemic hierarchies.
 
 As individual researchers/scholars/students we can reflect on our citational practices and make choices about who we value and recognize when we cite.
 
@@ -1453,7 +1558,7 @@ This quote from the African American writer and poet Maya Angelou captures the p
 
 **Instructor Notes**:
 
-Allow a moment to take any general questions before the quiz
+Allow a moment to take any general questions before the quiz.
 :::
 
 ---
@@ -1465,13 +1570,14 @@ Allow a moment to take any general questions before the quiz
 
 Now time for a quick quiz with four questions of a mix of multiple choice and true or false questions.
 
-The answer will appear after each question
+The answer will appear after each question.
 
-You'll have about 20 seconds to answer the questions
+You'll have about 20 seconds to answer the questions.
+
 
 **Instructor Notes**:
 
-Quiz questions focus on memory recall and incentivises learner engagement during class
+Quiz questions focus on memory recall and incentivises learner engagement during class.
 
 Activity delivery mode:
 
@@ -1481,9 +1587,10 @@ show questions on screen and have learners submit answers through virtual learni
 
 Particify has an option to add a time limit on answering questions, you can set this to 20 seconds.
 
+
 **Accessibility Tip:**
 
-Allow open book for the quiz to assist learners with memory recall challenges
+Allow open book for the quiz to assist learners with memory recall challenges.
 :::
 
 ---
@@ -1503,11 +1610,11 @@ A)  Enforcing a technical formality as citations are an important part of academ
 
 B)  Recognizing that citation practices are not neutral in the current academic system and mechanisms leading to citational disparities are only systemic
 
-C)  Reflecting on the choices scholars make in who they cite and who they overlook in their work because of inherent biases and systemic inequalities that result in epistemic hierarchies
+C)  Reflecting on the choices scholars make in who they cite and who they overlook in their work because of inherent biases and systemic inequalities that result in epistemic hierarchies.
 
 **Instructor Notes**:
 
-The correct answer is C
+The correct answer is C.
 :::
 
 ---
@@ -1545,7 +1652,7 @@ C)  Having limited understanding of the “hidden curriculum”
 
 **Instructor Notes**:
 
-The correct answer is B
+The correct answer is B.
 :::
 
 ---
@@ -1559,9 +1666,9 @@ The correct answer is B
 ::: notes
 **Speaker Notes**:
 
-The answer is B as those in citational cliques can increase their citation rates (e.g. H Index) which is a key evaluation metric for academic recognition and progression
+The answer is B as those in citational cliques can increase their citation rates (e.g. H Index) which is a key evaluation metric for academic recognition and progression.
 
-Both A and C are examples of mechanisms of disadvantage
+Both A and C are examples of mechanisms of disadvantage.
 :::
 
 ---
@@ -1578,7 +1685,7 @@ Question 3: True or false, citation practices only matter when writing up my res
 
 **Instructor Notes**:
 
-The correct answer is false
+The correct answer is false.
 :::
 
 ---
@@ -1608,7 +1715,7 @@ Question 4: True of false, Part of (citational) self-auditing is about taking ac
 
 **Instructor Notes**:
 
-The correct answer is true
+The correct answer is true.
 :::
 
 ---
@@ -1669,7 +1776,7 @@ How familiar are you with the concept of citational politics? Scale runs from 1 
 ::: notes
 **Speaker Notes**:
 
-How would you rate your confidence to carry out an audit of your citational practices on your work? Scale runs from 1 to 5 where: 1 = Not confident at all and 5 = Completely confident)
+How would you rate your confidence to carry out an audit of your citational practices on your work? Scale runs from 1 to 5 where: 1 = Not confident at all and 5 = Completely confident).
 :::
 
 ---
@@ -1742,7 +1849,7 @@ Similar format to in person, but learners joining online will discuss citational
 
 This task promotes self-reflection, critical thinking and a sense of agency in the choices that are made in how and who we cite. Setting manageable goals and check-ins makes it less overwhelming and more attainable. Accountability buddy system allows learners to mutually support each other in reaching their goals and reduces anxiety.
 
-Allow learners time to think about their own research cycle and where they can improve their citational practices. This task format follows a similar style to Liboiron (2023)
+Allow learners time to think about their own research cycle and where they can improve their citational practices. This task format follows a similar style to Liboiron (2023).
 :::
 
 ---
@@ -1789,7 +1896,7 @@ If you would like to learn how to implement more tools and practices take a look
 
 **Instructor Notes**:
 
-If running this presentation in Firefox web browser the embedded YouTube video will not load. You can share the video link with learners directly. <https://www.youtube.com/watch?v=HuQEmrME6uk>
+If running this presentation in Firefox web browser the embedded YouTube video will not load. You can share the video link with learners directly. <https://www.youtube.com/watch?v=HuQEmrME6uk>.
 :::
 
 ---
