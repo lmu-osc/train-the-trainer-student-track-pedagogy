@@ -702,7 +702,7 @@ We'll start with briefly looking at studies that document citational disparities
 :::
 
 ::: {style="text-align: center;"}
-<img src="images/5_citational_inequities_examples.png" style="width:62%;"/>
+<img src="images/5_citational_inequities_examples.png" style="width:55%;"/>
 :::
 
 ::: notes
@@ -729,30 +729,36 @@ Highlight to learners that these examples are recent 2018-2024 and the issue of 
 
 :::
 
-::: callout-tip
-## Did you know?
+::: notes
+**Speaker Notes**:
 
+There is currently more research on *gender bias* in citation patterns than for other marginalized identities (e.g. *Matilda effect*, where we will see an example in the next slide).
+
+A reminder that an absence of published evidence, does not mean marginalized scholars are not also experiencing a lack of citation and erasure!
+
+Identities are multifaceted, where scholars with more marginalized identities face compounding barriers.
+:::
+
+---
+
+## Matilda effect
+
+:::incremental
 -   The women's share of highly cited researchers (HCRs) *increased 0.9%* from 13.1% in 2014 to 14.0% in 2021.
 
 -   To reach *parity* with men, women's share of HCRs would need to increase *100%* in health and social sciences and *500%* in engineering, chemistry and computer science [@meho2022].
 
 -   This is an example of the *Matilda effect* - the systematic undervaluing of women's contributions to research [@rossiter1993].
+
 :::
 
 ::: notes
 **Speaker Notes**:
 
-There is currently more research on gender bias in citation patterns than for other marginalized identities.
-
-For example this case study on highly cited researchers: The women's share of highly cited researchers (HCRs) *increased 0.9%* from 13.1% in 2014 to 14.0% in 2021.
+An example of the Matilda effect - the systematic undervaluing of women's contributions to research - is shown in this case study on highly cited researchers: The women's share of highly cited researchers (HCRs) *increased 0.9%* from 13.1% in 2014 to 14.0% in 2021.
 
 To reach *parity* with men, women's share of HCRs would need to increase *100%* in health and social sciences and *500%* in engineering, chemistry and computer science.
 
-This is an example of the *Matilda effect* - the systematic undervaluing of women's contributions to research.
-
-A reminder that an absence of published evidence, does not mean marginalized scholars are not also experiencing a lack of citation and erasure!
-
-Identities are multifaceted, where scholars with more marginalized identities face compounding barriers.
 
 **Instructor Notes**:
 
