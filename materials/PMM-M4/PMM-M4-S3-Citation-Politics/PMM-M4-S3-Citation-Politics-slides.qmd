@@ -1402,26 +1402,25 @@ It is important to note that GBAT uses *probabilistic inference* meaning it reli
 
 ## Citational self-audit with GBAT
 
-**Now to practice using GBAT:**
+Now to practice using GBAT (10 minutes):
 
-1.  *Open* your .bib or .txt document which has a bibliography list
-2.  *Estimate* the % of women and % men in your author list
-3.  *Go* to the [GBAT page](https://jlsumner.shinyapps.io/syllabustool/) and *follow* the instructions
-4.  *Record* your final % gender balance score
-5.  *Compare* your estimate with the GBAT score
-6.  *Reflect* on the process: were you surprised by the result?
+1.  **Open** your .bib or .txt document which has a bibliography list
+2.  **Estimate** the % of women and % men in your author list
+3.  **Visit** [https://jlsumner.shinyapps.io/syllabustool/]([https://jlsumner.shinyapps.io/syllabustool/) and *follow* the instructions
+4.  **Record** your final % gender balance score
+5.  **Compare** your estimate with the GBAT score
+6.  **Reflect** on the process: were you surprised by the result?
 
 ::: callout-tip
 ## Trouble-shooting
-
 -   If an error occurs when uploading file, copy and paste author list into text box without bullet points
--   The GBAT tool can show “disconnected from the server” when left idle. To reactivate refresh the page.
+-   The GBAT tool can show “disconnected from the server” when left idle. To reactivate, refresh the page.
 :::
 
 ::: notes
 **Speaker Notes**:
 
-Now it is your turn to conduct a self-audit using GBAT.
+Now it is your turn to conduct a self-audit using GBAT. For this activitity you have 10 minutes.
 
 First you will open your document containing a bibliography list from your own work and then try and estimate the % of women and men before using the automated tool.
 
