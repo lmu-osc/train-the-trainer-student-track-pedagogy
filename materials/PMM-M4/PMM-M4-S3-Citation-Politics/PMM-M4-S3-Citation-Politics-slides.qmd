@@ -1106,11 +1106,15 @@ Undervaluing of Adriana's interdisciplinary knowledge, unique perspectives from 
 ---
 
 ## Summary of Sections 1 and 2
+::: incremental
 
+::: {style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"}
 -   Citations are more than *referencing* a source of information
 -   Citations practices (e.g. citational cliques) can be *mapped* using *bibliometric analyses*
 -   Extensive documented evidence to show citational *biases* and *systemic inequalities*, particularly against women (e.g. Matilda effect)
 -   Citations are key *currency* in academia influencing hiring, funding and promotion decisions
+:::
+:::
 
 ::: callout-tip
 ## Take home message
@@ -1480,12 +1484,16 @@ Inform learners that an example citation diversity statement will appear at the 
 ---
 
 ## Summary of sections 3 and 4
+::: incremental
 
+::: {style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"}
 -   Out of the four main research stages: 1) planning, 2) project, 3) paper, 4) publication, we typically think about citations when we write up our research
 
 -   Many tools and practices exist to help us be more mindful of how we cite across the research stages
 
 -   Self-auditing our citation practices is an important reflective exercise to evaluate our current knowledge and skills and put in place plans to develop them further
+:::
+:::
 
 ::: callout-tip
 ## Take home message
@@ -1531,13 +1539,15 @@ Now we will summarize the key points of the whole submodule, with a quiz and a r
 
 ## Final summary
 
-:::incremental
+::: incremental
+
+::: {style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"}
 -   Citation politics recognizes citations as more than academic bookkeeping. They are *choices* we make in whose knowledge is valued or sidelined, reflecting the inherent *biases* and *systemic inequalities* present in academia
 
 -   Citation politics matters because these inequalities are *unjust*, leading to *epistemic hierarchies* that impact *individual scholars livelihoods* and the wider *research ecosystem*
 
 -   We all have a role to play in addressing these inequities by doing citational self-audits and adopting tools that promote *conscientious citations*.
-
+:::
 :::
 
 ::: callout-tip
