@@ -295,36 +295,6 @@ setting.
 
 ------------------------------------------------------------------------
 
-## Where are we at?
-
-**Previously**:
-
--   Point 1
--   Point 2
-
-::: {style="background-color: #f0f0f0;"}
-**Up next**:
-
--   Point 1
--   Point 2
-:::
-
-::: notes
-**Speaker Notes**:
-
-Script for the slide here.
-
-**Instructor Notes**:
-
--   **Aim**: Place the topic of the current submodule within a broader
-    context.
-
--   Remind learners what you are working towards and what the bigger
-    picture is.
-:::
-
-------------------------------------------------------------------------
-
 ## Aim and overview 
 
 ::: incremental
@@ -372,7 +342,7 @@ with structure and clarity about what to expect.
 ### Section 1: Learning goals and overview
 
 ::: incremental
-Section 1 is all about learning the key terms and definitions and to get
+**Section 1** is all about learning the key terms and definitions and to get
 you thinking about the *what* and the *why* of citations. <br> <br>
 Activity: "Think-pair-share" discussions <br> <br> After completing
 Section 1 you should be able to:
@@ -399,7 +369,7 @@ The main activity is discussion-based exercise called "think-pair-share"
 ### Section 2: Learning goals and overview
 
 ::: incremental
-In Section 2 we will examine the *mechanisms* and *consequences* of
+In **Section 2** we will examine the *mechanisms* and *consequences* of
 citational inequities. <br> <br> Activity: Pass the discussion (ball)
 <br> <br> After completing Section 2 you should be able to:
 
@@ -430,7 +400,7 @@ passing/throwing a ball!
 ### Section 3: Learning goals and overview
 
 ::: incremental
-Section 3 looks at which stages in our work we should think about
+**Section 3** looks at which stages in our work we should think about
 citations. <br> <br> Activity: Small group discussions
 <br> <br> After completing Section 3 you should be able to:
 
@@ -462,7 +432,7 @@ The main activity is small group reflection and discussion-based exercise
 ### Section 4: Learning goals and overview
 
 ::: incremental
-Section 4 is all about putting to practice what you have learned and
+**Section 4** is all about putting to practice what you have learned and
 conducting your own citational self-audit! <br> <br> Activity:
 Citational self-audit for gender diversity <br> <br> After completing
 Section 4 you should be able to:
@@ -488,7 +458,7 @@ where we will do a self-audit.
 ### Section 5: Learning goals and overview
 
 ::: incremental
-In the last section (5) we will recap the previous sections <br> <br>
+Finally, in **Section 5** we will recap the previous sections <br> <br>
 Activity: End of submodule quiz (open book) <br> <br> After completing
 Section 5 you should be able to:
 
