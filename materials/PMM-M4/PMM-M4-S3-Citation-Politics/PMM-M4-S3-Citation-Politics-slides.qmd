@@ -325,7 +325,7 @@ Script for the slide here.
 
 ------------------------------------------------------------------------
 
-## Aim and overview of this submodule
+## Aim and overview 
 
 ::: incremental
 **Aim**: Examine the concept of citational politics, its links to
@@ -431,7 +431,7 @@ passing/throwing a ball!
 
 ::: incremental
 Section 3 looks at which stages in our work we should think about
-citations. <br> <br> Activity: "4 corners" (small group discussions)
+citations. <br> <br> Activity: small group discussions
 <br> <br> After completing Section 3 you should be able to:
 
 -   **Recognize** the main stages of research from ideas to producing a
@@ -454,8 +454,7 @@ After completing section 3 you should be able to:
     each of the four major research stages: planning, project, paper and
     publication.
 
-The main activity is small group discussion-based exercise involving
-moving around the room/between Zoom breakout rooms.
+The main activity is small group reflection and discussion-based exercise 
 :::
 
 ------------------------------------------------------------------------
@@ -1302,7 +1301,7 @@ been helpful in guiding her through the visa renewal process.
 
 ------------------------------------------------------------------------
 
-## Case study 1: Andrew
+## Case study 2: Andrew
 
 ::: {style="text-align: center;"}
 <img src="images/8_case_study_2_Andrew.png" style="width:60%;"/>
@@ -1575,23 +1574,23 @@ process and actual publishing research.
 
 ------------------------------------------------------------------------
 
-## Small group exercise
+## Self and group reflection (I)
 
-**"4 corners" exercise**
+This exercise aims to get you thinking about your own
+research process and when you think about citations.
 
 1.  *Self-reflect* on question 1
-2.  *Answer* question 2 and *pick* corresponding corner/breakout room
-3.  *Discuss* your answer to question 2 with other group members
+2.  *Discuss* answer to question 2 in small groups (next slide)
 
 ::: callout-tip
 ## Self-reflect
 
 Q1: When do you typically think about citations in your work?
 
--   [ ] Planning stage
--   [ ] While doing the project
--   [ ] When I write up my findings
--   [ ] At the publication stage
+-   [ ] 1. Planning stage
+-   [ ] 2. While doing the project
+-   [ ] 3. When I write up my findings
+-   [ ] 4. At the publication stage
 :::
 
 ::: notes
@@ -1617,12 +1616,16 @@ STEM subjects. See Colavizza et al. (2023).
 
 If moving around the classroom is not accessible to learners then
 encourage non-disabled learners to move to disabled person for group
-discussions. Consider having colored cards with research stage number
-and descriptions written on to help direct learners to their chosen
-discussion group.
+discussions. 
 :::
 
 ------------------------------------------------------------------------
+
+## Self and group reflection (II)
+
+*Discuss* answer to Q2 in small groups (8 minutes)
+
+<br>
 
 Q2: At which stage of research do you consider the most important to
 think about citations?
@@ -1637,7 +1640,16 @@ think about citations?
 4.  [ ] **Publication:** (peer review process, publishing research)
 
 ::: notes
+
+**Speaker Notes**:
+
+Now is a chance to reflect and discuss in small groups at which stage of research you consider the most important to think about citations? I will randomly assign you groups and you will have about 8 minutes to discuss.
+
 **Instructor Notes**:
+
+Randomly assign people to small groups of 3 people minimum to discuss question 2.
+
+Online delivery: It can be helpful to create Zoom breakout rooms with a timer before hand and then randomly assign learners into groups. 
 
 This question is designed for learners to think more broadly about how
 and when citations are relevant as they conduct their research. It is
@@ -2521,19 +2533,24 @@ This Citation Politics module relates to the following module: <br> <br>
 ------------------------------------------------------------------------
 
 ## Citation diversity statement
+<br>
 
-::: callout-note
+::: {style="background-color: #f0f0f0; padding: 0.7em; border-radius: 5px; font-size: 0.6em; text-align: justify;"}
 Citation practices are not neutral and disparities exist in whose
 knowledge is recognized and whose not, with women, Black, Indigenous,
 disabled and other marginalized groups consistently underrepresented in
-reference lists. To that end, we actively sought out papers from a range
+reference lists. 
+
+To that end, we actively sought out papers from a range
 of disciplines, and researchers, with a bias towards uplifting Global
 Majority scholars. We assessed the gender diversity of our reference
 list using the Gender Balance Assessment Tool (GBAT) by @sumner2018.
 Names were identified from the author list, and an estimate of the
 gender balance was produced using proboblastic techniques, where the
 author list in this training module contains approximately 49.32% women
-and 50.68% men. We acknowledge this method can misidentify an author's
+and 50.68% men. 
+
+We acknowledge this method can misidentify an author's
 gender especially those with uncommon names, names common to both
 genders or identifying as non-binary, transgender or gender diverse. We
 strive to continually improve on the quality and diversity of our
