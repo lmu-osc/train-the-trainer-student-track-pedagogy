@@ -1,6 +1,6 @@
 ---
 title: "Citation Politics: what is it and why should we care?"
-author: "Sara Middleton"
+author: "Sara Lil Middleton"
 date: today
 date-format: "DD/MM/YYYY"
 format: 
@@ -37,9 +37,9 @@ editor:
 </p>
 
 ::: {style="background-color: #f0f0f0; padding: 0.2em; border-radius: 2px; font-size: 0.6em;"}
-This current work by Sara Middleton, Sarah von Grebmer zu Wolfsthurn and
-Flavio Azevedo is licensed under a **CC-BY-SA 4.0** [Creative Commons
-Attribution 4.0 International SA
+This current work by Sara Lil Middleton, Sarah von Grebmer zu Wolfsthurn
+and Flavio Azevedo is licensed under a **CC-BY-SA 4.0** [Creative
+Commons Attribution 4.0 International SA
 License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It
 permits unrestricted re-use, distribution, and reproduction in any
 medium, provided the original work is properly cited. If you remix,
@@ -69,7 +69,7 @@ rights.
 
 <br>
 
-**Creator**: Middleton, Sara
+**Creator**: Middleton, Sara Lil
 (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 
 **Reviewer**: Von Grebmer zu Wolfsthurn, Sarah
@@ -1770,7 +1770,7 @@ audit
 Self-auditing is a process of **self- reflection** and **evaluation** of
 one’s knowledge, skills or practices and taking **accountability** by
 implementing plans to **improve** standards/performance
-[@middleton2026].
+[@middleton2025a].
 :::
 
 ::: notes
@@ -2381,14 +2381,15 @@ class
 <!-- Right side: bullet points -->
 
 ::: {style="flex: 1;"}
-Using the Citational Justice Toolkit by @sauvé:
+-   Using the Citational Justice Toolkit by
+    @sauvePursuitCitationalJustice2025:
 
--   Pick *one tool* or *practice* to commit to implementing in your work
-    over the next X number of months
+-   Pick **one** **tool** or **practice** to commit to implementing in
+    your work over the next X number of months.
 
--   To remain *accountable*, share the *time frame* and *evaluation* of
-    implementing a citational tool/practice with *someone else* in
-    class.
+-   To remain **accountable**, share the **time frame** and
+    **evaluation** of implementing a citational tool/practice with
+    **someone else** in class.
 :::
 
 </div>
@@ -2557,9 +2558,17 @@ our training materials and are open to suggestions.
 
 ------------------------------------------------------------------------
 
-## Contribution Statement TO DO
+## Contribution Statement
 
-Not yet decided on.
+<br>
+
+::: {style="background-color: #f0f0f0; padding: 0.7em; border-radius: 5px; font-size: 0.8em; text-align: justify;"}
+**Sara Lil Middleton:** Conceptualization, Methodology, Investigation,
+Writing - Original Draft, Writing - Review & Editing, Visualization,
+Validation, Project Administration. **Sarah von Grebmer zu Wolfsthurn:**
+Software, Writing - Review & Editing, Validation, Project
+Administration. **Flavio Azevedo:** Resources.
+:::
 
 ------------------------------------------------------------------------
 
