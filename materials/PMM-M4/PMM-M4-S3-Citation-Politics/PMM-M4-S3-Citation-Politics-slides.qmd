@@ -90,7 +90,7 @@ these speaker notes, they are only visible to the presenter.
 **Instructor Notes**:
 
 There are also **instructor notes**. For some slides, there will be
-pedagogical tips, suggestons for acitivities and troubleshooting tips
+pedagogical tips, suggestions for activities and troubleshooting tips
 for issues your audience might run into. You can find these notes
 underneath the speaker notes.
 
@@ -295,7 +295,7 @@ setting.
 
 ------------------------------------------------------------------------
 
-## Aim and overview 
+## Aim and overview
 
 ::: incremental
 **Aim**: Examine the concept of citational politics, its links to
@@ -342,8 +342,8 @@ with structure and clarity about what to expect.
 ### Section 1: Learning goals and overview
 
 ::: incremental
-**Section 1** is all about learning the key terms and definitions and to get
-you thinking about the *what* and the *why* of citations. <br> <br>
+**Section 1** is all about learning the key terms and definitions and to
+get you thinking about the *what* and the *why* of citations. <br> <br>
 Activity: "Think-pair-share" discussions <br> <br> After completing
 Section 1 you should be able to:
 
@@ -401,8 +401,8 @@ passing/throwing a ball!
 
 ::: incremental
 **Section 3** looks at which stages in our work we should think about
-citations. <br> <br> Activity: Small group discussions
-<br> <br> After completing Section 3 you should be able to:
+citations. <br> <br> Activity: Small group discussions <br> <br> After
+completing Section 3 you should be able to:
 
 -   **Recognize** the main stages of research from ideas to producing a
     report, essay, journal article
@@ -424,7 +424,8 @@ After completing section 3 you should be able to:
     each of the four major research stages: planning, project, paper and
     publication.
 
-The main activity is small group reflection and discussion-based exercise 
+The main activity is small group reflection and discussion-based
+exercise
 :::
 
 ------------------------------------------------------------------------
@@ -551,15 +552,16 @@ discussions).
 ::: callout-note
 ## Definition
 
--   A reference to an information **source**, where the original author is
-    given **credit**.
+-   A reference to an information **source**, where the original author
+    is given **credit**.
 
 -   Citations map out the lineage of ideas upon which scholarship is
     built and informs what knowledge we **value** and whose knowledge we
     **platform**.
 
 -   Citations are a key **currency** in academia where more citations
-    equal more **prestige** (e.g. H-Index)[@sauvé].
+    equal more **prestige** (e.g. H-Index)
+    [@sauvePursuitCitationalJustice2025].
 :::
 
 For example, this definition cites work by Sauvé and colleagues from
@@ -595,15 +597,16 @@ question.
 ## Citations as a knowledge map
 
 ::: incremental
--   Citations play an important role in tracing the **conceptual** origins
-    and evolution of **ideas** during literature searches [@ghosal2021]
+-   Citations play an important role in tracing the **conceptual**
+    origins and evolution of **ideas** during literature searches
+    [@ghosal2021]
 
--   Citations are used to provide background **context** to piece of work,
-    particularly in introductory sections.
+-   Citations are used to provide background **context** to piece of
+    work, particularly in introductory sections.
 
 -   Some papers cite other works with closely tied research themes,
-    **build** on these ideas and **push** the boundaries of knowledge in new
-    directions.
+    **build** on these ideas and **push** the boundaries of knowledge in
+    new directions.
 :::
 
 ::: callout-tip
@@ -633,14 +636,14 @@ bibliometrics.
 
 ## Analyzing citation practices
 
-**Bibliometric** analyses can reveal patterns in citation practices (e.g.
-most cited papers or scholars and citational clusters)
+**Bibliometric** analyses can reveal patterns in citation practices
+(e.g. most cited papers or scholars and citational clusters)
 
 :::: {style="text-align: center;"}
 <img src="images/2_citation_map.png" style="width:40%;"/>
 
 ::: {style="font-size: 0.6em; margin-top: 0.5em;"}
-<em>Figure adapted from [@lin2022]</em>
+<em>Figure adapted from @lin2022 </em>
 :::
 ::::
 
@@ -672,8 +675,8 @@ explained.
 :::
 
 ::: column
--   A **node** is like a busy urban center with **links** to other nodes via
-    highways, where several nodes can form **clusters**
+-   A **node** is like a busy urban center with **links** to other nodes
+    via highways, where several nodes can form **clusters**
 
 -   Analogy: the Putuo, Hongkou, Sanlinzhen districts (*nodes*) have
     closer *links* forming city of Shanghai (*cluster*) compared to
@@ -716,7 +719,7 @@ one on the top left of the image.
 # Definition
 
 -   Hirsch's Index (H-Index) is an author-level metric used to assess
-    *productivity* and *impact* of publications [@hirsch2005]
+    *productivity* and *impact* of publications [@hirsch2005].
 
 -   It is calculated by the number of publications with citation number
     ≥ h (e.g. if a scholar has a total of 10 publications and 7 of those
@@ -764,8 +767,8 @@ publish a lot which links to:
 -   **Social, cultural** and **economic** factors: gender, race,
     ethnicity, nationality, socio-economic status, disability.
 
-Where these factors **interact** and **compound** resulting in disparities
-in citation rates.
+Where these factors **interact** and **compound** resulting in
+disparities in citation rates.
 :::
 
 ::: notes
@@ -798,18 +801,19 @@ in citation rates.
 -   Citation practices are not neutral as they reflect an academic
     system that is unequal
 -   There is lots of evidence to show citational biases towards
-    Anglophone racialized white men across disciplines [@sauvé]
+    Anglophone racialized white men across disciplines
+    [@sauvePursuitCitationalJustice2025].
 :::
 
 ::: callout-note
 ## Definition
 
--   Citation politics reflects **choices** scholars make in who they cite
-    and who they overlook in their work.
--   There are inherent **biases** and **systemic inequalities** that result
-    in epistemic hierarchies – that is the recognition and
+-   Citation politics reflects **choices** scholars make in who they
+    cite and who they overlook in their work.
+-   There are inherent **biases** and **systemic inequalities** that
+    result in epistemic hierarchies – that is the recognition and
     legitimization of **dominant** world views at the **exclusion** of
-    others knowledge systems [@sauvé]
+    others knowledge systems [@sauvePursuitCitationalJustice2025].
 :::
 
 ::: notes
@@ -822,9 +826,9 @@ they cite and who they overlook in their work.
 It is just not about merit - there are inherent *biases* and *systemic
 inequalities* that result in epistemic hierarchies – that is the
 recognition and legitimization of *dominant* world views at the
-*exclusion* of others knowledge systems (Sauve *et al.,* 2025).
+*exclusion* of others knowledge systems.
 
-In the next section we will look at citation politics in more detail
+In the next section we will look at citation politics in more detail.
 :::
 
 ------------------------------------------------------------------------
@@ -886,8 +890,8 @@ academia.
 -   This does not mean other marginalized scholars are not also
     experiencing a lack of citation!
 
--   Identities are **multifaceted**, where scholars with more marginalized
-    identities face **compounding barriers**
+-   Identities are **multifaceted**, where scholars with more
+    marginalized identities face **compounding barriers**
 :::
 
 ::: notes
@@ -958,10 +962,10 @@ inequities.
 ::: callout-note
 ## Mechanism levels
 
-**Systemic** emphasizes whole systems. **Structural** refers to the embedded
-policies/practices that provide scaffolding of systems. **Inter-personal**
-is about interactions and behaviors between people and teams
-[@braveman2022]. Mechanism levels can overlap!
+**Systemic** emphasizes whole systems. **Structural** refers to the
+embedded policies/practices that provide scaffolding of systems.
+**Inter-personal** is about interactions and behaviors between people
+and teams [@braveman2022]. Mechanism levels can overlap!
 :::
 
 ::: notes
@@ -1001,7 +1005,7 @@ mechanisms in the section earlier about barriers to publishing.
 ## Definitions
 
 -   **Plagiarism:** To present work ideas from another author or work as
-    one’s own *without crediting* the source [@park2003]
+    one’s own *without crediting* the source [@park2003].
 
 -   **Citational cliques:** A citational practice that describes how
     networks of authors or journal editors can game the system by
@@ -1055,13 +1059,14 @@ previous slides.
 -   **Linguistic privilege:** The operating language of academia is
     English. Native (or near native fluent) speakers hold more
     advantages than non-native speakers in publishing, peer review
-    process, citation rates and conferences [@müller2021]
+    process, citation rates and conferences
+    [@mullerWorldingGeographyLinguistic2021].
 
 -   **Inter/transdisciplinarity:** Scholars whose research covers
     multiple domains, especially in biological and health sciences, can
     be disadvantaged during the publishing process and are often
     evaluated the same as scholars working within a single domain
-    [@levitt2008]
+    [@levitt2008].
 :::
 
 ::: notes
@@ -1124,15 +1129,15 @@ The impact of biases and systemic inequalities in citation practices are
 **cumulative**:
 
 -   Scholars with more **advantages** (e.g. white male privilege,
-    citational cliques) are **more likely** to publish, be cited, receive
-    academic recognition and promotion and vice versa for scholars
-    experiencing barriers (e.g. sexism, racism, plagiarism).
+    citational cliques) are **more likely** to publish, be cited,
+    receive academic recognition and promotion and vice versa for
+    scholars experiencing barriers (e.g. sexism, racism, plagiarism).
 
 ::: callout-note
 ## Definition
 
-The **Matthew Effect** is a phenomenon coined by @merton1968 after the 'rich
-get richer; poor get poorer' saying in the Gospel of Matthew. It
+The **Matthew Effect** is a phenomenon coined by @merton1968 after the
+'rich get richer; poor get poorer' saying in the Gospel of Matthew. It
 describes the **self-reinforcing accumulation** of recognition and
 prestige within the academic system.
 :::
@@ -1159,7 +1164,7 @@ academic system.
 
 ## Group discussion exercise
 
-**Pass the discussion (ball)** 
+**Pass the discussion (ball)**
 
 1.  **Read** both case studies
 2.  **Think** about mechanisms and effects
@@ -1206,7 +1211,8 @@ studies:
 
 Gamifying discussions encourages all learners to contribute. Divergent
 questions have wider set of possible answers which facilitate deeper
-engagement with topic (University of Waterloo, n.d.). 15 minutes is the minimum amount of time needed for this activity. 
+engagement with topic (University of Waterloo, n.d.). 15 minutes is the
+minimum amount of time needed for this activity.
 
 Activity delivery mode:
 
@@ -1438,13 +1444,13 @@ within her research area.
 :::: incremental
 ::: {style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"}
 -   Citations are more than **referencing** a source of information
--   Citations practices (e.g. citational cliques) can be **mapped** using
-    **bibliometric analyses**
+-   Citations practices (e.g. citational cliques) can be **mapped**
+    using **bibliometric analyses**
 -   Extensive documented evidence to show citational **biases** and
     **systemic inequalities**, particularly against women (e.g. Matilda
     effect)
--   Citations are key **currency** in academia influencing hiring, funding
-    and promotion decisions
+-   Citations are key **currency** in academia influencing hiring,
+    funding and promotion decisions
 :::
 ::::
 
@@ -1500,7 +1506,7 @@ Suggestion: allow students 1 minute to write out some reflections.
 **Speaker Notes**:
 
 Section 2 focused on mechanisms that are mostly structural and here we
-will focus on individual actions to address citational disparities
+will focus on individual actions to address citational disparities.
 :::
 
 ------------------------------------------------------------------------
@@ -1546,8 +1552,8 @@ process and actual publishing research.
 
 ## Self and group reflection (I)
 
-This exercise aims to get you thinking about your own
-research process and when you think about citations.
+This exercise aims to get you thinking about your own research process
+and when you think about citations.
 
 1.  **Self-reflect** on question 1
 2.  **Discuss** answer to question 2 in small groups (next slide)
@@ -1586,7 +1592,7 @@ STEM subjects. See Colavizza et al. (2023).
 
 If moving around the classroom is not accessible to learners then
 encourage non-disabled learners to move to disabled person for group
-discussions. 
+discussions.
 :::
 
 ------------------------------------------------------------------------
@@ -1610,16 +1616,20 @@ think about citations?
 4.  [ ] **Publication:** (peer review process, publishing research)
 
 ::: notes
-
 **Speaker Notes**:
 
-Now is a chance to reflect and discuss in small groups at which stage of research you consider the most important to think about citations? I will randomly assign you groups and you will have about 8 minutes to discuss.
+Now is a chance to reflect and discuss in small groups at which stage of
+research you consider the most important to think about citations? I
+will randomly assign you groups and you will have about 8 minutes to
+discuss.
 
 **Instructor Notes**:
 
-Randomly assign people to small groups of 3 people minimum to discuss question 2.
+Randomly assign people to small groups of 3 people minimum to discuss
+question 2.
 
-Online delivery: It can be helpful to create Zoom breakout rooms with a timer before hand and then randomly assign learners into groups. 
+Online delivery: It can be helpful to create Zoom breakout rooms with a
+timer before hand and then randomly assign learners into groups.
 
 This question is designed for learners to think more broadly about how
 and when citations are relevant as they conduct their research. It is
@@ -1645,8 +1655,11 @@ happens throughout the research process.
 
 ::: callout-tip
 ## Mindfulness beyond citations
-Being mindful of our research processes extends to other practices too across the research life cycle. See our [Research Cycle Handbook!](https://lmu-osc.github.io/training/open-research-cycle.html) 
-:::    
+
+Being mindful of our research processes extends to other practices too
+across the research life cycle. See our [Research Cycle
+Handbook!](https://lmu-osc.github.io/training/open-research-cycle.html)
+:::
 
 ::: notes
 **Speaker Notes**:
@@ -1670,7 +1683,7 @@ al. that individuals can adopt in their own research stages.
 ## Tools and practices
 
 ::: {style="font-size: 0.6em; margin-top: 0.5em;"}
-<em>Adapted from @sauvé</em>
+<em>Adapted from @sauvePursuitCitationalJustice2025 </em>
 :::
 
 ::::::: {style="display: flex; gap: 1em;"}
@@ -1744,9 +1757,11 @@ audit
     and ways of working
 
 -   You are likely to do a self-audit multiple times in your educational
-    or academic career (e.g. during a **performance review**, **training needs analysis** or **appraisal**)
+    or academic career (e.g. during a **performance review**, **training
+    needs analysis** or **appraisal**)
 
--   Self-audits are a key part of professional or business **development**
+-   Self-audits are a key part of professional or business
+    **development**
 :::
 
 ::: callout-tip
@@ -1754,7 +1769,8 @@ audit
 
 Self-auditing is a process of **self- reflection** and **evaluation** of
 one’s knowledge, skills or practices and taking **accountability** by
-implementing plans to **improve** standards/performance [@middleton2025].
+implementing plans to **improve** standards/performance
+[@middleton2026].
 :::
 
 ::: notes
@@ -1790,8 +1806,8 @@ the learning process!
 
 -   There are a number of tools that help automate this process like
     Gender Balance Assessment Tool (GBAT) [@sumner2018; @sumner2024],
-    genderize, GCBI-alyzer [@fulvio]
-::: 
+    genderize, GCBI-alyzer [@fulvio].
+:::
 
 ::: notes
 **Speaker Notes**:
@@ -1812,12 +1828,13 @@ during the paper writing stage
 ## Gender Balance Assessment Tool (GBAT)
 
 ::: incremental
--   GBAT is an **automated web-based** tool that evaluates the **gender balance** of a bibliography list developed by @sumner2018 in response
-    to the chronic under citing of women in political science
+-   GBAT is an **automated web-based** tool that evaluates the **gender
+    balance** of a bibliography list developed by @sumner2018 in
+    response to the chronic under citing of women in political science
 
--   It works by **identifying** names from an author list, **estimating**
-    the gender **probability** for the whole author list to produce a
-    final **percentage estimate**
+-   It works by **identifying** names from an author list,
+    **estimating** the gender **probability** for the whole author list
+    to produce a final **percentage estimate**
 :::
 
 ::: callout-note
@@ -1917,8 +1934,8 @@ self-auditing tools longer term.
 
 ## Reporting citational diversity scores
 
--   You can use the scores generated from GBAT or other tools to **write**
-    part of a **citation diversity statement**
+-   You can use the scores generated from GBAT or other tools to
+    **write** part of a **citation diversity statement**
 -   These statements are used to **raise awareness** and **mitigate**
     citational inequities
 -   Citation diversity statements appear at the *start of reference
@@ -2028,13 +2045,13 @@ and a revisit of the pre-submodule survey and advanced exercises.
 :::: incremental
 ::: {style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;"}
 -   Citation politics recognizes citations as more than academic
-    bookkeeping. They are **choices** we make in whose knowledge is valued
-    or sidelined, reflecting the inherent **biases** and **systemic
-    inequalities** present in academia
+    bookkeeping. They are **choices** we make in whose knowledge is
+    valued or sidelined, reflecting the inherent **biases** and
+    **systemic inequalities** present in academia
 
 -   Citation politics matters because these inequalities are **unjust**,
-    leading to **epistemic hierarchies** that impact *individual scholars
-    livelihoods* and the wider **research ecosystem**
+    leading to **epistemic hierarchies** that impact *individual
+    scholars livelihoods* and the wider **research ecosystem**
 
 -   We all have a role to play in addressing these inequities by doing
     citational self-audits and adopting tools that promote
@@ -2506,7 +2523,7 @@ This Citation Politics module relates to the following module: <br> <br>
 **Zotero**
 
 -   Introductory slide decks (aimed at novices):
-    <https://lmu-osc.github.io/train-the-trainer-student-track-OS/materials/OS-M3/OS-M3-S1-Zotero/OS-M3-S1-Zotero.html> 
+    <https://lmu-osc.github.io/train-the-trainer-student-track-OS/materials/OS-M3/OS-M3-S1-Zotero/OS-M3-S1-Zotero.html>
 
 -   Self-paced tutorial:
     <https://lmu-osc.github.io/introduction-to-zotero/>
@@ -2514,29 +2531,28 @@ This Citation Politics module relates to the following module: <br> <br>
 ------------------------------------------------------------------------
 
 ## Citation diversity statement
+
 <br>
 
 ::: {style="background-color: #f0f0f0; padding: 0.7em; border-radius: 5px; font-size: 0.6em; text-align: justify;"}
 Citation practices are not neutral and disparities exist in whose
 knowledge is recognized and whose not, with women, Black, Indigenous,
 disabled and other marginalized groups consistently underrepresented in
-reference lists. 
+reference lists.
 
-To that end, we actively sought out papers from a range
-of disciplines, and researchers, with a bias towards uplifting Global
-Majority scholars. We assessed the gender diversity of our reference
-list using the Gender Balance Assessment Tool (GBAT) by @sumner2018.
-Names were identified from the author list, and an estimate of the
-gender balance was produced using proboblastic techniques, where the
-author list in this training module contains approximately 49.32% women
-and 50.68% men. 
+To that end, we actively sought out papers from a range of disciplines,
+and researchers, with a bias towards uplifting Global Majority scholars.
+We assessed the gender diversity of our reference list using the Gender
+Balance Assessment Tool (GBAT) by @sumner2018. Names were identified
+from the author list, and an estimate of the gender balance was produced
+using proboblastic techniques, where the author list in this training
+module contains approximately 49.32% women and 50.68% men.
 
-We acknowledge this method can misidentify an author's
-gender especially those with uncommon names, names common to both
-genders or identifying as non-binary, transgender or gender diverse. We
-strive to continually improve on the quality and diversity of our
-resources we draw upon in our training materials and are open to
-suggestions.
+We acknowledge this method can misidentify an author's gender especially
+those with uncommon names, names common to both genders or identifying
+as non-binary, transgender or gender diverse. We strive to continually
+improve on the quality and diversity of our resources we draw upon in
+our training materials and are open to suggestions.
 :::
 
 ------------------------------------------------------------------------

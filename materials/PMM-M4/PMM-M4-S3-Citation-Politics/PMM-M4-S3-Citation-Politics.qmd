@@ -1,10 +1,11 @@
 ---
 title: "4.3. Citation Politics"
+bibliography: references.bib
 ---
 
 # About these materials
 
-**Welcome!** This workshop aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercise. This workshop draws inspiration from Sauvé et al.'s 2025 [paper](https://osf.io/preprints/metaarxiv/qjecy_v2) on citational politics.
+**Welcome!** This workshop aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercise. This workshop draws inspiration from Sauvé et al.'s (2025) [paper](#0) on citational politics.
 
 ### Who are these materials for?
 
