@@ -1,28 +1,28 @@
 ---
-title: "Pedagogical tools for teaching Open Research"
+title: "Pedagogical tools for teaching open research"
 ---
 
 
 ## Welcome!
 
-On this page you will find **pedagogy materials and practical tips** on topics such as **critical didactic skills, didactics, activation methods for learners, leadership in open research and accessibility**  to successfully convey and deliver classes and workshops on Open Research topics to different audiences. 
+On this page you will find **pedagogy materials and practical tips** on topics such as **critical didactic skills, activation methods for learners, leadership in open research and accessibility**  to successfully convey and deliver classes and workshops on open research topics to different audiences. 
 
 ### What is the aim?
 
-The materials aim to **provide** you with **essential pedagogical skills** to share your Open Research knowledge and skills across **different teaching settings** (courses, seminars, workshops, in-person, virtual or hybrid settings) and **different audiences** (students, researchers, research support staff etc.). The materials consist of slide decks corresponding to a particular topic, presenter notes as well as supplementary materials such as home work assignments, extra exercises or cheatsheets. Detailed **presenter notes** (intended narrative of the presentation), further **instructor notes** (additional guidance intended only for the presenter) and **accessibility tips** (where applicable) serve as **guidance** through the materials.
+The materials aim to **provide** you with **essential pedagogical skills** to share your open research knowledge and skills across **different teaching settings** (courses, seminars, workshops, in-person, virtual or hybrid settings) and **different audiences** (students, researchers, research support staff etc.). The materials consist of slide decks corresponding to a particular topic, presenter notes as well as supplementary materials such as home work assignments, extra exercises or cheatsheets. Detailed **presenter notes** (intended narrative of the presentation), further **instructor notes** (additional guidance intended only for the presenter) and **accessibility tips** (where applicable) serve as **guidance** through the materials.
 
 ## Who are these materials for?
 
 **Educators in higher education** (e.g., universities, colleges) aiming to:
 
-- **Convey** foundational Open Research knowledge and skills to their learners
+- **Convey** foundational open research knowledge and skills to their learners
 - **Build upon** their teaching skills across different settings
 - **Boost their confidence** in their own teaching skills
-- **Learn** more about the surrounding issues and potential challenges of teaching about Open Research
+- **Learn** more about the surrounding issues and potential challenges of teaching about open research
 
 ## How can I use these materials?
 
-The materials are completely **free to use**, given that you provide an appropriate citation. Here is how you can use the materials:
+The materials are completely **free to use**, given that you add an appropriate citation (as provided below). Here is how you can use the materials:
 
 1. Use the **navigation bar** on the left to navigate through the different topics. The topics are divided into broader modules, which are arranged in a **chronological order**, meaning that they logically build up on one another. If you opt for the pick-and-choose-your-topic-style, make sure to thoroughly **read the prerequisites** for each topic. 
 
@@ -30,9 +30,11 @@ The materials are completely **free to use**, given that you provide an appropri
 
 3. Next, you will find the **slides corresponding to the topic** embedded in the website. You can navigate the slides in *Full Screen* using the arrow key, or by viewing the slides in *Speaker View* together with the *presenter and instructor notes* (recommended, see [here](https://quarto.org/docs/presentations/revealjs/presenting.html) for more information).
 
-4. The detailed **presenter notes**, **instructor notes** and **accessibility tips** provide information about the narrative of the materials, and many practical tips and guided examples how to convey the materials to your learners. 
+4. The detailed **presenter notes**, **instructor notes** and **accessibility tips** provide information about the narrative of the materials, and many practical tips and guided examples how to convey the materials to your learners.
 
-5. Once you are finished with a topic, you can use the *arrow on the bottom of the website* to navigate to the next topic. 
+5. **Adapt** the materials to your audience (group size, prior knowledge, educational background), or **use** the materials directly!
+
+6. Once you are finished with a topic, you can use the *arrow on the bottom of the website* to navigate to the next topic. 
 
 
 ## Getting started!
@@ -53,7 +55,7 @@ When you click the following button, it takes you to the first developed module,
 
 ## How can I give feedback on the materials?
 
-Do you feel like there is **content missing** from the slides? Do you want to share your own ideas about pedagogical activities you tried when teaching about Open Research? Have you spotted another **way to improve our materials**, or would like to add or **contribute** to the materials? **We would love to hear your feedback!** There are different ways to give feedback:
+Do you feel like there is **content missing** from the slides? Do you want to share your own ideas about pedagogical activities you tried when teaching about open research? Have you spotted another **way to improve our materials**, or would like to add or **contribute** to the materials? **We would love to hear your feedback!** There are different ways to give feedback:
 
 - **The quick and easy way**: Contact the program coordinator, [Sarah von Grebmer](mailto:s.grebmer@lmu.de) (LMU Open Science Center).
 
@@ -63,11 +65,11 @@ Do you feel like there is **content missing** from the slides? Do you want to sh
 
 1. **What previous teaching experience do I need?**
 
-  - No prior teaching experience is required! The materials will introduce you to the teaching basics. It is helpful if you have given a talk or presentation to an audience before. Also, it is critical that you know the audience you are teaching or going to teach. 
+  - No prior teaching experience is required! The materials will introduce you to the teaching basics. It is helpful if you have given any kind of presentation before.
   
-2. **Do I need to be familiar with Open Research to use these materials?**
+2. **Do I need to be familiar with open research to use these materials?**
 
-- Yes! We do require a basic familiarity with Open Research principles. This is because the aim of the current materials is to develop your pedagogical skills to convey your Open Research knowledge and skills to different audiences. We will work with practical examples directly from Open Research. If you feel like you need to develop your Open Research skills first, please browse the available self-paced tutorials in our [self-learning catalogue](https://ree-gupta.github.io/lmu-osc.github.io/training/self_training.html).
+- Yes! We do require a basic familiarity with open research principles. This is because the aim of the current materials is to develop your pedagogical skills to convey your open research knowledge and skills to different audiences. The pedagogy guidance and practical activities we provide draws upon open research practices (e.g., *navigating challenges to preregistration*). If you feel like you need to develop your open research skills first, please browse the available self-paced tutorials in our [self-learning catalogue](https://ree-gupta.github.io/lmu-osc.github.io/training/self_training.html).
 
 3. **I am not a member of the LMU Open Science Center, can I still use these materials to develop my skills?**
 
@@ -84,7 +86,7 @@ Please get in touch with the program coordinator, [Sarah von Grebmer](mailto:s.g
 
 ::: {.callout-note}
 ## How to cite these materials while they are work in progress
-Von Grebmer Zu Wolfsthurn, S., Middleton S., Ihle, M., & Schönbrodt, F. (2026). *Pedagogical tools for teaching Open Research*. LMU Open Science Center. Retrieved February 18, 2026, from [https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/)
+Von Grebmer Zu Wolfsthurn, S., Middleton S., Ihle, M., & Schönbrodt, F. (2026). *Pedagogical tools for teaching open research*. LMU Open Science Center. Retrieved February 18, 2026, from [https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/](https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/)
 :::
 
 Unless otherwise specified, the text, images and supplementary materials on these pages is licenced under a **CC-BY-SA-4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)**. It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.

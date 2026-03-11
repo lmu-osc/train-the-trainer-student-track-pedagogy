@@ -31,9 +31,9 @@ editor:
 <br>
 
 <p style="text-align:center;">
-
-<img src="images/cc-by-sa.png" alt="Creative Commons Attribution SA 4.0" style="width:160px;"/>
-
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution SA 4.0"
+  style="width:160px;" />
 </p>
 
 ::: {style="background-color: #f0f0f0; padding: 0.2em; border-radius: 2px; font-size: 0.6em;"}
