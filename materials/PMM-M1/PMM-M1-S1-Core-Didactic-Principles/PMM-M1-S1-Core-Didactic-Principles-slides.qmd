@@ -1,5 +1,5 @@
 ---
-title: "Constructional Alignment and Learning Goals"
+title: "Core didactic principles for teaching Open Research"
 author: "Sarah von Grebmer"
 date: "today"
 date-format: "DD/MM/YYYY"
@@ -8,7 +8,7 @@ format:
     css: ../../../slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../../OSC_FORRT_Logo.png  # Inserts logo in the bottom right corner (default)
+    logo: ../../../OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
@@ -22,45 +22,45 @@ execute:
   engine: knitr
 ---
 
-## Credit statement and licence
+## Licence
 
-Possible roles using the CRediT contribition system: 
+![Creative Commons Attribution 4.0](images/cc-by-sa.png)
 
-- **Conceptualization**: Ideas; formulation or evolution of overarching research goals and aims
-- **Methodology**: Development or design of methodology; creation of models
+This current work by Sarah von Grebmer zu Wolfsthurn and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-- **Software** : Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components
+::: {.notes}
+**Presenter Notes**: The Creative Commons Attribution 4.0 International (CC BY 4.0) license permits you to freely use, share, and adapt the licensed material for any purpose, including commercial use. This means you can copy, redistribute, remix, transform, and build upon the work without asking for permission.
 
-- **Validation**: Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs
-
-- **Formal analysis**: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data
-
-- **Investigation**: Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection
-
-- **Resources**: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools
-
-- **Data Curation**: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse
-
-- **Writing - Original Draft**: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)
-
-- **Writing - Review & Editing**: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre-or postpublication stages
-
-- **Visualization**: Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation
-
-- **Supervision**: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team
-
-- **Project administration**: Management and coordination responsibility for the research activity planning and execution
-
-- **Funding acquisition**: Acquisition of the financial support for the project leading to this publication
+However, there are some important conditions you must follow. You are required to give appropriate credit to the original creator, provide a link to the license, and indicate if you made any changes to the material. Additionally, you cannot apply any legal terms or technological measures that would restrict others from using the work under the same freedoms.
+:::
 
 ---
 
-### Prerequisites
+## Contribution statement
+  
+  
+**Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
-::: {.callout-important}
+**Reviewer**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+**Consultant**: Edelsbrunner, Peter (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-9102-1090](https://orcid.org/0000-0001-9102-1090))
+
+
+::: {.notes}
+**Presenter Notes**: These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
+
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+
+**Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
+:::
+
+---
+
 ## Prerequisites
 
-Before completing this submodule, please carefully read about the necessary prerequisites.
+::: {.callout-important}
+Before completing this submodule, please carefully read about the prerequisites.
 :::
 
 | Prerequisite   |  Description  | Link/Where to find it   |
@@ -68,11 +68,10 @@ Before completing this submodule, please carefully read about the necessary prer
 | Topic Name | Basic intro to X | Module + Submodule |
 | Software Name | Configuring the environment | [Download Link](https://quarto.org) |
 
-
 ::: {.notes}
-These are the **speaker notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these speaker notes, they are only visible to the presenter. 
+**Presenter Notes**: Script for the slide here. 
 
-There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+**Instructor Notes**: These are the prerequisites for this submodule. Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria. Outline any essential prerequisites (software, tools, other submodules etc.) here in table format. If you prefer bullet points to list the prerequisites, delete the table and use bullet points instead. 
 :::
 
 ---
@@ -188,8 +187,9 @@ Make it clear to the group that there will be a similar post-submodule survey to
 ![](images/experience-spectrum.png){width=100%, fig-align="center"}
 
 ::: notes
-For in-person participants: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences.
-Involve your audience as early as possible, so that they pay attention in case they get called upon. 
+**Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
+
+**Instructor Notes**: EDIT Subsequent evaluation: *in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon. 
 :::
 
 ---
@@ -217,8 +217,104 @@ For in-person participants: Get people to stand along imaginary line across the 
 ![](images/audience.png){width=100%, fig-align="center"}
 
 ::: notes
-For in-person participants: Get people to stand along imaginary line across the room in terms of how the audiences are they already train or teach. For online participants: Ask them to indicate their target audience size on the screen. Pick out two different people to discuss their repsectie target audiences.
+**Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
+
+**Instructor Notes**: EDIT Subsequent evaluation: *in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon. 
 :::
+
+---
+
+# Core didactic concepts and principles
+
+
+---
+
+
+## Learning goals
+
+
+---
+
+## What *is* learning?
+
+
+---
+
+
+## The importance of prior knowledge: constructivism
+
+
+---
+
+
+## Constructive alignment
+
+
+
+---
+
+
+## Setting learning goals
+
+
+---
+
+
+## Levels of "learning": Bloom's Taxonomy
+
+
+---
+
+
+## Formulating learning goals
+
+
+---
+
+
+## Recap
+
+
+---
+
+
+# Break!
+
+
+---
+
+
+# Course and lesson concept planning
+
+
+---
+
+
+## Logistics and general event parameters
+
+
+---
+
+## Probining and enhancing motivation in your learners
+
+
+---
+
+
+## Orientation at the start and the end
+
+
+---
+
+## Communicating learning goals
+
+
+---
+
+
+## Enhancing learning through feedback
+
+
 ---
 
 ## Constructivism in learning 
