@@ -222,7 +222,6 @@ Make it clear to the group that there will be a similar post-submodule survey to
 
 <br>
 <br>
-<br>
 
 ![](images/didactics-thoughts-spectrum.png){width=100%, fig-align="center"}
 
@@ -251,12 +250,9 @@ For in-person participants: Get people to stand along imaginary line across the 
 
 # Core didactic concepts and principles
 
-
 ---
 
-
 ## Learning goals for this session
-
 
 ---
 
@@ -339,11 +335,13 @@ Prior knowledge ... can help or hinder learning!
 <br>
 <br>
 
-**What Is an expert?**
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
-What is something that you are an expert in? How does your experience when you are acting as an expert differ from when you are not an expert?
+**What does *being an expert* mean?**
 
-This discussion should take about 5 minutes.
+What is something that **you are an expert in**?
+
+How does your **experience** when you are acting as an expert **differ** from when you are **not an expert**?
 
 </div>
 
@@ -357,12 +355,13 @@ This discussion should take about 5 minutes.
 
 ![](images/stages-skills-acquisition.png){width=100%, fig-align="center"}
 
+<br>
+<br>
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
 [https://carpentries.github.io/instructor-training/02-practice-learning.html](https://carpentries.github.io/instructor-training/02-practice-learning.html)
 
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: Novice: someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate. Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic as they rely on prior knowledge, without knowing what is or is not related yet.
@@ -388,12 +387,13 @@ It is common to think of a novice as a sort of an “empty vessel” into which 
 
 ![](images/models_learners.png){width=100%, fig-align="center"}
 
+<br>
+<br>
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
 [https://carpentries.github.io/instructor-training/04-expertise.html](https://carpentries.github.io/instructor-training/04-expertise.html)
 
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: A novice has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar.
@@ -415,11 +415,13 @@ A greater connectivity of a mental model allows expert to:
 <br>
 <br>
 
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
 **How is it for you?**
 
-Is there something that you are currently learning how to do? Can you identify things that would help you with *organizing* your knowledge in a mental model?
+Is there something that you are **currently learning how to do**? 
 
-This discussion should take about 5 minutes.
+Can you identify things that would help you with **organizing your knowledge** within a mental model?
 
 </div>
 
@@ -435,11 +437,12 @@ This discussion should take about 5 minutes.
 
 ## Enhancing the organisation of knowledge
 
-- Provide learners with a “big picture” or outline of your course
-- Use contrasting and boundary cases to highlight knowledge
+- Provide learners with a **big picture** or outline of your workshop/course
+- Use **contrasting and boundary cases** to highlight knowledge
 structures
-- Make connections to concepts explicit - encourage learners to make these connections themselves (sorting tasks, concept maps)
-- Monitor learners’ work for problems in their knowledge organisation
+- **Make connections** to concepts **explicit**
+  - Encourage learners to make these connections **themselves** (sorting tasks, concept maps)
+- Monitor learners’ work for problems in their knowledge organisation ADD EXAMPLE
 
 ::: {.notes}
 
@@ -454,12 +457,15 @@ structures
 
 ## Constructing knowledge
 
-- Knowledge is actively constructed by the learner, not imposed
-- Learners bring existing concepts to learning situations
-  - Existing ideas need to be incorporated into teaching in order to challenge/change these
-- Learners construct knowledge through interaction with physical world/ social settings and within specific cultural/linguistic environments
-- Learning environment is integrated into the learning process
 
+:::incremental
+- Knowledge is **actively constructed** by the learner, *not imposed*
+- Learners **bring existing concepts** to learning situations
+  - Existing ideas need to be **incorporated** into teaching in order to challenge/change these
+- Learners construct knowledge **through interaction** with physical world/ social settings and within specific cultural/linguistic environments
+  - The **learning environment** is integrated into the learning process
+
+:::
 
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
@@ -517,7 +523,7 @@ In a physics class, the goal is for students to use Newton’s Second Law to sol
 
 ![](images/objectives-hierarchy.png){width=100%, fig-align="center"}
 
-:::notes
+::: {.notes}
 **Presenter Notes**: Generally speaking, the instructor needs to formulate designated and specific learning objectives.
 
 When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
@@ -536,7 +542,133 @@ Specific objectives — Learning unit (lesson)
 
 ## Levels of "learning": Bloom's Taxonomy
 
-- Three learning domains: cognitive, affective, psychomotor (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)
+Three learning domains (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)
+
+- Cognitive: knowledge or thinking
+- Affective: growth in feelings or emotional areas (attitude or self)
+- Psychomotor: manual or physical skills
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.” Center for the Advancement of Teaching Excellence at the University of Illinois Chicago. Retrieved 10. Augut 2026 from [https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/](https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/)
+
+</div>
+
+
+---
+
+## Cognitive domain
+
+- Learning focused on expanding or buildung up knowledge and thinking skills
+
+- Widely implemented in education and typically connected to *Bloom's taxonomy*
+
+- *Example*: 
+  - Learning goal: Students will be able to analyze the causes of climate change and evaluate possible solutions. 
+  - Teaching activity: Evaluation of different possible solutions.
+  - Assessment task: Group presentation and discussion in class. 
+
+👉 This targets higher-order thinking (analysis + evaluation).
+
+
+::: {.notes}
+**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956).
+
+The cognitive domain has been the primary focus in education and has become shorthand for Bloom’s Taxonomy as a result. The cognitive domain is made up of six levels of objectives. These levels are organized by hierarchy, moving from foundational skills to higher-order thinking skills.
+
+In 2001 Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and this is the version of the taxonomy used today.
+
+Remember: retrieve relevant knowledge from memory.
+Understand: determine the meaning of instructional messages.
+Apply: use a procedure in a given situation.
+Analyze: break materials into components and determine how they work together.
+Evaluate: make judgments based on criteria and standards.
+Create: create a new or original work.
+
+:::
+
+---
+
+## Affective domain
+
+- Learning focused on identifying and developing attitudes and values of learners
+
+- *Example*:
+  - Learning goal: Students will actively engage with opposing viewpoints by asking clarifying questions and incorporating at least one alternative perspective into their own arguments.”
+  - Teaching activity: Arguing the opposing viewpoint in a panel discussion
+  - Assessment task: Writing a reflection essay incorporating and reflecting on the arguments discussed in class
+
+
+::: {.notes}
+**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated.  Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning.
+
+The affective domain contains five levels, from lowest to highest:
+
+Receiving: Willing to listen and receive knowledge.
+Responding: Actively participates and engages in knowledge transfer.
+Valuing: Finds value and worth in one’s learning with motivation to continue.
+Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
+Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
+
+:::
+
+
+---
+
+## Psychomotor domain
+
+- Learning focused on implementing, expanding and building physical skills, .e.g., through physical movement, coordination and motor skills
+
+- Measured in terms of speed, distance, precision or technical execution
+
+- *Example*:
+  - Learners will accurately perform CPR using correct hand placement and rhythm. 
+  - Teaching activity: Physical execution of CPR on mannequins with immediate feedback
+  - Assessment task: Each learner performs CPR on a mannequin in a simulated emergency scenario (1-2 minutes).
+
+
+
+::: {.notes}
+**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
+
+Perception: Use sensory cues to guide actions or movements.
+Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
+Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
+Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
+Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
+Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
+Origination: Create new procedures and solutions to approach various situations.
+
+:::
+
+---
+
+## Why use Bloom's taxonomy in your teaching?
+
+:::incremental
+
+- To align teaching with learning objectives by guiding lesson planning, activities, and instructional delivery
+
+- To support the creation of matching, reliable assessments that target *all* levels of understanding (not just memorization)
+
+- To enhance higher-order thinking (e.g., critical thinking) while improving metacognition, clarifying goals, and revealing misconceptions
+:::
+
+::: notes
+
+**Presenter Notes**: Bloom’s Taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
+Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s Taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
+2
+Bloom’s Taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking.  Bissell and Lemons (2006) used Bloom’s Taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course goals (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
+
+:::
+
+
+
+---
+
+## Learning goals within learning domains: Overview
+
 
 | cognitive  | affective      | psychomotoric          |
 |:-------:|:-------:|:-------:|
@@ -550,7 +682,19 @@ Specific objectives — Learning unit (lesson)
 
 
 :::notes
-**Presenter Notes**: Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
+**Presenter Notes**: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s Taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
+
+Bloom’s taxonomy emerged from a 1948 meeting of university educators – chaired by Benjamin Bloom – who brainstormed a theoretical model of learning that identified educational objectives to aid in the creation of testing items. The committee later expanded its initial framework to three learning domains:
+
+Cognitive: knowledge or thinking
+Affective: growth in feelings or emotional areas (attitude or self)
+Psychomotor: manual or physical skills
+
+
+
+
+
+Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
 
 Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
 
@@ -565,9 +709,64 @@ Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H. & Krathwohl, D. R. (Hr
 
 ---
 
+## Your turn!
+
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+Go back over the covered materials and teaching activities until now. 
+
+Using Bloom's taxonomy, formulate learning goals and assessment methods that match the content and the teaching activities so far. 
+
+Which level of Bloom's taxonomy are you at?
+
+</div>
+
+---
+
+## Your turn!
+
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+Match each **learning goal** with an **assessment type** and reflect the following:
+
+- Why does the assessment type fit the specific learning goal?
+- What teaching activities can you think of that would align with the learning goal and the corresponding assessment type?
+
+</div>
+
+---
+
+## Practical activity - EDIT
+
+| Learning goals (according to Bloom's taxonomy) | Assessment type |
+|-----------------------------|------------------|
+| A: *Create* a reproducible research pipeline | 1: Hand in a reflective essay on Open Science ethics |
+| B: *Understand* ethical implications of open access | 2: Generate a GitHub project and add a project wiki |
+| C: *Analyze* reproducibility issues in published studies | 3: Hand in a peer review of a report on open materials |
+| D: *Evaluate* transparency in empirical research | 4: Hand in a data management plan (DMP) |
+| E: *Apply* FAIR data principles to a dataset | 5: Write a critical review of an open dataset/paper |
+
+---
+
+## Practical activity - possible solutions
+
+| Field | Learning Goal (Bloom Level) | Assessment Type |
+|------|----------------------------|-----------------|
+| Psychology | *Analyze* reproducibility issues in published studies | Critical review of an open dataset/paper |
+| Biology | *Apply* FAIR data principles to a dataset | Data management plan (DMP) |
+| Computer Science | *Create* a reproducible research pipeline | GitHub project with documentation |
+| Economics | *Evaluate* transparency in empirical research | Peer review report using open materials |
+| Humanities | *Understand* ethical implications of open access | Reflective essay |
+
+---
 
 ## Formulating learning goals
-
 
 ---
 
