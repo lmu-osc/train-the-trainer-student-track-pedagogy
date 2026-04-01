@@ -24,33 +24,43 @@ execute:
 
 ## Licence
 
-![Creative Commons Attribution 4.0](images/cc-by-sa.png)
+<br>
 
-This current work by Sarah von Grebmer zu Wolfsthurn and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution 4.0 SA"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This work was originally created by [Mike Croucher ](https://github.com/mikecroucher) under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 SA International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It was subsequently adapted by [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html) during her time at Reproducible Research Oxford. This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [Creative Commons Universal Licence](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
+
+</div>
 
 ::: {.notes}
-**Presenter Notes**: The Creative Commons Attribution 4.0 International (CC BY 4.0) license permits you to freely use, share, and adapt the licensed material for any purpose, including commercial use. This means you can copy, redistribute, remix, transform, and build upon the work without asking for permission.
-
-However, there are some important conditions you must follow. You are required to give appropriate credit to the original creator, provide a link to the license, and indicate if you made any changes to the material. Additionally, you cannot apply any legal terms or technological measures that would restrict others from using the work under the same freedoms.
+**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights.
 :::
 
 ---
 
 ## Contribution statement
-  
-  
+
+<br>
+
 **Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
 [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
 **Reviewer**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
 
-**Consultant**: Edelsbrunner, Peter (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-9102-1090](https://orcid.org/0000-0001-9102-1090))
+**Consultant**: Schönbrodt, Felix (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910))
 
 
 ::: {.notes}
-**Presenter Notes**: These are the **presenter notes**. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
+**Presenter Notes**: These are the **presenter notes**. You will find a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter. 
 
-**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestons for acitivities and troubleshooting tips for issues your audience might run into. You can find these notes underneath the speaker notes.
+**Instructor Notes**: There are also **instructor notes**. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.
 
 **Accessibility Tips**: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities. 
 :::
@@ -63,10 +73,12 @@ However, there are some important conditions you must follow. You are required t
 Before completing this submodule, please carefully read about the prerequisites.
 :::
 
+<div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
 | Topic Name | Basic intro to X | Module + Submodule |
 | Software Name | Configuring the environment | [Download Link](https://quarto.org) |
+</div>
 
 ::: {.notes}
 **Presenter Notes**: Script for the slide here. 
@@ -80,8 +92,18 @@ Before completing this submodule, please carefully read about the prerequisites.
 
 - **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
 - Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop. 
+- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
 - Not applicable if this set of slides corresponds to the first submodule of a new module. 
+
+::: {.notes}
+**Presenter Notes**: Script for the slide here.
+
+**Instructor Notes**: <br>
+- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
+- Additional slides may need to be added depending on the nature of the homework assignments. 
+- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
+- Not applicable if this set of slides corresponds to the first submodule of a new module. 
+:::
 
 ---
 
@@ -179,14 +201,14 @@ Make it clear to the group that there will be a similar post-submodule survey to
 
 ## How much teaching experience do you have?
 
--   e.g., workshops, peer training, (guest) lectures etc. 
+-   e.g., workshops, peer training, (guest) lectures etc. on **Open Research** topics
 
 <br>
 <br>
 
 ![](images/experience-spectrum.png){width=100%, fig-align="center"}
 
-::: notes
+::: {.notes}
 **Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
 
 **Instructor Notes**: EDIT Subsequent evaluation: *in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon. 
@@ -196,13 +218,15 @@ Make it clear to the group that there will be a similar post-submodule survey to
 
 ## How much have you already thought about didactics?
 
+- When teaching about Open Research, have you considered **didactic elements** in you design and/or teaching style..?
+
 <br>
 <br>
 <br>
 
 ![](images/didactics-thoughts-spectrum.png){width=100%, fig-align="center"}
 
-::: notes
+::: {.notes}
 For in-person participants: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
 :::
 
@@ -210,13 +234,14 @@ For in-person participants: Get people to stand along imaginary line across the 
 
 ## How big are your teaching/training audiences?
 
-<br>
+- i.e., what is the average group size you teach? (< 5 people = very small, > 100 people = very large)
+
 <br>
 <br>
 
 ![](images/audience.png){width=100%, fig-align="center"}
 
-::: notes
+::: {.notes}
 **Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
 
 **Instructor Notes**: EDIT Subsequent evaluation: *in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon. 
@@ -230,37 +255,312 @@ For in-person participants: Get people to stand along imaginary line across the 
 ---
 
 
-## Learning goals
+## Learning goals for this session
 
 
 ---
 
 ## What *is* learning?
 
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+“...a **process** that leads to **change**, which occurs as a result of **experience** and increases the potential for improved performance and **future learning**”
+
+</div>
+
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., Norman, M. K., & Mayer, R. E. (2023), page 2-3.
+Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licenced under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+
+</div>
+
+
+::: {.notes}
+
+**Presenter Notes**:
+
+:::
+
 
 ---
 
+## Learning as a process (not a product)
 
-## The importance of prior knowledge: constructivism
+As a process, learning ...
+
+- is learner-centered and something that learners themselves "do"
+- involves a change in knowledge, beliefs, behaviours and attitude -> long-term impact on thinking and acting
+is active and self-controlled
+- is integrated in a broader context and a positive learning environment
+- is inferred from learners' products or performance
+
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., Norman, M. K., & Mayer, R. E. (2023), page 2-3.
+Efgivia et al. (2023)
+Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licenced under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+
+</div>
+
+::: {.notes}
+**Presenter Notes**: The first aspect we have to discuss is the process of learning from a conceptual point of view. What do we mean by learning? 
+
+As described in Efgivia et al,  learning is an active, student-centered process, where learners build knowledge internally rather than just simply receiving it from their teachers or instructors. It emphasizes learning as an active building of knowledge in the mean, with teachers being the facilitators who create a positive learning environment much more than being just the providers of information. In learning, it is not just about the individual. Instead, social interactions and collaborations with teachers and peers are important drivers of the learning process. 
+:::
+
+---
+
+# Constructivism
+
+---
+
+## The importance of prior knowledge
+
+Prior knowledge ... can help or hinder learning!
+
+:::incremental
+- Knowledge = facts, concepts, beliefs, values, models, perceptions, attitudes
+
+  - Can be **accurate**, complete and appropriate for context
+  - Can be **inaccurate**, incomplete or inappropriate for context
+  
+:::
+
+---
+
+## Your turn!
+
+<br>
+<br>
+
+**What Is an expert?**
+
+What is something that you are an expert in? How does your experience when you are acting as an expert differ from when you are not an expert?
+
+This discussion should take about 5 minutes.
+
+</div>
+
+::: {.notes}
+**Presenter Notes:** In reviewing the answers to the question above you will find that the expert experience amounts to much more than just knowing more facts. Competent practitioners can memorise a lot of information without any noticeable improvement to their performance. So, what makes an expert? The answer is that experts have more connections among pieces of knowledge that help them think and problem-solve quickly; more “short-cuts”, if you will.
+:::
+
+---
+
+## A model of skills acquisition
+
+![](images/stages-skills-acquisition.png){width=100%, fig-align="center"}
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+[https://carpentries.github.io/instructor-training/02-practice-learning.html](https://carpentries.github.io/instructor-training/02-practice-learning.html)
+
+</div>
+
+
+::: {.notes}
+**Presenter Notes**: Novice: someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate. Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic as they rely on prior knowledge, without knowing what is or is not related yet.
+
+Example: A novice learner in a Carpentries workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+
+Competent practitioner: someone who has enough understanding for everyday purposes. They will not know all the details of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal tasks with normal effort under normal circumstances.
+
+Example: A competent practitioner in a Carpentries workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+
+Expert: someone who can easily handle situations that are out of the ordinary.
+
+Example: An expert in a Carpentries workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
+
+Note that how a person feels about their skill level is not included in these definitions! You may or may not consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts. We will come back to the expertise of the Instructor and its impact – positive and negative – on teaching, in the next episode. For now, we are primarily concerned with novices, as this is The Carpentries’ primary target audience.
+
+It is common to think of a novice as a sort of an “empty vessel” into which knowledge can be “poured.” Unfortunately, this analogy includes inaccuracies that can generate dangerous misconceptions. In our next section, we will briefly explore the nature of “knowledge” through a concept that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications for how we teach.
+:::
+
+---
+
+## The organisation of prior knowledge
+
+![](images/models_learners.png){width=100%, fig-align="center"}
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+[https://carpentries.github.io/instructor-training/04-expertise.html](https://carpentries.github.io/instructor-training/04-expertise.html)
+
+</div>
+
+
+::: {.notes}
+**Presenter Notes**: A novice has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar.
+A competent practitioner has a mental model that is useful for everyday purposes. Most new information they are likely to encounter will fit well with their existing model. Even though many potential elements of their mental model may still be missing or wrong, predictions about their area of work are usually accurate.
+An expert has a densely populated and connected mental model that is especially good for problem solving. They quickly connect concepts that others may not see as being related. They may have difficulty explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
+
+A greater connectivity of a mental model allows expert to:
+
+- see connections between two topics or ideas that no one else can see
+- see a single problem in several different ways
+- know how to solve a problem, or “what questions to ask”
+- jump directly from a problem to its solution because there is a direct link between the two in their mind. Where a competent practitioner would have to reason “A therefore B therefore C therefore F”, the expert can go from A to F in a single step (“A therefore F”).
+:::
+
+---
+
+## Your turn!
+
+<br>
+<br>
+
+**How is it for you?**
+
+Is there something that you are currently learning how to do? Can you identify things that would help you with *organizing* your knowledge in a mental model?
+
+This discussion should take about 5 minutes.
+
+</div>
+
+::: {.notes}
+
+**Presenter Notes**:
+
+**Instructor Notes**:
+
+:::
+
+---
+
+## Enhancing the organisation of knowledge
+
+- Provide learners with a “big picture” or outline of your course
+- Use contrasting and boundary cases to highlight knowledge
+structures
+- Make connections to concepts explicit - encourage learners to make these connections themselves (sorting tasks, concept maps)
+- Monitor learners’ work for problems in their knowledge organisation
+
+::: {.notes}
+
+**Presenter Notes**:
+
+**Instructor Notes**:
+
+:::
 
 
 ---
 
+## Constructing knowledge
+
+- Knowledge is actively constructed by the learner, not imposed
+- Learners bring existing concepts to learning situations
+  - Existing ideas need to be incorporated into teaching in order to challenge/change these
+- Learners construct knowledge through interaction with physical world/ social settings and within specific cultural/linguistic environments
+- Learning environment is integrated into the learning process
+
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Sjoberg, 2010; Tauber, 2006
+
+</div>
+
+
+::: {.notes}
+**Presenter Notes**: This is where constructivism provides us with a solid theoretical framework that frames learning as this active process whereby knowledge is constructed. Within this framework, learning occurs when existing ideas are at odds with new information that is being presented. Therefore, existing ideas and knowledge need to be incorporated into the teaching process in order for learning to take place. 
+
+Following from this notion, it means that a core component of learning is the integration of new information with prior schemas. The question here is now: how exactly are old and new information integrated with each other? This is where the interaction with the physical world in a specific social setting, constraint by cultural and linguistic norms is crucial, therefore making the learning environment and the interaction with it another core component of the learning process in the constructivist framework. 
+:::
+
+---
 
 ## Constructive alignment
 
+Focus here on learning objectives: what do we want (our audience) to achieve?
 
+![](images/constructional-alignment.png){width=100%, fig-align="center"}
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Biggs, 1996
+
+</div>
+
+::: {.notes}
+**Presenter Notes**: Constructive alignment provides a clear framework and contributes to the optimal learning environment. It is about making sure that the structure of your course or your lesson supports the learning objectives you are aiming at. Constructive alignment means ensuring that three core elements, namely learning objectives/ outcomes, teaching/learning activities, and assessment tasks work together and are aligned with each other. If there is any misalignment, it can confuse students or make the learning process less effective. 
+
+For example (social sciences/ humanities):
+If you want students to critically analyze a text (learning outcome), you should teach them how to critically analyze texts (teaching activity) and then assess them on their ability to critically analyze texts (assessment task). But if your assessment is a multiple-choice test that does not require analysis, it creates a misalignment between your teaching methods and the way you are measuring student success. The outcome and assessment do not align, and students might not achieve the skills you intended.
+
+For example (hard sciences):
+In a physics class, the goal is for students to use Newton’s Second Law to solve real-world problems with friction and inclined planes. But lessons are mostly lectures and examples from the teacher, with no practice for students to solve problems themselves. Tests only ask definition questions instead of requiring calculations or problem-solving. Because of this, students can pass without learning the skills the goal describes.
+
+**Instructor Notes**: Ask if someone in your audience has already heard about this concept. Ask to provide examples.
+‘In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
+:::
 
 ---
 
 
 ## Setting learning goals
 
+![](images/setting-learning-goals-alice.png){width=100%, fig-align="center"}
+
+---
+
+## "Hierarchy" of learning objectives
+
+- What is the general objective of this course?
+- What are specific individual learning objectives?
+
+![](images/objectives-hierarchy.png){width=100%, fig-align="center"}
+
+:::notes
+**Presenter Notes**: Generally speaking, the instructor needs to formulate designated and specific learning objectives.
+
+When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
+
+What are the three types of learning objectives?
+Learning objective levels:
+General objectives — Course as a whole (e.g. WORD)
+Designated objectives — Subject area (e.g. formatting)
+Specific objectives — Learning unit (lesson)
+
+:::
+
 
 ---
 
 
 ## Levels of "learning": Bloom's Taxonomy
+
+- Three learning domains: cognitive, affective, psychomotor (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)
+
+| cognitive  | affective      | psychomotoric          |
+|:-------:|:-------:|:-------:|
+|            |                | origination            |
+| create     |                | adaptation             |
+| evaluate   | characterising | complex overt response |
+| analyse    | organising     | mechanism              |
+| apply      | valuing        | guided response        |
+| understand | responding     | set                    |
+| remember   | receiving      | perception             |
+
+
+:::notes
+**Presenter Notes**: Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
+
+Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
+
+Anderson and Krathwohl (2001) differentiated Bloom's six levels into a dimension of cognitive processes and a dimension of knowledge quality. Within each individual process dimension, they distinguish between factual knowledge (e.g. conceptual knowledge), conceptual knowledge (e.g. knowledge of concepts, theories, etc.), procedural knowledge (e.g. subject-specific skills) and metacognitive knowledge (e.g. strategic knowledge). In contrast to Bloom, Anderson and Krathwohl do not classify the assessment of, for example, a factual context as the most cognitively demanding process, but rather the creation of new knowledge or complex knowledge products. 
+
+Anderson, L. W. & Krathwohl, D. R. (Hrsg.). (2001). Taxonomy for Learning Teaching and Assessing. A Revision of Bloom’s Taxonomy of Educational Objectives. Addison Wesley Longman.
+Bloom, B.S. (Hrsg.). (1973). Taxonomie von Lernzielen im kognitiven Bereich (3. Aufl.). Beltz.
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H. & Krathwohl, D. R. (Hrsg.). (1956). Taxonomy of Educational Objectives. The Classification of Educational Goals, Handbook I: Cognitive Domain. David McKay Company, Inc.
+
+:::
 
 
 ---
@@ -319,82 +619,25 @@ For in-person participants: Get people to stand along imaginary line across the 
 
 ## Constructivism in learning 
 
-As a process, learning is ...
 
-- active and self-controlled
-- student-centered
-- integrated in a broader context and a positive learning atmosphere
-- social and emotional
-
-
-::: {style="font-size: 70%;"}
-Efgivia et al., 2021
-:::
-
-::: notes
-Use of interactive white board/ interactive document. <br>
-Collect interactively: Which factors were important for your learnng process during your lest workshop/seminar/course? When do you learn worst?
-:::
 
 ---
 
-## Constructivism: Core aspects
+## Constructive alignment
 
-- Knowledge is actively constructed by the learner, not imposed
-- Learners bring exisiting concepts to learning situations
-  - Existing ideas need to be incroporated into teaching in order to challenge/change these
-- Learners construct knowledge through interaction with physical world/ social settings and within specific cultural/linguistic environments
-- Learning environment is integrated into the learning process
 
-::: notes
-Ask what this could mean for the audience concretely. Call out specific names of audience members.
-:::
 
-::: {style="font-size: 70%;"}
-Sjoberg, 2010; Tauber, 2006
-:::
+
 
 ---
 
-## Constructional alignment
 
-Focus here on learning objectives: what do we want (our audience) to achieve?
-
-![](images/constructional-alignment.png){width=100%, fig-align="center"}
-
-::: {style="font-size: 70%;"}
-Biggs, 1996
-:::
-
-::: notes
-Ask if someone in your audience has already heard about this concept. Ask to provide examples.
-‘In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
-:::
-
----
-
-## "Hierarchy" learning objectives
-
-- What is the general objective of this course?
-- What are specific individual learning objectives?
-
-![](images/objectives-hierarchy.png){width=100%, fig-align="center"}
 
 ---
 
 ## Bloom's taxonomy
 
-- Three learning domains: cognitive, affective, psychomotor (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)
 
-| cognitive  | affective      | psychomotoric          |
-|:-------:|:-------:|:-------:|
-|            |                | origination            |
-| create     |                | adaptation             |
-| evaluate   | characterising | complex overt response |
-| analyse    | organising     | mechanism              |
-| apply      | valuing        | guided response        |
-| understand | responding     | set                    |
-| remember   | receiving      | perception             |
 
 ---
 
