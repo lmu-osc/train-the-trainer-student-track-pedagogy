@@ -509,6 +509,15 @@ In a physics class, the goal is for students to use Newton’s Second Law to sol
 
 ---
 
+## Examples
+
+Can you think of examples from your own experience on what aligned learning outcomes, assessment tasks and teaching activities could look like in practise?
+
+::: notes
+Example: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient. 
+:::
+
+---
 
 ## Setting learning goals
 
@@ -538,7 +547,6 @@ Specific objectives — Learning unit (lesson)
 
 
 ---
-
 
 ## Levels of "learning": Bloom's Taxonomy
 
@@ -626,8 +634,6 @@ Characterizing: Creates a value system that controls behavior. The behavior is p
   - Teaching activity: Physical execution of CPR on mannequins with immediate feedback
   - Assessment task: Each learner performs CPR on a mannequin in a simulated emergency scenario (1-2 minutes).
 
-
-
 ::: {.notes}
 **Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
 
@@ -689,9 +695,6 @@ Bloom’s taxonomy emerged from a 1948 meeting of university educators – chair
 Cognitive: knowledge or thinking
 Affective: growth in feelings or emotional areas (attitude or self)
 Psychomotor: manual or physical skills
-
-
-
 
 
 Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
@@ -768,6 +771,16 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 
 ## Formulating learning goals
 
+![](images/formulating-learning-objectives.png){width=100%, fig-align="center"}
+
+Example: Formulate one learning objective for your own seminar. 
+
+::: notes
+Pick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used. 
+:::
+
+---
+
 ---
 
 
@@ -814,55 +827,10 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 ## Enhancing learning through feedback
 
 
----
-
-## Constructivism in learning 
-
-
-
----
-
-## Constructive alignment
-
-
-
-
-
----
-
-
-
----
-
-## Bloom's taxonomy
-
-
 
 ---
 
 ## Additional slides on learning goals
-
----
-
-## Examples
-
-Can you think of examples from your own experience on what aligned learning outcomes, assessment tasks and teaching activities could look like in practise?
-
-::: notes
-Example: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient. 
-:::
-
----
-
-## Formulating learning objectives
-
-![](images/formulating-learning-objectives.png){width=100%, fig-align="center"}
-
-Example: Formulate one learning objective for your own seminar. 
-
-::: notes
-Pick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used. 
-:::
 
 ---
 
