@@ -1,5 +1,5 @@
 ---
-title: "Master Template Slides: Title of submodule"
+title: "Planning workshops and courses"
 author: "LMU Open Science Center"
 date: "today"
 date-format: "DD/MM/YYYY"
@@ -37,7 +37,7 @@ execute:
 </p>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This work was originally created by [Mike Croucher ](https://github.com/mikecroucher) under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 SA International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It was subsequently adapted by [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html) during her time at Reproducible Research Oxford. This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [Creative Commons Universal Licence](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
 
@@ -56,15 +56,9 @@ Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [C
 **Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
 [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
-**Creator**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
-
 **Reviewer**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
 
-**Consultant**: Schönbrodt, Felix (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0002-8282-3910](https://orcid.org/0000-0002-8282-3910))
-
-**Consultant**: Edelsbrunner, Peter (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-9102-1090](https://orcid.org/0000-0001-9102-1090))
-
-**Consultant**: Azevedo, Flavio (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
+**Consultant**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 
 
 ::: {.notes}
@@ -77,7 +71,7 @@ Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [C
 
 ---
 
-## Prerequisites
+## Prerequisites - EDIT
 
 ::: {.callout-important}
 Before completing this submodule, please carefully read about the prerequisites.
@@ -193,39 +187,189 @@ What do we see in the results?
 
 ---
 
-# Course and lesson concept planning
 
 
 ---
 
 
-## Logistics and general event parameters
+## Logistics and general framework
+
+Who is my audience?
+What is the event format? 
+How long is the event/course?
+Prior learning goals or learning materials?
+What do my learners connect with Open Science?
 
 
 ---
 
-## Probining and enhancing motivation in your learners
+## Probing and enhancing motivation in your learners
 
+
+---
+
+## Your turn!
+
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+
+Think back to open research courses/workshops/seminars you have taken in the past and  consider things that a teacher/trainer has **said or done** that you found either **motivating** or **demotivating**. Try to think of at least two examples for each, and share them with your  neighbour (5 minutes).
+
+</div>
+
+---
+
+## Motivating learners for open research
+
+People learn best when they care about a topic and believe they can
+master it with a reasonable investment of time and effort.
+- One option: start a lesson with something that is quick to learn and
+immediately useful for the learners.
+- Invite participation: establish norms for interaction
+- Encourage learners to learn from each other
+- Acknowledge confusion
+
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+
+[https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation](https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation)
+  
+</div>
+
+
+---
+
+## Embrace errors as part of the learning process
+
+
+Laura Carter slides
+
+---
+
+## Do not harm (carpentries slides)
+
+❌ Talk contemptuously or with scorn about any tool or practice.
+❌ Dive into complex or detailed technical discussion.
+❌ Pretend to know more than you do.
+❌ The word “just”, or other demotivating words.
+❌ Take over the learner’s keyboard.
+❌ Express surprise at unawareness. (Oh, you’ve never heard of Y?!)
+- [ ] Explore your [stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes) about learners
+
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+
+[https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm](https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm)
+  
+</div>
+
+::: {.notes}
+
+**Presenter Notes**: When learning a skill, we develop more than expert awareness gaps – we also develop opinions about tools and methods, and sometimes base a professional identity around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present serious hazards in the classroom! Here are a few things you should not do in your workshop:
+
+Talk contemptuously or with scorn about any tool or practice, or the people who use them. Regardless of its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so. Convincing someone to change their practices is much harder when they think you disdain them.
+Dive into complex or detailed technical discussion with the one or two people in the audience who clearly don’t actually need to be there. Reserve those conversations for breaks or follow-up emails.
+Pretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help. (Also see “Presenting the instructor as a learner,” above)
+Use the word “just” or other demotivating words we talked about in a previous episode. These signal to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.
+Take over the learner’s keyboard. It is rarely a good idea to type anything for your learners. Doing so can be demotivating for the learner (as it implies you don’t think they can do it themselves or that you don’t want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
+Express surprise at unawareness. Saying things like “I can’t believe you don’t know X” or “You’ve never heard of Y?” signals to the learner that they do not have some required pre-knowledge of the material you are teaching, that they don’t belong at the workshop, and it may prevent them from asking questions in the future. For more on this see the Recurse Center’s Social Rules.
+It can be difficult to avoid these demotivators entirely. Some people are so used to complaining about certain tools that they initially fail to realise they’re doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself – and your helpers! – to avoid these types of comments takes practice, but is well worth the effort.
+
+:::
+
+
+---
+
+## Recognize diverse motivation
+
+- Some learners may prioritise immediate task-related knowledge over
+fundamental concepts
+  - e.g., they have to submit a paper and want to learn about licencing
+- Recognise diverse motivations; not all novices share the same
+starting interests or passion for open research practices
+  - e.g., some are frustrated about code not being availabe, some have to "do open research" because the funders want it
+
+
+Remember: You are not your learners!
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+
+[https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners](https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners)
+  
+</div>
+
+
+---
+
+## Your turn!
+
+What motivates learners with respect to open research? Collect motivations of why learners would be interested in Open Research and engage in it. 
+
+
+---
+
+
+## Your own motivation matters as well!
+
+Motivating the Trainer 🡪 Why does it matter?
+- Learners mirror the trainer’s enthusiasm
+- Teaching is also learning; it demands motivation.
+- Trainers are self-motivated. Maintaining this motivation in the face of
+challenges enhances the teaching journey.
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+
+[https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners](https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners)
+  
+</div>
+
+
+---
+
+## Your turn!
+
+Activity: Why do you teach? What motivates you to teach? Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
 
 ---
 
 
 ## Orientation at the start and the end
 
+- Give your group a chance to get to know each other and find the shared goals/common groups
+- Deadlines and milestones?
+- Materials? 
+- Modality? Hybrid, homework, assessment?
+- Expectations
+- Accessibility
+
+Examples: 
+
+
 
 ---
 
 ## Communicating learning goals
 
+- Clearly state the journey and/or the learning goals for the session
+- Also state the broader learning goals and the bigger picture
+
+
+---
+
+## Assessing and activating learner's prior knowledge
+
+Concept: circle back to first slide deck and remind audience of importance of prior knowledge (Carter slides)
+Discuss how prior knowledge can be assessed and activated and give examples from Open Science
 
 ---
 
 
 ## Enhancing learning through feedback
 
----
+Carter slides
 
-## Additional slides on learning goals
+Receiving feedback, giving feedback to learners, feedback tips 
+
 
 ---
 
