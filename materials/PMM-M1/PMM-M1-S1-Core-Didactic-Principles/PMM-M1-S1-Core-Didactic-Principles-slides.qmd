@@ -1,5 +1,5 @@
 ---
-title: "Core didactic principles for teaching Open Research"
+title: "Core didactic principles for teaching open research"
 author: "Sarah von Grebmer"
 date: "today"
 date-format: "DD/MM/YYYY"
@@ -22,6 +22,17 @@ execute:
   engine: knitr
 ---
 
+## TO DO
+
+- [ ] check with day 1 outline google doc if all points were ccovered and if outline matches
+- [ ] sort out presenter notes
+- [ ] sort out instructor notes
+- [ ] sort out accessibility tips
+- [ ] sort out references and credit
+- [ ] reformat and use callout boxes? Or conditional formatting?
+
+---
+
 ## Licence
 
 <br>
@@ -33,7 +44,7 @@ execute:
 </p>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-This work was originally created by [Mike Croucher ](https://github.com/mikecroucher) under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 SA International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It was subsequently adapted by [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html) during her time at Reproducible Research Oxford. This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [Creative Commons Universal Licence](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
 
@@ -45,7 +56,7 @@ Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [C
 
 ---
 
-## Contribution statement
+## Contribution statement - EDIT
 
 <br>
 
@@ -67,7 +78,7 @@ Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [C
 
 ---
 
-## Prerequisites
+## Prerequisites - EDIT
 
 ::: {.callout-important}
 Before completing this submodule, please carefully read about the prerequisites.
@@ -88,92 +99,133 @@ Before completing this submodule, please carefully read about the prerequisites.
 
 ---
 
-## Questions from previous submodule
-
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
-
-::: {.notes}
-**Presenter Notes**: Script for the slide here.
-
-**Instructor Notes**: <br>
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
-:::
-
----
-
 ## Before we start: Survey time!
 
-- **Aim**: The pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
-
 ---
 
-**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+**What is your level of familiarity with Bloom's taxonomy?**
 
 a. I have never heard of it before.
 
-b. I have heard of it but have never worked with it.
+b. I have heard of it but have never implemented it in my teaching.
 
-c. I have basic understanding and experience with it.
+c. I have basic understanding and sometimes implement it in my teaching.
 
-d. I am very familiar and have worked with it extensively.
-
----
-
-**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
-
-a. Concept 1
-
-b. Concept 2
-
-c. Concept 3
-
-d. Concept 4
-
-e. I am not sure about any of these concepts.
+d. I am very familiar and have routinely applied this in my teaching.
 
 ---
 
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
-(1 = Not comfortable at all, 5 = Very comfortable)**
+**Which of the following concepts or skills do you feel most confident about in relation to didactics and teaching? (Select all that apply)**
 
-a. 1
+a. Constructivism
 
-b. 2
+b. Constructive alignment
 
-c. 3
+c. Cognitive learning outcomes
 
-d. 4
+d. Affective learning outcomes
 
-e. 5
+e. Formulating clear learning objectives
 
 ---
 
 ## Discussion of survey results
 
-- **Aim"**: Briefly examine the answers given to each question interactively with the group.
-- Use visuals from the survey to highlight specific answers.
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+What do we see in the results?
+
+</div>
 
 ::: {.notes}
-Make it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress.
+**Presenter Notes**: Let us have a look at these results. 
+
+**Instructor Notes**:
+
+- **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
+
+**Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
+
+---
+
+## Today's session journey
+
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+From
+
+*I am not sure what good teaching in open research involves*
+
+to
+
+*EDIT I feel more confident that I can pass on my knowledge of open research to my learners using evidence-based didactic frameworks*
+
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+
+:::
+
 
 ---
 
 ## Where are we at?
 
+**Previously**:
+
+- Getting to know the group
+- Laying out today's journey
+
+<div style="background-color: #f0f0f0;">
+**Up next**:
+
+- What is learning?
+- Constructivism
+- Constructive alignment
+- Learning domains
+- Levels of knowledge: Bloom's taxonomy
+- Hierarchy learning goals
+- Formulating concrete learning goals
+</div>
+
+
+::: {.notes}
+**Presenter Notes**: Script for the slide here.
+
+**Instructor Notes**:
 - **Aim**: Place the topic of the current submodule within a broader context.
-- Remind students what you are working towards and what the bigger picture is.
+- Remind learners what you are working towards and what the bigger picture is.
+:::
 
 ---
 
-## Learning goals
+## Key terms and definitions
+
+- **Aim**: Introduce key terms and definitions that learners will come across throughout the session.
+<br>
+
+- **Key Term 1**: Definition
+- **Key Term 2**: Definition
+- **Key Term 3**: Definition
+
+::: {.notes}
+**Presenter Notes**: Add script for slide here.
+
+**Instructor  Notes**: Base yourself on conceptual change theory and examine existing concepts in relation to some key terms. Re-examine the formation of new concepts at the end of the lesson. 
+:::
+
+---
+
+## Learning goals - TO DO
 
 - **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
 
@@ -181,27 +233,25 @@ Make it clear to the group that there will be a similar post-submodule survey to
 - Examples: 
   - Students will **describe** the process of photosynthesis or
   - Students will **construct** a diagram illustrating the process of photosynthesis
+  
+
+::: {.notes}
+**Presenter Notes**: Script for the slide here.
+
+**Instructor Notes**: <br>
+- **Aim**: Place the topic of the current submodule within a broader context.
+- Remind learners what you are working towards and what the bigger picture is.
+:::
 
 ---
 
-### Covered in in this session
-
-- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-
-**(for now copied from Didactis2 go, use as basis only)**
-
--   Constructivism
--   Constructive alignment
--   Setting learning goals
--   AVIVA-Schema
--   Activation methods
--   Reflection
+# Getting started!
 
 ---
 
 ## How much teaching experience do you have?
 
--   e.g., workshops, peer training, (guest) lectures etc. on **Open Research** topics
+- Workshops, peer training, (guest) lectures, seminars, lab presentations etc. on **open research** topics
 
 <br>
 <br>
@@ -218,7 +268,7 @@ Make it clear to the group that there will be a similar post-submodule survey to
 
 ## How much have you already thought about didactics?
 
-- When teaching about Open Research, have you considered **didactic elements** in you design and/or teaching style..?
+- When teaching about open research, have you considered **didactic elements** in you design and/or teaching style..?
 
 <br>
 <br>
@@ -226,14 +276,16 @@ Make it clear to the group that there will be a similar post-submodule survey to
 ![](images/didactics-thoughts-spectrum.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-For in-person participants: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
+**Presenter Notes**: For in-person participants: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
+
+**Instructor Notes**: ADD. 
 :::
 
 ---
 
 ## How big are your teaching/training audiences?
 
-- i.e., what is the average group size you teach? (< 5 people = very small, > 100 people = very large)
+- i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large)
 
 <br>
 <br>
@@ -241,18 +293,10 @@ For in-person participants: Get people to stand along imaginary line across the 
 ![](images/audience.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
+**Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learners*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
 
 **Instructor Notes**: EDIT Subsequent evaluation: *in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. For online participants: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they get called upon. 
 :::
-
----
-
-# Core didactic concepts and principles
-
----
-
-## Learning goals for this session
 
 ---
 
@@ -275,26 +319,26 @@ Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/r
 
 </div>
 
-
 ::: {.notes}
-
 **Presenter Notes**:
 
+**Instructor Notes**:
 :::
-
 
 ---
 
-## Learning as a process (not a product)
+## What *is* learning?
 
-As a process, learning ...
+:::incremental
+As a *process* (not a product), learning ...
 
-- is learner-centered and something that learners themselves "do"
-- involves a change in knowledge, beliefs, behaviours and attitude -> long-term impact on thinking and acting
-is active and self-controlled
-- is integrated in a broader context and a positive learning environment
-- is inferred from learners' products or performance
+- is **learner-centered** and something that learners themselves **"do"**
+- is **active** and **self-controlled**
+- is **integrated** in a broader context and a positive learning environment
+- is **shaped** by prior knowledge
+- is **inferred** from learners' products or performance
 
+:::
 
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
@@ -308,11 +352,32 @@ Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/r
 **Presenter Notes**: The first aspect we have to discuss is the process of learning from a conceptual point of view. What do we mean by learning? 
 
 As described in Efgivia et al,  learning is an active, student-centered process, where learners build knowledge internally rather than just simply receiving it from their teachers or instructors. It emphasizes learning as an active building of knowledge in the mean, with teachers being the facilitators who create a positive learning environment much more than being just the providers of information. In learning, it is not just about the individual. Instead, social interactions and collaborations with teachers and peers are important drivers of the learning process. 
+
+
+Additional references:
+
+The Psychology of Intelligence – Jean Piaget
+Mind in Society – Lev Vygotsky
+The Process of Education – Jerome Bruner
+Ernst von Glasersfeld (1995). Radical Constructivism: A Way of Knowing and Learning
+Catherine Twomey Fosnot (Ed.). (2013). Constructivism: Theory, Perspectives, and Practice
 :::
 
 ---
 
-# Constructivism
+## What *is* learing?
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+
+**Constructivism**: Learning is not passively received, but **actively built and shaped** by prior knowledge and the learning context (Fosnot, 2013).
+
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
@@ -326,6 +391,12 @@ Prior knowledge ... can help or hinder learning!
   - Can be **accurate**, complete and appropriate for context
   - Can be **inaccurate**, incomplete or inappropriate for context
   
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
 :::
 
 ---
@@ -347,6 +418,8 @@ How does your **experience** when you are acting as an expert **differ** from wh
 
 ::: {.notes}
 **Presenter Notes:** In reviewing the answers to the question above you will find that the expert experience amounts to much more than just knowing more facts. Competent practitioners can memorise a lot of information without any noticeable improvement to their performance. So, what makes an expert? The answer is that experts have more connections among pieces of knowledge that help them think and problem-solve quickly; more “short-cuts”, if you will.
+
+We will also talk more about assessing prior knowledge in the following submodules.
 :::
 
 ---
@@ -357,6 +430,7 @@ How does your **experience** when you are acting as an expert **differ** from wh
 
 <br>
 <br>
+
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
 [https://carpentries.github.io/instructor-training/02-practice-learning.html](https://carpentries.github.io/instructor-training/02-practice-learning.html)
@@ -364,19 +438,15 @@ How does your **experience** when you are acting as an expert **differ** from wh
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Novice: someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate. Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic as they rely on prior knowledge, without knowing what is or is not related yet.
+**Presenter Notes**: With increasing experience level, we move from one type of learner and mental model to another. Simplified, you could look at the types ot learners in terms no novice, competent practicioner, and expert. 
 
-Example: A novice learner in a Carpentries workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+- **Novice**: someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate. Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic as they rely on prior knowledge, without knowing what is or is not related yet. *Example*: A novice learner in a Open Access workshop might never have heard of the Green Open Access model, and therefore may have no understanding of how it affects both the authors of academic papers as well as the readers of papers. 
 
-Competent practitioner: someone who has enough understanding for everyday purposes. They will not know all the details of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal tasks with normal effort under normal circumstances.
+- **Competent practitioner**: someone who has enough understanding for everyday purposes. They will not know all the details of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal tasks with normal effort under normal circumstances. Example: A competent practitioner in the context of an Open Access workshop might be able to check funder's requirements, publish papers Open Access and uses open licences like Creative Commons licences. What they maybe do not know are the in-depth differences between Gold, Green and Diamond OA and the legel subtleties of copyright and all the different licences. 
 
-Example: A competent practitioner in a Carpentries workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+- **Expert**: someone who can easily handle typical situations and those that are out of the ordinary. Example: An expert publishes perhaps strategically across gold, green and diamond open access routes. Selects and applies different Creative Commons licences based on reuse goals. Trains others in Open Access practices and institutional policy. Consults on unusual situations, e.g., checks embargo policies and rights retention, recommends alternative journals, meaning that they adapt and apply the knowledge and skills flexibly depending on the situation. 
 
-Expert: someone who can easily handle situations that are out of the ordinary.
-
-Example: An expert in a Carpentries workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
-
-Note that how a person feels about their skill level is not included in these definitions! You may or may not consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts. We will come back to the expertise of the Instructor and its impact – positive and negative – on teaching, in the next episode. For now, we are primarily concerned with novices, as this is The Carpentries’ primary target audience.
+Note that how a person feels about their skill level is not included in these definitions! You may or may not consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts. 
 
 It is common to think of a novice as a sort of an “empty vessel” into which knowledge can be “poured.” Unfortunately, this analogy includes inaccuracies that can generate dangerous misconceptions. In our next section, we will briefly explore the nature of “knowledge” through a concept that helps us differentiate between novices and competent practitioners in a more useful and visual way. This, in turn, will have implications for how we teach.
 :::
@@ -417,7 +487,24 @@ A greater connectivity of a mental model allows expert to:
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
-**How is it for you?**
+Pick another topic from open research. **Sketch out** the mental model of a novice in comparison to a competent practitioner and an expert and **provide concrete examples** of how the organisation of knowledge differs among these three types of learners. 
+
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## What would help you organize your knowledge?
+
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
 Is there something that you are **currently learning how to do**? 
 
@@ -430,7 +517,6 @@ Can you identify things that would help you with **organizing your knowledge** w
 **Presenter Notes**:
 
 **Instructor Notes**:
-
 :::
 
 ---
@@ -449,14 +535,11 @@ structures
 **Presenter Notes**:
 
 **Instructor Notes**:
-
 :::
-
 
 ---
 
-## Constructing knowledge
-
+## Constructing knowledge - where to put this slide?
 
 :::incremental
 - Knowledge is **actively constructed** by the learner, *not imposed*
@@ -472,7 +555,6 @@ structures
 Sjoberg, 2010; Tauber, 2006
 
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: This is where constructivism provides us with a solid theoretical framework that frames learning as this active process whereby knowledge is constructed. Within this framework, learning occurs when existing ideas are at odds with new information that is being presented. Therefore, existing ideas and knowledge need to be incorporated into the teaching process in order for learning to take place. 
@@ -503,229 +585,8 @@ If you want students to critically analyze a text (learning outcome), you should
 For example (hard sciences):
 In a physics class, the goal is for students to use Newton’s Second Law to solve real-world problems with friction and inclined planes. But lessons are mostly lectures and examples from the teacher, with no practice for students to solve problems themselves. Tests only ask definition questions instead of requiring calculations or problem-solving. Because of this, students can pass without learning the skills the goal describes.
 
-**Instructor Notes**: Ask if someone in your audience has already heard about this concept. Ask to provide examples.
-‘In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
+**Instructor Notes**: Ask if someone in your audience has already heard about this concept. Ask to provide examples. In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
 :::
-
----
-
-## Examples
-
-Can you think of examples from your own experience on what aligned learning outcomes, assessment tasks and teaching activities could look like in practise?
-
-::: notes
-Example: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient. 
-:::
-
----
-
-## Setting learning goals
-
-![](images/setting-learning-goals-alice.png){width=100%, fig-align="center"}
-
----
-
-## "Hierarchy" of learning objectives
-
-- What is the general objective of this course?
-- What are specific individual learning objectives?
-
-![](images/objectives-hierarchy.png){width=100%, fig-align="center"}
-
-::: {.notes}
-**Presenter Notes**: Generally speaking, the instructor needs to formulate designated and specific learning objectives.
-
-When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
-
-What are the three types of learning objectives?
-Learning objective levels:
-General objectives — Course as a whole (e.g. WORD)
-Designated objectives — Subject area (e.g. formatting)
-Specific objectives — Learning unit (lesson)
-
-:::
-
-
----
-
-## Levels of "learning": Bloom's Taxonomy
-
-Three learning domains (https://teaching.uic.edu/cate-teaching-guides/syllabus-course-design/blooms-taxonomy-of-educational-objectives/)
-
-- Cognitive: knowledge or thinking
-- Affective: growth in feelings or emotional areas (attitude or self)
-- Psychomotor: manual or physical skills
-
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
-Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.” Center for the Advancement of Teaching Excellence at the University of Illinois Chicago. Retrieved 10. Augut 2026 from [https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/](https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/)
-
-</div>
-
-
----
-
-## Cognitive domain
-
-- Learning focused on expanding or buildung up knowledge and thinking skills
-
-- Widely implemented in education and typically connected to *Bloom's taxonomy*
-
-- *Example*: 
-  - Learning goal: Students will be able to analyze the causes of climate change and evaluate possible solutions. 
-  - Teaching activity: Evaluation of different possible solutions.
-  - Assessment task: Group presentation and discussion in class. 
-
-👉 This targets higher-order thinking (analysis + evaluation).
-
-
-::: {.notes}
-**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956).
-
-The cognitive domain has been the primary focus in education and has become shorthand for Bloom’s Taxonomy as a result. The cognitive domain is made up of six levels of objectives. These levels are organized by hierarchy, moving from foundational skills to higher-order thinking skills.
-
-In 2001 Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and this is the version of the taxonomy used today.
-
-Remember: retrieve relevant knowledge from memory.
-Understand: determine the meaning of instructional messages.
-Apply: use a procedure in a given situation.
-Analyze: break materials into components and determine how they work together.
-Evaluate: make judgments based on criteria and standards.
-Create: create a new or original work.
-
-:::
-
----
-
-## Affective domain
-
-- Learning focused on identifying and developing attitudes and values of learners
-
-- *Example*:
-  - Learning goal: Students will actively engage with opposing viewpoints by asking clarifying questions and incorporating at least one alternative perspective into their own arguments.”
-  - Teaching activity: Arguing the opposing viewpoint in a panel discussion
-  - Assessment task: Writing a reflection essay incorporating and reflecting on the arguments discussed in class
-
-
-::: {.notes}
-**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated.  Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning.
-
-The affective domain contains five levels, from lowest to highest:
-
-Receiving: Willing to listen and receive knowledge.
-Responding: Actively participates and engages in knowledge transfer.
-Valuing: Finds value and worth in one’s learning with motivation to continue.
-Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
-Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
-
-:::
-
-
----
-
-## Psychomotor domain
-
-- Learning focused on implementing, expanding and building physical skills, .e.g., through physical movement, coordination and motor skills
-
-- Measured in terms of speed, distance, precision or technical execution
-
-- *Example*:
-  - Learners will accurately perform CPR using correct hand placement and rhythm. 
-  - Teaching activity: Physical execution of CPR on mannequins with immediate feedback
-  - Assessment task: Each learner performs CPR on a mannequin in a simulated emergency scenario (1-2 minutes).
-
-::: {.notes}
-**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
-
-Perception: Use sensory cues to guide actions or movements.
-Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
-Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
-Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
-Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
-Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
-Origination: Create new procedures and solutions to approach various situations.
-
-:::
-
----
-
-## Why use Bloom's taxonomy in your teaching?
-
-:::incremental
-
-- To align teaching with learning objectives by guiding lesson planning, activities, and instructional delivery
-
-- To support the creation of matching, reliable assessments that target *all* levels of understanding (not just memorization)
-
-- To enhance higher-order thinking (e.g., critical thinking) while improving metacognition, clarifying goals, and revealing misconceptions
-:::
-
-::: notes
-
-**Presenter Notes**: Bloom’s Taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
-Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s Taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
-2
-Bloom’s Taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking.  Bissell and Lemons (2006) used Bloom’s Taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course goals (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
-
-:::
-
-
-
----
-
-## Learning goals within learning domains: Overview
-
-
-| cognitive  | affective      | psychomotoric          |
-|:-------:|:-------:|:-------:|
-|            |                | origination            |
-| create     |                | adaptation             |
-| evaluate   | characterising | complex overt response |
-| analyse    | organising     | mechanism              |
-| apply      | valuing        | guided response        |
-| understand | responding     | set                    |
-| remember   | receiving      | perception             |
-
-
-:::notes
-**Presenter Notes**: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s Taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
-
-Bloom’s taxonomy emerged from a 1948 meeting of university educators – chaired by Benjamin Bloom – who brainstormed a theoretical model of learning that identified educational objectives to aid in the creation of testing items. The committee later expanded its initial framework to three learning domains:
-
-Cognitive: knowledge or thinking
-Affective: growth in feelings or emotional areas (attitude or self)
-Psychomotor: manual or physical skills
-
-
-Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
-
-Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
-
-Anderson and Krathwohl (2001) differentiated Bloom's six levels into a dimension of cognitive processes and a dimension of knowledge quality. Within each individual process dimension, they distinguish between factual knowledge (e.g. conceptual knowledge), conceptual knowledge (e.g. knowledge of concepts, theories, etc.), procedural knowledge (e.g. subject-specific skills) and metacognitive knowledge (e.g. strategic knowledge). In contrast to Bloom, Anderson and Krathwohl do not classify the assessment of, for example, a factual context as the most cognitively demanding process, but rather the creation of new knowledge or complex knowledge products. 
-
-Anderson, L. W. & Krathwohl, D. R. (Hrsg.). (2001). Taxonomy for Learning Teaching and Assessing. A Revision of Bloom’s Taxonomy of Educational Objectives. Addison Wesley Longman.
-Bloom, B.S. (Hrsg.). (1973). Taxonomie von Lernzielen im kognitiven Bereich (3. Aufl.). Beltz.
-Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H. & Krathwohl, D. R. (Hrsg.). (1956). Taxonomy of Educational Objectives. The Classification of Educational Goals, Handbook I: Cognitive Domain. David McKay Company, Inc.
-
-:::
-
-
----
-
-## Your turn!
-
-<br>
-<br>
-
-<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-
-Go back over the covered materials and teaching activities until now. 
-
-Using Bloom's taxonomy, formulate learning goals and assessment methods that match the content and the teaching activities so far. 
-
-Which level of Bloom's taxonomy are you at?
-
-</div>
 
 ---
 
@@ -742,6 +603,12 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 - What teaching activities can you think of that would align with the learning goal and the corresponding assessment type?
 
 </div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
@@ -769,340 +636,335 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 
 ---
 
-## Formulating learning goals
+## Examples - EDIT
 
-![](images/formulating-learning-objectives.png){width=100%, fig-align="center"}
+Can you think of examples from your own experience on what aligned learning outcomes, assessment tasks and teaching activities could look like in practise?
 
-Example: Formulate one learning objective for your own seminar. 
+::: {.notes}
+**Presenter Notes**:
 
-::: notes
-Pick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used. 
+**Instructor Notes**: Example: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient. 
 :::
 
 ---
 
----
+## Setting learning goals
 
+![](images/setting-learning-goals-alice.png){width=100%, fig-align="center"}
 
-## Recap
+::: {.notes}
+**Presenter Notes**:
 
-
----
-
-
-# Break!
-
-
----
-
-
-# Course and lesson concept planning
-
-
----
-
-
-## Logistics and general event parameters
-
-
----
-
-## Probining and enhancing motivation in your learners
-
-
----
-
-
-## Orientation at the start and the end
-
-
----
-
-## Communicating learning goals
-
-
----
-
-
-## Enhancing learning through feedback
-
-
-
----
-
-## Additional slides on learning goals
-
----
-
-## Structuring your course
-
-- Check your working conditions: how much time do I have? How long are the sessions? Mielstones?
-- Plan time for orientation during first and last session: who is who? What is happening? What is expected? What remains unclear?
-- Formulate learning objectives for course
-- Formulate learning objectives for each session
-
----
-
-## Attitude towards your audience
-
-What can you do to create a positive learning environment?
-
-::: notes
-What do you think are key aspects of a positive attitude towards your audience? Collect on papers and then try to sort into  verbally, body language and methods.
+**Instructor Notes**:
 :::
 
 ---
 
-## Attitudes towards your audience: Verbal
+## "Hierarchy" of learning objectives
 
-- Small-talk (yes, it is important)
-- Call by name
-- Validate and show appreciation
-- Paraphrase what audience members express
-- Give tangible examples
-- Ask open questions
-- Accept silences
+- What is the general objective of this course?
+- What are specific individual learning objectives?
 
----
+![](images/objectives-hierarchy.png){width=100%, fig-align="center"}
 
-## Attitudes towards your audience: body language
+::: {.notes}
+**Presenter Notes**: Generally speaking, the instructor needs to formulate designated and specific learning objectives.
 
-- Maintain eye contact with students
-- Use non-verbal communication (shake head, use hands)
+When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
 
----
+What are the three types of learning objectives?
+Learning objective levels:
+General objectives — Course as a whole (e.g. WORD)
+Designated objectives — Subject area (e.g. formatting)
+Specific objectives — Learning unit (lesson)
 
-## Attitudes towards your audience: methods
-
-- Have introductory round
-- Motivate audience to get involved as early as possible
-- Observe the room
-- Use different visualisation methods/tools
-
-::: notes
-Collect examples for each one of the bullet points and what they could mean - add to the existing papers. 
 :::
 
 ---
 
-## Interactive teaching methods
+## Three domains of learning
 
-transition to activation method
+- **Cognitive**: knowledge or thinking
+- **Affective**: growth in feelings or emotional areas (attitude or self), values
+- **Psychomotor**: manual or physical skills, change in behaviours
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+
+Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.” Center for the Advancement of Teaching Excellence at the University of Illinois Chicago. Retrieved 10. Augut 2026 from [https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/](https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/)
+
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Cognitive domain
+
+- Learning focused on expanding or building up **knowledge and thinking skills** as learning outcome
+
+- Widely implemented in education and typically connected to *Bloom's taxonomy*
+
+- *Example*: 
+  - Learning goal: Students will be able to analyze the causes of climate change and evaluate possible solutions. 
+  - Teaching activity: Evaluation of different possible solutions.
+  - Assessment task: Group presentation and discussion in class. 
+
+::: {.notes}
+**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956).
+
+The cognitive domain has been the primary focus in education and has become shorthand for Bloom’s Taxonomy as a result. The cognitive domain is made up of six levels of objectives. These levels are organized by hierarchy, moving from foundational skills to higher-order thinking skills.
+
+In 2001 Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and this is the version of the taxonomy used today.
+
+- Remember: retrieve relevant knowledge from memory.
+- Understand: determine the meaning of instructional messages.
+- Apply: use a procedure in a given situation.
+- Analyze: break materials into components and determine how they work together.
+- Evaluate: make judgments based on criteria and standards.
+- Create: create a new or original work.
+
+:::
+
+---
+
+## Cognitive domain
+
+![](images/cognitive-domain.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Affective domain
+
+- Learning focused on identifying and developing **attitudes and values** of learners as learning outcome
+- Difficult to measure directly, but can be assessed through observable behaviours (e.g., appreciation, showing commitment, awareness of nuances)
+
+- *Example*:
+  - Learning goal: Students will actively engage with opposing viewpoints by asking clarifying questions and incorporating at least one alternative perspective into their own arguments.”
+  - Teaching activity: Arguing the opposing viewpoint in a panel discussion
+  - Assessment task: Writing a reflection essay incorporating and reflecting on the arguments discussed in class
+
+::: {.notes}
+**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated.  Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning.
+
+The affective domain contains five levels, from lowest to highest:
+
+Receiving: Willing to listen and receive knowledge.
+Responding: Actively participates and engages in knowledge transfer.
+Valuing: Finds value and worth in one’s learning with motivation to continue.
+Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
+Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
+
+:::
+
+---
+
+## Affective domain
+
+![](images/affective-domain.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Psychomotor domain
+
+- Learning focused on implementing, expanding and building **physical skills and behaviours**, .e.g., through physical movement, coordination and motor skills as learning outcomes (e.g., measured in terms of speed, precision or technical execution)
+
+- *Example*:
+  - Learners will accurately perform CPR using correct hand placement and rhythm. 
+  - Teaching activity: Physical execution of CPR on mannequins with immediate feedback
+  - Assessment task: Each learner performs CPR on a mannequin in a simulated emergency scenario (1-2 minutes).
+
+::: {.notes}
+**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
+
+Perception: Use sensory cues to guide actions or movements.
+Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
+Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
+Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
+Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
+Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
+Origination: Create new procedures and solutions to approach various situations.
+
+:::
+
+---
+
+## Psychomotor domain
+
+![](images/psychomotor-domain.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Learning goals within learning domains: Overview
+
+
+| cognitive  | affective      | psychomotoric          |
+|:-------:|:-------:|:-------:|
+|            |                | origination            |
+| create     |                | adaptation             |
+| evaluate   | characterizing | complex overt response |
+| analyse    | organizing     | mechanism              |
+| apply      | valuing        | guided response        |
+| understand | responding     | set                    |
+| remember   | receiving      | perception             |
+
+
+::: {.notes}
+**Presenter Notes**: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s Taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
+
+Bloom’s taxonomy emerged from a 1948 meeting of university educators – chaired by Benjamin Bloom – who brainstormed a theoretical model of learning that identified educational objectives to aid in the creation of testing items. The committee later expanded its initial framework to three learning domains:
+
+Cognitive: knowledge or thinking
+Affective: growth in feelings or emotional areas (attitude or self)
+Psychomotor: manual or physical skills
+
+Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
+
+Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
+
+Anderson and Krathwohl (2001) differentiated Bloom's six levels into a dimension of cognitive processes and a dimension of knowledge quality. Within each individual process dimension, they distinguish between factual knowledge (e.g. conceptual knowledge), conceptual knowledge (e.g. knowledge of concepts, theories, etc.), procedural knowledge (e.g. subject-specific skills) and metacognitive knowledge (e.g. strategic knowledge). In contrast to Bloom, Anderson and Krathwohl do not classify the assessment of, for example, a factual context as the most cognitively demanding process, but rather the creation of new knowledge or complex knowledge products. 
+
+Anderson, L. W. & Krathwohl, D. R. (Hrsg.). (2001). Taxonomy for Learning Teaching and Assessing. A Revision of Bloom’s Taxonomy of Educational Objectives. Addison Wesley Longman.
+Bloom, B.S. (Hrsg.). (1973). Taxonomie von Lernzielen im kognitiven Bereich (3. Aufl.). Beltz.
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H. & Krathwohl, D. R. (Hrsg.). (1956). Taxonomy of Educational Objectives. The Classification of Educational Goals, Handbook I: Cognitive Domain. David McKay Company, Inc.
+:::
 
 ---
 
 ## Your turn!
 
-Take 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in "class", with the rest acting as audience. 
+You are tasked to design a course module on Open Research practices and would like to include preregistration, open data and open access publishing. The learning goals for each learning domain are:
 
-::: notes
-Interactively ask participants to provide feedback on the selected method, delivery and improvement points.
+- Cognitive: Learners will be able to compare different open access publishing models and assess their advantages and limitations.
+
+- Affective: 
+
+- Psychomotor: Learners will be able to apply an open license (e.g., Creative Commons) correctly to an open data set.
+
+For each learning goal, design one assessment task, including an assessment method (checklist, scoring rubric etc.) and one observable metric of successfully achieving the learning goal.
+
+::: {.notes}
+
+**Instructor Notes**:  Example answers:
+
+- Cognitive: Students create a comparison brief analyzing at least two open access models (e.g., gold vs. green open access), including costs, accessibility, and author rights (assessment task). Use of examples and supporting arguments (metric). Scoring rubric with comparison depth, number or argument, quality (assessment tool)
+- Affective:
+- Psychomotor: 
+
 :::
 
 ---
 
-## Literature
+## Why use Bloom's taxonomy in your teaching?
 
-- Antosch-Bardohn, J. (2018): Nicht-intentionale
-Lernprozesse im Alltag von Studierenden. Logos Verlag.
+:::incremental
 
-- Antosch-Bardohn, J., Beege, B., & Primus, N. (2019). In die
-Lehre starten. UTB GmbH.
+- To align teaching with learning objectives by guiding lesson planning, activities, and instructional delivery
 
-- Antosch-Bardohn, J. (2019): "Für mein Thema brennen die
-Studis" - Lernmotivation in der Hochschullehre. In: Neues
-Handbuch Hochschullehre. Nummer 89, S. 1-18.
+- To support the creation of matching, reliable assessments that target *all* levels of understanding (not just memorization)
 
-- Hofmann, E. & Löhle, M. (2004). Erfolgreich lernen.
-Hogrefe Verlag.
+- To enhance higher-order thinking (e.g., critical thinking) while improving metacognition, clarifying goals, and revealing misconceptions
+:::
 
-- Kergel, D. & Heidkamp-Kergel, B. (2020). E-Learning, EDidaktik
-und digitales Lernen. Springer VS.
+::: {.notes}
+**Presenter Notes**: Bloom’s Taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
+Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s Taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
+2
+Bloom’s Taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking.  Bissell and Lemons (2006) used Bloom’s Taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course goals (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
 
----
-
-# Thank you!
+:::
 
 ---
 
-## Key terms and definitions
+## Formulating learning goals
 
-- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
+![](images/formulating-learning-objectives.png){width=100%, fig-align="center"}
+
+Example: A learning goal for this session was XXXX: 
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**: Pick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used. 
+:::
+
+---
+
+## Your turn!
+
+<br>
 <br>
 
-- **Key Term 1**: Definition
-- **Key Term 2**: Definition
-- **Key Term 3**: Definition
+
+1. Navigate to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/).
+
+2. Skim over the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. 
+
+3. Using Bloom's taxonomy, formulate three learning goals and assessment methods that match the content and the teaching activities of the tutorial.  
+Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 ::: {.notes}
-Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+**Presenter Notes**:
+
+**Instructor Notes**: Possible solutions:
+
+- Learners can **describe** the purpose and key features of Zotero (e.g., organizing references, generating citations). Bloom’s Level: Remember / Understand. Domain: Cognitive (knowledge & comprehension). Assessment method: survey or multiple choice quiz. 
+
+- Learners can **apply** Zotero to **add and organize** references in a library using tools like the Zotero Connector or manual entry. Bloom’s Level: Apply
+Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero collection and add minimum three references via manual entry, submit screenshot. 
+
+- Learners can **create and evaluate** a properly formatted bibliography using Zotero in a document. Bloom’s Level: Analyze / Evaluate. Domain: Cognitive (higher-order thinking). Assessment method: Insert citations into a word document and create a bibliography. Hand in file. 
 :::
 
 ---
-
-## Introduction of submodule topic
-
-- **Aim**: Core theoretical introduction of submodule topic.
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
-- Use multiple slides for this part.
-
-::: {.notes}
-For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break).
-:::
----
-
-## Submodule content slide
-
-- **Aim**: Present relevant content
-- Highlight particularly important aspects with Quarto call-out boxes, for example: 
-
-::: {.callout-important}
-## Important with Title
-
-This is an example of a callout box to highlight particularly important information.
-:::
-
-::: {.callout-tip}
-## Tip with Title
-
-This is an example of a callout box to give important tips. 
-:::
-
----
-
-## Practical exercise 1
-
-- **Aim**: Design more practical exercises for students to apply the new skills in practise.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your students need to be doing. 
-
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
----
-
-## Pre-break survey
-
-- **Aim**: This pre-break survey serves to examine students' current understanding of key concepts of the submodule
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
----
-
-**Which species is the largest type of penguin**?
-
-a. Chinstrap Penguin
-
-b. Emperor Penguin ✅
-
-c. Adélie Penguin
-
-d. King Penguin
-
----
-
-**What is the key biological feature that helps penguins swim efficiently?**
-
-a. Hollow bones for buoyancy
-
-b. Webbed feet for paddling
-
-c. Waterproof feathers and flipper-like wings ✅
-
-d. Gills to breathe underwater
-
----
-
-# Break! 15 minutes
-
----
-
-## Post-break survey discussion
-
-- **Aim**: To clarify concepts and aspects that are not yet understood
-- Highlight specific answers given during the survey
-
----
-
-## Practical Exercise 2
-
-- **Aim**: Design more practical exercises for students to apply the new skills in practise.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your students need to be doing. 
-
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-::: {.notes}
-For students who advance faster: Prepare extra exercises. 
-:::
-
----
-
-## Relevance and implications
-
-- **Aim**: To work out the relevance of the topic to your students.
-- In an interactive setting, discuss how the new skills could be applied in practise with specific examples.
-- Examine downfalls and practical obstacles.
 
 ---
 
 ## Take-home message
 
-**Aim**: End lesson on clear take-home message that are interactively compiled by students.
+- **Aim**: End lesson on clear take-home message that are interactively compiled by learners.
 
 ::: {.callout-tip}
 ## Tip with Title
-
 Add one practical tips or take-home message.
+:::
+
+::: {.notes}
+**Presenter Notes**: Script for the slide here. 
+
+**Instructor Notes**:
+
+- **Aim**: End lesson on clear take-home message that are interactively compiled by learners.
 :::
 
 ---
 
-## Assignment
-
-- **Aim**: Explain the homework assignment and the rationale behind the homework.
-- Examine whether/how it will be assessed
-- Mention scoring rubrics, if applicable
-- Design a peer-review system for assignments to place students in role of reviewer and author
+## Survey time!
 
 ---
 
-## To conclude: Survey time!
-
-- **Aim**: This post-submodule survey serves to examine students' current knowledge about the sumodule's topic.
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
-
----
-
-**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
-
-a. I have never heard of it before.
-
-b. I have heard of it but have never worked with it.
-
-c. I have basic understanding and experience with it.
-
-d. I am very familiar and have worked with it extensively.
-
----
-
-**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
-
-a. Concept 1
-
-b. Concept 2
-
-c. Concept 3
-
-d. Concept 4
-
-e. I am not sure about any of these concepts.
-
----
-
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
-(1 = Not comfortable at all, 5 = Very comfortable)**
+**How comfortable do you feel in formulating learning goals using Bloom's taxonomy? (1 = not confident at all, 5 = extremely confident**
 
 a. 1
 
@@ -1116,317 +978,61 @@ e. 5
 
 ---
 
+**Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
+
+a. Constructivism
+
+b. Constructive alignment
+
+c. Cognitive learning outcomes
+
+d. Affective learning outcomes
+
+e. Formulating clear learning objectives
+
+---
+
 ## Discussion of survey results
 
-- **Aim**: Briefly examine the answers given to each question interactively with the group.
-- Compare and highlight specific differences in answers between pre- and post-survey answers
+<br>
 
----
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
-## References
-
-- Provide literature you refer to throughout this lesson.
-
----
-
-# Thanks! <br>
-See you next class :)
-
----
-
-## Pedagogical add-on tools for instructors
-
-- This section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:
-  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.
-  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content.
-  - Extra exercises for faster students.	
-
----
-
-## Additional literature for instructors
-
-- References for content
-- References for pedagogical add-on tools	
-- Other resources (videos etc.)	
-
----
-
-# Formatting elements for instructors
-
-- **Aim**: This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
-
----
-
-## Text with example links
-
-- [Quarto Documentation](https://quarto.org/docs/)
-- [Reveal.js Documentation](https://revealjs.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub](https://github.com/)
-
----
-
-## Basic text formatting
-
-- **Bold:** `**bold**` → **bold**
-- *Italic:* `*italic*` → *italic*
-- ~~Strikethrough:~~ `~~text~~` → ~~text~~
-- `Inline code:` `` `code` `` → `code`
-- > Blockquote: `> Quote` →  
-  > "This is a quote"
-  
----
-
-## Figure with caption
-
-- Centered image and caption below in italics
-
-<div style="text-align: center;">
-  <img src="images/penguin.png" style="width:50%;" />
-  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>This is a Penguin.</em></div>
-</div>
-
----
-
-## Figure with bullet points
-
-```{=html}
-
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-
-  <!-- Left side: single image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="images/penguin.png" style="width: 100%;" />
-  </div>
-  
-```
-
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
-
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
+What do we see in the results?
 
 </div>
 
----
+::: {.notes}
+**Presenter Notes**: Let us have a look at these results. 
 
-## Side-by-side figures
+**Instructor Notes**:
 
-```{=html}
-<div style="display: flex; justify-content: center; gap: 2em; align-items: flex-start;">
+- **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
 
-  <div style="text-align: center; width: 45%;">
-    <img src="images/penguin.png" style="width: 100%;" />
-    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 1: Penguin</em></div>
-  </div>
-
-  <div style="text-align: center; width: 45%;">
-    <img src="images/seal.png" style="width: 100%;" />
-    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 2: Seal</em></div>
-  </div>
-
-</div>
-
-```
+**Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
+:::
 
 ---
 
-## Stacked figures with text
+## References {.smaller}
 
-```{=html}
+::: {#refs}
+:::
 
-<div style="display: flex; align-items: flex-start; gap: 0.5em;">
+::: {.notes}
+**Presenter Notes**: Script for the slide here. 
 
-  <!-- Left side: two images stacked vertically -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 0.5em;">
-
-    <img src="images/penguin.png" style="width: 60%;" />
-    <img src="images/seal.png" style="width: 60%;" />
-
-  </div>
-  
-```
-
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
-
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
-
-</div>
+**Instructor Notes**: Highlight particularly relevant reading for your learners in bold. 
+:::
 
 ---
 
-## Two-column text slide
+## CREDiT Contribution Statement
 
-<div style="display: flex; gap: 2em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.  
-  Cras venenatis euismod malesuada.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-</div>
+**Name main content creator**: Conceptualization, Software, Writing - Original Draft, Visualization. **Co-contributor**: Writing - Review & Editing, Supervision. **Sarah Von Grebmer Zu Wolfsthurn**: Conceptualization, Writing - Review & Editing, Supervision, Project Administration, Validation.
 
 ---
 
-## Three-column text slide
-
-<div style="display: flex; gap: 1em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 3**
-
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  </div>
-
-</div>
-
----
-
-## Simple table
-
-<div style="height: 2cm;"></div>
-
-
-| Column 1   | Column 2   | Column 3   |
-|------------|------------|------------|
-| Row 1 Cell | Row 1 Cell | Row 1 Cell |
-| Row 2 Cell | Row 2 Cell | Row 2 Cell |
-| Row 3 Cell | Row 3 Cell | Row 3 Cell |
-| Row 4 Cell | Row 4 Cell | Row 4 Cell |
-
----
-
-## Complex table
-
-<div style="height: 2cm;"></div>
-
-```{=html}
-
-<table style="border-collapse: collapse; width: 100%;">
-
-  <thead>
-    <tr style="background-color: #093; color: white; font-weight: bold;">
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 1</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 2</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 3</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;"> <!-- very light green -->
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-    </tr>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-    </tr>
-  </tbody>
-
-</table>
-
-```
----
-
-## Task list
-- [x] Done
-- [ ] To do
-
----
-
-## Embedding videos
-
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/q3uXXh1sHcI"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## Code blocks
-
-```{r}
-# A basic R code chunk
-x <- 1:10
-mean(x)
-
-
-# A simple plot
-hist(rnorm(100), main = "Histogram of Random Normals")
-
-```
-
----
-
-## Attribution and license details
-
-- This slide should contain information about the license and attribution details of this current set of slides. 
-
-- The default for the created materials is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
-  - = Creative Commons license that allows others to **share, adapt, and build upon** the original work
-  - **only** if they attribute the creator and also share their new work under the **same terms**
-  - allows for both **commercial and non-commercial** use of the licensed material
-
-- Components of attributions: 
-  - `Title`
-  - `Author`
-  - `Source`
-  - `License`
-
----
-
-## Example attribution (for previous slide)
-
-"[Tutorial template for student track](https://github.com/SvonGrebmer/Template-Slides-Students)" by Sarah von Grebmer is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
+# Thanks! :)
 
 ---
