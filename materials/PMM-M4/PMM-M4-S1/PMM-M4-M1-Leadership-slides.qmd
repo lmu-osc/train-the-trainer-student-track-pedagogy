@@ -26,7 +26,8 @@ execute:
 
 <br>
 
-**Creator**: Name, first name, (orcid)
+**Creator**: Middleton, Sara Lil
+(![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 
 **Reviewer**: Name, first name, (orcid)
 
@@ -81,18 +82,9 @@ Before completing this submodule, please carefully read about the necessary prer
 
 ---
 
+## Your leadership journey
 
-## Questions from previous submodule
-
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
-
-::: {.notes}
-**Speaker Notes**: Script for the presentation here. 
-:::
-
+<br> <br> From: *"I am not sure what the key aspects of effective leadership are or how to incorporate them into my context"* <br> <br> To: "*I feel I can critically evaluate my own leadership values and skills and feel empowered to adopt effective leadership practices in my context"*
 
 ---
 
@@ -174,12 +166,17 @@ e. 5
 
 ## Learning goals
 
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+**Aim**: . <br> <br>
 
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-- Examples: 
-  - Students will **describe** the process of photosynthesis or
-  - Students will **construct** a diagram illustrating the process of photosynthesis
+There are **4** sections to this submodule:
+
+-   **Section 1**: Introduction to leadership
+
+-   **Section 2:** Leadership skills
+
+-   **Section 3:** Open Science x Leadership shared values
+
+-   **Section 4:** Establishing culture
   
 ::: {.notes}
 **Speaker Notes**: Script for the presentation here. 
@@ -188,12 +185,16 @@ e. 5
 
 ---
 
-### Covered in in this session
+### Section 1: Learning goals and overview
 
-- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-- Topic 1
-- Topic 2
-- Topic 3
+::: incremental
+**Section 1** <br> <br>
+Activity:  <br> <br> After completing
+Section 1 you should be able to:
+
+- **Identify** and **describe** key leadership qualities 
+
+:::
 
 ::: {.notes}
 **Speaker Notes**: Script for the presentation here. 
@@ -201,6 +202,58 @@ e. 5
 
 
 ---
+
+### Section 2: Learning goals and overview
+
+::: incremental
+**Section 2** <br> <br>
+Activity:  <br> <br> After completing
+Section 2 you should be able to:
+
+- **Identify** and **describe** key leadership qualities 
+
+:::
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
+### Section 3: Learning goals and overview
+
+::: incremental
+**Section 3** <br> <br>
+Activity:  <br> <br> After completing
+Section 3 you should be able to:
+
+- **Identify** and **describe** key leadership qualities 
+
+:::
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
+### Section 4: Learning goals and overview
+
+::: incremental
+**Section 4** <br> <br>
+Activity:  <br> <br> After completing
+Section 4 you should be able to:
+
+- **Identify** and **describe** key leadership qualities 
+
+:::
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
 
 ## Key terms and definitions
 
@@ -229,10 +282,8 @@ e. 5
 
 ---
 
-## Submodule content slide
+## What is leadership?
 
-- **Aim**: Present relevant content
-- Highlight particularly important aspects with Quarto call-out boxes, for example: 
 
 ::: {.callout-important}
 ## Important with Title

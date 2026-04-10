@@ -1,0 +1,39 @@
+---
+title: "Leadership in Open Science: Skills, values and culture"
+---
+
+# About these materials
+
+**Welcome!** What makes a "good" leader? This workshop is the first of two workshops on leadership skills in Open Science. This workshop focuses on introducing key leadership concepts and examining how shared values of effective leadership and Open Science shapes the culture of how we lead. The workshop provides actionable tools and practices to support leaders in the Open Science arena from principle investigators (PIs), project leaders, Open Science ambassadors, advocates or champions, mentors, etc.
+
+### Who are these materials for?
+
+The target audience of this workshop is threefold:
+
+-   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **develop their pedagogical skills and leadership skills** in the context of open research by exploring critical issues connected to both open research and teaching open research practices to various audiences. You can follow the materials by chronologically going through the slides and following along the practical exercises. You **go at your own pace** and within your own time frame. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting.
+
+-   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **convey this topic to their learners** in a synchronous (in-person, virtual or hybrid) class-room setting. The slides can be directly presented in full screen below, with presenter and instructor notes providing guidance about the narrative of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint slides corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.
+
+[Full Screen](PMM-M4-M1-Leadership-slides.qmd)
+
+```{=html}
+<iframe class="slide-deck" src="PMM-M4-M1-Leadership-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+
+# Download files
+
+Download the csv file for the mtcars data: 
+
+{{< downloadthis assets/mtcars.csv dname="carz.csv" label="Download">}}
+
+ <!-- https://github.com/shafayetShafee/downloadthis -->
+<!--  https://cran.r-project.org/web/packages/downloadthis/vignettes/downloadthis.html -->
+
+# Export slides
+
+You can export these slides as PowerPoint by pressing the button below. Note that basic formatting will be applied. MAKE powerpoint template to use for export. 
+
+{{< downloadthis PMM-M4-M1-Leadership-slides.pptx dname="PMM-M4-M1-Leadership-slides.qmd" label="Download slides as PPTX">}}
+
+ <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
