@@ -51,22 +51,6 @@ This work by XXXX XXXX, Sara Lil Middleton and Sarah von Grebmer zu Wolfsthurn i
 
 ---
 
-## Prerequisites - table format
-
-::: {.callout-important}
-Before completing this submodule, please carefully read about the necessary prerequisites.
-:::
-
-| Prerequisite   |  Description  | Link/Where to find it   |
-|------------|------------|------------|
-| Topic Name | Basic intro to X | Module + Submodule |
-| Software Name | Configuring the environment | [Download Link](https://quarto.org) |
-
-::: {.notes}
-**Speaker Notes**: Script for the presentation here. 
-:::
-
----
 
 ## Prerequisites - bullet points
 
@@ -270,48 +254,31 @@ Section 4 you should be able to:
 
 ---
 
-## Introduction of submodule topic
+## Reflecting on "good" leaders
 
-- **Aim**: Core theoretical introduction of submodule topic.
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
-- Use multiple slides for this part.
+This exercise aims to get you thinking about what "good" leadership looks and feels like.
+
+1. self reflect (1 minute)
+2. Write down words, short phrases or sentences on shared white board
+3. Group discussion 
+
+::: callout-tip
+## Tip
+Think back to a time you had a role model within or outside academia that left a positive impression on you.
+:::
+
 
 ::: {.notes}
-**Speaker notes**: For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break).
+**Speaker notes**: 
 :::
 
 ---
 
-## What is leadership?
+## "Good" leadership qualities
+
+Add list here
 
 
-::: {.callout-important}
-## Important with Title
-
-This is an example of a callout box to highlight particularly important information.
-:::
-
-::: {.callout-tip}
-## Tip with Title
-
-This is an example of a callout box to give important tips. 
-:::
-
-::: {.notes}
-**Speaker Notes**: Script for the presentation here. 
-:::
-
----
-
-## Practical exercise 1
-
-- **Aim**: Design more practical exercises for students to apply the new skills in practise.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your students need to be doing. 
-
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
 
 ::: {.notes}
 **Speaker Notes**: Script for the presentation here. 
@@ -319,10 +286,18 @@ This is an example of a callout box to give important tips.
 
 ---
 
-## Pre-break survey
+## Diversity of leadership roles
+When we imagine a leader, we typically think about heads of state, CEOs or managers and in more academic contexts Principle Investigators (PIs) and supervisors.
 
-- **Aim**: This pre-break survey serves to examine students' current understanding of key concepts of the submodule
-- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
+However there are many more leadership roles such as:
+Mentors, coaches, special interest group leaders, community leaders, ambassadors, advocates, champions, tutors, lecturers, project leaders, governors, etc!
+
+::: callout-note
+## Note
+Leadership roles can have different levels of formality as they depend on the context.
+:::
+
+
 
 ::: {.notes}
 **Speaker Notes**: Script for the presentation here. 
@@ -330,38 +305,160 @@ This is an example of a callout box to give important tips.
 
 ---
 
-**Which species is the largest type of penguin**?
+## Formal leadership roles
+Features of formal leadership roles:  
 
-a. Chinstrap Penguin
+- Have responsibility and authority over others to achieve goals
 
-b. Emperor Penguin ✅
+- Officially recognized with position/title often appointed or elected
 
-c. Adélie Penguin
+- Usually some training
 
-d. King Penguin
+- More typical of more hierarchical organizations
 
----
 
-**What is the key biological feature that helps penguins swim efficiently?**
-
-a. Hollow bones for buoyancy
-
-b. Webbed feet for paddling
-
-c. Waterproof feathers and flipper-like wings ✅
-
-d. Gills to breathe underwater
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
 
 ---
 
-# Break! 15 minutes
+## Informal leadership roles
+Features of informal leadership roles:  
+
+- Takes initiative, influence and inspire others towards achieving shared goals
+
+- Doesn’t have formal leadership position/title
+
+- Not usually trained
+
+- Emerges organically in times of change
+
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
 
 ---
 
-## Post-break survey discussion
+## Diversity of leadership contexts
 
-- **Aim**: To clarify concepts and aspects that are not yet understood
-- Highlight specific answers given during the survey
+Within academic Open Science, you will find examples of both formal and informal leadership roles such as:
+
+- committees, lab groups, authorship teams, project teams, special interest groups (SIGs), degree courses and tutorials/workshops. 
+
+The time frame and level of responsibility of leaders varies. For example a lab group PI is likely to be leading the lab for multiple years compared to a researcher delivering a single workshop.
+
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
+## Leadership is about people
+
+Leadership is about people from ourselves, within our teams and at an institutional level.
+
+It is about engaging with different people who have different skill sets, values, socio-cultural identities and experiences
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+
+---
+
+## Leadership starts inwards
+
+Self leadership
+
+values, skills
+
+
+Values 
+
+values are: (e.g.)
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
+## Values matter
+
+Values shape the goals we set, culture of work and outcomes and wider impact of leadership 
+
+::: callout-note
+## Note
+In this workshop, the focus of values will be on learning and research culture and ways of working.
+:::
+
+
+::: {.notes}
+**Speaker Notes**: Script for the presentation here. 
+:::
+
+---
+
+## What matters to me?
+
+A list of values:
+
+::::::: {style="display: flex; gap: 1em;"}
+::: {style="flex: 1;"}
+
+
+Agency
+Creativity
+Team work
+Curiosity
+Critical thinking
+Rigor
+:::
+
+::: {style="flex: 1;"}
+
+Competence
+Openness
+Integrity
+Efficiency
+ Diversity
+Flexibility
+ 
+:::
+
+::: {style="flex: 1;"}
+
+
+
+:::
+
+::: {style="flex: 1;"}
+
+ 
+:::
+:::::::
+
+::: callout-tip
+## Reflection point
+Which values resonate with you?
+:::
+
+---
+
+## What influences our values?
+What we value is influenced by many factors including:
+
+- Personal experiences
+- Living environment (e.g. access to infrastructure)
+- Socio-cultural identity (e.g. gender)
+- Educational and research background (e.g. where we studied)
+- Working conditions (e.g. the work environment)
+- Institutional policies and metrics (e.g. publishing requirements)
+- Academic sector priorities (e.g. funding opportunities)
+
 
 ::: {.notes}
 **Speaker Notes**: Script for the presentation here. 
