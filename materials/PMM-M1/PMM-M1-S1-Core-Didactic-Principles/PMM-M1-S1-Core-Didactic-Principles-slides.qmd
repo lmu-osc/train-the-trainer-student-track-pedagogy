@@ -22,17 +22,6 @@ execute:
   engine: knitr
 ---
 
-## TO DO
-
-- [ ] check with day 1 outline google doc if all points were ccovered and if outline matches
-- [ ] sort out presenter notes
-- [ ] sort out instructor notes
-- [ ] sort out accessibility tips
-- [ ] sort out references and credit
-- [ ] reformat and use callout boxes? Or conditional formatting?
-
----
-
 ## Licence
 
 <br>
