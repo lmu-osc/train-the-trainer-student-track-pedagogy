@@ -17,9 +17,6 @@ website:
     style: "docked"
     collapse-level: 1
     contents:
-      - section: "Template Module"
-        contents:
-          - href: materials/PMM-template-module/PMM-template.qmd
       - section: "Module 1: Didactics 101"
         contents:
           - href: materials/PMM-M1/PMM-M1-S1-Core-Didactic-Principles/PMM-M1-S1-Core-Didactic-Principles.qmd
