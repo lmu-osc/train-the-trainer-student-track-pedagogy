@@ -22,7 +22,7 @@ website:
           - href: materials/PMM-template-module/PMM-template.qmd
       - section: "Module 1: Didactics 101"
         contents:
-          - href: materials/PMM-M1/PMM-M1-S1-Constructive-Alignment/PMM-M1-S1-Constructive-Alignment.qmd
+          - href: materials/PMM-M1/PMM-M1-S1-Core-Didactic-Principles/PMM-M1-S1-Core-Didactic-Principles.qmd
       - section: "Module 4: Leadership Skills"
         contents:
           - href: materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.qmd
