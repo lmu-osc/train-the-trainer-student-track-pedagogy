@@ -102,29 +102,39 @@ Before completing this submodule, please carefully read about the prerequisites.
 
 ---
 
+**Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
+
+a. Considering the learner's prior knowledge in the learning process
+
+b. Constructivism
+
+c. Constructive alignment
+
+d. Formulating clear learning objectives
+
+---
+
+**What is your level of familiarity with the three learning domains (cogntive, affective and psychomotor)?**
+
+a. I have never heard of them before.
+
+b. I have heard of them but have never considered them in my teaching.
+
+c. I have a basic understanding and sometimes implement them in my teaching.
+
+d. I am very familiar and have routinely applied them in my teaching.
+
+---
+
 **What is your level of familiarity with Bloom's taxonomy?**
 
 a. I have never heard of it before.
 
 b. I have heard of it but have never implemented it in my teaching.
 
-c. I have basic understanding and sometimes implement it in my teaching.
+c. I have a basic understanding and sometimes implement it in my teaching.
 
 d. I am very familiar and have routinely applied this in my teaching.
-
----
-
-**Which of the following concepts or skills do you feel most confident about in relation to didactics and teaching? (Select all that apply)**
-
-a. Constructivism
-
-b. Constructive alignment
-
-c. Cognitive learning outcomes
-
-d. Affective learning outcomes
-
-e. Formulating clear learning objectives
 
 ---
 
@@ -174,9 +184,7 @@ to
 **Presenter Notes**: Before we start, I would like to give you an overview of where we are going today. We will discuss this a little more later, but maybe some of you are here thinking, hm, I am unsure what it really means to do "good" teaching of open research topics. By the end of today, the plan is to boost your confidence in terms of your teaching skills and guide you step-by-step towards a great level of confidence, that you can pass your knowledge of open research on to novice learners through evidence-based practice. 
 
 **Instructor Notes**: It is important to provide the overall vision of this session so that learners understand where they are headed in relation to where they are at in terms of how they feel about this topic.
-
 :::
-
 
 ---
 
@@ -194,7 +202,7 @@ to
 - Constructive alignment
 - Learning domains
 - Levels of knowledge: Bloom's taxonomy
-- Formulating learning goals
+- Formulating learning objectives
 </div>
 
 
@@ -244,21 +252,21 @@ Some terms we will come across today...
 
 ---
 
-## Learning goals
+## Learning objectives
 
 At the end of this session, you will...
 
 :::incremental
 - **Understand** basic didactic concepts as the basis for learning success
 - **Analyze** how knowledge can be organized depending on the level of expertise
-- **Evaluate** the match between learning goals and assessment types
-- **Formulate** learning objectives using real-world examples and following the principle of constructive alignment
+- **Evaluate** the alignment between learning objectives, assessment types and teaching activities
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content
 :::
 
 ::: {.notes}
 **Presenter Notes**: These are the main learning objectives for today’s session.  First, you should be able to understand some basic didactic concepts that support effective learning and teaching. This gives us the theoretical foundation for the rest of the session.
 Second, you will analyze how knowledge can be structured differently depending on the learner’s level of expertise, for example, how novices and experts organize information in different ways.
-Third, you will evaluate whether learning goals and assessment methods are actually aligned and why this is important. In other words, does the assessment really measure the kind of learning we want students to achieve? Finally, you will formulate your own learning objectives using authentic examples and applying the principle of constructive alignment.
+Third, you will evaluate whether learning objectives and assessment methods are actually aligned and why this is important. In other words, does the assessment really measure the kind of learning we want students to achieve? Finally, you will formulate your own learning objectives using authentic examples and applying the principle of constructive alignment.
 
 Notice that I have highlighted the verbs in bold, we will come back to this later in this session.
 :::
@@ -336,14 +344,11 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-
 “...a **process** that leads to **change**, which occurs as a result of **experience** and increases the potential for improved performance and **future learning**”
-
 </div>
 
 
 <div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
 Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., Norman, M. K., & Mayer, R. E. (2023), page 2-3.
 Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licenced under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
 
@@ -565,22 +570,20 @@ Can you identify things that would help you with
 
 ## Enhancing the organisation of knowledge
 
-
 Some strategies ...
 
 :::incremental
-
 - Provide learners with a **big picture** or outline of your workshop/course
-- Clearly **lay out expectations or goals** for a session
+- Clearly **lay out expectations or objectives** for a session
 - Create **opportunities** to **discover** learners' prior knowledge
 - **Make connections** between concepts **explicit**
   - Encourage learners to make these connections **themselves** (sorting tasks, concept maps)
 - **Monitor** learners’ work **for problems** in their knowledge organization or mental model, e.g., add assessment tasks or progress trackers
+
 :::
 
 ::: {.notes}
-
-**Presenter Notes**: Some strategies could be: When designing a learning session, it is helpful to start by providing learners with a clear big picture or outline of the workshop or course so they understand how the content fits together. Alongside this, it is important to clearly lay out the expectations and goals for the session, so learners know what they are working toward.
+**Presenter Notes**: Some strategies could be: When designing a learning session, it is helpful to start by providing learners with a clear big picture or outline of the workshop or course so they understand how the content fits together. Alongside this, it is important to clearly lay out the expectations and objectives for the session, so learners know what they are working toward.
 
 From there, the instructor should create opportunities to discover learners’ prior knowledge, for example through questions, short activities, or discussions. This helps surface existing mental models that may support or interfere with new learning.
 
@@ -634,7 +637,7 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 </div>
 
 ::: {.notes}
-**Presenter Notes**: For this next exercise, I would like for you to match the assessment type with a given learning goal. We will learn more about learning goals and how to formulate them later. For now, focus on the alignment aspect: does the learning goal match with the assessment type?
+**Presenter Notes**: For this next exercise, I would like for you to match the assessment type with a given learning goal. We will learn more about learning objectives and how to formulate them later. For now, focus on the alignment aspect: does the learning goal match with the assessment type?
 :::
 
 ---
@@ -651,37 +654,32 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 </div>
 
 ::: {.notes}
-**Instructor Notes**: Ask for solutions. Solutions are:
-
+**Instructor Notes**: Discussion of solutions in the plenum and potential discussions. Solutions are:
 - A2
 - B3
 - C4
 - D1
-
 :::
 
 ---
 
-## Setting learning goals
+## Setting learning objectives
 
 ::: {.notes}
-**Presenter Notes**: We are coming to another core didatic principle besides prior knowledge, constructivism, mental models and constructive alignment, namely setting learning goals. 
+**Presenter Notes**: We are coming to another core didatic principle besides prior knowledge, constructivism, mental models and constructive alignment, namely setting learning objectives. 
 :::
 
 ---
 
-## Continue from here
-
----
-
-## Setting learning goals
+## Setting learning objectives
 
 ![](images/setting-learning-goals-alice.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: These quotes here represent the famous conversation between Alice and the Cheshire Cat in Alice in Wonderland. The key idea of the scene is decision-making and the importance of having a goal before choosing a direction. If you do not know where you are going, any road could potentially take you there. In this case, before asking how to get somewhere, you first need to know where you want to go. Just like Alice cannot choose the right path without knowing where she wants to go, instructors cannot effectively teach and obtain progress without clear learning objectives.
+Without clearly defined learning objectives, teaching and learning may lack direction and intentionality. Therefore, formulating and setting suitable learning objectives is a key skill of instructors, particularly in Open Science, which as a broad, interdisciplinary field with many obstacles that can sometimes feel too abstract or ideological to learners. 
 
-**Instructor Notes**:
+**Instructor Notes**: Emphasize the importance of clear learning objectives in the context of Open Science. Clear learning objectives create the direction that allows open science education to move from awareness toward genuine cultural and practical change in research, which is what is currently needed.
 :::
 
 ---
@@ -696,14 +694,12 @@ Match each **learning goal** with an **assessment type** and reflect the followi
 ::: {.notes}
 **Presenter Notes**: Generally speaking, the instructor needs to formulate designated and specific learning objectives.
 
-When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
+When preparing a teaching unit, it is important to gain an overview of the location of the learning objectives within this hierarchy to be pursued. Each learning objective is embedded in preceding and subsequent learning objectives. Previous learning achievements are an essential foundation for the successful acquisition of new knowledge and skills. At the same time, this knowledge prepares learners for the learning steps that follow. The learning objectives are not always on the same logical level. In order to reach the next level, it is necessary for learning success that the foundation of the lower levels has been laid.
 
-What are the three types of learning objectives?
-Learning objective levels:
-General objectives — Course as a whole (e.g. WORD)
-Designated objectives — Subject area (e.g. formatting)
-Specific objectives — Learning unit (lesson)
-
+What are the three levels  of learning objectives?
+- General objectives — Course as a whole (e.g. producing transparent and reproducible research)
+- Designated objectives — Subject area (e.g. use FAIR data principles when organizing and publishing research data)
+- Specific objectives — Learning unit (Upload a dataset to an open repository with appropriate metadata)
 :::
 
 ---
@@ -723,26 +719,27 @@ Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.�
 </div>
 
 ::: {.notes}
-**Presenter Notes**:
-
-**Instructor Notes**:
+**Presenter Notes**: Now, let's say we want to define our learning objectives, and we know where in the hierarchy we want to begin. We still do not fully know *where* we are going because we have to better define what we want our learners to take out of the course, the subject or the individual lesson. In other words, we need to be more specific in *what* we want our learners to learn. A useful framework is to divide learning goals into three domains. The first domain is the cognitive domain, which focuses on knowledge and thinking. The second domain is the affective domain, which focuses on feelings, attitudes, values, and personal growth. The third domain is the psychomotor domain, which focuses on physical or technical skills and behavioral change. Let us go through each one in more detail. 
 :::
 
 ---
 
 ## Cognitive domain
 
+:::incremental
 - Learning focused on expanding or building up **knowledge and thinking skills** as learning outcome
 
 - Widely implemented in education and typically connected to *Bloom's taxonomy*
 
 - *Example*: 
-  - Learning goal: Students will be able to analyze the causes of climate change and evaluate possible solutions. 
-  - Teaching activity: Evaluation of different possible solutions.
-  - Assessment task: Group presentation and discussion in class. 
+  - **Learning goal**: Learning will be able to analyze how open science practices improve research transparency and reproducibility
+  - **Teaching activity**: Evaluation and comparison of reproducible and non-reproducible research workflows or published studies
+  - **Assessment task**: Group presentation discussing strengths, limitations, and transparency of selected research practices or publications
+  
+:::
 
 ::: {.notes}
-**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956).
+**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956). Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
 
 The cognitive domain has been the primary focus in education and has become shorthand for Bloom’s Taxonomy as a result. The cognitive domain is made up of six levels of objectives. These levels are organized by hierarchy, moving from foundational skills to higher-order thinking skills.
 
@@ -755,6 +752,7 @@ In 2001 Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and
 - Evaluate: make judgments based on criteria and standards.
 - Create: create a new or original work.
 
+Example from Open Science: The learning goal focuses on analysis. Learners are expected to critically examine how open science practices contribute to transparency and reproducibility in research. This moves beyond memorisation and requires higher-order thinking, such as comparing, evaluating, and interpreting research processes. The teaching activity supports this goal by engaging learners in the evaluation and comparison of real or simulated research workflows. For example, they might look at a traditional analysis pipeline versus one that uses version control, preregistration, or shared data. The emphasis here is on identifying differences in structure, transparency, and reproducibility. Finally, the assessment task asks learners to demonstrate their understanding through a group presentation. This allows them to articulate strengths and limitations of different research practices and justify their evaluation using evidence. It also encourages discussion and collaborative reasoning, which is important when dealing with complex methodological topics such as Open Science. 
 :::
 
 ---
@@ -764,34 +762,46 @@ In 2001 Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and
 ![](images/cognitive-domain.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: This figure visualizes the learning goals associated with the cognitive learning domain. What you see is the pyramid of learning goals verbs by Anderson and Krathwohl. This is a revised version of Bloom’s Taxonomy and organizes learning objectives into a hierarchy of cognitive processes. It is often shown as a pyramid because it moves from simpler thinking skills at the base to more complex, higher-order thinking at the top.
 
-**Instructor Notes**:
+At the **Remember** level, learners recall basic facts and definitions. For example, they might remember what open science, preregistration, or FAIR data principles stand for without yet applying them.
+
+At the **Understand** level, learners explain concepts in their own words. For instance, they might describe why open science improves transparency and reproducibility, or summarize what problems in research the reproducibility crisis highlights.
+
+At the **Apply** level, learners use knowledge in a concrete situation. An example would be a student implementing open science practices in a small study, such as uploading data and code to an open repository or preregistering a simple experiment.
+
+At the **Analyze** level, learners break information into parts and examine relationships. For example, they might compare an open dataset with a traditionally published study to identify potential sources of bias, missing information, or differences in reproducibility.
+
+At the **Evaluate** level, learners make judgments based on criteria. In open science, this could involve critically assessing whether a published study’s open data and materials are sufficient for replication, or evaluating the quality and transparency of an open peer review process.
+
+At the **Create** level, learners produce new work by combining knowledge in original ways. For example, they might design a fully open research project with preregistration, open materials, reproducible code, and a public dataset, or extend an existing open dataset to ask a new research question.
+
+With respect to the example we just discussed, which level or levels do you think are we at when we think of the learning goal that was formulated?
 :::
 
 ---
 
 ## Affective domain
 
+:::incremental
 - Learning focused on identifying and developing **attitudes and values** of learners as learning outcome
-- Difficult to measure directly, but can be assessed through observable behaviours (e.g., appreciation, showing commitment, awareness of nuances)
+- Difficult to measure directly, but can be assessed through *observable behaviors* (e.g., appreciation, showing commitment, awareness of nuances)
 
 - *Example*:
-  - Learning goal: Students will actively engage with opposing viewpoints by asking clarifying questions and incorporating at least one alternative perspective into their own arguments.”
-  - Teaching activity: Arguing the opposing viewpoint in a panel discussion
-  - Assessment task: Writing a reflection essay incorporating and reflecting on the arguments discussed in class
+  - **Learning goal**: Learners will actively engage with with differing views on the pros and cons of preregistration by askingclarifying questions and incorporating at least one alternative viewpoint into their own arguments
+  - **Teaching activity**: Learners participate in a panel discussion in which they argue either the benefits or the limitations of preregistration in scientific research.
+  - **Assessment task**: Learners write a reflection essay in which they summarize the arguments presented during the discussion and reflect on how considering both the advantages and disadvantages of preregistration influenced their own perspective on open science practices.
+
+:::
 
 ::: {.notes}
-**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated.  Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning.
+**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated. Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning. They can still be assessed through observable behaviors, such as showing appreciation for alternative perspectives, demonstrating commitment to a discussion, asking thoughtful questions, or recognizing the nuances and complexities of an issue.
 
-The affective domain contains five levels, from lowest to highest:
+In this example, the learning goal is not simply for learners to know what preregistration is, but for them to actively engage with differing viewpoints about its advantages and disadvantages. Learners are expected to ask clarifying questions and incorporate alternative perspectives into their own arguments, demonstrating openness and reflective thinking.
 
-Receiving: Willing to listen and receive knowledge.
-Responding: Actively participates and engages in knowledge transfer.
-Valuing: Finds value and worth in one’s learning with motivation to continue.
-Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
-Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
+The teaching activity supports this goal through a panel discussion where learners argue either the benefits or the limitations of preregistration in scientific research. This encourages perspective-taking and respectful engagement with viewpoints they may or may not personally agree with.
 
+Finally, the assessment task is a reflection essay. Here, learners summarize the different arguments discussed in class and reflect on how engaging with both sides of the debate influenced their own perspective on preregistration and open science practices. This reflective component is central to assessing affective learning because it reveals how learners process, evaluate, and potentially revise their own attitudes and values.
 :::
 
 ---
@@ -801,33 +811,46 @@ Characterizing: Creates a value system that controls behavior. The behavior is p
 ![](images/affective-domain.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: The affective domain contains five levels, from lowest to highest:
 
-**Instructor Notes**:
+Receiving: Willing to listen and receive knowledge.
+Responding: Actively participates and engages in knowledge transfer.
+Valuing: Finds value and worth in one’s learning with motivation to continue.
+Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
+Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
+
+With respect to the example we just discussed, which level or levels do you think are we at when we think of the learning goal that was formulated?
 :::
 
 ---
 
 ## Psychomotor domain
 
+:::incremental
 - Learning focused on implementing, expanding and building **physical skills and behaviours**, .e.g., through physical movement, coordination and motor skills as learning outcomes (e.g., measured in terms of speed, precision or technical execution)
 
 - *Example*:
-  - Learners will accurately perform CPR using correct hand placement and rhythm. 
-  - Teaching activity: Physical execution of CPR on mannequins with immediate feedback
-  - Assessment task: Each learner performs CPR on a mannequin in a simulated emergency scenario (1-2 minutes).
+  - **Learning objective**: Learners will accurately upload, document, and share a research dataset in an open repository using appropriate metadata and licensing practices.
+  - **Teaching activity**: Hands-on workshop where learners practice preparing metadata, selecting appropriate licences and uploading to an open repository. 
+  - **Assessment task**: Each learner independently uploads a dataset and accompanying documentation to a repository with a suitable licence.
+
+:::
+
 
 ::: {.notes}
-**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
+**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. 
 
-Perception: Use sensory cues to guide actions or movements.
-Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
-Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
-Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
-Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
-Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
-Origination: Create new procedures and solutions to approach various situations.
+A straightforward example could be the following: 
 
+the learning goal is for learners to accurately perform CPR using correct hand placement and rhythm. This emphasizes not only knowing the steps of CPR cognitively, but being able to physically carry them out correctly in a practical situation.
+
+The teaching activity involves learners practicing CPR on mannequins while receiving immediate feedback. This hands-on practice is essential in the psychomotor domain because physical skills improve through repeated performance, correction, and refinement of technique.
+
+The assessment task places learners in a simulated emergency scenario where they must independently perform CPR for one to two minutes. This allows instructors to evaluate whether learners can execute the skill accurately and consistently under realistic conditions. The focus of assessment is therefore on observable performance and technical competence rather than only theoretical knowledge.
+
+For Open Science, it is a little harder to find a good example. Let's take correcly uploading and documenting a dataset using appropriate metadata and licensing. 
+
+The teaching activity provides guided, practical experience with preparing datasets and using an open repository. The assessment then evaluates learners’ ability to independently carry out these technical tasks accurately and correctly.
 :::
 
 ---
@@ -837,14 +860,22 @@ Origination: Create new procedures and solutions to approach various situations.
 ![](images/psychomotor-domain.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**:  For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
 
-**Instructor Notes**:
+- Perception: Use sensory cues to guide actions or movements.
+- Set: Demonstrates a readiness (physically, mentally, emotionally, and spiritually) to take action to perform the task or objective. (NOTE: This level of the Psychomotor domain is closely related to the “Responding to phenomena” level of the Affective domain).
+- Guided response: Knows steps required to complete the task or objective and  learns through trial and error by practicing.
+- Mechanism: Performs task or objective in a somewhat confident, proficient, and habitual manner.
+- Complex overt response: Performs task or objective in a confident, proficient, and habitual manner. Expert level, high proficiency and performs with accuracy.
+- Adaptation: Performs task or objective and can modify actions to account for new or problematic situations.
+- Origination: Create new procedures and solutions to approach various situations.
+
+With respect to the example we just discussed, which level or levels do you think are we at when we think of the learning goal that was formulated?
 :::
 
 ---
 
-## Learning goals within learning domains: Overview
+## Learning objectives within learning domains: Recap
 
 
 | cognitive  | affective      | psychomotoric          |
@@ -859,38 +890,33 @@ Origination: Create new procedures and solutions to approach various situations.
 
 
 ::: {.notes}
-**Presenter Notes**: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s Taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
+**Presenter Notes**: Let's recap: Bloom’s taxonomy is a hierarchical model used for classifying learning objectives by levels of complexity and specificity. Bloom’s Taxonomy was created to outline and clarify how learners acquire new knowledge and skills. Though the original intention of the taxonomy was to serve as an assessment tool, Bloom’s taxonomy is effective in helping instructors identify clear learning objectives as well as create purposeful learning activities and instructional materials.
 
-Bloom’s taxonomy emerged from a 1948 meeting of university educators – chaired by Benjamin Bloom – who brainstormed a theoretical model of learning that identified educational objectives to aid in the creation of testing items. The committee later expanded its initial framework to three learning domains:
+There are three learning domains:
+- Cognitive: knowledge or thinking
+- Affective: growth in feelings or emotional areas (attitude or self)
+- Psychomotor: manual or physical skills
 
-Cognitive: knowledge or thinking
-Affective: growth in feelings or emotional areas (attitude or self)
-Psychomotor: manual or physical skills
-
-Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. They help to structure the diversity of learning objectives hierarchically according to logical criteria. They are very useful for monitoring learning objectives. The best-known taxonomy is that of BLOOM.
-
-Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
-
-Anderson and Krathwohl (2001) differentiated Bloom's six levels into a dimension of cognitive processes and a dimension of knowledge quality. Within each individual process dimension, they distinguish between factual knowledge (e.g. conceptual knowledge), conceptual knowledge (e.g. knowledge of concepts, theories, etc.), procedural knowledge (e.g. subject-specific skills) and metacognitive knowledge (e.g. strategic knowledge). In contrast to Bloom, Anderson and Krathwohl do not classify the assessment of, for example, a factual context as the most cognitively demanding process, but rather the creation of new knowledge or complex knowledge products. 
-
-Anderson, L. W. & Krathwohl, D. R. (Hrsg.). (2001). Taxonomy for Learning Teaching and Assessing. A Revision of Bloom’s Taxonomy of Educational Objectives. Addison Wesley Longman.
-Bloom, B.S. (Hrsg.). (1973). Taxonomie von Lernzielen im kognitiven Bereich (3. Aufl.). Beltz.
-Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H. & Krathwohl, D. R. (Hrsg.). (1956). Taxonomy of Educational Objectives. The Classification of Educational Goals, Handbook I: Cognitive Domain. David McKay Company, Inc.
+Learning objectives can be assigned to different taxonomy levels. Taxonomies serve to organise learning objectives. The most-used taxonomy is the one for the cognitive learning domain. 
 :::
 
 ---
 
 ## Your turn!
 
-You are tasked to design a course module on Open Research practices and would like to include preregistration, open data and open access publishing. The learning goals for each learning domain are:
 
-- Cognitive: Learners will be able to compare different open access publishing models and assess their advantages and limitations.
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.6em; text-align: center;">
+*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. The learning objectives for each learning domain are:*
 
-- Affective: 
+- **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
-- Psychomotor: Learners will be able to apply an open license (e.g., Creative Commons) correctly to an open data set.
+- **Affective domain**: Learners will critically reflect on the benefits and challenges of open access publishing and demonstrate openness toward differing perspectives on accessibility and publication costs.
 
-For each learning goal, design one assessment task, including an assessment method (checklist, scoring rubric etc.) and one observable metric of successfully achieving the learning goal.
+- **Psychomotor domain**: Learners will accurately upload a manuscript to an open access repository and correctly apply metadata and an apprpriate license. 
+
+*For each learning goal, design one assessment task, including an assessment method (checklist, scoring rubric etc.) and define at least one observable metric of successfully achieving the learning goal.*
+</div>
+
 
 ::: {.notes}
 
@@ -904,37 +930,14 @@ For each learning goal, design one assessment task, including an assessment meth
 
 ---
 
-## Why use Bloom's taxonomy in your teaching?
-
-:::incremental
-
-- To align teaching with learning objectives by guiding lesson planning, activities, and instructional delivery
-
-- To support the creation of matching, reliable assessments that target *all* levels of understanding (not just memorization)
-
-- To enhance higher-order thinking (e.g., critical thinking) while improving metacognition, clarifying goals, and revealing misconceptions
-:::
-
-::: {.notes}
-**Presenter Notes**: Bloom’s Taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
-Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s Taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
-2
-Bloom’s Taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking.  Bissell and Lemons (2006) used Bloom’s Taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course goals (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
-
-:::
-
----
-
-## Formulating learning goals
+## Formulating learning objectives
 
 ![](images/formulating-learning-objectives.png){width=100%, fig-align="center"}
 
-Example: A learning goal for this session was XXXX: 
-
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Let's talk about the formulation of learning goals, which is visualized here. We need to first start with: who are we teaching? Next, the verbs matter! Pick them wisely in an active tense. Third, match the assessment task to your learning objective. Fourth, ensure the learning objective is measurable. 
 
-**Instructor Notes**: Pick a learning goal from previous examples or collect learning goals interactively. Examine learning goals more closely in the group and discuss what could be a suitable learning goal and why/why not. Focus on what verbs are being used. 
+It is best to practice this, so without any more explainations, let us get our hands dirty!
 :::
 
 ---
@@ -942,18 +945,15 @@ Example: A learning goal for this session was XXXX:
 ## Your turn!
 
 <br>
-<br>
 
+1. **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/).
 
-1. Navigate to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/).
+2. **Skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. 
 
-2. Skim over the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. 
-
-3. Using Bloom's taxonomy, formulate three learning goals and assessment methods that match the content and the teaching activities of the tutorial.  
-Which level of Bloom's taxonomy are you at and which domain are you targeting?
+3. Using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 **Instructor Notes**: Possible solutions:
 
@@ -967,13 +967,23 @@ Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero col
 
 ---
 
-## Take-home message
+## Take-home messages
 
-- **Aim**: End lesson on clear take-home message that are interactively compiled by learners.
+
+:::incremental
+- Learning in an **active process**, integrated in a larger **context** and strongly shaped by **prior knowledge and beliefs** (*constructivism*)
+
+- Different learners differ in their organization of prior knowledge: *experts* enjoy more connections and short-cuts among pieces of knowledge
+
+- Ensuring that learning objectives, the assessment tasks and the teaching activities **align** is key for a successful learning process(*constructive alignment*)
+
+- Before teaching, we need to know where we are going, i.e., **formulate**  learning objectives according to a suitable learning domain(s): **cognitive, affective, psychomotor**
+:::
 
 ::: {.callout-tip}
-## Tip with Title
-Add one practical tips or take-home message.
+## The formulation matters!
+
+Place a particular emphasis on the **verbs** when formulating learning objectives!
 :::
 
 ::: {.notes}
@@ -984,37 +994,46 @@ Add one practical tips or take-home message.
 - **Aim**: End lesson on clear take-home message that are interactively compiled by learners.
 :::
 
+
 ---
 
 ## Survey time!
 
 ---
 
-**How comfortable do you feel in formulating learning goals using Bloom's taxonomy? (1 = not confident at all, 5 = extremely confident**
+**Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
 
-a. 1
+a. Considering the learner's prior knowledge in the learning process
 
-b. 2
+b. Constructivism
 
-c. 3
+c. Constructive alignment
 
-d. 4
-
-e. 5
+d. Formulating clear learning objectives
 
 ---
 
-**Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
+**What is your level of familiarity with the three learning domains (cogntive, affective and psychomotor)?**
 
-a. Constructivism
+a. I have never heard of them before.
 
-b. Constructive alignment
+b. I have heard of them but have never considered them in my teaching.
 
-c. Cognitive learning outcomes
+c. I have a basic understanding and sometimes implement them in my teaching.
 
-d. Affective learning outcomes
+d. I am very familiar and have routinely applied them in my teaching.
 
-e. Formulating clear learning objectives
+---
+
+**What is your level of familiarity with Bloom's taxonomy?**
+
+a. I have never heard of it before.
+
+b. I have heard of it but have never implemented it in my teaching.
+
+c. I have a basic understanding and sometimes implement it in my teaching.
+
+d. I am very familiar and have routinely applied this in my teaching.
 
 ---
 
@@ -1040,20 +1059,28 @@ What do we see in the results?
 
 ---
 
-## References {.smaller}
+## Learning objectives - recap
 
-::: {#refs}
-:::
+At the end of this session, you will...
+
+- **Understand** basic didactic concepts as the basis for learning success ✔
+- **Analyze** how knowledge can be organized depending on the level of expertise ✔
+- **Evaluate** the alignment between learning objectives, assessment types and teaching activities ✔
+- **Formulate** concrete learning objectives according to specific learning domains for real-world content ✔
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
-
-**Instructor Notes**: Highlight particularly relevant reading for your learners in bold. 
+**Presenter Notes**: Looking back at the learning goals, this is what we achieved today. Great work! What are your questions?
 :::
 
 ---
 
-## Additional references
+## References {.smaller}
+
+Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives*. Addison Wesley Longman.
+
+Bloom, B. S. (Ed.). (1973). *Taxonomie von Lernzielen im kognitiven Bereich* (3. Aufl.). Beltz.
+
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (Eds.). (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I: Cognitive domain*. David McKay Company.
 
 Bruner, J. S. (1960). *The process of education*. Harvard University Press.
 
@@ -1065,16 +1092,17 @@ von Glasersfeld, E. (1995). *Radical constructivism: A way of knowing and learni
 
 Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
 
-
 ---
 
 # Thanks! :)
 
 ---
 
+# Additional content slides
+
 ---
 
-## Constructing knowledge - where to put this slide?
+## Constructing knowledge
 
 :::incremental
 - Knowledge is **actively constructed** by the learner, *not imposed*
@@ -1099,3 +1127,21 @@ Following from this notion, it means that a core component of learning is the in
 
 ---
 
+## Your turn: Why use Bloom's taxonomy in your teaching?
+
+:::incremental
+- To **align** teaching with learning objectives by guiding lesson planning, activities, and instructional delivery
+
+- To support the creation of matching, reliable assessments that target *all* levels of understanding (not just memorization)
+
+- To enhance higher-order thinking (e.g., critical thinking) while improving metacognition, clarifying objectives, and revealing misconceptions
+:::
+
+::: {.notes}
+**Presenter Notes**: Bloom’s Taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
+Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s Taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
+
+Bloom’s Taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking. Bissell and Lemons (2006) used Bloom’s Taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course objectives (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
+:::
+
+---
