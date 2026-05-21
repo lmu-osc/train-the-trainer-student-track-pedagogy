@@ -1,15 +1,15 @@
 ---
-title: "Planning workshops and courses"
+title: "Concept planning for Open Research workshops (and courses)"
 author: "LMU Open Science Center"
 date: "today"
 date-format: "DD/MM/YYYY"
 draft: true
 format: 
   revealjs:
-    css: ../../slides-custom.css # looks for css file in root
+    css: ../../../slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: ../../../OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
@@ -17,8 +17,8 @@ format:
   #pptx: 
     #css: ../../slides-custom.css # looks for css file in root
 
-bibliography: ../../assets/references.bib
-csl: ../../assets/apa.csl
+#bibliography: ../../assets/references.bib
+#csl: ../../assets/apa.csl
 
 execute:
   echo: true
@@ -80,23 +80,25 @@ Before completing this submodule, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
-| Topic Name | Basic intro to X | Module + Submodule |
-| Software Name | Configuring the environment | [Download Link](https://quarto.org) |
+| Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
-**Instructor Notes**: These are the prerequisites for this submodule. Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria. Outline any essential prerequisites (software, tools, other submodules etc.) here in table format. If you prefer bullet points to list the prerequisites, delete the table and use bullet points instead. 
+**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning goals. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research. 
+
+**Instructor Notes**: These are the prerequisites for this submodule. Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria.
 :::
 
 ---
 
 ## Questions from previous submodule
 
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+What are your questions from the previous session?
+</div>
 
 ::: {.notes}
 **Presenter Notes**: Script for the slide here. 
@@ -105,6 +107,58 @@ Before completing this submodule, please carefully read about the prerequisites.
 - Additional slides may need to be added depending on the nature of the homework assignments. 
 - Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
 - Not applicable if this set of slides corresponds to the first submodule of a new module. 
+:::
+
+---
+
+## Key terms and definitions
+
+- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
+<br>
+
+- **ARIPE scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
+- **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence. 
+- **Key Term 3**: Definition
+
+::: {.notes}
+Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+:::
+
+## Covered in this session
+
+- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
+- Topic 1
+- Topic 2
+- Topic 3
+
+::: {.notes}
+**Presenter Notes**: Script for the slide here. 
+:::
+
+---
+
+## Learning goals
+
+- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+
+- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
+- Examples: 
+  - Learners will **describe** the process of photosynthesis or
+  - Learners will **construct** a diagram illustrating the process of photosynthesis
+  
+::: {.notes}
+**Presenter Notes**: Script for the slide here.
+
+**Instructor Notes**: <br>
+
+- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+
+- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
+
+- Examples: 
+  - Learners will **describe** the process of photosynthesis or
+  - Learners will **construct** a diagram illustrating the process of photosynthesis
+  
 :::
 
 ---
@@ -149,8 +203,7 @@ e. I am not sure about any of these concepts.
 
 ---
 
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
-(1 = Not comfortable at all, 5 = Very comfortable)**
+**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]? (1 = Not comfortable at all, 5 = Very comfortable)**
 
 a. 1
 
@@ -165,7 +218,6 @@ e. 5
 ---
 
 ## Discussion of survey results
-
 
 <br>
 
@@ -187,84 +239,863 @@ What do we see in the results?
 
 ---
 
+## Your turn! 5 minutes
 
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+**Activity**: Why do you teach? What motivates you to teach? *Write a few bulletpoints on what motivates you to teach. Save this as part of your teaching philosophy for future reference.
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
+## General framework of a workshop
 
-## Logistics and general framework
+<br>
 
-Who is my audience?
-What is the event format? 
-How long is the event/course?
-Prior learning goals or learning materials?
-What do my learners connect with Open Science?
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+What do you think are some **initial elements to consider** when you plan to **organize a workshop on Open Research**?
+</div>
 
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**: Answers that instructor might be looking for are: 
+- What is a suitable topic?
+- Who is my audience?
+- What is the event format? 
+- How long is the event/course?
+- Prior learning goals or learning materials?
+- What do my learners connect with Open Science?
+:::
+
+---
+
+## Logistics et al - add from Malika's slides
+
+![](images/02_organizing_events.png){fig-align="center"}
+
+<br>
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+Made with generative AI.
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Logistics: Practical considerations
+
+Things to consider **when organizing a workshop**:
+
+:::incremental
+- **Who** could the audience be?
+- What does my audience **need**? (accessibility)
+- What **modality** is suitable? (in-person, online, hybrid)
+- What **equipment/materials/software** do I need?
+- How can I **book rooms/equipment**?
+- What are the **administrative procedures** (catering, room booking..)?
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Structuring your course
+
+:::incremental
+- **Check your working conditions**:
+  - How much time do I have? 
+  - How long are the sessions?
+  - What milestones do we need to achieve?
+- **Plan time for orientation** during first and last session:
+  - Who is who?
+  - What is expected? 
+  - What remains unclear?
+- **Formulate** a broader **vision** and **learning goals**:
+  - What is the journey you are taking your learners on?
+  - What are broader goals for the course?
+  - What are the specific goals for each session/workshop?
+  - How does it all fit within the programme syllabus/existing context?
+  
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Structuring your lesson: The ARIPE scheme
+
+**ARIPE+ scheme (Städeli, 2013)**
+
+![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## The ARIPE scheme
+
+:::incremental
+- **A** - *Arrive and adjust*: Provide orientation, create motivation, communicate learning goals, 
+- **R** - *Reactivate*: Reactivate and assess prior knowledge, link new content to existing content (constructivism)
+- **I** - *Inform*: Introduce new content
+- **P** - *Process*: Activities, tasks, discussions, questions, collaborative learning
+- **E** - *Evaluate*: Check progress on learning goals, feedback and assessment
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **A** - *Arrive and adjust*: Orientation
+
+Provide **orientation** at the start and the end:
+
+:::incremental
+- Accessibility and **equipment** needed (*laptop, software installed, internet access ...*)
+- Explain what **materials** will be needed (*slides, cheatsheets, Moodle, GitHub*) and where to find them)
+- Highlight the **modality** (*hybrid/in-person/online*)
+- Let your learners find **common goals** and shared interests
+- Communicate **milestones** and important dates (*deadlines, homework assignments*)
+- Communicate **learning goals**, intermediate and final **assessments** if applicable
+- Clarify your **expectations** to the learners (*attendance, homework, obtaining a certificate, conduct during the workshop...*)
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Your turn! 10 minutes
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Thought experiment**: Imagine that you give a half-day workshop on *Git* to a group of ten learners. In groups, write down concrete examples on how you could provide orientation at the start of the Git workshop.
+</div>
+
+- **Equipment and materials**: 
+- **Modality**: 
+- **Activity on finding common goals**:
+- **Milestones to achieve during the workshop**:
+- **Learning goals**: 
+- **Expectations**: 
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **A** - *Arrive and adjust*: Journey and bigger picture
+
+- Clearly communicate the **vision**
+  - e.g., "*Today's workshop helps you move from using open research practices yourself to learning how to teach these practices using evidence-based methods.*"
+
+![](images/03_journey.png){fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **A** - *Arrive and adjust*: Learning goals
+
+- Clearly communicate the **learning goals**
+  - state the **learning goals** for the course/event series and provide an outlook on how you are planning to achieve them with your audience
+
+![](images/04_learning_goals.png){fig-align="center"}
+
+- **Examples**:
+  - "*Learners will **compare** traditional publishing models with open-access publishing models*
+  - "*Learners will **create** a reproducible research document using Quarto and **publish** it on GitHub*"
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **A** - *Arrive and adjust*: Motivation
+
+**Why does motivation (and demotivation!) matter when teaching and learning?**
+
+:::incremental
+- Applying didactic tools can be unsuccessful if learners are **demotivated**
+- Motivation (and demotivation) are **contagious**
+- Motivation can be **positively influenced** by the instructor
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
 ## Probing and enhancing motivation in your learners
 
-
----
-
-## Your turn!
-
-
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
-
-Think back to open research courses/workshops/seminars you have taken in the past and  consider things that a teacher/trainer has **said or done** that you found either **motivating** or **demotivating**. Try to think of at least two examples for each, and share them with your  neighbour (5 minutes).
-
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Activity**: Think back to open research courses, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. *Try to think of at least two examples for each, and then share them with your  neighbor.*
 </div>
 
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+<br>
+[https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts](https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
 ---
 
-## Motivating learners for open research
+## Enhancing motivation in your learners: lessons
 
-People learn best when they care about a topic and believe they can
-master it with a reasonable investment of time and effort.
-- One option: start a lesson with something that is quick to learn and
-immediately useful for the learners.
-- Invite participation: establish norms for interaction
-- Encourage learners to learn from each other
-- Acknowledge confusion
+<br>
+<br>
 
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1.5em;">
+**What can *you* do?**
+</div>
 
-<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+::: {.notes}
+**Presenter Notes**:
 
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 1: Explore why the topic matters
+
+Learning is most successful when we **care about the topic** and when learners believe they can acquire a skills with **reasonable time and effort**.
+
+<br>
+
+::: {.callout-tip}
+## What you can do: 
+Start by exploring **what brought learners to this lesson** and **what motivates and interests them** about the topic. 
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 2: Establish an early feeling of success
+
+Kick-start the learning process by focusing on something **useful**, **relevant** that requires comparatively low effort and connects the materials to their own interests/goals.
+
+<br>
+
+::: {.callout-tip}
+## What you can do: 
+Beginn the lesson with something that is **quick to learn** and **useful to your learners**. Use examples and task from real-life scenarios, e.g., things you encountered before.
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
 [https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation](https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation)
-  
 </div>
 
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 3: Invite participation from learners
+
+- Encourage and foster an **interactive environment **for learners to ask questions, discuss difficulties and demonstrate prior knowledge
+- Actively engage learners **early on** in the lesson
+
+<br>
+
+::: {.callout-tip}
+## What you can do: 
+Introduce an **interactive activity** early on in the lesson, e.g., "*What brings you here today?*" and then discuss in the plenum.
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation](https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 4: Encourage learners to learn from each other
+
+- Encourage learners to **talk through** the learning process **with peers** to maximize learning
+- Helps to (partially) **level out** potential differences in prior knowledge or experience
+
+<br>
+
+::: {.callout-tip}
+## What you can do: 
+Integrate activities **in pairs** to foster the exchange. 
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation](https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 5: Acknowledge and integrate confusion
+
+- Make confusion an integral **part of your teaching**
+- **Explore confusion with kindness** and **reward learners** for sharing vulnerable information
+
+<br>
+
+::: {.callout-tip}
+## What to do: 
+Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **Validate** the thinking process and ask for collaboration from other learners on resolving any confusion.
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation](https://carpentries.github.io/instructor-training/08-motivation.html#invite-participation)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 6: Praise effort and improvement
+
+- Evidence suggests that learner perseverance is best supported in the long term by **praising effort or improvement** rather than ability or performance
+- Leverage the power of "*yet*"
+
+<br>
+
+::: {.callout-tip}
+## What you can do: 
+Transform quests for help or support by learners by **adding the word *yet* **: "I cannot do this *yet*", "I do not understand *yet*". 
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Your turn! 5 minutes
+
+**Which of the following praise statements are effort-based, improvement-based, or performance based?**
+
+1. That’s exactly how you do it, you haven’t gotten it right yet, but you have tried two different strategies to solve that problem. Keep it up!
+2. You are getting to be really good at that. See how it pays to keep at it?
+3. Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
+4. That was a hard problem. You did not get the right answer, but look at what you learned trying to solve it!
+5. Look at that, you are just a natural!
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**: Answers:
+1. Effort-based.
+2. Improvement-based.
+3. Performance-based.
+4. Improvement-based.
+5. Performance-based.
+:::
+
+---
+
+## Lesson 7: You can be learning too!
+
+- Present yourself (the instructor) as a learner
+- Let your learners **relate** to you
+- **Make useful mistakes**!
+- Leverage your own mistakes or knowledge gaps for **positive error framing**
+
+::: {.callout-tip}
+## What you can do:
+When discussing an activity involving coding, use the opportunity when you make mistakes to embrace them with enthusiasm and present them as a learning opportunity rather than an index for failure or incompetence. 
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts](https://carpentries.github.io/instructor-training/08-motivation.html#brainstorming-motivational-impacts)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
 ## Embrace errors as part of the learning process
 
-
-Laura Carter slides
-
----
-
-## Do not harm (carpentries slides)
-
-❌ Talk contemptuously or with scorn about any tool or practice.
-❌ Dive into complex or detailed technical discussion.
-❌ Pretend to know more than you do.
-❌ The word “just”, or other demotivating words.
-❌ Take over the learner’s keyboard.
-❌ Express surprise at unawareness. (Oh, you’ve never heard of Y?!)
-- [ ] Explore your [stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes) about learners
-
-
-<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
-
-[https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm](https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm)
-  
+<div style="text-align: center;">
+  <img src="images/01-error-relevance.png" style="width:90%;" />
+  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>Errors as part of the learning process.</em></div>
 </div>
 
 ::: {.notes}
+**Presenter Notes**:
 
+**Instructor Notes**:
+:::
+
+---
+
+## Lesson 7: Your motivation matters too!
+
+:::incrememental
+- Learners **mirror the instructor's motivation** and enthusiasm
+- Teaching inherently demands (self-)motivation
+  - Mantaining it in light of challenges during teaching boosts your own teaching skills
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners](https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Your turn! 10 mins
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Activity**: Let us imagine that you have planned a **Git workshop** for a group of learners. 
+
+1. What are **concrete activities** where you could **actively boost motivation** in your learners? 
+
+2. What could some **factors** specific to Git be that could **demotivate** your learners? 
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## ARIPE scheme
+
+![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **R** - *Reactivate*
+
+**Remember**: Learners *bring* prior knowledge into the learning environment, can *help* or *hinder* learning.
+
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Activity**: How could you **explore** and **activate** prior knowledge on *Open Science* in your learners?
+</div>
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **R** - *Reactivate*
+
+Methods to **explore and activate** prior knowledge:
+
+:::incremental
+- **Exchange** with other teaching colleagues about the content of preceding workshops
+- **Pre-session surveys** and quizzes to identify existing knowledge
+- **Brainstorm** with learners 
+- Check for **error patterns** in the homework assignment
+- Explicitly **link new materials** to elements from previous sessions
+- Use **analogies** and examples that connect to existing knowledge
+- ...
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Your turn! 5 minutes
+
+
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Think of an analogy connected to open research or an open science tool**. Explain your analogy to other group members. 
+
+*e.g., "Open Science is like moving from your home kitchen to a shared global cookbook"*
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## ARIPE scheme
+
+![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **I** - *Inform* 
+
+Communication model by *Lasswell (1948)*:
+
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+**Who --> says what --> through which channel --> to whom --> with what effect**
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+Who?
+The sender or communicator who creates the message.
+Example: A professor, journalist, government, or social media influencer.
+Says What?
+The content or message being communicated.
+Example: A lecture announcement, news report, advertisement, or research findings.
+In Which Channel?
+The medium used to transmit the message.
+Example: Email, television, radio, academic conference, or social media.
+To Whom?
+The audience or receiver of the message.
+Example: Students, conference participants, voters, or consumers.
+With What Effect?
+The outcome or impact of the communication.
+Example: Increased awareness, behavior change, learning, persuasion, or confusion.
+:::
+
+---
+
+## **I** - *Inform* 
+
+Designing slides is a **process**: 
+
+:::incremental
+1. Brainstorming
+2. Sort brain dump and group collected thoughts/ideas to formulate the core message
+3. Generate the storyline
+4. Sketch the slides (analog)
+5. Generate the slides (digital)
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Useful principles for designing slides
+
+:::incremental
+- Learning effect largest when **visual and auditory channels** are activated
+
+- **Arrangement of elements matters**: place the most important elements in the top left, arrange the rest according to importance
+
+- **Play with contrast**: Contrast two elements by changing the size, the shape, color, proximity or direction
+
+- **Less is sometimes more**: Consciously incorporate empty spaces into your slides to direct attention to the important elements
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+Bühler, P., Schlaich, P. & Sinner, D. (2017). Visuelle Kommunikation: Wahrnehmung - Perspektive - Gestaltung (1. Aufl.). Vieweg.
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+### Tangent: Want to know more about designing slides?
+
+<br>
+<br>
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide design!
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## ARIPE scheme
+
+![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **P** - *Process*
+
+- Incorporate **activities*, **discussions** and **collaborative learning** to practice and consolidate learning
+
+- Make use of activation methods for maximizing learning outcomes, see next session!
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## ARIPE scheme
+
+![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **E** - *Evaluate*: Feedback
+
+![](images/06_feedback.png){fig-align="center"}
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://carpentries.github.io/instructor-training/11-practice-teaching.html#feedback-is-hard](https://carpentries.github.io/instructor-training/11-practice-teaching.html#feedback-is-hard)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Providing feedback to learners to enhance learning
+
+:::incremental
+- Actively **initiate** feedback exchanges
+- Provide **targeted** feedback **early on** in the process so that learners can adapt
+- Be **constructive** in your feedback: What is a next step from here?
+- **Connect** it to the learning goals
+- **Balance** positive and negative feedback
+- Integrate **peer feedback** elements
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://www.cultureamp.com/blog/how-to-give-feedback-to-peers](https://www.cultureamp.com/blog/how-to-give-feedback-to-peers)
+
+[https://www.youtube.com/watch?v=KE9NleGZqPk](https://www.youtube.com/watch?v=KE9NleGZqPk)
+
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Feedback considerations
+
+:::incremental
+- Giving and receiving feedback can be **hard**
+- Lead the feedback conversation with **empathy**
+- Your **words matter**
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+</div>
+
+---
+
+# Continue from here
+
+---
+
+## E - Evaluate: Wrapping up
+
+:::incremental
+- Summarize and recap
+- Reiterate the learning goals
+- Highlight important take-home messages
+- Small check-in assessment to see where your learners are at
+- Clearly communicate expectations and timeframe for homework
+- Provide an outlook on the following sessions
+- Open the floor for questions: **What are your questions?** instead of *Do you have any questions*
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+
+---
+
+## Recap
+
+:::incremental
+- Start from the beginning: **logistics and practical considerations**
+- Design slides systematically and think about *what* you want to communicate, to *whom*, *how* and with *what effect*
+- Clearly communicate the **bigger picture** and the **learning goals**
+- **Assess** and **activate** **prior/existing knowledge** to boost the learning process
+- Leave enough time at the end to wrap up the session and for questions/discussions
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## Don'ts during a workshop/event
+
+**Do not**:
+
+:::incremental
+- Overwhelm learners with facts early on
+- Talk with scorn about a tool or practice
+- Dive into complex or detailed technical discussions
+- Pretend to know more than you do
+- Do not use the word "*just*" or other demotivating words/phrases
+- Take over the learner's keyboard to complete the task yourself
+- Express surprise at unawareness ("*Funny, you have never heard about Git!?*")
+:::
+
+::: {.callout-tip}
+**Want to know more about your own [stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes) about learners?** [https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes).
+:::
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+[https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm](https://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm)
+</div>
+
+::: {.notes}
 **Presenter Notes**: When learning a skill, we develop more than expert awareness gaps – we also develop opinions about tools and methods, and sometimes base a professional identity around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present serious hazards in the classroom! Here are a few things you should not do in your workshop:
 
 Talk contemptuously or with scorn about any tool or practice, or the people who use them. Regardless of its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so. Convincing someone to change their practices is much harder when they think you disdain them.
@@ -274,113 +1105,39 @@ Use the word “just” or other demotivating words we talked about in a previou
 Take over the learner’s keyboard. It is rarely a good idea to type anything for your learners. Doing so can be demotivating for the learner (as it implies you don’t think they can do it themselves or that you don’t want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
 Express surprise at unawareness. Saying things like “I can’t believe you don’t know X” or “You’ve never heard of Y?” signals to the learner that they do not have some required pre-knowledge of the material you are teaching, that they don’t belong at the workshop, and it may prevent them from asking questions in the future. For more on this see the Recurse Center’s Social Rules.
 It can be difficult to avoid these demotivators entirely. Some people are so used to complaining about certain tools that they initially fail to realise they’re doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself – and your helpers! – to avoid these types of comments takes practice, but is well worth the effort.
-
 :::
 
+---
+
+## Recap
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
-## Recognize diverse motivation
+# Break!
 
-- Some learners may prioritise immediate task-related knowledge over
-fundamental concepts
-  - e.g., they have to submit a paper and want to learn about licencing
-- Recognise diverse motivations; not all novices share the same
-starting interests or passion for open research practices
-  - e.g., some are frustrated about code not being availabe, some have to "do open research" because the funders want it
+---
 
 
-Remember: You are not your learners!
+## Additional considerations when teaching Open Research
+
+:::incremental
+- Some learners may **prioritize immediate task-related knowledge** over fundamental concepts, e.g., they have to submit a paper and want to learn about licencing
+- Recognize **diverse motivations**: not all novices share the same starting interests or passion for open research practices, e.g., some are frustrated about code not being available, some have to "do open research" because the funders want it
+:::
 
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
-
 [https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners](https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners)
-  
 </div>
 
-
----
-
-## Your turn!
-
-What motivates learners with respect to open research? Collect motivations of why learners would be interested in Open Research and engage in it. 
-
-
 ---
 
 
-## Your own motivation matters as well!
-
-Motivating the Trainer 🡪 Why does it matter?
-- Learners mirror the trainer’s enthusiasm
-- Teaching is also learning; it demands motivation.
-- Trainers are self-motivated. Maintaining this motivation in the face of
-challenges enhances the teaching journey.
-
-<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
-
-[https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners](https://carpentries.github.io/instructor-training/08-motivation.html#not-just-learners)
-  
-</div>
-
-
----
-
-## Your turn!
-
-Activity: Why do you teach? What motivates you to teach? Write a short explanation of what motivates you to teach. Save this as part of your teaching philosophy for future reference.
-
----
-
-
-## Orientation at the start and the end
-
-- Give your group a chance to get to know each other and find the shared goals/common groups
-- Deadlines and milestones?
-- Materials? 
-- Modality? Hybrid, homework, assessment?
-- Expectations
-- Accessibility
-
-Examples: 
-
-
-
----
-
-## Communicating learning goals
-
-- Clearly state the journey and/or the learning goals for the session
-- Also state the broader learning goals and the bigger picture
-
-
----
-
-## Assessing and activating learner's prior knowledge
-
-Concept: circle back to first slide deck and remind audience of importance of prior knowledge (Carter slides)
-Discuss how prior knowledge can be assessed and activated and give examples from Open Science
-
----
-
-
-## Enhancing learning through feedback
-
-Carter slides
-
-Receiving feedback, giving feedback to learners, feedback tips 
-
-
----
-
-## Structuring your course
-
-- Check your working conditions: how much time do I have? How long are the sessions? Mielstones?
-- Plan time for orientation during first and last session: who is who? What is happening? What is expected? What remains unclear?
-- Formulate learning objectives for course
-- Formulate learning objectives for each session
-
----
 
 ## Attitude towards your audience
 
@@ -440,6 +1197,11 @@ Interactively ask participants to provide feedback on the selected method, deliv
 
 ---
 
+- Establish **norms for interaction**
+
+
+---
+
 ## Literature
 
 - Antosch-Bardohn, J. (2018): Nicht-intentionale
@@ -464,20 +1226,6 @@ und digitales Lernen. Springer VS.
 
 ---
 
-## Key terms and definitions
-
-- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
-<br>
-
-- **Key Term 1**: Definition
-- **Key Term 2**: Definition
-- **Key Term 3**: Definition
-
-::: {.notes}
-Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
-:::
-
----
 
 ## Introduction of submodule topic
 
@@ -694,431 +1442,9 @@ See you next class :)
 
 - **Aim**: This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
 
----
-
-## Text with example links
-
-- [Quarto Documentation](https://quarto.org/docs/)
-- [Reveal.js Documentation](https://revealjs.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub](https://github.com/)
 
 ---
 
-## Basic text formatting
-
-- **Bold:** `**bold**` → **bold**
-- *Italic:* `*italic*` → *italic*
-- ~~Strikethrough:~~ `~~text~~` → ~~text~~
-- `Inline code:` `` `code` `` → `code`
-- > Blockquote: `> Quote` →  
-  > "This is a quote"
-  
----
-
-## Figure with caption
-
-- Centered image and caption below in italics
-
-<div style="text-align: center;">
-  <img src="images/penguin.png" style="width:50%;" />
-  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>This is a Penguin.</em></div>
-</div>
-
----
-
-## Figure with bullet points
-
-```{=html}
-
-<div style="display: flex; align-items: flex-start; gap: 2em;">
-
-  <!-- Left side: single image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="images/penguin.png" style="width: 100%;" />
-  </div>
-  
-```
-
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
-
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
-
-</div>
-
----
-
-## Side-by-side figures
-
-```{=html}
-<div style="display: flex; justify-content: center; gap: 2em; align-items: flex-start;">
-
-  <div style="text-align: center; width: 45%;">
-    <img src="images/penguin.png" style="width: 100%;" />
-    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 1: Penguin</em></div>
-  </div>
-
-  <div style="text-align: center; width: 45%;">
-    <img src="images/seal.png" style="width: 100%;" />
-    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 2: Seal</em></div>
-  </div>
-
-</div>
-
-```
-
----
-
-## Stacked figures with text
-
-```{=html}
-
-<div style="display: flex; align-items: flex-start; gap: 0.5em;">
-
-  <!-- Left side: two images stacked vertically -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 0.5em;">
-
-    <img src="images/penguin.png" style="width: 60%;" />
-    <img src="images/seal.png" style="width: 60%;" />
-
-  </div>
-  
-```
-
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
-
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
-
-</div>
-
----
-
-## Two-column text slide
-
-<div style="display: flex; gap: 2em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.  
-  Cras venenatis euismod malesuada.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-</div>
-
----
-
-## Three-column text slide
-
-<div style="display: flex; gap: 1em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 3**
-
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  </div>
-
-</div>
-
----
-
-## Simple table
-
-<div style="height: 2cm;"></div>
-
-
-| Column 1   | Column 2   | Column 3   |
-|------------|------------|------------|
-| Row 1 Cell | Row 1 Cell | Row 1 Cell |
-| Row 2 Cell | Row 2 Cell | Row 2 Cell |
-| Row 3 Cell | Row 3 Cell | Row 3 Cell |
-| Row 4 Cell | Row 4 Cell | Row 4 Cell |
-
----
-
-## Complex table
-
-<div style="height: 2cm;"></div>
-
-```{=html}
-
-<table style="border-collapse: collapse; width: 100%;">
-
-  <thead>
-    <tr style="background-color: #093; color: white; font-weight: bold;">
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 1</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 2</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 3</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;"> <!-- very light green -->
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-    </tr>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-    </tr>
-  </tbody>
-
-</table>
-
-```
----
-
-## Task list
-- [x] Done
-- [ ] To do
-
----
-
-## Embedding videos
-
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/q3uXXh1sHcI"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## Code blocks
-
-```{r}
-# A basic R code chunk
-x <- 1:10
-mean(x)
-
-
-# A simple plot
-hist(rnorm(100), main = "Histogram of Random Normals")
-
-```
-
----
-
-## Attribution and license details
-
-- This slide should contain information about the license and attribution details of this current set of slides. 
-
-- The default for the created materials is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
-  - = Creative Commons license that allows others to **share, adapt, and build upon** the original work
-  - **only** if they attribute the creator and also share their new work under the **same terms**
-  - allows for both **commercial and non-commercial** use of the licensed material
-
-- Components of attributions: 
-  - `Title`
-  - `Author`
-  - `Source`
-  - `License`
-
----
-
-## Example attribution (for previous slide)
-
-"[Tutorial template for student track](https://github.com/SvonGrebmer/Template-Slides-Students)" by Sarah von Grebmer is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-
-## Where are we at?
-
-**Previously**:
-
-- Point 1
-- Point 2
-
-<div style="background-color: #f0f0f0;">
-**Up next**:
-
-- Point 1
-- Point 2
-</div>
-
-
-::: {.notes}
-**Presenter Notes**: Script for the slide here.
-
-**Instructor Notes**: <br>
-- **Aim**: Place the topic of the current submodule within a broader context.
-- Remind learners what you are working towards and what the bigger picture is.
-:::
-
----
-
-## Covered in this session
-
-- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-- Topic 1
-- Topic 2
-- Topic 3
-
-::: {.notes}
-**Presenter Notes**: Script for the slide here. 
-:::
-
----
-
-## Learning goals
-
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
-
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-- Examples: 
-  - Learners will **describe** the process of photosynthesis or
-  - Learners will **construct** a diagram illustrating the process of photosynthesis
-  
-::: {.notes}
-**Presenter Notes**: Script for the slide here.
-
-**Instructor Notes**: <br>
-
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
-
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-
-- Examples: 
-  - Learners will **describe** the process of photosynthesis or
-  - Learners will **construct** a diagram illustrating the process of photosynthesis
-  
-:::
-
----
-
-## Key terms and definitions
-
-- **Aim**: Introduce key terms and definitions that learners will come across throughout the session.
-<br>
-
-- **Key Term 1**: Definition
-- **Key Term 2**: Definition
-- **Key Term 3**: Definition
-
-::: {.notes}
-**Presenter Notes**: Add script for slide here.
-
-**Instructor  Notes**: Base yourself on conceptual change theory and examine existing concepts in relation to some key terms. Re-examine the formation of new concepts at the end of the lesson. 
-:::
-
----
-
-## Introduction of submodule topic
-
-- **Aim**: Core theoretical introduction of submodule topic.
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
-- Use multiple slides for this part.
-
-::: {.notes}
-**Speaker notes**: Add script for the slide here. 
-
-**Instructor Notes**: <br>
-- **Aim**: Core theoretical introduction of submodule topic.
-
-- For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, learners should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break).
-
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
-
-- Use multiple slides for this part.
-:::
-
----
-
-## Submodule content slide
-
-- **Aim**: Present relevant content
-- Highlight particularly important aspects with Quarto call-out boxes, for example: 
-
-::: {.callout-important}
-## Important with Title
-
-This is an example of a callout box to highlight particularly important information.
-:::
-
-::: {.callout-tip}
-## Tip with Title
-
-This is an example of a callout box to give important tips. 
-:::
-
-::: {.notes}
-**Presenter Notes**: Script for the slide here. 
-:::
-
----
-
-## Practical exercise 1
-
-- **Aim**: Design more practical exercises for learners to apply the new skills in practice.
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-- Add a description of the task, as well as a checklist as an overview of that your learners need to be doing. 
-
-- [x] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
-::: {.notes}
-**Presenter Notes**: Script for the slide here.
-
-**Instructor Notes**:
-
-- **Aim**: Design more practical exercises for learners to apply the new skills in practice.
-
-- Depending on the topic, the exercises should be in accordance with the learning objective(s).
-
-- Add a description of the task, as well as a checklist as an overview of that your learners need to be doing. 
-:::
-
----
 
 ## Pre-break survey
 
@@ -1365,506 +1691,16 @@ e. 5
 
 ---
 
-# Thanks! <br>
-See you next class :)
+# Thanks!
 
 ---
 
-## Pedagogical add-on tools for instructors
-
-- This section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:
-  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.
-  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content.
-  - Extra exercises for faster learners.	
-
----
-
-## Additional literature for instructors
-
-- References for content
-- References for pedagogical add-on tools	
-- Other resources (videos etc.)	
-
----
-
-# Formatting elements for instructors
-
-- **Aim**: This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
-
----
-
-## Text with example links
-
-- [Quarto Documentation](https://quarto.org/docs/)
-- [Reveal.js Documentation](https://revealjs.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub](https://github.com/)
-
----
-
-## Basic text formatting
-
-- **Bold:** `**bold**` → **bold**
-- *Italic:* `*italic*` → *italic*
-- ~~Strikethrough:~~ `~~text~~` → ~~text~~
-- `Inline code:` `` `code` `` → `code`
-- > Blockquote: `> Quote` →  
-  > "This is a quote"
-  
----
-
-## Call-out boxes
-
-::: {.callout-caution}
-Include text here. 
-:::
-
-::: {.callout-warning}
-Include text here. 
-:::
-
-::: {.callout-tip}
-Include text here. 
-:::
-
-::: {.callout-note}
-Include text here. 
-:::
-
----
-
-
-## Figure with caption
-
-- Centered image and caption below in italics
-
-<div style="text-align: center;">
-  <img src="images/penguin.png" style="width:50%;" />
-  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>This is a Penguin.</em></div>
-</div>
-
----
-
-## Figure with specific width and height
-
-<img src="seal.png" alt="sometext." style="display:block; margin:0 auto; width:50%; height:50%;">
-
-- display:block; margin:0 auto; centers the image on the slide.
-
-- width:50%; height:50%; sets the image size relative to the slide.
-
-- alt="..." ensures accessibility.
-
----
-
-
-## Figure with bullet points
-
-
-::: columns
-::: column
-![](images/penguin.png)
-:::
-
-::: column
-- First bullet point
-- Second bullet point
-- Third bullet point
-:::
-:::
-
----
-
-## Side-by-side figures
-
-::: columns
-::: column
-![Figure 1: Penguin](images/penguin.png)
-
-: Figure 1: Penguin
-:::
-
-::: column
-![Figure 2: Seal](images/seal.png)
-
-: Figure 2: Seal
-:::
-:::
----
-
-## Stacked figures with text
-
-```{=html}
-
-<div style="display: flex; align-items: flex-start; gap: 0.5em;">
-
-  <!-- Left side: two images stacked vertically -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 0.5em;">
-
-    <img src="images/penguin.png" style="width: 60%;" />
-    <img src="images/seal.png" style="width: 60%;" />
-
-  </div>
-  
-```
-
-  <!-- Right side: bullet points -->
-  <div style="flex: 1;">
-
-  - First bullet point
-  - Second bullet point
-  - Third bullet point
-
-  </div>
-
-</div>
-
----
-
-## Two-column text slide (basic)
-
-::: columns
-::: column
-**Column 1**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Vivamus lacinia odio vitae vestibulum vestibulum.  
-Cras venenatis euismod malesuada.
-:::
-
-::: column
-**Column 2**
-
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-:::
-:::
-
----
-
-
-## Two-column text slide (advanced formatting, not for pptx)
-
-<div style="display: flex; gap: 2em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.  
-  Cras venenatis euismod malesuada.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-</div>
-
----
-
-
-## Three-column text slide
-
-<div style="display: flex; gap: 1em;">
-
-  <div style="flex: 1;">
-  **Column 1**
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-  Vivamus lacinia odio vitae vestibulum vestibulum.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 2**
-
-  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-  </div>
-
-  <div style="flex: 1;">
-  **Column 3**
-
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  </div>
-
-</div>
-
----
-
-## Three-column text slide
-
-::: columns
-::: column
-**Column 1**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Vivamus lacinia odio vitae vestibulum vestibulum.
-:::
-
-::: column
-**Column 2**
-
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
-:::
-
-::: column
-**Column 3**
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-:::
-:::
-
-
----
-
-## Simple table
-
-
-| Column 1   | Column 2   | Column 3   |
-|------------|------------|------------|
-| Row 1 Cell | Row 1 Cell | Row 1 Cell |
-| Row 2 Cell | Row 2 Cell | Row 2 Cell |
-| Row 3 Cell | Row 3 Cell | Row 3 Cell |
-| Row 4 Cell | Row 4 Cell | Row 4 Cell |
-
----
-
-## Complex Table
-
-| **Category** | **Metric**     | **Q1** | **Q2** | **Q3** | **Q4** |
-|-------------|----------------|------:|------:|------:|------:|
-| **Sales**   | Revenue        | 12,000 | 14,500 | 15,200 | 16,800 |
-|             | Units Sold     | 1,200  | 1,450  | 1,520  | 1,680  |
-| **Costs**   | COGS           | 5,000  | 5,200  | 5,400  | 5,600  |
-|             | Operating Exp. | 2,300  | 2,400  | 2,450  | 2,500  |
-| **Profit**  | Gross Profit   | 7,000  | 9,300  | 9,800  | 11,200 |
-|             | Net Profit     | 4,700  | 6,500  | 7,000  | 8,100  |
-
-> Note: Values are in USD thousands.
-
----
-
-## Coloured table (not for pptx)
-
-<div style="height: 2cm;"></div>
-
-```{=html}
-
-<table style="border-collapse: collapse; width: 100%;">
-
-  <thead>
-    <tr style="background-color: #093; color: white; font-weight: bold;">
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 1</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 2</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Column 3</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;"> <!-- very light green -->
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
-    </tr>
-    <tr style="background-color: white; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
-    </tr>
-    <tr style="background-color: #f0fff0; color: black;">
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
-    </tr>
-  </tbody>
-
-</table>
-
-```
-
----
-
-## Task list
-- [x] Done
-- [ ] To do
-
----
-
-## Coloured text bubbles: scattered (not for pptx)
-
-<style>
-/* Scope all styles to this slide only */
-.bubble-slide {
-  position: relative;
-  min-height: 100%;
-}
-
-/* Bubble styling */
-.bubble-slide .bubble {
-  position: absolute;
-  padding: 18px 26px;
-  border-radius: 999px;
-  color: white;
-  font-weight: 700;
-  font-size: 1.1em;
-  text-align: center;
-  white-space: nowrap;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
-}
-
-/* Colors */
-.bubble-slide .red    { background-color: #e74c3c; }
-.bubble-slide .blue   { background-color: #3498db; }
-.bubble-slide .green  { background-color: #2ecc71; }
-.bubble-slide .purple { background-color: #9b59b6; }
-.bubble-slide .orange { background-color: #e67e22; }
-.bubble-slide .gray   { background-color: #808080; }
-</style>
-
-<div class="bubble-slide">
-  <div class="bubble red" style="top: 10%; left: 10%;">human bias</div>
-  <div class="bubble blue" style="top: 25%; left: 60%;">lack of resources</div>
-  <div class="bubble green" style="top: 45%; left: 20%;">methodological flaws</div>
-  <div class="bubble purple" style="top: 50%; left: 65%;">pressure</div>
-  <div class="bubble orange" style="top: 20%; left: 40%;">??</div>
-  <div class="bubble gray" style="top: 65%; left: 5%;">lack of statistical knowledge</div>
-</div>
-
-
-
----
-
-## Embedding videos (not for pptx)
-
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/q3uXXh1sHcI"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## Code blocks
-
-```{r}
-# A basic R code chunk
-x <- 1:10
-mean(x)
-
-
-# A simple plot
-hist(rnorm(100), main = "Histogram of Random Normals")
-
-```
-
----
-
-## Interactive slide with questions + answers (not for pptx)
-
-<section>
-  <h2 style="font-size:1.5em;">Practical Exercise 1</h2>
-  <p style="font-size:0.85em;">Decide whether each scenario is an example of <strong>reproducibility</strong> or <strong>replicability</strong>.</p>
-  <ol style="font-size:0.8em;">
-    <li class="fragment">
-      A computational neuroscientist reruns a published fMRI analysis using the original dataset and Python scripts to verify the reported brain activation patterns.
-      <div style="color:#555; font-size:0.75em;"><strong>Answer:</strong> Reproducibility</div>
-    </li>
-    <li class="fragment">
-      An environmental scientist repeats a field experiment on soil nutrient levels using the same sampling protocol at a different site.
-      <div style="color:#555; font-size:0.75em;"><strong>Answer:</strong> Replicability</div>
-    </li>
-    <li class="fragment">
-      A linguist reanalyzes a corpus of historical texts using the same annotation guidelines and code to verify reported patterns of syntactic structures.
-      <div style="color:#555; font-size:0.75em;"><strong>Answer:</strong> Reproducibility</div>
-    </li>
-  </ol>
-</section>
-
----
-
-## Overlapping and rotated images (not for pptx)
-
-<style>
-/* wrapper so styles don’t leak into other slides */
-.overlap-slide {
-  position: relative;
-  width: 100%;
-  height: 500px;   /* adjust as needed */
-}
-
-/* Image styling */
-.overlap-slide img {
-  position: absolute;
-  width: 50%;      /* adjust size */
-  border-radius: 8px;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.25);
-}
-
-/* slight rotation to make overlap nicer */
-.overlap-slide .img3 { 
-  top: 5%; 
-  left: 5%; 
-  transform: rotate(-3deg);
-}
-
-.overlap-slide .img2 { 
-  top: 35%; 
-  left: 1%; 
-  transform: rotate(2deg);
-}
-
-.overlap-slide .img1 { 
-  top: 2%; 
-  left: 50%; 
-  transform: rotate(-1deg);
-}
-</style>
-
-<div class="overlap-slide">
-  <img src="images/penguin.png" class="img1">
-  <img src="images/seal.png" class="img2">
-  <img src="images/penguin.png" class="img3">
-</div>
-
----
-
-## CREDiT Contribution Statement
-
-Possible roles using the CRediT contribition system or the Zenodo Contribution System: 
-
-**Name main content creator**: Conceptualization, Software, Writing - Original Draft, Visualization. **Sara Lil Middleton**: Writing - Review & Editing, Supervision. **Sarah von Grebmer zu Wolfsthurn**: Conceptualisation, Writing - Review & Editing, Supervision, Project Administration, Validation.
-
----
-
-## Text with references
-
-- Sample text for adding a reference in brackets [@abele-brehmWerSollProfessur2016]. **Use square brackets.**
-
-- Sample text for adding in text-citation: @abele-brehmWerSollProfessur2016 argue that climate change is accelerating. **No brackets used.** 
-
----
 
 ## For reviewers: Giving feedback on slides
 
 <div style="color: red; font-size: 0.6em;">
   Your feedback in small red text here.
 </div>
-
-
 
 ---
 
