@@ -1,5 +1,5 @@
 ---
-title: "Concept planning for Open Research workshops (and courses)"
+title: "Concept planning for Open Research events"
 author: "LMU Open Science Center"
 date: "today"
 date-format: "DD/MM/YYYY"
@@ -38,8 +38,6 @@ execute:
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
 This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-Code snippets are dedicated to the public domain and licenced under a CC0 1.0 [Creative Commons Universal Licence](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, distribute, and sell the code snippets for any purpose, without permission or attribution. The code snippets are provided “as is”, without warranty of any kind.
 
 </div>
 
@@ -111,20 +109,19 @@ What are your questions from the previous session?
 
 ---
 
-## Key terms and definitions
-
-- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
-<br>
+## Key terms and definitions - EDIT
 
 - **ARIPE scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
 - **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence. 
-- **Key Term 3**: Definition
 
 ::: {.notes}
-Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+**Presenter Notes**: Script for the slide here. 
+**Instructor Notes**: Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
 :::
 
-## Covered in this session
+---
+
+## Covered in this session - EDIT
 
 - **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
 - Topic 1
@@ -137,7 +134,7 @@ Base yourself on conceptual change theory and examine exisiting concepts in rela
 
 ---
 
-## Learning goals
+## Learning goals - EDIT
 
 - **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
 
@@ -163,7 +160,7 @@ Base yourself on conceptual change theory and examine exisiting concepts in rela
 
 ---
 
-## Before we start: Survey time!
+## Before we start: Survey time! - EDIT
 
 - **Aim**: The pre-submodule survey serves to examine learners' prior knowledge about the submodule's topic.
 - Use free survey software such as  particify or formR to establish the following questions (shown on separate slides).
@@ -245,7 +242,12 @@ What do we see in the results?
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-**Activity**: Why do you teach? What motivates you to teach? *Write a few bulletpoints on what motivates you to teach. Save this as part of your teaching philosophy for future reference.
+**Activity**:
+<br>
+**Why do you teach? What motivates you to teach?**
+<br>
+<br>
+*Write a few bulletpoints on what motivates you to teach. Save this as part of your developing teaching philosophy for future reference.*
 </div>
 
 ::: {.notes}
@@ -256,12 +258,14 @@ What do we see in the results?
 
 ---
 
-## General framework of a workshop
+## General framework of an Open Research event
 
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-What do you think are some **initial elements to consider** when you plan to **organize a workshop on Open Research**?
+What do you think are some initial **points to consider** when you **plan** an **event on Open Research**?
+<br>
+*(event = workshop, course, lecture, seminar, talk etc)*
 </div>
 
 
@@ -279,7 +283,7 @@ What do you think are some **initial elements to consider** when you plan to **o
 
 ---
 
-## Logistics et al - add from Malika's slides
+## Logistics: Practical considerations
 
 ![](images/02_organizing_events.png){fig-align="center"}
 
@@ -299,16 +303,20 @@ Made with generative AI.
 
 ## Logistics: Practical considerations
 
-Things to consider **when organizing a workshop**:
+Things to consider **when organizing an event**:
 
 :::incremental
-- **Who** could the audience be?
-- What does my audience **need**? (accessibility)
+- **Who** could the target audience be?
+- What are suitable **dates and times**?
+- What does my **audience need**? (accessibility)
 - What **modality** is suitable? (in-person, online, hybrid)
 - What **equipment/materials/software** do I need?
 - How can I **book rooms/equipment**?
 - What are the **administrative procedures** (catering, room booking..)?
+- How can I **advertise** my event?
 :::
+
+<!-- https://docs.google.com/document/d/1vh34ziAVGYErtco_8tNhfyOJo29x_BBk7g9UH08kzZU/edit?tab=t.0#heading=h.lw4i2wvq5ump -->
 
 ::: {.notes}
 **Presenter Notes**:
@@ -318,22 +326,21 @@ Things to consider **when organizing a workshop**:
 
 ---
 
-## Structuring your course
+## Structuring your event
 
 :::incremental
 - **Check your working conditions**:
-  - How much time do I have? 
-  - How long are the sessions?
-  - What milestones do we need to achieve?
-- **Plan time for orientation** during first and last session:
-  - Who is who?
-  - What is expected? 
-  - What remains unclear?
+  - How much **time** do I have? 
+  - What **milestones** do we need to achieve?
+- **Plan time** for **orientation** at the start and the end:
+  - Who is **who**?
+  - What is **expected**? 
+  - What **remains unclear**?
 - **Formulate** a broader **vision** and **learning goals**:
-  - What is the journey you are taking your learners on?
-  - What are broader goals for the course?
-  - What are the specific goals for each session/workshop?
-  - How does it all fit within the programme syllabus/existing context?
+  - What is the **journey** you are taking your learners on?
+  - What are **broader goals** for the event?
+  - What are the **specific goals** for individual sections/workshops?
+  - How does it all **fit within** the existing context (programme, syllabus..)?
   
 :::
 
@@ -362,7 +369,7 @@ Things to consider **when organizing a workshop**:
 ## The ARIPE scheme
 
 :::incremental
-- **A** - *Arrive and adjust*: Provide orientation, create motivation, communicate learning goals, 
+- **A** - *Arrive and adjust*: Provide orientation, outline journey and bigger picture, communicate learning goals, create and foster motivation
 - **R** - *Reactivate*: Reactivate and assess prior knowledge, link new content to existing content (constructivism)
 - **I** - *Inform*: Introduce new content
 - **P** - *Process*: Activities, tasks, discussions, questions, collaborative learning
@@ -399,27 +406,6 @@ Provide **orientation** at the start and the end:
 
 ---
 
-## Your turn! 10 minutes
-
-<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Thought experiment**: Imagine that you give a half-day workshop on *Git* to a group of ten learners. In groups, write down concrete examples on how you could provide orientation at the start of the Git workshop.
-</div>
-
-- **Equipment and materials**: 
-- **Modality**: 
-- **Activity on finding common goals**:
-- **Milestones to achieve during the workshop**:
-- **Learning goals**: 
-- **Expectations**: 
-
-::: {.notes}
-**Presenter Notes**:
-
-**Instructor Notes**:
-:::
-
----
-
 ## **A** - *Arrive and adjust*: Journey and bigger picture
 
 - Clearly communicate the **vision**
@@ -438,13 +424,35 @@ Provide **orientation** at the start and the end:
 ## **A** - *Arrive and adjust*: Learning goals
 
 - Clearly communicate the **learning goals**
-  - state the **learning goals** for the course/event series and provide an outlook on how you are planning to achieve them with your audience
+  - State the **learning goals** for the course/event series and provide an outlook on how you are planning to achieve them with your audience
 
 ![](images/04_learning_goals.png){fig-align="center"}
 
 - **Examples**:
   - "*Learners will **compare** traditional publishing models with open-access publishing models*
   - "*Learners will **create** a reproducible research document using Quarto and **publish** it on GitHub*"
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+
+## Your turn! 10 minutes
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Thought experiment**: Imagine that you give a half-day workshop on *Git* to a group of ten learners. In groups, write down concrete examples on how you could provide orientation at the start of the Git workshop.
+</div>
+
+- **Equipment and materials**: 
+- **Modality**: 
+- **Activity on finding common goals**:
+- **Milestones to achieve during the workshop**:
+- **Learning goals**: 
+- **Expectations**: 
 
 ::: {.notes}
 **Presenter Notes**:
@@ -732,11 +740,11 @@ When discussing an activity involving coding, use the opportunity when you make 
 ## Your turn! 10 mins
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Activity**: Let us imagine that you have planned a **Git workshop** for a group of learners. 
+**Activity**: Let us get back to our planned **Git workshop** for a group of learners. 
 
 1. What are **concrete activities** where you could **actively boost motivation** in your learners? 
 
-2. What could some **factors** specific to Git be that could **demotivate** your learners? 
+2. What could some Git-specific **factors** be that could **demotivate** your learners at the workshop? 
 </div>
 
 ::: {.notes}
@@ -804,15 +812,49 @@ Methods to **explore and activate** prior knowledge:
 
 ---
 
+## Reactivating prior knowledge: analogies
+
+![](images/07_analogy_used_car_dealer.png){fig-align="center"}
+
+
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;"> Image generated with AI and adapted from
+[https://nicebread.github.io/Empra1_2026/slides/Replicability_Crisis/OS-M1-S1-Replicability-slides.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070656f706c652d67726f75702073697a653d3178203e7d7d-the-used-car-dealer-10-min](https://nicebread.github.io/Empra1_2026/slides/Replicability_Crisis/OS-M1-S1-Replicability-slides.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070656f706c652d67726f75702073697a653d3178203e7d7d-the-used-car-dealer-10-min)
+</div>
+
+
+---
+
+## Reactivating prior knowledge: analogies
+
+<br>
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.8em;">
+*Imagine that being a researcher can go two different ways: you can be the **used car dealer** (= researcher), who hides the main parts of the used car (= scientific work) under the hood (= non-transparency), so that from the outside it all looks nice and shiny. Or you can be the **skeptical buyer** (= researcher supporting open research) who would want to look under the hood and also opens the hood for everyone to see (= transparency. **Which researcher do you want to be?***
+</div>
+
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://nicebread.github.io/Empra1_2026/slides/Replicability_Crisis/OS-M1-S1-Replicability-slides.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070656f706c652d67726f75702073697a653d3178203e7d7d-the-used-car-dealer-10-min](https://nicebread.github.io/Empra1_2026/slides/Replicability_Crisis/OS-M1-S1-Replicability-slides.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070656f706c652d67726f75702073697a653d3178203e7d7d-the-used-car-dealer-10-min), original analogy from [Vazire (2017)](https://online.ucpress.edu/collabra/article/3/1/1/112375/Quality-Uncertainty-Erodes-Trust-in-Science)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
 ## Your turn! 5 minutes
 
 
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Think of an analogy connected to open research or an open science tool**. Explain your analogy to other group members. 
+**Think of a different analogy connected to open research or an open research tool you are familiar with**. <br>
+*Explain your analogy to your group members.* 
 
-*e.g., "Open Science is like moving from your home kitchen to a shared global cookbook"*
+<!-- *e.g., "Open Science is like moving from your home kitchen to a shared global cookbook"* -->
 </div>
 
 ::: {.notes}
@@ -841,9 +883,8 @@ Communication model by *Lasswell (1948)*:
 
 <br>
 
-<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-**Who --> says what --> through which channel --> to whom --> with what effect**
-</div>
+![](images/08_lasswell_communication_model.png){fig-align="center"}
+
 
 ::: {.notes}
 **Presenter Notes**:
@@ -868,9 +909,25 @@ Example: Increased awareness, behavior change, learning, persuasion, or confusio
 
 ---
 
-## **I** - *Inform* 
+## **I** - *Inform*: Designing slides
 
-Designing slides is a **process**: 
+...is a **process**: 
+
+![](images/09_slide_design_cropped.png){fig-align="center"}
+
+
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
+---
+
+## **I** - *Inform*: Designing slides
+
+...is a **process**: 
 
 :::incremental
 1. Brainstorming
@@ -943,7 +1000,7 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ## **P** - *Process*
 
-- Incorporate **activities*, **discussions** and **collaborative learning** to practice and consolidate learning
+- Incorporate **activities**, **discussions** and **collaborative learning** to practice and consolidate learning
 
 - Make use of activation methods for maximizing learning outcomes, see next session!
 
@@ -1027,6 +1084,28 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
 </div>
+
+---
+
+## Your turn: Giving feedback
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
+**Roleplay "feedback giver" - observer: Practice giving feedback on the following slide**. <br>
+*The observer provides feedback on the feedback in relation to whether feedback was targeted, constructive and balanced.*
+</div>
+
+
+![](images/10_examle_badslide.png){fig-align="center"}
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+[https://www.slideshare.net/slideshow/bad-powerpoint-example/2260367](https://www.slideshare.net/slideshow/bad-powerpoint-example/2260367)
+</div>
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
 
 ---
 
