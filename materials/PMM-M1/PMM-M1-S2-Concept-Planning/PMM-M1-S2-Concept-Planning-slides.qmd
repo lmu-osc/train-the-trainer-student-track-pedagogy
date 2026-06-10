@@ -54,9 +54,9 @@ This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Mal
 **Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
 [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
 
-**Reviewer**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+**Reviewer**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 
-**Consultant**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
 
 
 ::: {.notes}
@@ -109,27 +109,33 @@ What are your questions from the previous session?
 
 ---
 
-## Key terms and definitions - EDIT
+## Key terms and definitions - ADD MORE?
 
-- **ARIPE scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
-- **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence. 
+- **ARIPE+ scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
+- **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence.
+- **Error patterns** in the learning process: Systematic mistakes rather than random failure, critical indicators for how learners think and where the misconceptions lie
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
+**Presenter Notes**: Script for the slide here.
+
 **Instructor Notes**: Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
 :::
 
 ---
 
-## Covered in this session - EDIT
+## Covered in this session
 
 - **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-- Topic 1
-- Topic 2
-- Topic 3
+- Practical and logistical considerations when organizing an Open Research event
+- ARIPE+ scheme to structure an OR event
+- Assessing prior/existing knowledge in your learners
+- Fostering motivation
+- Providing useful feedback
 
 ::: {.notes}
 **Presenter Notes**: Script for the slide here. 
+
+**Instructor Notes**: Add.
 :::
 
 ---
@@ -274,7 +280,7 @@ What do you think are some initial **points to consider** when you **plan** an *
 
 **Instructor Notes**: Answers that instructor might be looking for are: 
 - What is a suitable topic?
-- Who is my audience?
+- Who is my audience? How much experience do they have with Open Research topic X?
 - What is the event format? 
 - How long is the event/course?
 - Prior learning goals or learning materials?
@@ -289,7 +295,7 @@ What do you think are some initial **points to consider** when you **plan** an *
 
 <br>
 
-<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
 Made with generative AI.
 </div>
 
@@ -352,11 +358,15 @@ Things to consider **when organizing an event**:
 
 ---
 
-## Structuring your lesson: The ARIPE scheme
-
-**ARIPE+ scheme (Städeli, 2013)**
+## Structuring your lesson: The ARIPE+ scheme (Städeli, 2013)
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
+
+<br>
+
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.5em; color: #000000;">
+*The "+" generally stands for elements connected to the **learning environment**, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language ... 
+</div>
 
 ::: {.notes}
 **Presenter Notes**:
@@ -366,7 +376,7 @@ Things to consider **when organizing an event**:
 
 ---
 
-## The ARIPE scheme
+## The ARIPE+ scheme
 
 :::incremental
 - **A** - *Arrive and adjust*: Provide orientation, outline journey and bigger picture, communicate learning goals, create and foster motivation
@@ -393,9 +403,9 @@ Provide **orientation** at the start and the end:
 - Explain what **materials** will be needed (*slides, cheatsheets, Moodle, GitHub*) and where to find them)
 - Highlight the **modality** (*hybrid/in-person/online*)
 - Let your learners find **common goals** and shared interests
-- Communicate **milestones** and important dates (*deadlines, homework assignments*)
-- Communicate **learning goals**, intermediate and final **assessments** if applicable
-- Clarify your **expectations** to the learners (*attendance, homework, obtaining a certificate, conduct during the workshop...*)
+- Communicate **learning goals**
+- Communicate **milestones** and important dates (*deadlines, homework assignments, intermediate and final assessments*)
+- Clarify your **expectations** to the learners (*attendance, homework, criteria for obtaining a certificate, assessments, general conduct...*)
 :::
 
 ::: {.notes}
@@ -482,8 +492,12 @@ Provide **orientation** at the start and the end:
 
 ## Probing and enhancing motivation in your learners
 
+<br>
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Activity**: Think back to open research courses, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. *Try to think of at least two examples for each, and then share them with your  neighbor.*
+**Activity**: Think back to open research courses, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. 
+<br>
+<br>
+*Try to think of at least two examples for each, and then share them with your  neighbor.*
 </div>
 
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
@@ -500,13 +514,13 @@ Provide **orientation** at the start and the end:
 
 ---
 
-## Enhancing motivation in your learners: lessons
+## Motivation: Lessons
 
 <br>
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1.5em;">
-**What can *you* do?**
+**What can *you* do to enhance motivation in your learners?**
 </div>
 
 ::: {.notes}
@@ -542,7 +556,7 @@ Start by exploring **what brought learners to this lesson** and **what motivates
 
 ## Lesson 2: Establish an early feeling of success
 
-Kick-start the learning process by focusing on something **useful**, **relevant** that requires comparatively low effort and connects the materials to their own interests/goals.
+Kick-start the learning process by focusing on something **useful** and **relevant** that requires comparatively **low effort** and connects the materials to their **own interests/goals**.
 
 <br>
 
@@ -614,13 +628,14 @@ Integrate activities **in pairs** to foster the exchange.
 ## Lesson 5: Acknowledge and integrate confusion
 
 - Make confusion an integral **part of your teaching**
-- **Explore confusion with kindness** and **reward learners** for sharing vulnerable information
+- **Explore** confusion with **kindness**
+- **Reward learners** for sharing vulnerable information
 
 <br>
 
 ::: {.callout-tip}
 ## What to do: 
-Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **Validate** the thinking process and ask for collaboration from other learners on resolving any confusion.
+Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **Validate** the thinking process and ask for **collaboration** from other learners on resolving any confusion.
 :::
 
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
@@ -755,7 +770,7 @@ When discussing an activity involving coding, use the opportunity when you make 
 
 ---
 
-## ARIPE scheme
+## ARIPE+ scheme
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
 
@@ -829,7 +844,11 @@ Methods to **explore and activate** prior knowledge:
 
 <br>
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.8em;">
-*Imagine that being a researcher can go two different ways: you can be the **used car dealer** (= researcher), who hides the main parts of the used car (= scientific work) under the hood (= non-transparency), so that from the outside it all looks nice and shiny. Or you can be the **skeptical buyer** (= researcher supporting open research) who would want to look under the hood and also opens the hood for everyone to see (= transparency. **Which researcher do you want to be?***
+"*Imagine that being a researcher can go two different ways: you can be the **used car dealer** (= researcher), who hides the main parts of the used car (= scientific work) under the hood (= non-transparency), so that from the outside it all looks nice and shiny. 
+
+Or you can be the **skeptical buyer** (= researcher supporting open research) who would want to look under the hood and also opens the hood for everyone to see (= transparency. 
+
+**Which researcher do you want to be?***"
 </div>
 
 
@@ -865,7 +884,7 @@ Methods to **explore and activate** prior knowledge:
 
 ---
 
-## ARIPE scheme
+## ARIPE+ scheme
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
 
@@ -915,7 +934,9 @@ Example: Increased awareness, behavior change, learning, persuasion, or confusio
 
 ![](images/09_slide_design_cropped.png){fig-align="center"}
 
-
+<div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
+Made with generative AI.
+</div>
 
 ::: {.notes}
 **Presenter Notes**:
@@ -925,23 +946,23 @@ Example: Increased awareness, behavior change, learning, persuasion, or confusio
 
 ---
 
-## **I** - *Inform*: Designing slides
+<!-- ## **I** - *Inform*: Designing slides -->
 
-...is a **process**: 
+<!-- ...is a **process**:  -->
 
-:::incremental
-1. Brainstorming
-2. Sort brain dump and group collected thoughts/ideas to formulate the core message
-3. Generate the storyline
-4. Sketch the slides (analog)
-5. Generate the slides (digital)
-:::
+<!-- :::incremental -->
+<!-- 1. Brainstorming -->
+<!-- 2. Sort brain dump and group collected thoughts/ideas to formulate the core message -->
+<!-- 3. Generate the storyline -->
+<!-- 4. Sketch the slides (analog) -->
+<!-- 5. Generate the slides (digital) -->
+<!-- ::: -->
 
-::: {.notes}
-**Presenter Notes**:
+<!-- ::: {.notes} -->
+<!-- **Presenter Notes**: -->
 
-**Instructor Notes**:
-:::
+<!-- **Instructor Notes**: -->
+<!-- ::: -->
 
 ---
 
@@ -986,7 +1007,7 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ---
 
-## ARIPE scheme
+## ARIPE+ scheme
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
 
@@ -1012,7 +1033,7 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ---
 
-## ARIPE scheme
+## ARIPE+ scheme
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
 
@@ -1109,20 +1130,17 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ---
 
-# Continue from here
-
----
-
 ## E - Evaluate: Wrapping up
 
 :::incremental
-- Summarize and recap
-- Reiterate the learning goals
-- Highlight important take-home messages
-- Small check-in assessment to see where your learners are at
-- Clearly communicate expectations and timeframe for homework
-- Provide an outlook on the following sessions
-- Open the floor for questions: **What are your questions?** instead of *Do you have any questions*
+- **Summarize and recap** covered content
+- Reiterate the **learning goals**
+- Highlight important **take-home** messages
+- Small **check-in assessment** to see where your learners are at
+- Clearly communicate **expectations** and timeframe for **homework**
+- Provide an **outlook** on the following sessions
+- Open the floor for questions
+  - "**What are your questions?**" instead of "*Do you have any questions?*"
 :::
 
 ::: {.notes}
@@ -1137,11 +1155,11 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 ## Recap
 
 :::incremental
-- Start from the beginning: **logistics and practical considerations**
-- Design slides systematically and think about *what* you want to communicate, to *whom*, *how* and with *what effect*
-- Clearly communicate the **bigger picture** and the **learning goals**
+- **Start from the beginning**: logistics and practical considerations
+- Structure your lesson so that it includes **orientation**, **reactivation of prior knowledge**, **transfe** and **processing** of content and **wrapping up elements**
+- Actively foster **motivation** early on and throughout
 - **Assess** and **activate** **prior/existing knowledge** to boost the learning process
-- Leave enough time at the end to wrap up the session and for questions/discussions
+- Use **feedback procedures** as a foundational element of the learning process
 :::
 
 ::: {.notes}
@@ -1158,16 +1176,13 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 :::incremental
 - Overwhelm learners with facts early on
+  - Dive into complex or detailed technical discussions
 - Talk with scorn about a tool or practice
-- Dive into complex or detailed technical discussions
 - Pretend to know more than you do
 - Do not use the word "*just*" or other demotivating words/phrases
+  - Express surprise at unawareness ("*Funny, you have never heard about Git!?*")
 - Take over the learner's keyboard to complete the task yourself
-- Express surprise at unawareness ("*Funny, you have never heard about Git!?*")
-:::
 
-::: {.callout-tip}
-**Want to know more about your own [stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes) about learners?** [https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes).
 :::
 
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.7em; color: #888;">
@@ -1185,6 +1200,21 @@ Take over the learner’s keyboard. It is rarely a good idea to type anything fo
 Express surprise at unawareness. Saying things like “I can’t believe you don’t know X” or “You’ve never heard of Y?” signals to the learner that they do not have some required pre-knowledge of the material you are teaching, that they don’t belong at the workshop, and it may prevent them from asking questions in the future. For more on this see the Recurse Center’s Social Rules.
 It can be difficult to avoid these demotivators entirely. Some people are so used to complaining about certain tools that they initially fail to realise they’re doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself – and your helpers! – to avoid these types of comments takes practice, but is well worth the effort.
 :::
+
+---
+
+## Tangent: Stereotypes about learners
+
+::: {.callout-tip}
+**Want to know more about your own [stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes) about learners?** [https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes](https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes).
+:::
+
+::: {.notes}
+**Presenter Notes**:
+
+**Instructor Notes**:
+:::
+
 
 ---
 
