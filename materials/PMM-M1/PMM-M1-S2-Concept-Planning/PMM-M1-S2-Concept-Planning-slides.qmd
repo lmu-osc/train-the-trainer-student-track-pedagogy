@@ -99,56 +99,78 @@ What are your questions from the previous session?
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
-**Instructor Notes**: <br>
-- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
-- Additional slides may need to be added depending on the nature of the homework assignments. 
-- Critical for the learning process to ensure that learners are on the same page and have been able to achieve the learning goals of the previous workshop. 
-- Not applicable if this set of slides corresponds to the first submodule of a new module. 
+**Presenter Notes**: What were your questions from the previous session? 
+**Instructor Notes**: Instead of asking "Do you have any questions", work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask "What are your questions". 
 :::
 
 ---
 
-## Key terms and definitions - ADD MORE?
+## Key terms and definitions
+
+- **ARIPE+ scheme**: 
+- **Positive error framing**: 
+- **Error patterns** in the learning process
+
+::: {.notes}
+**Presenter Notes**: Here are some  key concepts we will be discussing throughout the session. Thin for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the plenum. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.
+
+**Instructor Notes**: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise.
+:::
+
+---
+
+## Key terms and definitions
 
 - **ARIPE+ scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
 - **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence.
 - **Error patterns** in the learning process: Systematic mistakes rather than random failure, critical indicators for how learners think and where the misconceptions lie
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here.
+**Presenter Notes**: 
 
-**Instructor Notes**: Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+First, the ARIPE+ scheme by Städeli (2013) is a didactic framework that helps educators systematically plan learning experiences. It structures instruction into five phases, guiding learners from initial engagement and exploration through to application, feedback processes and reflection. 
+
+Second, positive error framing refers to an educational mindset that treats mistakes as valuable learning opportunities. Instead of viewing errors as signs of failure, learners are encouraged to examine and understand them. This process helps deepen conceptual understanding, develop skills, and build confidence by creating a learning environment where experimentation and reflection are welcomed.
+
+Finally, error patterns are recurring and systematic mistakes that occur during learning. Unlike random errors, these patterns provide important insights into learners’ thinking processes. By identifying and analyzing error patterns, educators can uncover underlying misconceptions and adapt instruction to address specific learning needs more effectively.
+
+**Instructor Notes**: If you do the think-pair-share exercice the slide before, skip this slide, this is for learners to come back to these concepts in their own time.
 :::
 
 ---
 
 ## Covered in this session
 
-- **Aim**: This slides serves as an overview of the topics that are discussed, presented as bullet point:
-- Practical and logistical considerations when organizing an Open Research event
-- ARIPE+ scheme to structure an OR event
-- Assessing prior/existing knowledge in your learners
-- Fostering motivation
-- Providing useful feedback
+- **Practical** and **logistical** considerations when organizing an Open Research event
+- **ARIPE+ scheme** to structure an OR event
+- Assessing **prior/existing knowledge** in your learners
+- Fostering **motivation**
+- Providing useful **feedback**
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
+**Presenter Notes**: This session focuses on both the practical and pedagogical aspects of organizing and delivering an Open Research event.
 
-**Instructor Notes**: Add.
+We will begin by looking at the practical and logistical considerations involved in planning and running an event.
+
+Next, we will explore how the ARIPE+ scheme can be used to structure an individual lesson or event. This framework provides a clear sequence for designing learning activities and provides structure for your learners. 
+
+A key element of successful instruction is understanding your audience. Therefore, we will discuss strategies for assessing learners’ prior knowledge and existing competencies, enabling you to tailor activities and support to their needs.
+
+We will also examine ways of boosting motivation, considering how to create an engaging learning environment that encourages active participation, curiosity, and sustained involvement throughout the event.
+
+Finally, we will address the role of feedback in the learning process. We will focus on how to provide feedback that is timely, constructive, and actionable, helping learners reflect on their progress and continue developing their skills.
 :::
 
 ---
 
 ## Learning goals - EDIT
 
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+At the end of this session, you will be able to:
 
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-- Examples: 
-  - Learners will **describe** the process of photosynthesis or
-  - Learners will **construct** a diagram illustrating the process of photosynthesis
-  
+- Learning goal 1
+- Learning goal 2
+- Learning goal 3
+
 ::: {.notes}
 **Presenter Notes**: Script for the slide here.
 
@@ -166,10 +188,8 @@ What are your questions from the previous session?
 
 ---
 
-## Before we start: Survey time! - EDIT
+## Before we start: Survey time!
 
-- **Aim**: The pre-submodule survey serves to examine learners' prior knowledge about the submodule's topic.
-- Use free survey software such as  particify or formR to establish the following questions (shown on separate slides).
 
 ::: {.notes}
 **Presenter Notes**: Script for the slide here. 
@@ -180,7 +200,23 @@ What are your questions from the previous session?
 
 ---
 
-**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+**What is your level of experience with organsing Open Research events (e.g., a workshop, a seminar, lecture, lecture series..)?**
+
+
+a. I have never organized an Open Research event
+
+b. I have organised 1-2 Open Research events
+
+c. I have organized 3-10 Open Research events
+
+d. I regularly organize Open Research events
+
+e. Organizing Open Research events is all I do because it is my (literal) job. 
+
+---
+
+**What is your level of familiarity with the ARIPE+ scheme?**
+
 
 a. I have never heard of it before.
 
@@ -192,31 +228,19 @@ d. I am very familiar and have worked with it extensively.
 
 ---
 
-**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
+**Which of the following pedagogical elements do you feel most confident about in your teaching?**
 
-a. Concept 1
+a. Probing and boosting motivation
 
-b. Concept 2
+b. Formulate and communicate learning goals for your event
 
-c. Concept 3
+c. Conceptualize and communicate the bigger vision of the event
 
-d. Concept 4
+d. Reactivate prior knowledge
 
-e. I am not sure about any of these concepts.
+e. Incorporate interactive activities and elements of collaborative learing into your teaching
 
----
-
-**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]? (1 = Not comfortable at all, 5 = Very comfortable)**
-
-a. 1
-
-b. 2
-
-c. 3
-
-d. 4
-
-e. 5
+f. Providing constructive feedback
 
 ---
 
@@ -257,9 +281,9 @@ What do we see in the results?
 </div>
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Time for an activity! Why do you teach? What motivates you to teach? Write a few bulletpoints on what motivates you to teach. Save this as part of your developing teaching philosophy for future reference. Keep this in mind as we go along.
 
-**Instructor Notes**:
+**Instructor Notes**: Plan about 2 minutes for this activity.
 :::
 
 ---
@@ -276,7 +300,7 @@ What do you think are some initial **points to consider** when you **plan** an *
 
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Next question when planniung an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc.
 
 **Instructor Notes**: Answers that instructor might be looking for are: 
 - What is a suitable topic?
@@ -300,9 +324,7 @@ Made with generative AI.
 </div>
 
 ::: {.notes}
-**Presenter Notes**:
-
-**Instructor Notes**:
+**Presenter Notes**: This is an illustration of what organising an academic event more generally can feel like: at first, it all seems very straightforward and the organization follows a more or less logical sequential flow. In reality though it can also feel a little more like in the image at the bottom, where you are constantly facing micro decisions, sometimes with little time to think about them and running about ten operations in parallel. 
 :::
 
 ---
@@ -325,9 +347,24 @@ Things to consider **when organizing an event**:
 <!-- https://docs.google.com/document/d/1vh34ziAVGYErtco_8tNhfyOJo29x_BBk7g9UH08kzZU/edit?tab=t.0#heading=h.lw4i2wvq5ump -->
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Before focusing on the learning design itself, it is important to consider the practical aspects of organizing an Open Research event. Good planning helps create an environment in which learners can fully engage with the learning activities.
 
-**Instructor Notes**:
+The first question is who the target audience is. Are you designing the event for undergraduate students, doctoral researchers, professional staff, or a mixed audience? 
+
+You should also think carefully about dates and times. Consider learners’ schedules, competing commitments, and time zones if the event includes online attendees. Choosing an appropriate time can have a significant impact on attendance and engagement. For example, if learners have to travel for your course, you might consider avoiding periods where there are large festivities in town happening at the same time.
+
+Another important consideration is accessibility and learners needs. Think about whether learners may require accessible rooms, captioning, alternative formats for materials, or flexible participation options. This ties in with creating an inclusive learning environment.
+
+Next, consider the most suitable modality. Depending on the goals and audience, an event may work best in person, online, or in a hybrid format. Each option offers different opportunities and challenges in terms of interaction, logistics, and resource requirements.
+
+You will also need to identify any equipment, materials, or software required. This could include presentation equipment, laptops, workshop materials, collaboration tools, or specialized research software.
+
+Related to this is understanding how to book rooms and equipment. Institutional procedures often require advance planning, and popular spaces or resources may need to be reserved well ahead of time.
+
+In addition, familiarize yourself with any administrative procedures that may apply, such as room bookings, catering requests, registration systems, or approval processes. These practical details can have a significant impact on the smooth running of the event.
+
+Finally, consider how you will advertise the event. Effective communication helps ensure that the intended audience is aware of the opportunity and understands its value. This might include email lists, institutional websites, newsletters, social media channels, or personal networks.
+
 :::
 
 ---
@@ -337,28 +374,31 @@ Things to consider **when organizing an event**:
 :::incremental
 - **Check your working conditions**:
   - How much **time** do I have? 
-  - What **milestones** do we need to achieve?
-- **Plan time** for **orientation** at the start and the end:
-  - Who is **who**?
-  - What is **expected**? 
-  - What **remains unclear**?
+  - What **milestones** do we need to achieve? What is expected?
 - **Formulate** a broader **vision** and **learning goals**:
   - What is the **journey** you are taking your learners on?
   - What are **broader goals** for the event?
   - What are the **specific goals** for individual sections/workshops?
-  - How does it all **fit within** the existing context (programme, syllabus..)?
+  - How does it all **fit within** the existing context (program, syllabus..)?
   
 :::
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: Once the logistical aspects are in place, the next step is to think about how to structure the event.
 
-**Instructor Notes**:
+Start by considering your working conditions. How much time is available, and what milestones or outcomes are expected? Being clear about these constraints helps ensure that your plans are realistic and focused.
+
+Next, develop a broader vision for the event. Think about the learning journey you want participants to experience and the overall goals you hope to achieve.
+
+From there, define specific learning goals for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for both facilitators and learners.
+
+Finally, consider how the event fits within the wider context, such as an existing program, curriculum, or institutional strategy. Alignment with the broader learning environment helps create a more coherent and meaningful experience for participants.
+
 :::
 
 ---
 
-## Structuring your lesson: The ARIPE+ scheme (Städeli, 2013)
+## Structuring your lesson: The ARIPE+ scheme (Städeli et al., 2013)
 
 ![](images/05_ARIPE_scheme.png){fig-align="center"}
 
@@ -369,9 +409,10 @@ Things to consider **when organizing an event**:
 </div>
 
 ::: {.notes}
-**Presenter Notes**:
+**Presenter Notes**: One useful framework for structuring an event or individual lesson on Open Research is the ARIPE+ scheme, developed by Städeli and colleagues (2013). The model organizes learning into a sequence of phases that guide learners from initial engagement with a topic through exploration, practice, application, and reflection. ARIPE+ helps educators design learning experiences that are active and learner-centered. Rather than focusing only on content delivery, the framework emphasizes what learners do, experience, and demonstrate throughout the learning process. The "+" generally stands for elements connected to the learning environment, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language ... 
 
-**Instructor Notes**:
+In the following slides, we will explore each phase of the ARIPE+ scheme and consider how it can be applied when designing an Open Research event.
+
 :::
 
 ---
