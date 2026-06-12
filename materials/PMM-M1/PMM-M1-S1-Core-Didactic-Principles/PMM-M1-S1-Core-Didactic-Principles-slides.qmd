@@ -121,7 +121,7 @@ a. I have never heard of it before.
 
 b. I have heard of it but have never implemented it in my teaching.
 
-c. I have a basic understanding and sometimes implement it in my teaching.
+c. I have a basic working definition in mind and sometimes implement it in my teaching.
 
 d. I am very familiar and have routinely applied this in my teaching.
 
@@ -246,8 +246,8 @@ Some terms we will come across today...
 At the end of this session, you will...
 
 :::incremental
-- **Understand** basic didactic concepts as the basis for learning success
-- **Analyze** how knowledge can be organized depending on the level of expertise
+- **Remember** basic didactic concepts as the basis for learning success
+- **Understand** how knowledge can be organized depending on the level of expertise
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities
 - **Formulate** concrete learning objectives according to specific learning domains for real-world content
 :::
@@ -276,8 +276,6 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 ![](images/experience-spectrum.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**: Let us get a bit more of a sense of who is in the room with you and what teaching or didactics experience they bring with you. *For in-person learnerS*: I would like for everyone to get up an to stand on an imaginary axis based on how much teaching experience you have. Closest to the front we have really a lot of teaching experience, I teach basically every day, and at the back we have I am completely new to teaching. *For virtual learnerS*: I would like for everyone draw on this line how much teaching experience you have by drawing an x. On the right side of scale we have really a lot of teaching experience, I teach basically every day, and on the left side we have I am completely new to teaching.
-
 **Instructor Notes**: *For in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. *For online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
 :::
 
@@ -317,10 +315,65 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 
 ---
 
+## Your turn: What *is* didactics?
+
+From Greek: 
+- διδάσκω ("didaskó") - *teaching, teach, taught, instructed, showing, indicating*
+- διδακτός ("didaktos") - *taught*
+- διδακτικός ("didaktikos") - *apt to teach, able to teach*
+
+::: {.notes}
+**Presenter Notes**:
+
+:::
+
+---
+
+## Didactics ...
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+“...is the science of learning and teaching general” (Dolch, 1967)
+"...includes teaching and learning stratiegies [...] referring to the design, programming, elaboration and formulation of learning contents in verbal or written form." (Casasola, 2020)
+</div>
+
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+Riskulova, K. D. (2020). The role of didactics in teaching process. *Theoretical & Applied Science*, 5, 786-792.
+Duit, R. (2015). Didaktik. *Encyclopedia of science education*, 325-327.
+</div>
+
+::: {.notes}
+**Presenter Notes**: Within the realm of school pedagogics, didactics consists in planning and organizing successful processes of students’ learning. According to Dolch’s (1967) seminal definition, didactics is the science of learning and teaching in general. It deals with learning in all possible forms and with teaching of all kinds at all levels, initially without any reference to the possible content of teaching. Dolch’s definition corresponds largely to approaches that are based on theories of learning and focus on the analyzing and planning teacher, who may refer to information about the design of class instruction provided by didactics. 
+:::
+
+
+---
+
+## Didactics ...
+
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+“... encompasses questions about the selection of knowledge, teaching methods, and how learning takes place in different contexts. It can be seen as the planning, implementation, and analysis of teaching, with a particular focus on why certain goals, content, and methods are chosen."
+</div>
+
+
+<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
+[https://www.su.se/english/research/research-catalogue/research-subjects/d/didactics](https://www.su.se/english/research/research-catalogue/research-subjects/d/didactics)
+</div>
+
+::: {.notes}
+
+**Presenter Notes**: According to Stockholm University, who have a strong focus on didactics and conduct research around the topic, didactics is the art and science of teaching and learning. It is a field within education that seeks to answer three central questions: What should be taught, how should it be taught, and why should it be taught? Didactics encompasses questions about the selection of knowledge, teaching methods, and how learning takes place in different contexts. It can be seen as the planning, implementation, and analysis of teaching, with a particular focus on why certain goals, content, and methods are chosen. The well-known didactic triangle – what, how, why – is often used as a tool for analyzing and planning teaching and learning. Thus, didactics concerns the relationships between the teacher’s choice of content and methods, and what students actually learn. 
+
+Here we have an important key point: the instructors choice of content and methods, and what learners learn. You can view didactics as a framework in which knowledge and skills are not passively presented, but understood, retained and applied across different contexts. 
+:::
+
+---
+
 ## Your turn: What *is* learning?
 
 ::: {.notes}
-**Presenter Notes**: What is learning to you? How would you define it? What expectations or assumptions come with it?
+**Presenter Notes**: A natural follow-up question from didiactics: hat is learning to you? How would you define it? What expectations or assumptions come with it?
 
 **Instructor Notes**: Keep in mind that your learners may have very different educational, cultural, or professional backgrounds, which will shape how they define learning. Moreover, because the question is personal and open-ended, learners need to feel comfortable sharing ideas without fear of being judged or “wrong.” Emphasize that there is no right or wrong and they could take a guess if they felt comfortable. Importantly, use this as an opportunity to understand what learners prior conceptualization of this process is. 
 :::
@@ -392,7 +445,7 @@ As described in Efgivia et al,  learning is an active, learner-centered process,
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
-**Constructivism**: Learning is not passively received, but **actively built and shaped** by prior knowledge and the learning context. .
+**Constructivism**: Learning is not passively received, but **actively built and shaped** by prior knowledge and the learning context.
 
 </div>
 
@@ -514,15 +567,29 @@ A greater connectivity of a mental model allows expert to:
 
 ---
 
+## Recap
+
+- **Didactics** =  **planning and organizing** successful processes of learners’ learning 
+- **Learning** = a **process** that leads to **change**, which occurs as a result of **experience** and increases the potential for improved performance and **future learning**
+- **Constructivism** = learning is not passively received, but **actively built and shaped** by prior knowledge and the learning context.
+
+
+::: {.notes}
+**Presenter Notes**:
+
+:::
+
+---
+
 ## Your turn!
 
 <br>
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-
-Pick a topic from open research (different from open access). 
-**Sketch out** the mental model of a novice in comparison to a competent practitioner and an expert and **provide concrete examples** of how the organisation of knowledge differs among these three types of learners. 
+1. Pick a topic from open research (different from open access). 
+2. **Sketch out** the mental model of a novice in comparison to a competent practitioner and an expert
+3. **Provide concrete examples** of how the organisation of knowledge differs among these three types of learners. 
 
 </div>
 
