@@ -504,6 +504,25 @@ https://zenodo.org/records/18905547
 
 ---
 
+## Sepcific to Open Science
+
+4. Model Open Science Practices
+
+Demonstrate the behaviors you want students to adopt by:
+
+Sharing teaching materials openly where appropriate.
+Using version control for course materials.
+Explaining your own research workflow transparently.
+Acknowledging limitations and uncertainties in your own work.
+5. Make Open Science Relevant
+
+Connect practices to students' disciplines and career goals:
+
+Show examples from their field.
+Discuss how openness can improve research quality, visibility, and collaboration.
+Address practical considerations such as ethical data sharing and protecting sensitive information.
+
+---
 
 ## Considerations in your Open Research event
 
