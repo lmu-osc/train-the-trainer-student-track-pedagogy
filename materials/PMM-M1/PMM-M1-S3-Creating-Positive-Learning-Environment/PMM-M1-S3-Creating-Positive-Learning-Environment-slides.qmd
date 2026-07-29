@@ -1,6 +1,6 @@
 ---
 title: "Creating a positive learning environment"
-author: "LMU Open Science Center"
+author: "Sarah von Grebmer"
 date: "today"
 date-format: "DD/MM/YYYY"
 draft: true
@@ -105,86 +105,85 @@ What are your questions from the previous session?
 
 ---
 
-## Link to outline
+## Key terms and definitions
 
-[https://docs.google.com/document/d/1M-zZHyKxwzxStmFvwWLqk-sw0LFbxLFruBu06gvnFEM/edit?tab=t.0](https://docs.google.com/document/d/1M-zZHyKxwzxStmFvwWLqk-sw0LFbxLFruBu06gvnFEM/edit?tab=t.0)
-
-
----
-
-## Key terms and definitions - EDIT
-
-- **Learning environment**:
+- **Learning environment**: 
 - **Active listening**:
-- **TO DO**:
-- **TO DO**:
-
+- **Growth mindset**: 
+- **Inclusive language**: 
 
 ::: {.notes}
-**Presenter Notes**: Here are some  key concepts we will be discussing throughout the session. Thin for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the plenum. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.
+**Presenter Notes**: Here are some  key concepts we will be discussing throughout the session. Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the plenum. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.
 
 **Instructor Notes**: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise.
 :::
 
 ---
 
-## Key terms and definitions - EDIT
+## Key terms and definitions
 
-- **Learning environment**:
-- **Active listening**:
+- **Learning environment**: Comprises "the psychological, cultural, and physical setting in which learning occurs and in which experiences and expectations are co-created among its participants " [@rusticusWhatAreKey2023] 
+- **Active listening**: "The deliberate process of listening with attention and intention to understand another person’s message, while showing that understanding through responses such as clarification, reflection, and feedback."
+- **Growth mindset**: "The ability to reframe perceived failures as opportunities to learn and grow" [@dweckMindsetNewPsychology2006]
+- **Inclusive language**: Language that acknowledges the diversity of people, avoids stereotypes, discrimination and assumptions and supports equal opportunities (United Nations)
 
-::: {.notes}
-**Presenter Notes**: 
-
-**Instructor Notes**: If you do the think-pair-share exercice the slide before, skip this slide, this is for learners to come back to these concepts in their own time.
+:::footer
+[https://www.cmu.edu/student-affairs/civility/resources/active-listening.html?utm_source=chatgpt.com](https://www.cmu.edu/student-affairs/civility/resources/active-listening.html?utm_source=chatgpt.com) <br>
+[https://www.un.org/en/gender-inclusive-language/index.shtml?utm_source=chatgpt.com](https://www.un.org/en/gender-inclusive-language/index.shtml?utm_source=chatgpt.com)
 :::
 
 ---
 
-## Covered in this session - EDIT
+## Covered in this session
 
-- **Practical** and **logistical** 
+- What *is* a positive **learning environment**?
+- **Behaviors** and **attitudes** towards your audience
+- Fostering a **growth mindset**
+- Establishing **norms for interactions**
+- Universal Design for Learning (UDL)
+- **Inclusive language**
+- **Taking perspective** and being a **role model**
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: This is a little roadmap to what we will be discussing today. All of it falls under the framework of "What is a positive learning environment, what can I do to create one and what does it mean for my Open Science event?
+
+- What *is* a positive learning environment?
+- Behaviors and attitudes towards your audience
+- Fostering a growth mindset
+- Establishing norms for interactions
+- Universal Design for Learning (UDL)
+- Inclusive language
+- Perspective-taking and being a role model
+
 :::
 
 ---
 
-## Learning goals - EDIT
+## Learning goals
 
 At the end of this session, you will be able to:
 
-- **Describe** the role of language, body language, methods, and interaction rules in shaping learning environments
-- **Explain** principles of active listening (e.g., paraphrasing, summarizing, connecting ideas)
-- **Implement** methods such as introductory rounds and visualizations to foster inclusion
-- **Differentiate** between supportive and non-supportive teaching behaviors in real scenarios
-- **Judge** how well feedback and interaction rules contribute to a growth-oriented environment
-- **Develop** clear interaction rules that promote respect, inclusion, and engagement
-- **Evaluate** and **create** strategies tailored to teaching Open Research in specific formats (e.g., online, hybrid, asynchronous)
-
-
+- **Describe** the key characteristics of a positive learning environment, including the roles of verbal strategies, body language, active listening, growth mindset, inclusive language and perspective-taking
+- **Apply** evidence-informed teaching strategies such as active listening, inclusive language, introductory activities, and learner-centered communication, to foster a positive learning environment in Open Science training
+- **Analyze** how your behavior, attitude and, interaction norms influence learner motivation and engagement
+- **Evaluate** and **create** strategies for a positive learning environment tailored to teaching Open Research, including interaction norms, inclusive communication strategies, and approaches that accommodate diverse learners and teaching formats
 
 ::: {.notes}
-**Presenter Notes**: In this session, there are several learning goals: 
+**Presenter Notes**:
 
-
-**Instructor Notes**: <br>
-
-- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
-
-- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-
-- Examples: 
-  - Learners will **describe** the process of photosynthesis or
-  - Learners will **construct** a diagram illustrating the process of photosynthesis
-  
 :::
 
 ---
 
-## Before we start: Survey time! EDIT
+<!-- ## Learning goals - EDIT -->
 
+<!-- At the end of this session, you will be able to: -->
+
+<!-- - **Describe** the role of language, body language, methods, and interaction rules in shaping learning environments -->
+<!-- - **Explain** principles of active listening (e.g., paraphrasing, summarizing, connecting ideas) -->
+<!-- - **Implement** methods such as introductory rounds and visualizations to foster inclusion -->
+
+## Before we start: Survey time!
 
 ::: {.notes}
 **Presenter Notes**: Let us briefly look at where you are at. 
@@ -196,47 +195,46 @@ At the end of this session, you will be able to:
 
 ---
 
-**What is your level of experience with  Open Research events (e.g., a workshop, a seminar, lecture, lecture series..)?**
+**What is your experience with actively creating a positive learning environment for your learners in Open Science events?**
 
+a. I have never organized an Open Research event, so this does not apply
 
-a. I have never organized an Open Research event
+b. I am not familiar with the concept of a positive learning environment yet
 
-b. I have organised 1-2 Open Research events
+c. I am familiar with the concept of a positive learning environment, but have not actively taken any steps towards it yet
 
-c. I have organized 3-10 Open Research events
+d. I am familiar with the concept of a positive learning environment and have actively taken steps towards it
 
-d. I regularly organize Open Research events
-
-e. Organizing Open Research events is all I do because it is my (literal) job. 
-
----
-
-**What is your level of familiarity with the ARIPE+ scheme?**
-
-
-a. I have never heard of it before.
-
-b. I have heard of it but have never worked with it.
-
-c. I have basic understanding and experience with it.
-
-d. I am very familiar and have worked with it extensively.
+e. Creating a positive learning environment for your learners is all I think about for my Open Science events
 
 ---
 
-**Which of the following pedagogical elements do you feel most confident about in your teaching?**
+**What is your level of familiarity with Universal Design for Learning (UDL)?**
 
-a. Probing and boosting motivation
 
-b. Formulate and communicate learning goals for your event
+a. I have not heard of it yet
 
-c. Conceptualize and communicate the bigger vision of the event
+b. I have heard of it but have never actively engaged with it.
 
-d. Reactivate prior knowledge
+c. I have a basic understanding and use it sometimes in my teaching and learner interactions.
 
-e. Incorporate interactive activities and elements of collaborative learing into your teaching
+d. I am very familiar and use it extensively in my teaching and learner interactions.
 
-f. Providing constructive feedback
+---
+
+**Which of the following elements of creating a positive learning environment do you feel most confident about in your teaching?**
+
+a. Using verbal strategies
+
+b. Using non-verbal strategies
+
+c. Fostering a growth mindset
+
+d. Establishing norms for interaction
+
+e. Using inclusive language
+
+f. None of the above
 
 ---
 
@@ -267,9 +265,9 @@ What do we see in the results?
 **What does this mean to you?**
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: First question to you as the audience: What does the term learning environment mean to you? What thoughts or concepts come to mind?
 
-**Instructor Notes**:
+**Instructor Notes**: Collect thoughts with an interactive tool, such as a wordcloud or similar (e.g., with the software Particify). Highlight terms that were said more often by your learners, and also some that were mentioned only once.
 :::
 
 ---
@@ -289,9 +287,15 @@ What do we see in the results?
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: When we talk about the learning environment, we mean much more than the physical classroom or the online platform. It includes the psychological, social, cultural, and physical conditions in which learning takes place.
 
-**Instructor Notes**:
+These different aspects shape how people experience learning. For example, whether learners feel respected, included, supported, and able to participate can influence their engagement with the course.
+
+The learning environment is also something that everyone helps create. Learners, instructors, and others involved all contribute through their interactions, expectations, and behaviors.
+
+Research suggests that a positive learning environment can support learner engagement and success. This is why it is useful to think about not only what we teach, but also the conditions in which learning happens.
+
+**Instructor Notes**: Connect these "official" definitions with what learners had already mentioned during the brainstorming slide.
 :::
 
 ---
@@ -321,11 +325,14 @@ What do we see in the results?
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners' motivation to engage with a topic, seminar or course and their overall performance.
 
-**Instructor Notes**:
+The learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.
+
+Its impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.
+
+In brief: it matters where and how you teach your learners, perhaps more than you might think.
 :::
-
 
 ---
 
@@ -345,7 +352,7 @@ What do we see in the results?
 ::: {.notes}
 **Presenter Notes**: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference in the workbook. Keep this in mind as we go along.
 
-**Instructor Notes**: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example three dimensions of  Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes)
+**Instructor Notes**: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example three dimensions of  Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes).
 :::
 
 ---
@@ -358,7 +365,7 @@ What do we see in the results?
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 **Activity**:
 <br>
-**What *can you do* to create a positive learning environment through your attitude to your (Open Science) learners?**
+**What *can you do* to create a positive learning environment through your behavior and attitudes to your (Open Science) learners?**
 
 <br>
 
@@ -366,14 +373,16 @@ What do we see in the results?
 </div>
 
 ::: {.notes}
-**Presenter Notes**: What do you think are key aspects of a positive attitude towards your audience? Collect on paper and then try to sort into verbal strategies, body language strategies and methods.
+**Presenter Notes**: Now that we have collected what is included in a positive learning environment, what do you think can *you* do to create a positive learning environment through your behavior and attitude to your learners?
 
-**Instructor Notes**:
+Collect your thoughts in pairs.
+
+**Instructor Notes**: Allow for approx. 5 minutes for this task.
 :::
 
 ---
 
-## Attitudes towards your audience: Verbal strategies
+## Verbal strategies
 
 :::: {.columns}
 
@@ -385,11 +394,14 @@ What do we see in the results?
 
 ::: {.column width="60%"}
 
+
+:::incremental
 - **Small-talk** (yes, it is important)
 - Call learners by their **name**
 - **Validate** and show appreciation
 - Accept **silences**
 - Practice **active listening**
+:::
 
 :::
 
@@ -404,14 +416,27 @@ Chat dialogue icon: OpenClipart / FreeSVG.org — CC0 Public Domain.
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Small, intentional actions can help create a positive learning environment.
 
-**Instructor Notes**:
+Starting with a little small talk before the event can help build rapport and make learners feel more comfortable participating.
+
+Using learners' names acknowledges them as individuals and can help foster a sense of belonging.
+
+Validating contributions and expressing appreciation encourages participation, even when responses are incomplete or lead to further discussion.
+
+It is also helpful to be comfortable with silence. Giving learners time to think can lead to more thoughtful responses and allows different communication styles to be accommodated.
+
+Finally, practicing active listening, a very valuable skill that is also quite effective outside the teaching context.
 :::
 
 ---
 
 ## The skill of active listening
+
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+""...**listening with attention and intention** to understand another person’s message, while **showing** that **understanding** through responses such as clarification, reflection, and feedback."
+</div>
 
 :::: {.columns}
 
@@ -423,11 +448,13 @@ Chat dialogue icon: OpenClipart / FreeSVG.org — CC0 Public Domain.
 
 ::: {.column width="60%"}
 
+:::incremental
 - **Paraphrase** what audience members express
 - **Make** explicit **connections** between statements
 - Refrain from premature judgment
 - Ask for **clarification**
 - **Listen fully** before responding
+:::
 
 :::
 
@@ -438,25 +465,38 @@ Chat dialogue icon: OpenClipart / FreeSVG.org — CC0 Public Domain.
 [https://www.ncbi.nlm.nih.gov/books/NBK442015/](https://www.ncbi.nlm.nih.gov/books/NBK442015/)
 
 [https://executive.berkeley.edu/thought-leadership/blog/art-active-listening](https://executive.berkeley.edu/thought-leadership/blog/art-active-listening)
+
+[https://www.cmu.edu/student-affairs/civility/resources/active-listening.html?utm_source=chatgpt.com](https://www.cmu.edu/student-affairs/civility/resources/active-listening.html?utm_source=chatgpt.com)
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Active listening is a skill that helps learners feel heard and supports meaningful discussion.
 
-**Instructor Notes**:
+Paraphrasing what someone has said helps confirm your understanding and shows that you are listening carefully.
+
+Making connections between different contributions can help learners see relationships between ideas and build on each other's thinking.
+
+Avoid rushing to evaluate or judge responses. Giving ideas space to develop can encourage more open participation.
+
+When something is unclear, ask for clarification rather than making assumptions. This helps ensure shared understanding.
+
+Finally, listen fully before responding. Allowing learners to finish their thoughts demonstrates respect and leads to more thoughtful conversations.
+
+**Instructor Notes**: Highlight active listening as a transferrable skill.
 :::
 
 ---
 
-## Attitudes towards your audience: Body language
-
+## Body language
 
 :::: {.columns}
 
 ::: {.column width="70%"}
 
+:::incremental
 - Maintain **eye contact** with learners
 - Use your **body for communication** *(shake head, use hands)*
+:::
 
 :::
 
@@ -479,8 +519,11 @@ Consider **cultural differences in body language**, e.g., perception of eye cont
 
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Body language can reinforce verbal communication and help create a welcoming learning environment.
 
+Maintaining appropriate eye contact can show that you are attentive and engaged. At the same time, it's helpful to be mindful that comfort with eye contact varies across individuals and cultures.
+
+The meaning and interpretation of eye contact, gestures, and personal space can vary, so being aware of these differences can help support respectful and inclusive communication. For example, in many Western cultures like Germany, Candada etc. direct eye contact is a sign of confidence and engagement, whereas in other cultures it could be considered confrontational in parts of Japan and South Korea
 **Instructor Notes**:
 :::
 
@@ -504,9 +547,9 @@ Consider **cultural differences in body language**, e.g., perception of eye cont
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner talks for approx. 2 minutes, then discuss as a group what you noticed.
+**Presenter Notes**: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner picks one of the questions, then tells the instructor about his thoughts on the question for approx. 2 minutes. The observer focuses on body language and verbal communication. At the end of the two minutes, discuss as the group. The learner goes first, and describes their experience with the body language and verbal strategies of the instructor. The observer shares their insights, and the instructor shares how the exercise was for them. 
 
-**Instructor Notes**:
+**Instructor Notes**: Leave about 5 - 7 minutes for this exercise.
 :::
 
 ---
@@ -517,10 +560,13 @@ Consider **cultural differences in body language**, e.g., perception of eye cont
 
 ::: {.column width="70%"}
 
+
+:::incremental
 - Have **introductory activities**
 - Motivate audience to get involved as **early as possible**
-- Use different **visualization methods/tools**
+- Use different **visualization methods/tools** to encourage different ways of participation *(e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions...)*
 - **Adapt** to your audience
+:::
 
 :::
 
@@ -543,9 +589,17 @@ Consider neurodiversity when **designing engagement activities and visualization
 
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Besides verbal strategies and using your body language, you can also create a positive learning environment through different teaching methods. For example, introductory activities can help learners get to know the topic, the instructor, and each other. They can also create an opportunity for everyone to become involved early on.
 
-**Instructor Notes**:
+Encouraging participation at the start of a session can help establish an environment where learners feel comfortable contributing and sharing ideas.
+
+Using different visualization methods and tools can support different ways of engaging with information and can make learning more accessible. With this, you can encourage different ways of participation *(e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions...)*
+
+Finally, adapting to your audience means being responsive to their needs, experiences, backgrounds, and level of understanding. This may involve adjusting examples, explanations, pacing, or activities to support effective learning.
+
+*Note*: When designing activities and visual materials, consider that learners process information in different ways. Use clear visuals, thoughtful color choices, and varied ways of engaging with content to support different sensory and cognitive needs. For example, avoid relying only on color to communicate meaning, consider sensory load in activities, and provide enough structure for learners to process information in their own way.
+
+**Instructor Notes**: Refer back to what was collected in previous exercises. 
 :::
 
 ---
@@ -558,8 +612,18 @@ Consider neurodiversity when **designing engagement activities and visualization
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 **Activity**:
 
-**Collect some introductory activities that you use in your teaching on OS or have seen in other OS teaching events you attended**.
+**Collect** introductory activities that you use in your **teaching on Open Science** or have seen in other **Open Science teaching events** you attended.
 </div>
+
+::: {.notes}
+**Presenter Notes**: With these examples for methods in mind, collect some introductory activities that you use in your teaching on Open Science or have seen in other Open Science teaching events you attended
+
+**Instructor Notes**: Allow approx. 6 minutes for this exercise, apply think-pair-share, two minutes each. Discuss as a group in the "share" phase.
+:::
+
+---
+
+## FEEDBACK section here?
 
 ::: {.notes}
 **Presenter Notes**: 
@@ -569,7 +633,39 @@ Consider neurodiversity when **designing engagement activities and visualization
 
 ---
 
-## Feedback section here?
+## Fostering a growth mindset
+
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+**Growth mindset** = "the ability to reframe perceived failures as opportunities to learn and grow" [@dweckMindsetNewPsychology2006]
+</div>
+
+:::: {.columns}
+
+::: {.column width="15%"}
+
+![](images/12_growth_mindset.png){width=80%}
+
+:::
+
+::: {.column width="85%"}
+
+:::incremental
+- Positive **error framing**
+- Praise **effort and improvement**, not performance or ability
+- Provide opportunities for **self-assessment**
+- Present **multiple** possible **approaches**
+- Help your learners set **realistic expectations**
+:::
+
+:::
+
+::::
+
+
+::: footer
+from Laura Carter: [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547) <br>
+[https://icons8.com/icons](https://icons8.com/icons)
+:::
 
 ::: {.notes}
 **Presenter Notes**: 
@@ -581,39 +677,49 @@ Consider neurodiversity when **designing engagement activities and visualization
 
 ## Establish norms for interaction
 
-- Establish rules for interaction (a Code of Conduct)
-  - Inclusive language, behavior and attitudes
-Make Open Science specific
+**Question: Which learning interactions will be common in your event/course?** (*e.g., plenum discussions, work in pairs..*)
 
-https://zenodo.org/records/18905547
+:::: {.columns}
 
-
-::: notes
-Collect examples for each one of the bullet points and what they could mean - add to the existing papers. 
-:::
-
-Ideas from here: https://crlt.umich.edu/examples-discussion-guidelines
-
----
-
-## Fostering a growth mindset
+::: {.column width="70%"}
 
 :::incremental
-- Praise **effort and improvement**, not performance or ability
-- Provide opportunities for **self-assessment**
-- Present **multiple** possible **approaches**
-- Help your learners set **realistic expectations**
-- Positive **error framing**
+- Based on this: **establish rules for interaction** (a Code of Conduct)
+- **Examples**:
+  - Take group work **seriously**
+  - **Listen** respectfully, do not interrupt
+  - **Respect** different perspectives and experiences with Open Science, critique ideas, not people
+  - **Use inclusive language** and try to avoid assumptions about others
+  - ...
+  
 :::
 
+:::
+
+::: {.column width="30%"}
+
+![](images/11_code-of-conduct.png){width=60%}
+
+:::
+
+::::
+
+
 ::: footer
-Laura Carter [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
+[https://crlt.umich.edu/examples-discussion-guidelines](https://crlt.umich.edu/examples-discussion-guidelines) <br>
+[https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Next, we want to discuss norms for interacting. First, I need to think about what kind of interactions I am expecting in my class. More group work, more discussions, interactive things etc. Based on this, instructors could formulate a code of conduct. 
 
-**Instructor Notes**:
+Examples:
+
+- Take pair work or small group work seriously. Remember that your peers’ learning is partly dependent upon your engagement.
+- Listen respectfully. Don’t interrupt, turn to technology, or engage in private conversations while others are speaking. Use attentive, courteous body language. Comments that you make (whether asking for clarification, sharing critiques, or expanding on a point) should reflect that you have paid attention to the previous speakers’ comments.
+- Respect different perspectives and experiences
+Open Science involves different disciplines, communities, and research traditions, as well as different views on "how research is done". 
+- Using inclusive language means choosing words and behaviors that recognize and respect the diversity of learners and avoid assumptions about people’s identities, experiences, or abilities. Example non-inclusive language: "you guys", "everyone knows that"
 :::
 
 ---
@@ -624,12 +730,15 @@ Laura Carter [https://zenodo.org/records/18905547](https://zenodo.org/records/18
 
 ::: {.column width="60%"}
 
+:::incremental
 - [CAST](https://www.cast.org/) framework to **improve and optimize teaching and learning** for **all people** based on scientific insights in how humans learn
 - Addresses **diversity in learning** in three categories:
   - Engagement (the **why** of learning)
   - Representation (the **what** of learning)
   - Action & Expression (the **how** of learning)
 
+:::
+  
 :::
 
 ::: {.column width="40%"}
@@ -645,86 +754,114 @@ Laura Carter [https://zenodo.org/records/18905547](https://zenodo.org/records/18
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Universal Design for Learning, or UDL, is a framework developed by CAST that aims to improve and optimize teaching and learning by considering the diversity of learners from the beginning of the design process.
 
-**Instructor Notes**:
+Rather than creating one approach and adapting it later for individual needs, UDL encourages educators to provide flexible ways for learners to engage with content, access information, and demonstrate their learning.
+
+The framework is based on research about how people learn and focuses on three key areas.
+
+Engagement refers to the why of learning—how we motivate learners, support their interests, and encourage active participation.
+
+Representation refers to the what of learning—how information is presented and whether learners have different ways to access and understand content.
+
+Action and Expression refers to the how of learning—how learners can demonstrate their knowledge and skills through different methods.
+
+We will not go into more detail here, but know that this is a framework that can help you design your events and the content for a wider range of learners. 
+
+**Instructor Notes**: Make an explicit link between norms of interaction and UDL for a recognition effect, Provide a brief overview about UDL and then refer to the resources. 
 :::
 
 ---
 
 ## Expression: Using inclusive language
 
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+**Language** that acknowledges the **diversity of people**, **avoids** stereotypes, **discrimination** and assumptions and supports equal opportunities (United Nations)
+</div>
+
+
+:::: {.columns}
+
+::: {.column width="80%"}
+
 :::incremental
-- **Everyone**, **all** etc. instead of "You guys"
-- **If English isn't your first language, please let us know if you'd like clarification.** instead of "This is easy peasy for native English speakers
-- **One approach is..** instead of "Of course you would do it this way"
-- **The person with a disability** instead of "The disabled person"
+- "**Everyone**", "**all**" etc. instead of "*You guys*"
+- "**If English isn't your first language, please let us know if you'd like clarification**" instead of "*This is easy peasy for native English speakers*"
+- "**One approach is..**" instead of "*Of course you would do it this way*"
+- "**The person with a disability**" instead of "*The disabled person*"
+:::
+
+:::
+
+::: {.column width="20%"}
+
+![](images/10_multicultural_audience.png){width=90%}
+
+:::
+
+::::
+
+
+::: footer
+[https://www.un.org/en/gender-inclusive-language/index.shtml?utm_source=chatgpt.com](https://www.un.org/en/gender-inclusive-language/index.shtml?utm_source=chatgpt.com) <br>
+[https://icons8.com/icons](https://icons8.com/icons)
 :::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: Using inclusive terms such as “everyone” or “all participants” instead of “you guys” avoids assumptions and helps create a welcoming environment.
 
-**Instructor Notes**:
+When learners have different language backgrounds, invite questions and clarification rather than assuming a shared level of understanding.
+
+Using phrases like “one approach is…” encourages openness and recognizes that there may be multiple valid perspectives or solutions.
+
+When discussing disability, use language that respects individual preferences and focuses on the person rather than defining them by a characteristic.
 :::
 
 ---
 
-# So... what about creating a positive learning environment when teaching Open Science?
+# So.. what about creating a positive learning environment when teaching Open Science?
 
 ::: {.notes}
-**Presenter Notes**: 
-
-**Instructor Notes**:
+**Presenter Notes**: So... what about creating a positive learning environment when teaching Open Science? What could a positive learning environment mean in that context? Where is the overlap?
 :::
 
 ---
 
 ## Language in your Open Research event
 
+:::incremental
 - **Explain technical Open Science terms** and do not assume prior knowledge
 
 - **Use examples** from **different** research fields, not just one domain
 
-- **Invite questions** without implying they are basic
-
 - **Avoid idioms, slang**, or culture-specific jokes
-  - *Don't put all eggs into one basket* --> *Share your research output across different trusted platforms.*
+  - "*Don't put all eggs into one basket*" --> "*Share your research output across different trusted platforms.*"
+  
+- **Do not assume.**
 
-
-::: {.notes}
-**Presenter Notes**: 
-
-**Instructor Notes**: Examples: 
-Less inclusive:
-
-Everyone should already have Git installed. If not, you're behind.
-
-More inclusive:
-
-We'll use Git during this session. If you haven't installed it yet or run into issues, we'll provide time and support to get everyone started.
-
-In Open Science specifically
-Inclusive language also reflects the values of Open Science by:
-
-Recognizing diverse forms of knowledge and expertise.
-Avoiding assumptions about participants' access to funding, technology, or infrastructure.
-Being mindful of global participation, including researchers from different regions and institutional contexts.
-Encouraging collaboration across disciplines and career stages.
-
-Example: When discussing the benefits of open science, instead of using only biomedical research examples, compare practices across several disciplines:
-
-Psychology: Preregistration helps reduce selective reporting and improves reproducibility.
-Ecology: Sharing long-term environmental datasets enables researchers worldwide to study climate change without duplicating data collection.
-Astronomy: Open telescope data allows scientists who did not collect the observations to make new discoveries years later.
-Digital humanities: Open access to digitized historical archives enables scholars to develop new research questions and computational analyses.
-
-Using examples from different fields demonstrates that the principles of openness—such as transparency, sharing, reproducibility, and reuse—are broadly applicable, even though their implementation differs by discipline.
-
-You can also make the pedagogical point explicit:
-
-"Throughout this workshop, we'll intentionally use examples from multiple disciplines rather than relying on a single domain. This helps participants see that open science is not limited to one field and encourages them to adapt the underlying principles to their own research context."
 :::
 
+::: {.notes}
+**Presenter Notes**: Language in your Open Science event is of the highest importance. As we have seen, language is a massive part of the learning environment and therefore of the learning experience and process for your learners. It influences how learners feel, but also how learners engage and participate. Here are some ideas for language in your Open Science event: 
+
+- Avoid assuming that everyone has the same level of familiarity with Open Science concepts. Explain technical terms clearly and provide context when introducing new ideas.
+
+- Using examples from different research fields helps show that Open Research practices apply across disciplines and allows more participants to connect the content to their own work. Examples:
+  - Psychology: Preregistration helps reduce selective reporting and improves reproducibility.
+Ecology: Sharing long-term environmental datasets enables researchers worldwide to study climate change without duplicating data collection.
+  - Astronomy: Open telescope data allows scientists who did not collect the observations to make new discoveries years later.
+  - Digital humanities: Open access to digitized historical archives enables scholars to develop new research questions and computational analyses.
+
+- Next, use clear and accessible language. Avoid idioms, slang, or culture-specific expressions that may not be understood by all participants. For example, instead of saying “Don’t put all your eggs into one basket,” use a direct explanation such as “Share your research outputs across different trusted platforms.”
+
+- Finally, do not assume. Avoiding assumptions about participants' access to funding, technology, or infrastructure.
+
+**Instructor Notes**: More examples: 
+
+- *Less inclusive*: Everyone should already have Git installed. If not, you're behind.
+
+- *More inclusive*: We will use Git during this session. If you have not installed it yet or run into issues, we wwill provide support to get everyone on the same page.
+:::
 
 ---
 
@@ -740,86 +877,82 @@ You can also make the pedagogical point explicit:
 - ...
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: It is very important to keep in mind that Learners come to Open Science with different backgrounds and experiences:
 
-**Instructor Notes**:
+- Perspectives: People may have different views on Open Science. For example, one researcher may see preprints as a way to share findings quickly, while another may have concerns about sharing work before peer review.
+- Disciplines: Open practices vary across fields. For example, open data sharing may be common in astronomy, while researchers in clinical studies may need to consider participant privacy and consent.
+- Institutions: Researchers may have different levels of institutional support. For example, one university may offer Open Access funding and training, while another may provide fewer resources.
+- Resource settings: Time, funding, and support can influence participation. For example, a large research centre may have dedicated data managers, while an independent researcher may manage these tasks alone.
+- Access to infrastructure: Researchers may have different access to tools and platforms. For example, some may use institutional repositories, while others rely on public tools to share their work.
 :::
 
 ---
 
-## Interactions in your Open Research event
+<!-- ## Interactions in your Open Research event -->
 
-- Encourage **multiple ways of participating** (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions...)
+<!-- - Encourage **multiple ways of participating** (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions...) -->
 
-::: {.notes}
-**Presenter Notes**: 
+<!-- ::: {.notes} -->
+<!-- **Presenter Notes**: Encourage **multiple ways of participating** (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions...). This is an important element of the learning environment and boosts motivation as well. -->
 
-**Instructor Notes**:
-:::
-
----
+<!-- **Instructor Notes**: Refer back to some strategies you have used today in your teaching. -->
+<!-- ::: -->
 
 ## Be a role model in your Open Research event
 
+:::incremental
 - **Add anecdotes** about your own experiences with Open Science tools
 - **Show** your learners your GitHub repository or folder structure
 - **Share uncertainties** or limitations you have in your own workflow
+:::
 
 ::: {.notes}
-**Presenter Notes**: 
+**Presenter Notes**: One very powerful strategy to contribute to a positve learning environment in Open Science is to be a role model. For example:
 
-**Instructor Notes**:
+- Add anecdotes: Briefly share examples from your own use of Open Science tools, including what worked well and what you learned along the way.
+- Show your workflows: Demonstrating your own GitHub repository, file organization, or documentation practices can help learners see how Open Science is applied in practice.
+- Share uncertainties and limitations: Being open about challenges in your workflow shows that Open Science is an ongoing process and encourages learners to reflect on their own practices.
+
+**Instructor Notes**: Refer back to positive error framing when discussing uncertainties and challenges in your Open Science workflows. 
 :::
 
 ---
 
-## Your turn! 5 minutes
+## Your turn! 10 minutes
 
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 **Activity**:
 <br>
-**What do you think are potential *challenges* to a positive learning environment during an Open Science training event?** 
+**What do you think are potential *challenges* to a positive learning environment during an Open Science training event? How would you solve them?** 
 <br>(*e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..*)
 <br>
 <br>
-*Write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.*
+*In pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.*
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bulletpoints on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference. Keep this in mind as we go along.
+**Presenter Notes**: What do you think are potential *challenges* to a positive learning environment during an Open Science training event? How would you solve them?, e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..). 
 
-**Instructor Notes**: Plan about 5 minutes for this activity.
+In pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.
+
+**Instructor Notes**: Plan about 10 minutes for this activity.
 :::
 
 ---
 
-## Interactive teaching methods
 
-transition to activation method
-
----
-
-## Your turn!
-
-Take 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in "class", with the rest acting as audience. 
-
-::: notes
-Interactively ask participants to provide feedback on the selected method, delivery and improvement points.
-:::
-
----
-
-# Break! 5 minutes
-
-
----
-
-## Take-home messages - EDIT
+## Take-home messages
 
 :::incremental
-- **Start from the beginning**: logistics and practical considerations
+- **You can intentionally create a positive learning environment** through (body) language, active listening, teaching methods and many more strategies
+
+- **How** you teach is as important as **what** you teach: Your actions and attitudes as an instructor have a direct impact on the learning process and success
+
+- **Model** the Open Science values you teach, **demonstrate** openness, transparency in your own work
+
+- **Make mistakes**!
 
 :::
 
@@ -834,44 +967,22 @@ Interactively ask participants to provide feedback on the selected method, deliv
 
 At the end of this session, you are now able to:
 
-- ✅ 
+
+- **Describe** the key characteristics of a positive learning environment, including the roles of verbal strategies, body language, active listening, growth mindset, inclusive language and perspective-taking ✅ 
+- **Apply** evidence-informed teaching strategies such as active listening, inclusive language, introductory activities, and learner-centered communication, to foster a positive learning environment in Open Science training ✅ 
+
+- **Analyze** how your behavior, attitude and, interaction norms influence learner motivation and engagement ✅ 
+
+- **Evaluate** and **create** strategies for a positive learning environment tailored to teaching Open Research, including interaction norms, inclusive communication strategies, and approaches that accommodate diverse learners and teaching formats ✅ 
 
 
 ---
 
-## To conclude: Survey time! - EDIT
+## To conclude: Survey time!
 
 ---
 
-**Which of the following pedagogical elements do you feel most confident about after this workshop?**
-
-a. Probing and boosting motivation
-
-b. Formulate and communicate learning goals for your event
-
-c. Conceptualize and communicate the bigger vision of the event
-
-d. Reactivate prior knowledge
-
-e. Incorporate interactive activities and elements of collaborative learning into your teaching
-
-f. Providing constructive feedback
-
----
-
-**Which of the following elements or skills do you feel most curious about to implement in your future teaching?**
-
-a. Planning for the logistics of the workshop
-
-b. Designing orientation activities
-
-c. Boosting motivation through specific activities
-
-d. Balancing positive and negative feedback
-
----
-
-**On a scale of 1 to 5, how comfortable are you with using  the ARIPE+ scheme to structure your future Open Science workshop? (1 = Not comfortable at all, 5 = Very comfortable)**
+**On a scale from 1 to 5, what is your level of confidence with actively creating a positive learning environment for your learners in Open Science events?** (*1 = not confident at all, 5 = extremely confident, let's go*)
 
 a. 1
 
@@ -882,6 +993,23 @@ c. 3
 d. 4
 
 e. 5
+
+---
+
+**Which of the following elements of creating a positive learning environment do you feel most confident about in your teaching at this point?**
+
+a. Using verbal strategies
+
+b. Using non-verbal strategies
+
+c. Fostering a growth mindset
+
+d. Establishing norms for interaction
+
+e. Using inclusive language
+
+f. None of the above
+
 
 ---
 
@@ -907,8 +1035,10 @@ What do we see in the results?
 
 ---
 
+## References
 
-## Literature
+::: {#refs}
+:::
 
 - Antosch-Bardohn, J. (2018): Nicht-intentionale
 Lernprozesse im Alltag von Studierenden. Logos Verlag.
@@ -948,3 +1078,28 @@ und digitales Lernen. Springer VS.
 :::
 
 ---
+
+---
+
+# Slide deck 4 from here
+
+---
+
+## Interactive teaching methods
+
+transition to activation method
+
+---
+
+## Your turn!
+
+Take 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in "class", with the rest acting as audience. 
+
+::: notes
+Interactively ask participants to provide feedback on the selected method, delivery and improvement points.
+:::
+
+
+---
+
+
