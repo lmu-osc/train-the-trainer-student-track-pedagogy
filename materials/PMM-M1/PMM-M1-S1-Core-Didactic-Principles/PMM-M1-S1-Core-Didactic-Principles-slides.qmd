@@ -231,12 +231,12 @@ Some terms we will come across today...
 Some terms we will come across today...
 
 - **Constructivism**: The notion that learners actively build their own understanding of the world rather than absorbing information passively.
-- **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are deliberately aligned so that learners actively construct the knowledge and skills they are expected to demonstrate.
-- **Learning objectives**: describe what learners should be able to do after instruction and should specify the intended performance, conditions, and criteria for success.
-- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills, organized from lower-order thinking skills such as remembering and understanding to higher-order skills such as analyzing, evaluating, and creating.
+- **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are aligned so that learners actively construct knowledge and skills.
+- **Learning objectives**: Describe what learners should be able to do after instruction and should specify the intended performance, conditions, and criteria for success.
+- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills, organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
 
 ::: {.notes}
-**Presenter Notes**:  Today's goal is to get to know these concepts in depth, so that at the end of the session you will have come to learn what each one of them entails in more detail. 
+**Presenter Notes**: Today's goal is to get to know these concepts in depth, so that at the end of the session you will have come to learn what each one of them entails in more detail. 
 
 **Instructor  Notes**: Emphasize that knowledge of these concepts is not required at this point, and that you will get back to these definitions towards the end of the class.  
 :::
@@ -505,7 +505,7 @@ The second important element here is the role of context. Learning does not happ
 
 - Can be **accurate**, complete and appropriate for context
 
-![](images/progress){width=100%, fig-align="center"}
+![](images/progress.png){width=100%, fig-align="center"}
 
 :::
 
@@ -513,7 +513,7 @@ The second important element here is the role of context. Learning does not happ
 
 - Can be **inaccurate**, incomplete or inappropriate for context
   
-![](images/obstacles){width=100%, fig-align="center"}
+![](images/obstacles.png){width=100%, fig-align="center"}
 
 :::
 
