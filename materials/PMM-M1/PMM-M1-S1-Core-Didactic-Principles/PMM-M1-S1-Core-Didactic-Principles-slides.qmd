@@ -1109,7 +1109,7 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 ## Your turn! 10 minutes
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.6em; text-align: center;">
-*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. In pairs, **design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning objective** below.*
+*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. In pairs, **design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning objective** below.* 
 
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
@@ -1126,6 +1126,9 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 - an appropriate assessment method (e.g., checklist, rubric)
 
 - at least one observable criterion that demonstrates successful achievement of the learning objective.
+
+*Write your ideas into the workbook* to keep track of your thoughts. 
+
 
 **Instructor Notes**:  Example answers:
 
