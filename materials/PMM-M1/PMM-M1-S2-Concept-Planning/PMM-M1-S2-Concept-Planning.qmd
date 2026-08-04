@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Test Submodule"
+title: "1.2 Concept planning for Open Research events"
 ---
 
 > Something nice here

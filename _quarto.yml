@@ -17,12 +17,12 @@ website:
     style: "docked"
     collapse-level: 1
     contents:
-      - section: "Module 1: Didactics 101"
+      - section: "Module 1: Teaching Open Research"
         contents:
           - href: materials/PMM-M1/PMM-M1-S1-Core-Didactic-Principles/PMM-M1-S1-Core-Didactic-Principles.qmd
           - href: materials/PMM-M1/PMM-M1-S2-Concept-Planning/PMM-M1-S2-Concept-Planning.qmd
           - href: materials/PMM-M1/PMM-M1-S3-Creating-Positive-Learning-Environment/PMM-M1-S3-Creating-Positive-Learning-Environment.qmd
-      - section: "Module 2: Leadership Skills"
+      - section: "Module 2: Leadership Skills in Open Research"
         contents:
           - href: materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.qmd
 
