@@ -16,10 +16,16 @@ format:
   pptx: 
     css: ../../../slides-custom.css # looks for css file in root
 
+bibliography: ../../../assets/references.bib
+csl: ../../../assets/apa.csl
+
 execute:
   echo: true
   eval: true
   engine: knitr
+
+filters: 
+  - timer
 ---
 
 ## License
@@ -89,7 +95,15 @@ Before completing this submodule, please carefully read about the prerequisites.
 
 ## Before we start: Survey time!
 
+ADD QR code
+
 ---
+
+## Before we start: Survey time!
+
+::: {.panel-tabset}
+
+### Question 1
 
 **Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
 
@@ -101,7 +115,7 @@ c. Constructive alignment
 
 d. Formulating clear learning objectives
 
----
+### Question 2
 
 **What is your level of familiarity with the three learning domains (cogntive, affective and psychomotor)?**
 
@@ -113,7 +127,7 @@ c. I have a basic understanding and sometimes implement them in my teaching.
 
 d. I am very familiar and have routinely applied them in my teaching.
 
----
+### Question 3
 
 **What is your level of familiarity with Bloom's taxonomy?**
 
@@ -125,6 +139,8 @@ c. I have a basic working definition in mind and sometimes implement it in my te
 
 d. I am very familiar and have routinely applied this in my teaching.
 
+:::
+
 ---
 
 ## Discussion of survey results
@@ -132,17 +148,13 @@ d. I am very familiar and have routinely applied this in my teaching.
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-
 What do we see in the results?
-
 </div>
 
 ::: {.notes}
 **Presenter Notes**: Let us have a look at these results. 
 
-**Instructor Notes**:
-
-- **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
+**Instructor Notes**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
 
 **Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
@@ -230,10 +242,10 @@ Some terms we will come across today...
 
 Some terms we will come across today...
 
-- **Constructivism**: The notion that learners actively build their own understanding of the world rather than absorbing information passively.
-- **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are aligned so that learners actively construct knowledge and skills.
+- **Constructivism**: The notion that learners actively build their own understanding of the world rather than absorbing information passively [@sjobergConstructivismLearning2010].
+- **Constructive alignment**: A teaching approach in which learning objectives, teaching activities, and assessment tasks are aligned so that learners actively construct knowledge and skills [@biggsEnhancingTeachingConstructive1996].
 - **Learning objectives**: Describe what learners should be able to do after instruction and should specify the intended performance, conditions, and criteria for success.
-- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills, organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
+- **Bloom's taxonomy**: A framework for classifying levels of learning and cognitive skills [@bloom1964taxonomy], organized from lower-order thinking skills (e.g., remembering and understanding to higher-order skills (analyzing, evaluating).
 
 ::: {.notes}
 **Presenter Notes**: Today's goal is to get to know these concepts in depth, so that at the end of the session you will have come to learn what each one of them entails in more detail. 
@@ -256,7 +268,9 @@ At the end of this session, you will...
 
 ::: {.notes}
 **Presenter Notes**: These are the main learning objectives for today’s session.  First, you should be able to understand some basic didactic concepts that support effective learning and teaching. This gives us the theoretical foundation for the rest of the session.
+
 Second, you will analyze how knowledge can be structured differently depending on the learner’s level of expertise, for example, how novices and experts organize information in different ways.
+
 Third, you will evaluate whether learning objectives and assessment methods are actually aligned and why this is important. In other words, does the assessment really measure the kind of learning we want students to achieve? Finally, you will formulate your own learning objectives using authentic examples and applying the principle of constructive alignment.
 
 Notice that I have highlighted the verbs in bold, we will come back to this later in this session.
@@ -264,11 +278,11 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 
 ---
 
-# Getting started!
+## Getting started!
 
 ---
 
-## How much teaching experience do you have?
+### How much teaching experience do you have?
 
 - Workshops, peer training, (guest) lectures, seminars, lab presentations etc. on **open research** topics
 
@@ -283,7 +297,7 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 
 ---
 
-## How much have you already thought about didactics?
+### How much have you already thought about didactics?
 
 - If and when you teach about open research, do you or would you consider **didactic elements** in you design and/or teaching style..?
 
@@ -300,7 +314,7 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 
 ---
 
-## How big are your teaching/training audiences?
+### How big are your teaching/training audiences?
 
 - i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large)
 
@@ -345,14 +359,12 @@ Today, this definition has expanded a little, as we will see next.
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-“...is the **science of learning and teaching in general**” (*Dolch, 1967*)
-"...includes **teaching and learning strategies** [...] referring to the **design**, programming, elaboration and **formulation** of **learning contents** in verbal or written form." (*Casasola, 2020*)
+“...is the **science of learning and teaching in general**” <br> (Dolch, 1967) <br>
+"...includes **teaching and learning strategies** [...] referring to the **design**, programming, elaboration and **formulation** of **learning contents** in verbal or written form." <br> [@casasolariveraPapelDidacticaProcesos2020]
 </div>
 
-::: footer
-[@casasolariveraPapelDidacticaProcesos2020]
-[@duitDidaktik2015]
-[@riskulovaTheRoleofDidactics2020]
+:::footer
+@casasolariveraPapelDidacticaProcesos2020; @duitDidaktik2015; @riskulovaTheRoleofDidactics2020
 :::
 
 ::: {.notes}
@@ -386,7 +398,7 @@ Here we have an important key point: the instructors choice of content and metho
 What do you **connect** with this concept? First thoughts? Assumptions? Expectations?
 
 
-WORDCLOUD
+ADD WORDCLOUD
 
 ::: {.notes}
 **Presenter Notes**: A natural follow-up question from didactics: What is learning to you? How would you define it? What expectations or assumptions come with it?
@@ -408,19 +420,18 @@ Keep in mind that your learners may have very different educational, cultural, o
 </div>
 
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., Norman, M. K., & Mayer, R. E. (2023), page 2-3.
-Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
-</div>
+:::footer
+See @lovettHowLearningWorks2023. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+:::
 
 ::: {.notes}
-**Presenter Notes**: Pulling together our discussion from before, this definition of learning comes from Ambrose and colleagues. It is useful because it shifts our focus away from learning as something that simply “happens” when information is presented. Instead, learning is described here as a process, something ongoing rather than a single event, that results in change. That change might be in knowledge, skills, attitudes, or even how someone approaches problems.
+**Presenter Notes**: Pulling together our discussion from before, this definition from @lovettHowLearningWorks2023 and Ambrose et al. shifts the focus from learning as information being presented to learning as a process that leads to change.
 
-A key point in this definition is that change occurs as a result of experience. This highlights that learners need to actively engage with material; simply being exposed to information is not enough for meaningful learning to occur.
+That change results from experience and may involve knowledge, skills, attitudes, or approaches to problems. Simply being exposed to information is not enough; learners need to actively engage with it.
 
-The final part of the definition is important as well: learning increases the potential for improved performance and future learning. So learning is not only about immediate outcomes, but also about building capacity for continued growth over time.
+Importantly, learning also increases the potential for improved performance and future learning, building capacity for continued growth.
 
-Overall, this definition aligns well with what in educational sciences is known as constructivism,  which emphasizes active engagement, experience, and the development of understanding over time rather than passive reception of information.
+Overall, this aligns with what in educational sciences is known as constructivism, which emphasizes active engagement, experience, and developing understanding over time rather than passively receiving information.
 
 **Instructor Notes**: This slide is a good moment to go back to the previous activity whereby learners were thinking about their existing concepts of "learning" and compare and integrate some of the ideas that were put forward by learners with this definition.
 :::
@@ -440,13 +451,9 @@ Overall, this definition aligns well with what in educational sciences is known 
 
 :::
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
-Ambrose, S. A., Bridges, M. W., DiPietro, M., Lovett, M. C., Norman, M. K., & Mayer, R. E. (2023), page 2-3.
-Efgivia et al. (2023)
-Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
-
-</div>
+:::footer
+@efgiviaAnalysisConstructivismLearning2021, @lovettHowLearningWorks2023. Slide adapted from Laura Carter: "Evidence-based Training" [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547). Slide originally licensed under CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+:::
 
 ::: {.notes}
 **Presenter Notes**: Let us look at "learning" even more in detail.
@@ -460,9 +467,7 @@ As described in Efgivia et al,  learning is an active, learner-centered process,
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-
 **Constructivism**: Learning is not passively received, but **actively built and shaped** by prior knowledge and the learning context.
-
 </div>
 
 <br>
@@ -483,6 +488,7 @@ As described in Efgivia et al,  learning is an active, learner-centered process,
 **Presenter Notes**: The idea that learning is not simply "being transmitted" from an instructor to learners, but more something that learners actively achieve is captured by constructivism. 
 
 What this means in practice is that learners are not “empty vessels” waiting to be filled with information. Instead, they interpret new ideas through the lens of what they already know. Prior knowledge therefore plays a central role in how new information is understood, and sometimes it can even support learning, or get in the way if existing ideas conflict with new ones.
+
 The second important element here is the role of context. Learning does not happen in isolation, it is shaped by the environment, the tasks learners engage with, and the social interactions they experience. The same content can therefore be understood differently depending on how and where it is learned.
 
 **Instructor Notes**: Check for understanding here, this is a key point of today's session. 
@@ -561,11 +567,9 @@ How does your **experience** when you are acting as an expert **differ** from wh
 <br>
 <br>
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
+:::footer
 [https://carpentries.github.io/instructor-training/02-practice-learning.html](https://carpentries.github.io/instructor-training/02-practice-learning.html)
-
-</div>
+:::
 
 ::: {.notes}
 **Presenter Notes**: With increasing experience level, we move from one type of learner and mental model to another. Simplified, you could look at the types ot learners in terms of novice, competent practitioner, and expert. Here, the differences between these levels of learners can be summarized as starting from: unsure what questions to ask to I know something, but have to look up things to I am super experienced at this stage and basically do not have to think anymore. Let me give you examples for each type of learner: 
@@ -589,7 +593,7 @@ It is common to think of a novice as a sort of an “empty vessel” into which 
 
 ---
 
-## Example: A model of acquiring Open Access skills
+### Example: A model of acquiring Open Access skills
 
 <table style="font-size: 0.70em; width: 100%;">
 <thead>
@@ -640,15 +644,16 @@ Next, we will briefly explore the nature of “knowledge” through a concept th
 
 <br>
 <br>
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
 
+:::footer
 [https://carpentries.github.io/instructor-training/04-expertise.html](https://carpentries.github.io/instructor-training/04-expertise.html)
-
-</div>
+:::
 
 ::: {.notes}
 **Presenter Notes**: A novice has a minimal mental model of surface features of the domain. Inaccuracies based on limited or inaccurate prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar.
+
 A competent practitioner has a mental model that is useful for everyday purposes. Most new information they are likely to encounter will fit well with their existing model. Even though many potential elements of their mental model may still be missing or wrong, predictions about their area of work are usually accurate.
+
 An expert has a densely populated and connected mental model that is especially good for problem solving. They quickly connect concepts that others may not see as being related. They may have difficulty explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
 
 A greater connectivity of a mental model allows expert to:
@@ -666,10 +671,9 @@ A greater connectivity of a mental model allows expert to:
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-1. **Pick a topic** from open research (different from open access). 
+1. **Pick a topic** from open research (*different from open access*). 
 2. **Sketch out** the mental model of a novice in comparison to a competent practitioner and an expert
 3. **Provide concrete examples** of how the organization of knowledge differs among these three types of learners. 
-
 </div>
 
 ::: {.notes}
@@ -706,28 +710,57 @@ A greater connectivity of a mental model allows expert to:
 
 ## What would help you organize your knowledge?
 
-<br>
-<br>
-
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 
 Is there something that you are **currently learning how to do**? 
 
 Can you identify things that would help you with 
-**organizing your mental model** in a course or workshop?
-
+**organizing your mental model** in a course or workshop? 
 </div>
 
+::: {.columns}
+
+::: {.column width="33%"}
+
+### Think (2 min)
+- For yourself: Collect some thoughts for yourself.
+
+:::{.timer #think1 seconds=120 starton=interaction size=70% sound=true}
+::: 
+
+:::
+
+::: {.column width="33%"}
+
+### Pair (2 min)
+- Discuss your <br> thoughts with your neighbor.
+
+:::{.timer #pair1 seconds=120 starton=interaction size=70% sound=true}
+:::
+
+:::
+
+::: {.column width="33%"}
+
+### Share (2 min)
+- Share your thoughts with the larger <br> group.
+
+:::{.timer #share1 seconds=120 starton=interaction size=70% sound=true}
+:::
+
+:::
+
+::::
+
 ::: {.notes}
+**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learning how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. Write down thoughts for yourself (2 mins). Then discuss with your neighbor (2 mins). We will then discuss in the larger group.
 
-**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learning how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. 
-
-**Instructor Notes**: Ask for interaction from the audience. 
+**Instructor Notes**: Ask for interaction from the audience or make it an individual activity. Allow for approx. 6 minutes. 
 :::
 
 ---
 
-## Enhancing the organization of knowledge
+### Enhancing the organization of knowledge
 
 Some strategies ...
 
@@ -764,9 +797,9 @@ Finally, it is important to continuously monitor learners’ work for signs of m
 
 ![](images/constructional-alignment.png){width=100%, fig-align="center"}
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-Biggs, 1996
-</div>
+:::footer
+@biggsEnhancingTeachingConstructive1996
+:::
 
 ::: {.notes}
 **Presenter Notes**: As mentioned before, clearly laying out expectations and what you want your learners to achieve for a given workshop is key to help with the organization of the mental model. Constructive alignment provides a clear framework and contributes to the optimal learning environment. It is about making sure that the structure of your course or your lesson supports the learning objectives you are aiming at. Constructive alignment means ensuring that three core elements, namely learning objectives/ outcomes, teaching/learning activities, and assessment tasks work together and are aligned with each other. If there is any misalignment, it can confuse students or make the learning process less effective. 
@@ -779,7 +812,7 @@ In a physics class, the objective is for students to use Newton’s Second Law t
 
 Another example from the instructor: Learning objective = conducting an anamnestic interview with a patient. Teaching activites = role plays. Assessment task = Anamnestic interview with fake/real patient. 
 
-**Instructor Notes**: Ask if someone in your audience has already heard about this concept. Ask to provide examples. In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, [that] verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
+**Instructor Notes**: Ask if someone in your audience has already heard about this concept. Ask to provide examples. In constructive alignment, we start with the outcomes we intend students to learn, and align teaching and assessment to those outcomes. The outcome statements contain a learning activity, a verb, that verb says what the relevant learning activities are that the students need to undertake in order to attain the intended learning outcome. Learning is constructed by what activities the students carry out; learning is about what they do, not about what we teachers do. Likewise, assessment is about how well they achieve the intended outcomes, not about how well they report back to us what we have told them or what they have read’ (Biggs n.d.).
 :::
 
 ---
@@ -826,19 +859,13 @@ Match each **learning objective** with an **assessment type** and reflect the fo
 
 ## Setting learning objectives
 
-::: {.notes}
-**Presenter Notes**: We are coming to another core didactic principle besides prior knowledge, constructivism, mental models and constructive alignment, namely setting learning objectives. 
-:::
-
----
-
-## Setting learning objectives
-
 ![](images/setting-learning-goals-alice.png){width=100%, fig-align="center"}
 
 ::: {.notes}
-**Presenter Notes**: These quotes here represent the famous conversation between Alice and the Cheshire Cat in Alice in Wonderland. The key idea of the scene is decision-making and the importance of having an objective before choosing a direction. If you do not know where you are going, any road could potentially take you there. In this case, before asking how to get somewhere, you first need to know where you want to go. Just like Alice cannot choose the right path without knowing where she wants to go, instructors cannot effectively teach and get progress in return without clear learning objectives.
-Without clearly defined learning objectives, teaching and learning may lack direction and intentionality. Therefore, formulating and setting suitable learning objectives is a key skill of instructors, particularly in Open Science, which as a broad, interdisciplinary field with many obstacles that can sometimes feel too abstract or ideological to learners. 
+**Presenter Notes**: We are coming to another core didactic principle besides prior knowledge, constructivism, mental models and constructive alignment, namely setting learning objectives.
+These quotes here represent the famous conversation between Alice and the Cheshire Cat in Alice in Wonderland. They highlight the importance of having a clear objective before choosing a direction. Just as Alice cannot choose the right path without knowing where she wants to go, instructors cannot teach effectively without clear learning objectives.
+
+Clear objectives provide direction and intentionality, making them especially important in Open Science, a broad and interdisciplinary field that can sometimes seem abstract or ideological to learners.
 
 **Instructor Notes**: Emphasize the importance of clear learning objectives in the context of Open Science. Clear learning objectives create the direction that allows open science education to move from awareness toward genuine cultural and practical change in research, which is what is currently needed.
 :::
@@ -854,7 +881,7 @@ Without clearly defined learning objectives, teaching and learning may lack dire
 </div>
 
 :::footer
-Mager, R. F. (1997). Preparing instructional objectives: A critical tool in the development of effective instruction (3rd ed.). Atlanta, GA: Center for Effective Performance.
+@mager1962preparing
 :::
 
 ::: {.notes}
@@ -918,11 +945,9 @@ It is best to practice this, so without any more explanations, let us practice!
 | **Affective** | Growth in feelings or emotional areas (attitude or self), values |
 | **Psychomotor** | Manual or physical skills, change in behaviors |
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
-Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.” Center for the Advancement of Teaching Excellence at the University of Illinois Chicago. Retrieved 10. Augut 2026 from [https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/](https://teaching.uic.edu/blooms-taxonomy-of-educational-objectives/)
-
-</div>
+:::footer
+@stapleton2023bloom
+:::
 
 ::: {.notes}
 **Presenter Notes**: Now, let's say we want to define our learning objectives, and we know where in the hierarchy we want to begin. We still do not fully know *where* we are going because we have to better define what we want our learners to take out of the course, the subject or the individual lesson. In other words, we need to be more specific in *what* we want our learners to learn. A useful framework is to divide learning objectives into three domains. The first domain is the cognitive domain, which focuses on knowledge and thinking. The second domain is the affective domain, which focuses on feelings, attitudes, values, and personal growth. The third domain is the psychomotor domain, which focuses on physical or technical skills and behavioral change. Let us go through each one in more detail. 
@@ -930,7 +955,7 @@ Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.�
 
 ---
 
-## Cognitive domain
+### Cognitive domain
 
 :::incremental
 - Learning focused on expanding or building up **knowledge and thinking skills** as a learning outcome
@@ -945,11 +970,11 @@ Stapleton-Corcoran, E. (2023). “Bloom’s Taxonomy of Educational Objectives.�
 :::
 
 ::: {.notes}
-**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956). Bloom's taxonomy of learning objectives (1973; Bloom et al., 1956) is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
+**Presenter Notes**: The cognitive domain went through numerous revisions before a finalized version was published (Bloom 1956). Bloom's taxonomy of learning objectives [@bloom1964taxonomy] is a proven model for describing and classifying the cognitive skills that students should have mastered at the end of a course or module. The six levels of cognitive complexity build on each other and can be described using specific verbs.
 
 The cognitive domain has been the primary focus in education and has become shorthand for Bloom’s taxonomy as a result. The cognitive domain is made up of six levels of objectives. These levels are organized by hierarchy, moving from foundational skills to higher-order thinking skills.
 
-In 2001, Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and this is the version of the taxonomy used today.
+In 2001, Anderson and Krathwohl revised Bloom’s levels from nouns to verbs, and this is the version of the taxonomy used today [@andersonTaxonomyLearningTeaching2001].
 
 - Remember: retrieve relevant knowledge from memory.
 - Understand: determine the meaning of instructional messages.
@@ -963,9 +988,13 @@ Example from Open Science: The learning objective focuses on analysis. Learners 
 
 ---
 
-## Cognitive domain
+### Cognitive domain
 
 ![](images/cognitive-domain.png){width=100%, fig-align="center"}
+
+:::footer
+@andersonTaxonomyLearningTeaching2001
+:::
 
 ::: {.notes}
 **Presenter Notes**: This figure visualizes the learning objectives associated with the cognitive learning domain. What you see is the pyramid of learning objective verbs by Anderson and Krathwohl. This is a revised version of Bloom’s taxonomy and organizes learning objectives into a hierarchy of cognitive processes. It is often shown as a pyramid because it moves from simpler thinking skills at the base to more complex, higher-order thinking at the top.
@@ -987,7 +1016,7 @@ With respect to the example we just discussed, which level or levels do you thin
 
 ---
 
-## Affective domain
+### Affective domain
 
 :::incremental
 - Learning focused on identifying and developing **attitudes and values** of learners as learning outcome
@@ -1000,8 +1029,12 @@ With respect to the example we just discussed, which level or levels do you thin
 
 :::
 
+:::footer
+@krathwohl1964taxonomy
+:::
+
 ::: {.notes}
-**Presenter Notes**: The affective domain was first published in 1964 (Krathwohl et al, 1964). The affective domain outlines skills and behaviors that correspond to attitudes and values and as the learner progresses through the levels of the affective domain, they become self-reliant and internally motivated. Learning objectives aligned to the affective domain tend to be the hardest to articulate initially and often appear difficult to assess at first glance. However, affective outcomes often represent the outcomes most closely related to deeper thinking and lifelong learning. They can still be assessed through observable behaviors, such as showing appreciation for alternative perspectives, demonstrating commitment to a discussion, asking thoughtful questions, or recognizing the nuances and complexities of an issue.
+**Presenter Notes**: The affective domain was first published in 1964 by @krathwohl1964taxonomy. It focuses on attitudes and values, with learners becoming increasingly self-reliant and internally motivated as they progress through its levels. Affective objectives can be difficult to articulate and assess, but they can be observed through behaviors such as appreciating alternative perspectives, engaging thoughtfully in discussion, asking questions, and recognizing complexity. These outcomes are often closely linked to deeper thinking and lifelong learning.
 
 In this example, the learning objective is not simply for learners to know what preregistration is, but for them to actively engage with differing viewpoints about its advantages and disadvantages. Learners are expected to ask clarifying questions and incorporate alternative perspectives into their own arguments, demonstrating openness and reflective thinking.
 
@@ -1012,17 +1045,24 @@ Finally, the assessment task is a reflection essay. Here, learners summarize the
 
 ---
 
-## Affective domain
+### Affective domain
 
 ![](images/affective-domain.png){width=100%, fig-align="center"}
+
+:::footer
+@krathwohl1964taxonomy
+:::
 
 ::: {.notes}
 **Presenter Notes**: The affective domain contains five levels, from lowest to highest:
 
 Receiving: Willing to listen and receive knowledge.
 Responding: Actively participates and engages in knowledge transfer.
+
 Valuing: Finds value and worth in one’s learning with motivation to continue.
+
 Organizing: Integrates and compares values, resolves conflict between these values, and orders them according to priorities.
+
 Characterizing: Creates a value system that controls behavior. The behavior is pervasive, consistent, predictable, and characteristic of the learner.
 
 With respect to the example we just discussed, which level or levels do you think are we at when we think of the learning objective that was formulated?
@@ -1030,7 +1070,7 @@ With respect to the example we just discussed, which level or levels do you thin
 
 ---
 
-## Psychomotor domain
+### Psychomotor domain
 
 :::incremental
 - Learning focused on implementing, expanding and building **physical skills and behaviors**, .e.g., through physical movement, coordination and motor skills as learning outcomes (e.g., measured in terms of speed, precision or technical execution)
@@ -1042,9 +1082,12 @@ With respect to the example we just discussed, which level or levels do you thin
 
 :::
 
+:::footer
+@harrow1972taxonomy
+:::
 
 ::: {.notes}
-**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did (Simpson 1966, 1972;  Dave, 1970; Harrow, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. 
+**Presenter Notes**: Bloom and his colleagues did not create subcategories for skills in the psychomotor domain, but other educators did, see @dave1970developing,  @harrow1972taxonomy and @simpson1985educational and other (Simpson 1966, 1972). The psychomotor domain includes physical movement, coordination, and motor skills. Development of these skills requires practice and is measured in terms of speed, precision, distance, procedures, or technical execution. 
 
 A straightforward example could be the following: *The learning objective is for learners to accurately perform CPR using correct hand placement and rhythm. This emphasizes not only knowing the steps of CPR cognitively, but being able to physically carry them out correctly in a practical situation.*
 
@@ -1059,9 +1102,14 @@ The teaching activity provides guided, practical experience with preparing datas
 
 ---
 
-## Psychomotor domain
+### Psychomotor domain
 
 ![](images/psychomotor-domain.png){width=100%, fig-align="center"}
+
+:::footer
+@simpson1985educational
+:::
+
 
 ::: {.notes}
 **Presenter Notes**:  For the purpose of this teaching guide, we will explore Simpson’s version of the psychomotor domain, which has the following seven levels:
@@ -1108,7 +1156,7 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 
 ## Your turn! 10 minutes
 
-<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.6em; text-align: center;">
+<div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
 *You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. In pairs, **design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning objective** below.* 
 
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
@@ -1157,7 +1205,6 @@ This is individual work, take 10 minutes.
 **Instructor Notes**: Possible solutions:
 
 - Learners can **describe** the purpose and key features of Zotero (e.g., organizing references, generating citations). Bloom’s level: Remember / Understand. Domain: Cognitive (knowledge & comprehension). Assessment method: survey or multiple choice quiz. 
-
 - Learners can **apply** Zotero to **add and organize** references in a library using tools like the Zotero Connector or manual entry. Bloom’s level: Apply
 Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero collection and add minimum three references via manual entry, submit screenshot. 
 
@@ -1180,24 +1227,33 @@ Domain: Cognitive (procedural knowledge). Assessment method: Create a Zotero col
 
 ::: {.callout-tip}
 ## The formulation matters!
-
 Place a particular emphasis on the **verbs** when formulating learning objectives!
 :::
 
 ::: {.notes}
-**Presenter Notes**: Script for the slide here. 
+**Presenter Notes**: What are you main take-home messages from today?
 
-**Instructor Notes**:
+- Learning is an active process shaped by context, prior knowledge, and beliefs—a core idea of constructivism.
+- Learners differ in how they organize prior knowledge. Experts typically have more connections between concepts, allowing them to recognize patterns and make connections more efficiently.
+- Effective learning depends on alignment between learning objectives, assessment, and teaching activities—known as constructive alignment.
+- Before teaching, we need to know where we are going. This means defining appropriate learning objectives across the relevant domains: cognitive, affective, and psychomotor.
 
-- **Aim**: End lesson on clear take-home message that are interactively compiled by learners.
+**Instructor Notes**: End lesson on clear take-home message that are interactively compiled by learners.
 :::
-
 
 ---
 
 ## Survey time!
 
+ADD QR code
+
 ---
+
+## Survey time!
+
+::: {.panel-tabset}
+
+### Question 1
 
 **Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
 
@@ -1209,7 +1265,7 @@ c. Constructive alignment
 
 d. Formulating clear learning objectives
 
----
+### Question 2
 
 **What is your level of familiarity with the three learning domains (cognitive, affective and psychomotor)?**
 
@@ -1221,7 +1277,7 @@ c. I have a basic understanding and sometimes implement them in my teaching.
 
 d. I am very familiar with these concepts and routinely apply them in my teaching.
 
----
+### Question 3
 
 **What is your level of familiarity with Bloom's taxonomy?**
 
@@ -1232,6 +1288,8 @@ b. I have heard of it but have never implemented it in my teaching.
 c. I have a basic understanding and sometimes implement it in my teaching.
 
 d. I am very familiar and have routinely applied this in my teaching.
+
+:::
 
 ---
 
@@ -1248,9 +1306,7 @@ What do we see in the results?
 ::: {.notes}
 **Presenter Notes**: Let us have a look at these results. 
 
-**Instructor Notes**:
-
-- **Aim**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
+**Instructor Notes**: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.
 
 **Accessibility Tip**: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting. 
 :::
@@ -1272,27 +1328,14 @@ At the end of this session, you now...
 
 ---
 
-## References {.smaller}
+## References
 
-Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives*. Addison Wesley Longman.
-
-Bloom, B. S. (Ed.). (1973). *Taxonomie von Lernzielen im kognitiven Bereich* (3. Aufl.). Beltz.
-
-Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (Eds.). (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I: Cognitive domain*. David McKay Company.
-
-Bruner, J. S. (1960). *The process of education*. Harvard University Press.
-
-Fosnot, C. T. (Ed.). (2013). *Constructivism: Theory, perspectives, and practice* (2nd ed.). Teachers College Press.
-
-Piaget, J. (1950). *The psychology of intelligence*. Routledge & Kegan Paul.
-
-von Glasersfeld, E. (1995). *Radical constructivism: A way of knowing and learning*. Falmer Press.
-
-Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+::: {#refs}
+:::
 
 ---
 
-# Thanks! :)
+# Thanks!
 
 ---
 
@@ -1311,11 +1354,9 @@ Vygotsky, L. S. (1978). *Mind in society: The development of higher psychologica
 
 :::
 
-<div style="position:absolute; bottom:10px; left:0; width:100%; text-align:center; font-size:0.4em; color:#888;">
-
-Sjoberg, 2010; Tauber, 2006
-
-</div>
+:::footer
+@sjobergConstructivismLearning2010
+:::
 
 ::: {.notes}
 **Presenter Notes**: This is where constructivism provides us with a solid theoretical framework that frames learning as this active process whereby knowledge is constructed. Within this framework, learning occurs when existing ideas are at odds with new information that is being presented. Therefore, existing ideas and knowledge need to be incorporated into the teaching process in order for learning to take place. 
@@ -1337,9 +1378,18 @@ Following from this notion, it means that a core component of learning is the in
 
 ::: {.notes}
 **Presenter Notes**: Bloom’s taxonomy can help instructors appropriately align instruction to the learning objectives, including the planning of learning activities and the delivery of instructional materials (Raths 2002).
-Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. Crooks (1998) suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
 
-Bloom’s taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking. Bissell and Lemons (2006) used Bloom’s taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course objectives (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
+Bloom’s taxonomy helps instructors create valid and reliable assessments by aligning course learning objectives to any given level of student understanding or proficiency. @crooksImpactClassroomEvaluation1988 suggests that much of college assessment involves recalling memorized facts, which only addresses the first level of learning. However, Bloom’s taxonomy aids instructors in creating assessments that address all six levels of the cognitive domain.
+
+Bloom’s taxonomy has been shown to enhance students’ higher-order thinking skills, such as critical thinking. @bissellNewMethodAssessing2006 used Bloom’s taxonomy to assess critical-thinking skills in an introductory biology course. They developed a process by which they prepared questions with both content and critical-thinking skills in mind, and prepared grading rubrics that specified how to evaluate both the content and critical-thinking aspects of an answer. Using this methodology helped Bissell and Lemons clarify the course objectives (for instructors and students), improve student metacognition, and expose student misconceptions about the course content.
 :::
 
 ---
+
+
+## TODO
+
+- [ ] Add wordcloud and QR codes
+- [ ] Add alt text to all figures
+- [ ] Sort out all references
+
