@@ -1,6 +1,6 @@
 ---
 title: "Teaching open research: Core didactic principles"
-author: "Sarah von Grebmer"
+author: "Sarah von Grebmer zu Wolfsthurn"
 date: "today"
 date-format: "DD/MM/YYYY"
 format: 
@@ -1118,7 +1118,6 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 - **Psychomotor domain**: Learners will accurately upload a manuscript to an open access repository and correctly apply metadata and an appropriate license. 
 
 </div>
-
 
 ::: {.notes}
 **Presenter Notes**: Time to practice! In pairs, design one assessment task for each learning objective (cognitive, affective, psychomotor). For each assessment, specify:
