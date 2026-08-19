@@ -1,18 +1,20 @@
 ---
-title: "1.3. Creating a positive learning environment"
+title: "Creating a positive learning environment"
 ---
 
-> something nice here
+> Build the room to grow and learn.
 
 # About these materials
 
-**Welcome!** This workshop is intended to provide future Open Research instructors practical skills for designing and delivering engaging teaching events on Open Research topics. Through a mix of theoretical elements and hands-on exercises, we will explore practical considerations for planning an Open Research event, whether that is a lecture, workshop, seminar or full course. We will then discover how to foster the learning success by intrinsically structuring your events so that learners have time to arrive and orient themselves, reactivate prior knowledge, get familiar and process new content and obtain feedback on their learning progress.In this, we will also learn how to boost motivation in your learners, methods to activate prior knowledge and how to provide constructive feedback. Whether you are new to teaching or looking to sharpen your approach, this session will provide you with practical foundations for creating structured, learner-centered teaching events that help bring Open Research closer to your learners.
+**Welcome!** This workshop is intended to provide future Open Research instructors practical skills for
+creating positive and inclusive learning environments
+Through real-life examples and hands-on exercises, we will explore how instructors’ behaviors, attitudes, communication, and interaction with learners can influence motivation, engagement, and learning success. We will then discover strategies for fostering a growth mindset, practicing active listening, establishing supportive interaction norms, using inclusive language, and taking different learner perspectives into account. This session will provide you with practical foundations for fostering respectful, inclusive, and learner-centered teaching events for the best learning outcomes.
 
 ## Who are these materials for?
 
 The target audience of this workshop is twofold
 
-- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning) and basic didactic skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
+- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
 
 - **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
 

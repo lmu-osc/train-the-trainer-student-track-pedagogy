@@ -1,5 +1,5 @@
 ---
-title: "1.1. Core didactic principles for teaching Open Research"
+title: "Core didactic principles for teaching Open Research"
 ---
 
 > Learn to teach Open Research with impact.
