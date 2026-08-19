@@ -78,11 +78,12 @@ Before completing this submodule, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
 | Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
 </div>
 
 ::: {.notes}
-**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning goals. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research. 
+**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research. 
 
 **Instructor Notes**: These are the prerequisites for this submodule. Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria.
 :::
@@ -166,7 +167,7 @@ Finally, we will address the role of feedback in the learning process. We will f
 
 ---
 
-## Learning goals
+## Learning objectives
 
 At the end of this session, you will be able to:
 
@@ -177,7 +178,7 @@ At the end of this session, you will be able to:
 - **Understand** key elements of constructive feedback
 
 ::: {.notes}
-**Presenter Notes**: In this session, there are several learning goals. You as the learners will be able to:
+**Presenter Notes**: In this session, there are several learning objectives. You as the learners will be able to:
 
 * **Consider** the practical and logistical challenges involved in organizing an Open Research event.
 * **Design** an Open Research event using the five phases of the ARIPE+ scheme (Städeli et al., 2013) to support effective learning.
@@ -231,7 +232,7 @@ d. I am very familiar and have worked with it extensively.
 
 a. Probing and boosting motivation
 
-b. Formulate and communicate learning goals for your event
+b. Formulate and communicate learning objectives for your event
 
 c. Conceptualize and communicate the bigger vision of the event
 
@@ -310,7 +311,7 @@ What do you think are some initial **points to consider** when you **plan** an *
 - Who is my audience? How much experience do they have with Open Research topic X?
 - What is the event format? 
 - How long is the event/course?
-- Prior learning goals or learning materials?
+- Prior learning objectives or learning materials?
 - What do my learners connect with Open Research?
 :::
 
@@ -392,21 +393,21 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
 ## The ARIPE+ scheme
 
 :::incremental
-- **A** - *Arrive and adjust*: Provide orientation, outline journey and bigger picture, communicate learning goals, create and foster motivation
+- **A** - *Arrive and adjust*: Provide orientation, outline journey and bigger picture, communicate learning objectives, create and foster motivation
 - **R** - *Reactivate*: Reactivate and assess prior knowledge, link new content to existing content (constructivism)
 - **I** - *Inform*: Introduce new content
 - **P** - *Process*: Activities, tasks, discussions, questions, collaborative learning
-- **E** - *Evaluate*: Check progress on learning goals, feedback and assessment
+- **E** - *Evaluate*: Check progress on learning objectives, feedback and assessment
 :::
 
 ::: {.notes}
 **Presenter Notes**: Talking about *how* to structure the learning process and the learning environment for your learners, the ARIPE model is highly relevant. There are different phases, which have been backed up by empirical evidence. 
 
-- **A: Arrive and adjust**. This is where learners get oriented. Explain why the session matters, what they'll learn, how the workshop is structured,  how it connects to the bigger picture and what the intended learning goals are. This phase also helps establish motivation and creates a positive learning environment.
+- **A: Arrive and adjust**. This is where learners get oriented. Explain why the session matters, what they'll learn, how the workshop is structured,  how it connects to the bigger picture and what the intended learning objectives are. This phase also helps establish motivation and creates a positive learning environment.
 
 - **R: Reactivate**. Before introducing new ideas, help learners connect with what they already know. This could involve asking questions, discussing previous experiences, or using a quick activity to surface prior knowledge. Within the framework of constructivism, learning is much more effective when new information can be linked to existing mental models.
 
-- **I: Inform**. This is the instructional phase where you introduce new concepts, methods, or skills. Rather than trying to cover everything, focus on the key ideas that learners need in order to achieve the learning goals that you introduced in the first phase.
+- **I: Inform**. This is the instructional phase where you introduce new concepts, methods, or skills. Rather than trying to cover everything, focus on the key ideas that learners need in order to achieve the learning objectives that you introduced in the first phase.
 
 - **P: Process**. Learning happens through active engagement. Give participants opportunities to apply what they've learned in the previous phase through exercises, discussions, problem-solving, or collaborative activities. This is often the longest phase of a workshop because practice is essential for learning.
 
@@ -464,7 +465,7 @@ Be clear about how the course will run. Is it in person, online, or hybrid? If s
 
 If possible, help learners get to know each other. A short introduction or discussion can help participants discover shared interests or common goals of why they are together in this session. This creates a more welcoming learning environment and makes collaboration easier.
 
-Clearly communicate the learning goals. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
+Clearly communicate the learning objectives. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
 
 Point out important milestones such as homework, deadlines, assessments, or major activities. This helps learners plan their time and reduces uncertainty.
 
@@ -502,21 +503,21 @@ Next, develop a broader vision for the event. Think about the learning journey y
 ---
 
 ## ARIPE+: **A** - *Arrive and adjust*
-### Communicate learning goals
+### Communicate learning objectives
 
-- Clearly communicate the **learning goals**
-  - State the **learning goals** for the course/event series and provide an outlook on how you are planning to achieve them with your audience
+- Clearly communicate the **learning objectives**
+  - State the **learning objectives** for the course/event series and provide an outlook on how you are planning to achieve them with your audience
 
-![](images/04_learning_goals.png){fig-align="center" fig-alt="icon depiciting learning goals with an open book and a target with an arrow poking out in the center"}
+![](images/04_learning_goals.png){fig-align="center" fig-alt="icon depiciting learning objectives with an open book and a target with an arrow poking out in the center"}
 
 - **Examples**:
   - "*Learners will **compare** traditional publishing models with open-access publishing models*
   - "*Learners will **create** a reproducible research document using Quarto and **publish** it on GitHub*"
 
 ::: {.notes}
-**Presenter Notes**: From the broader picture, define specific learning goals for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners
+**Presenter Notes**: From the broader picture, define specific learning objectives for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners
 
-Clearly communicate the learning goals. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
+Clearly communicate the learning objectives Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
 
 In the first example, "Learners will compare traditional publishing models with open-access publishing models." The key action is compare. This tells us that learners are expected to analyse similarities and differences, not just remember definitions.
 
@@ -542,7 +543,7 @@ In the second example, "Learners will create a reproducible research document us
 
 Working in small groups, think about how you would help learners feel prepared, motivated, and ready to learn before introducing R itself.
 
-For each of the prompts on the slide, write down one or two concrete examples. For example, what equipment or materials would participants need? How would you explain the workshop format? What activity could help learners discover shared interests or goals? What milestones would you communicate? What learning goals would you share? And what expectations would you set from the beginning?
+For each of the prompts on the slide, write down one or two concrete examples. For example, what equipment or materials would participants need? How would you explain the workshop format? What activity could help learners discover shared interests or goals? What milestones would you communicate? What learning objectives would you share? And what expectations would you set from the beginning?
 
 You have 10 minutes to discuss and write down your ideas. Afterwards, we'll come back together and compare approaches to see the range of possibilities.
 
@@ -1176,7 +1177,7 @@ Activation methods are especially useful in this stage. They support learners in
 - Actively **initiate** feedback exchanges
 - Provide **targeted** feedback **early on** in the process so that learners can adapt
 - Be **constructive** in your feedback: What is a next step from here?
-- **Connect** it to the learning goals
+- **Connect** it to the learning objectives
 - **Balance** positive and negative feedback
 - Integrate **peer feedback** elements
 :::
@@ -1192,7 +1193,7 @@ Activation methods are especially useful in this stage. They support learners in
 - Actively **initiate** feedback exchanges rather than waiting for learners to request them
 - Provide **targeted feedback early** so learners can adjust during the learning process
 - Make feedback **constructive** by focusing on **clear next steps**
-- **Link** feedback explicitly to the learning goals
+- **Link** feedback explicitly to the learning objectives
 - **Balance** positive and corrective feedback to support learning and motivation
 - Include **peer feedback** to increase engagement and shared learning
 
@@ -1259,7 +1260,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 
 :::incremental
 - **Summarize and recap** covered content
-- Reiterate the **learning goals**
+- Reiterate the **learning objectives**
 - Highlight important **take-home** messages
 - Small **check-in assessment** to see where your learners are at
 - Clearly communicate **expectations** and timeframe for **homework**
@@ -1273,7 +1274,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 **Presenter Notes**: Wrapping up is equally part of the evaluation process. Some important elements of concluding a lesson and the learning process: 
 
 - **Summarize and recap** covered content
-- Reiterate the **learning goals**
+- Reiterate the **learning objectives**
 - Highlight important **take-home** messages
 - Small **check-in assessment** to see where your learners are at
 - Clearly communicate **expectations** and timeframe for **homework**
@@ -1343,7 +1344,7 @@ It can be difficult to avoid these demotivators entirely. Some people are so use
 
 ---
 
-## Learning goals - Recap
+## Learning objectives - Recap
 
 At the end of this session, you are now able to:
 
@@ -1371,7 +1372,7 @@ Add QR code
 
 a. Probing and boosting motivation
 
-b. Formulate and communicate learning goals for your event
+b. Formulate and communicate learning objectives for your event
 
 c. Conceptualize and communicate the bigger vision of the event
 

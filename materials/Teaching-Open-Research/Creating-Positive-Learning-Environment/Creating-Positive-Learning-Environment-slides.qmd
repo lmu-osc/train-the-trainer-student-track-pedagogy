@@ -38,7 +38,6 @@ execute:
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
 This current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
 </div>
 
 ::: {.notes}
@@ -78,13 +77,13 @@ Before completing this session, please carefully read about the prerequisites.
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
 | Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
 | Knowledge about designing teaching events | Tools and strategies to create a learning experience to convey content and skills | [Download Link](https://quarto.org) |
-| Open Science principles | Foundational knowledge about core Open Science skills and topics (Reproducibility, open access, R, version control etc.) | [Download Link](https://quarto.org) |
 </div>
 
 ::: {.notes}
-**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning goals. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research or Open Science. 
+**Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research or Open Science. 
 
 **Instructor Notes**: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria.
 :::
@@ -156,7 +155,7 @@ What are your questions from the previous session?
 
 ---
 
-## Learning goals
+## Learning objectives
 
 At the end of this session, you will be able to:
 
@@ -1017,7 +1016,7 @@ These aspects will be discussed further in the sessions on leadership in Open Re
 
 ---
 
-## Learning goals - Recap
+## Learning objectives - Recap
 
 At the end of this session, you are now able to:
 

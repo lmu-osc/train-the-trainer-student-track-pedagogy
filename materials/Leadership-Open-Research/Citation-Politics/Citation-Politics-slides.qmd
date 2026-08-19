@@ -8,15 +8,17 @@ format:
     css: ../../../slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../../OSC_FORRT_Logo.png  # Inserts logo in the bottom right corner (default)
+    logo: ../../../assets/logos/OSC_FORRT_Logo.png  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
       - left=30mm
   #pptx: 
     #css: ../../slides-custom.css # looks for css file in root
+    
 bibliography: ../../../assets/references.bib
 csl: ../../../assets/apa.csl
+
 execute:
   echo: true
   eval: true
@@ -48,7 +50,7 @@ contributions under the same license as the original.
 :::
 
 ::: notes
-**Speaker Notes**: The Creative Commons Attribution–ShareAlike 4.0
+**Presenter Notes**: The Creative Commons Attribution–ShareAlike 4.0
 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work
 in any medium, including for commercial purposes. These permissions are
 broad and cannot be withdrawn as long as the license terms are followed.
@@ -81,7 +83,7 @@ rights.
 [0000-0001-9000-8513](https://orcid.org/0000-0001-9000-8513))
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 These are the **speaker notes**. You will a script for the presenter for
 every slide. In presentation mode, your audience will not be able to see
@@ -116,7 +118,7 @@ necessary prerequisites.
     assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Before we start, a reminder towards the end of the session, we will be
 doing an activity where we assess the bibliography in our own work.
@@ -148,7 +150,7 @@ For submodule delivery in person:
 ## Questions from the previous submodule?
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Script for the slide here.
 
@@ -177,7 +179,7 @@ important"* <br> <br> To: "*I feel empowered to adopt more contentious
 citation practices"*
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 This journey aims to take you from the what or why is citation politics
 important? to feeling empowered to be more contentious in your citation
@@ -202,15 +204,17 @@ access if needed.
 ## Before we start: Results of survey!
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Let's take a look at the results of the short survey that was sent out
 before class. We will then compare our answers at the end of class.
 :::
 
-------------------------------------------------------------------------
+::: {.panel-tabset}
 
-**1. How *familiar* are you with the concept of citational politics?**
+### Question 1
+
+**How *familiar* are you with the concept of citational politics?**
 
 **Scale 1 to 5: 1 = never heard of it, 5 = extensive knowledge.**
 
@@ -224,15 +228,9 @@ before class. We will then compare our answers at the end of class.
 
 5.  Extensive knowledge
 
-::: notes
-**Speaker Notes**: How familiar are you with the concept of citational
-politics? Scale runs from 1 to 5 where 1 = never heard of it and 5 =
-extensive knowledge.
-:::
+### Question 2
 
-------------------------------------------------------------------------
-
-**2. How would you rate your *confidence* to carry out an audit of your
+**How would you rate your *confidence* to carry out an audit of your
 citational practices on your work?**
 
 **Scale 1 to 5: 1 = Not confident at all , 5 = Completely confident)**
@@ -247,21 +245,19 @@ citational practices on your work?**
 
 5.  Completely confident
 
-::: notes
-**Speaker Notes**:
+### Question 3
 
-How would you rate your confidence to carry out an audit of your
-citational practices on your work? Scale runs from 1 to 5 where: 1 = Not
-confident at all and 5 = Completely confident).
+**List three adjectives that you expect or hope to *feel* at the end of the class.**
+
 :::
 
-------------------------------------------------------------------------
-
-**3. List three adjectives that you expect or hope to *feel* at the end
-of the class**
-
 ::: notes
-**Speaker Notes**: List three adjectives that you expect or hope to feel
+**Presenter Notes**: 
+- For Question 1: How familiar are you with the concept of citational politics? Scale runs from 1 to 5 where 1 = never heard of it and 5 = extensive knowledge.
+
+- For Question 2: How would you rate your confidence to carry out an audit of your citational practices on your work? Scale runs from 1 to 5 where: 1 = Not confident at all and 5 = Completely confident).
+
+- For Question 3: List three adjectives that you expect or hope to feel
 at the end of the class.
 :::
 
@@ -276,7 +272,7 @@ What do we see in the results?
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Let us have a look at these results.
 
@@ -318,7 +314,7 @@ There are **five** sections to this submodule:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 The over all aim of this submodule is to examine the concept of
 citational politics, its links to knowledge production and dissemination
@@ -353,7 +349,7 @@ Section 1 you should be able to:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 After completing Section 1 you should be able to:
 
@@ -381,7 +377,7 @@ citational inequities. <br> <br> Activity: Pass the discussion (ball)
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 After completing section 2 you should be able to:
 
@@ -413,7 +409,7 @@ completing Section 3 you should be able to:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 After completing section 3 you should be able to:
 
@@ -443,7 +439,7 @@ Section 4 you should be able to:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 After completing section 4 you should be able to:
 
@@ -469,7 +465,7 @@ Section 5 you should be able to:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 After completing section 5 you should be able to:
 
@@ -489,7 +485,7 @@ Our last activity is a short open book quiz.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In this first section we will take a look at what citations are.
 :::
@@ -507,7 +503,7 @@ In this first section we will take a look at what citations are.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 We will now do a think-pair-share activity based on a two part question:
 What are citations, and why do we cite?
@@ -569,7 +565,7 @@ For example, this definition cites work by Sauvé and colleagues from
 end.
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In everyday life we use citations, perhaps without realizing, for
 example verbal citations “X said this y”.
@@ -599,7 +595,7 @@ question.
 ::: incremental
 -   Citations play an important role in tracing the **conceptual**
     origins and evolution of **ideas** during literature searches
-    [@ghosal2021]
+    [@ghosalFindingResearchLineage2021]
 
 -   Citations are used to provide background **context** to piece of
     work, particularly in introductory sections.
@@ -613,11 +609,11 @@ question.
 ## Did you know?
 
 The study of citations and other bibliographic data is known as
-**bibliometrics** [@donthu2021]
+**bibliometrics** [@donthuHowConductBibliometric2021]
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Citations play an important role in tracing the *conceptual* origins and
 evolution of *ideas* during literature searches.
@@ -643,12 +639,12 @@ bibliometrics.
 <img src="images/2_citation_map.png" style="width:40%;"/>
 
 ::: {style="font-size: 0.6em; margin-top: 0.5em;"}
-<em>Figure adapted from @lin2022 </em>
+<em>Figure adapted from @linBibliometricVisualAnalysis2022 </em>
 :::
 ::::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Citation practices can be analyzed using bibliometric analyses. It can
 show you who cites who and identify clusters of citation bubbles.
@@ -685,7 +681,7 @@ explained.
 :::::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 We can map knowledge relationships made up of nodes that link together
 using Bibliometric analyses.
@@ -713,13 +709,13 @@ one on the top left of the image.
 
 -   Citation metrics (e.g. H-Index) are an evaluation tool used to make
     important decisions like career progression, funding allocations and
-    conference speaker invites [@gupta2025].
+    conference speaker invites [@guptaCitationMetricsEvaluation2025].
 
 ::: callout-note
 # Definition
 
 -   Hirsch's Index (H-Index) is an author-level metric used to assess
-    *productivity* and *impact* of publications [@hirsch2005].
+    *productivity* and *impact* of publications [@hirschIndexQuantifyIndividuals2005].
 
 -   It is calculated by the number of publications with citation number
     ≥ h (e.g. if a scholar has a total of 10 publications and 7 of those
@@ -730,7 +726,7 @@ one on the top left of the image.
     there are inherit *biases* with this...
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Citation metrics like the H-Index are an evaluation tool used to make
 important decisions like career progression, funding allocations and
@@ -772,7 +768,7 @@ disparities in citation rates.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 The number of citations is not only a measure of *quality* and
 *productivity*, as being highly cited relies on *opportunities* to
@@ -817,7 +813,7 @@ in citation rates.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 As we saw with the example knowledge map, it is evident when we see a
 highly cited paper. Citations reflect *choices* scholars make in who
@@ -840,7 +836,7 @@ In the next section we will look at citation politics in more detail.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In this section we will take a look at the mechanisms and consequences
 of citational inequities.
@@ -863,7 +859,7 @@ disparities.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 This collage of screenshots showcase a selection of recent articles
 documenting citational disparities across multiple marginalized groups
@@ -895,7 +891,7 @@ academia.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 There is currently more research on *gender bias* in citation patterns
 than for other marginalized identities (e.g. *Matilda effect*, where we
@@ -919,14 +915,14 @@ identities face compounding barriers.
 
 -   To reach *parity* with men, women's share of HCRs would need to
     increase *100%* in health and social sciences and *500%* in
-    engineering, chemistry and computer science [@meho2022].
+    engineering, chemistry and computer science [@mehoGenderGapHighly2022].
 
 -   This is an example of the **Matilda effect** - the systematic
-    undervaluing of women's contributions to research [@rossiter1993].
+    undervaluing of women's contributions to research [@rossiterMatthewMatildaEffect1993].
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 An example of the Matilda effect - the systematic undervaluing of
 women's contributions to research - is shown in this case study on
@@ -965,11 +961,11 @@ inequities.
 **Systemic** emphasizes whole systems. **Structural** refers to the
 embedded policies/practices that provide scaffolding of systems.
 **Inter-personal** is about interactions and behaviors between people
-and teams [@braveman2022]. Mechanism levels can overlap!
+and teams [@bravemanSystemicStructuralRacism2022]. Mechanism levels can overlap!
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Socio-economic and academic are two main types of mechanisms leading to
 the *under representation* of *marginalized* scholars and *over
@@ -1005,24 +1001,24 @@ mechanisms in the section earlier about barriers to publishing.
 ## Definitions
 
 -   **Plagiarism:** To present work ideas from another author or work as
-    one’s own *without crediting* the source [@park2003].
+    one’s own *without crediting* the source [@parkOtherPeoplesWords2003].
 
 -   **Citational cliques:** A citational practice that describes how
     networks of authors or journal editors can game the system by
     *excessively citing* each other to increase their *citational
     metrics* (H-Index for authors, Impact Factors for journals)
-    [@franck1999; @kojaku2021].
+    [@franckScientificCommunicationAVanity1999; @kojakuDetectingAnomalousCitation2021].
 
 -   **Hidden Curriculum:** A highly contextual set of social norms,
     practices and values *not explicitly taught* as part of official
     teaching. The impact of the hidden curriculum *disproportionately*
-    felt by marginalized groups [@jackson1990] (e.g. many scholarly
+    felt by marginalized groups [@jacksonDailyGrind1990] (e.g. many scholarly
     awards allow self-nomination, which might not be immediately
     apparent).
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 You may of heard about *Plagiarism*, *citational cliques* and the
 *"hidden curriculum"*. These mechanisms span structural and
@@ -1066,11 +1062,11 @@ previous slides.
     multiple domains, especially in biological and health sciences, can
     be disadvantaged during the publishing process and are often
     evaluated the same as scholars working within a single domain
-    [@levitt2008].
+    [@levittMultidisciplinaryResearchMore2008].
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 *Linguistic privilege* and *inter/transdisciplinarity* are two
 contributors to citational disparities that are often overlooked.
@@ -1108,7 +1104,7 @@ previous slides.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 There are several mechanisms that contribute to the inequitable
 citational patterns.
@@ -1136,14 +1132,14 @@ The impact of biases and systemic inequalities in citation practices are
 ::: callout-note
 ## Definition
 
-The **Matthew Effect** is a phenomenon coined by @merton1968 after the
+The **Matthew Effect** is a phenomenon coined by @mertonMatthewEffectScience1968 after the
 'rich get richer; poor get poorer' saying in the Gospel of Matthew. It
 describes the **self-reinforcing accumulation** of recognition and
 prestige within the academic system.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 The impact of inequalities in citation practices are cumulative such
 that scholars with more academic and social advantages (i.e. privilege)
@@ -1182,7 +1178,7 @@ academic system.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In this activity of “pass the discussion (ball)” there will be two case
 studies to discuss. To contribute to the discussion, you must be holding
@@ -1256,7 +1252,7 @@ person can mediate the ball passing.
 :::
 
 ::: notes
-*Speaker Notes*:
+*Presenter Notes*:
 
 Adriana is originally from Brazil and was the first in her family to go
 to university. She is doing a post doc in Germany in computational
@@ -1284,7 +1280,7 @@ been helpful in guiding her through the visa renewal process.
 :::
 
 ::: notes
-*Speaker Notes*
+*Presenter Notes*
 
 Andrew is British and a post-doctoral researcher at a Canadian
 university researching vaccines. After finishing his bachelor’s degree,
@@ -1332,7 +1328,7 @@ researcher at another Canadian university for a month.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Now we have both case studies side by side and the guide questions to
 help us in this discussion.
@@ -1391,7 +1387,7 @@ student).
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Here we have some clues as to some of the mechanisms operating for both
 people. Note that some mechanisms are not as explicit (e.g. Adriana is
@@ -1462,7 +1458,7 @@ cite and who we do not.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In the first two sections we have learned that:
 
@@ -1503,7 +1499,7 @@ Suggestion: allow students 1 minute to write out some reflections.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Section 2 focused on mechanisms that are mostly structural and here we
 will focus on individual actions to address citational disparities.
@@ -1525,11 +1521,11 @@ will focus on individual actions to address citational disparities.
 
 In arts and humanities, outputs may not always be in a written format
 (e.g. art pieces, audio or video) or researchers dealing with ancient
-texts contain fewer citations than in STEM subjects [@colavizza2023].
+texts contain fewer citations than in STEM subjects [@colavizzaCaseHumanitiesCitation2023].
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Even across disciplines the way we carry out and disseminate research
 can be broadly divided into four stages: planning, project, paper and
@@ -1570,7 +1566,7 @@ Q1: When do you typically think about citations in your work?
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 This exercise is in two parts, aimed to get you thinking about your own
 research process and when you think about citations. First on our own we
@@ -1616,7 +1612,7 @@ think about citations?
 4.  [ ] **Publication:** (peer review process, publishing research)
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Now is a chance to reflect and discuss in small groups at which stage of
 research you consider the most important to think about citations? I
@@ -1662,7 +1658,7 @@ Handbook!](https://lmu-osc.github.io/training/open-research-cycle.html)
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 We are often taught to think about citations only during the write up
 stage of our essays, reports or manuscripts (stage 3), but practicing
@@ -1717,7 +1713,7 @@ al. that individuals can adopt in their own research stages.
 :::::::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Here we have four columns that correspond to the 4 main stages of
 research with some published tools or practices that individual scholars
@@ -1742,7 +1738,7 @@ Pause and ask if learners have any questions about the terms.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 This section is more hands on, where we will carry out a citational self
 audit
@@ -1774,7 +1770,7 @@ implementing plans to **improve** standards/performance
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Self-auditing is an important part of evaluating your skill sets and
 ways of working
@@ -1805,12 +1801,12 @@ the learning process!
     demographic markers of the authors we cite and it is time consuming
 
 -   There are a number of tools that help automate this process like
-    Gender Balance Assessment Tool (GBAT) [@sumner2018; @sumner2024],
-    genderize, GCBI-alyzer [@fulvio].
+    Gender Balance Assessment Tool (GBAT) [@sumnerGenderBalanceAssessment2018; @sumnerGenderBalanceAssessment2024],
+    genderize, GCBI-alyzer [@fulvioGenderImbalanceCitation2020].
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 If we were to examine the reference list of our own work, it is likely
 we would struggle to assess how diverse it is unless we know the authors
@@ -1829,7 +1825,7 @@ during the paper writing stage
 
 ::: incremental
 -   GBAT is an **automated web-based** tool that evaluates the **gender
-    balance** of a bibliography list developed by @sumner2018 in
+    balance** of a bibliography list developed by @sumnerGenderBalanceAssessment2018 in
     response to the chronic under citing of women in political science
 
 -   It works by **identifying** names from an author list,
@@ -1847,7 +1843,7 @@ identifying as non-binary, transgender or gender diverse).
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 As we have shown, there is a citational bias against women and GBAT is a
 tool that is helpful to assess the gender diversity of your bibliography
@@ -1888,7 +1884,7 @@ Now to practice using GBAT (10 minutes):
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Now it is your turn to conduct a self-audit using GBAT. For this
 activitity you have 10 minutes.
@@ -1947,11 +1943,11 @@ self-auditing tools longer term.
 Citation diversity statements have *four* parts: *1)* the issues and
 importance of citational diversity, *2)* citation diversity scores (e.g.
 GBAT), *3)* methods and caveats of scoring approach used, *4)* a
-commitment to improving citational practices [@zurn2020].
+commitment to improving citational practices [@zurnCitationDiversityStatement2020].
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Hopefully conducting the GBAT assessment made you reflect on your own
 work. You may wonder what you can do next?
@@ -1997,7 +1993,7 @@ as we carry out our research!
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 In the first two sections we have learned that:
 
@@ -2032,7 +2028,7 @@ this opportunity to allow learners to ask questions.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Now we will summarize the key points of the whole submodule, with a quiz
 and a revisit of the pre-submodule survey and advanced exercises.
@@ -2067,7 +2063,7 @@ do better." *Maya Angelou*
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Before we take questions and have the end of submodule quiz let's take
 the opportunity to summarize the key points of this submodule.
@@ -2099,7 +2095,7 @@ Allow a moment to take any general questions before the quiz.
 ## End of submodule quiz!
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Now time for a quick quiz with four questions of a mix of multiple
 choice and true or false questions.
@@ -2144,7 +2140,7 @@ challenges.
     systemic inequalities that result in epistemic hierarchies
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Question 1: Citational politics is about:
 
@@ -2178,7 +2174,7 @@ The correct answer is C.
     systemic inequalities that result in epistemic hierarchies ✅
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 The answer is C, as the focus is about reflecting on current practices
 and not solely about academic bookkeeping (option A)
@@ -2197,7 +2193,7 @@ resulting in academic advantages?**
 -   [ ] C) Having limited understanding of the “hidden curriculum”
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Question 2: which one of the following is an example of a mechanism
 typically resulting in academic advantages?
@@ -2221,7 +2217,7 @@ typically resulting in academic advantages?**
 -   [ ] C) Having limited understanding of the “hidden curriculum”
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 The answer is B as those in citational cliques can increase their
 citation rates (e.g. H Index) which is a key evaluation metric for
@@ -2239,7 +2235,7 @@ research?**
 -   [ ] False
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Question 3: True or false, citation practices only matter when writing
 up my research?
@@ -2258,7 +2254,7 @@ writing up my research?**
 -   [ ] False ✅
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Answer is false, as we should be thinking about citations at each stage
 of our research!
@@ -2273,7 +2269,7 @@ accountability for how we engage with the practice of citation?**
 -   [ ] False
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Question 4: True of false, Part of (citational) self-auditing is about
 taking accountability for how we engage with the practice of citation?
@@ -2293,7 +2289,7 @@ citation?**
 -   [ ] False
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Question 4 is true! Accountability is an important part of this
 self-reflective practice.
@@ -2303,9 +2299,11 @@ self-reflective practice.
 
 # Before we end: Revisiting the survey!
 
-------------------------------------------------------------------------
+::: {.panel-tabset}
 
-**1. How *familiar* are you with the concept of citational politics?**
+### Question 1
+
+**How *familiar* are you with the concept of citational politics?**
 
 **Scale 1 to 5: 1 = never heard of it, 5 = extensive knowledge.**
 
@@ -2319,16 +2317,9 @@ self-reflective practice.
 
 5.  [ ] Extensive knowledge
 
-::: notes
-**Speaker Notes**:
+### Question 2
 
-How familiar are you with the concept of citational politics? Scale runs
-from 1 to 5 where 1 = never heard of it and 5 = extensive knowledge.
-:::
-
-------------------------------------------------------------------------
-
-**2. How would you rate your *confidence* to carry out an audit of your
+**How would you rate your *confidence* to carry out an audit of your
 citational practices on your work?**
 
 **Scale 1 to 5: 1 = Not confident at all , 5 = Completely confident)**
@@ -2343,24 +2334,12 @@ citational practices on your work?**
 
 5.  [ ] Completely confident
 
-::: notes
-**Speaker Notes**:
 
-How would you rate your confidence to carry out an audit of your
-citational practices on your work? Scale runs from 1 to 5 where: 1 = Not
-confident at all and 5 = Completely confident).
-:::
+### Question 3
 
-------------------------------------------------------------------------
-
-**3. List three adjectives that you expect or hope to *feel* at the end
+**List three adjectives that you expect or hope to *feel* at the end
 of the class**.
 
-::: notes
-**Speaker Notes**:
-
-List three adjectives that you expect or hope to feel at the end of the
-class
 :::
 
 ------------------------------------------------------------------------
@@ -2395,7 +2374,7 @@ class
 </div>
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 For those of you keen to learn more tools and practices for more mindful
 citations this advanced task involves making a citational justice action
@@ -2479,7 +2458,7 @@ plan.
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 These guiding questions can help you create your action plan. You can
 also ask your accountability buddy these questions to help improve their
@@ -2500,7 +2479,7 @@ Citation Politics Toolkit developed by FORRT:
 :::
 
 ::: notes
-**Speaker Notes**:
+**Presenter Notes**:
 
 Today, we focused on the GBAT tool to assess the gender diversity of our
 bibliography.
@@ -2541,13 +2520,8 @@ knowledge is recognized and whose not, with women, Black, Indigenous,
 disabled and other marginalized groups consistently underrepresented in
 reference lists.
 
-To that end, we actively sought out papers from a range of disciplines,
-and researchers, with a bias towards uplifting Global Majority scholars.
-We assessed the gender diversity of our reference list using the Gender
-Balance Assessment Tool (GBAT) by @sumner2018. Names were identified
-from the author list, and an estimate of the gender balance was produced
-using proboblastic techniques, where the author list in this training
-module contains approximately 49.32% women and 50.68% men.
+To that end, we actively sought out papers from a range of disciplines, and researchers, with a bias towards uplifting Global Majority scholars. We assessed the gender diversity of our reference list using the Gender Balance Assessment Tool (GBAT) by @sumnerGenderBalanceAssessment2018. Names were identified
+from the author list, and an estimate of the gender balance was produced using proboblastic techniques, where the author list in this training module contains approximately 49.32% women and 50.68% men.
 
 We acknowledge this method can misidentify an author's gender especially
 those with uncommon names, names common to both genders or identifying
@@ -2578,7 +2552,7 @@ Administration. **Flavio Azevedo:** Resources.
 :::
 
 ::: notes
-**Speaker Notes**: Script for the slide here.
+**Presenter Notes**: Script for the slide here.
 
 **Instructor Notes**: Highlight particularly relevant reading for your
 learners in bold.
