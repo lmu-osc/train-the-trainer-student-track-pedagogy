@@ -1,0 +1,80 @@
+---
+title: "Activation methods - IN PROGRESS"
+---
+
+> Something nice here
+
+# About these materials EDIT
+
+**Welcome!** This workshop is intended to provide future Open Research instructors practical skills for
+creating positive and inclusive learning environments
+Through real-life examples and hands-on exercises, we will explore how instructors’ behaviors, attitudes, communication, and interaction with learners can influence motivation, engagement, and learning success. We will then discover strategies for fostering a growth mindset, practicing active listening, establishing supportive interaction norms, using inclusive language, and taking different learner perspectives into account. This session will provide you with practical foundations for fostering respectful, inclusive, and learner-centered teaching events for the best learning outcomes.
+
+## Who are these materials for? - EDIT
+
+The target audience of this workshop is twofold
+
+- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
+
+- **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
+
+## Prerequisites - EDIT
+
+<div style="font-size: 0.8em;">
+| Prerequisite   |  Description  | Where to find this  |
+|------------|------------|------------|
+| Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
+| Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
+| Knowledge about designing teaching events | Tools and strategies to create a learning experience to convey content and skills | [Download Link](https://quarto.org) |
+</div>
+
+
+## Learning objectives - EDIT
+
+At the end of this session, aspiring Open Research instructors will ...
+
+- **Describe** the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language
+- **Evaluate** how your behavior, language, and attitude influence learner motivation and engagement
+- **Analyze** challenges affecting the learning environment during an Open Research training event and **evaluate** strategies to address them in different teaching contexts
+
+# Materials
+
+[Click here to see the materials in full screen](Activation-Methods-slides.qmd)
+
+```{=html}
+<iframe class="slide-deck" src="Activation-Methods-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+## Export slides
+
+You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
+
+<!-- download as pdf -->
+<a href="../../../docs/materials/Teaching-Open-Research/Activation-Methods/Activation-Methods-slides.pdf"
+   download="Activation-Methods-slides.pdf"
+   class="btn btn-primary">
+  Download slides as PDF
+</a>
+
+ <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
+ 
+# Contributors and licence details
+
+**Creator**: Renard, Sophie (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+
+**Reviewer**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
+[0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))
+
+**Consultant**: Ihle, Malika (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"} [0000-0002-3242-5981](https://orcid.org/0000-0002-3242-5981))
+
+<br>
+
+<p style="text-align:center;">
+  <img src="images/cc-by-sa.png" 
+  alt="Creative Commons Attribution ShareAlike 4.0"
+  style="width:160px;" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 0.6em;">
+This current work by Sophie Renard, Sarah von Grebmer zu Wolfsthurn and Malika Ihle is licensed under a CC-BY-SA 4.0 [Creative Commons Attribution 4.0 International SA License](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+</div>

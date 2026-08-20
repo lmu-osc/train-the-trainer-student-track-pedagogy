@@ -22,6 +22,8 @@ website:
           - href: materials/Teaching-Open-Research/Core-Didactic-Principles/Core-Didactic-Principles.qmd
           - href: materials/Teaching-Open-Research/Concept-Planning/Concept-Planning.qmd
           - href: materials/Teaching-Open-Research/Creating-Positive-Learning-Environment/Creating-Positive-Learning-Environment.qmd
+          - href: materials/Teaching-Open-Research/Activation-Methods/Activation-Methods.qmd
+
       - section: "Leadership in Open Research"
         contents:
           - href: materials/Leadership-Open-Research/Citation-Politics/Citation-Politics.qmd
