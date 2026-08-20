@@ -93,19 +93,109 @@ Before completing this submodule, please carefully read about the prerequisites.
 
 ---
 
-## Before we start: Survey time!
+## Getting started!
 
-ADD QR code
+::: columns
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="80%"}
+
+<br>
+<br>
+<br>
+<br>
+
+
+![](images/getting-started.png){width=100%, fig-align="center"}
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+:::
+
+
+:::footer
+https://icons8.com/
+:::
+
 
 ---
 
-## Before we start: Survey time!
+### How much teaching experience do you have?
+
+- Workshops, peer training, (guest) lectures, seminars, lab presentations etc. on **open research** topics
+
+<br>
+<br>
+
+![](images/experience-spectrum.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Instructor Notes**: *For in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. *For online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
+:::
+
+---
+
+### How much have you already thought about didactics?
+
+- If and when you teach about open research, do you or would you consider **didactic elements** in you design and/or teaching style..?
+
+<br>
+<br>
+
+![](images/didactics-thoughts-spectrum.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**: Next, let us think a little more about "didactics" or "pedagogy". If and when you teach, how often do you think about didactics? What do you connect with that term?
+
+**Instructor Notes**: For *in-person learners*: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For *online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
+:::
+
+---
+
+### How big are your teaching/training audiences?
+
+- i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large)
+
+<br>
+<br>
+
+![](images/audience.png){width=100%, fig-align="center"}
+
+::: {.notes}
+**Presenter Notes**: Finally, how big are your training audiences? How many people are in the room with you, virtually or in person? What kind of group would this be?
+
+**Instructor Notes**:  For *in-person learners*: Get people to stand along imaginary line across the room in terms of how large their teaching audiences are. For *online learners*: Ask them to indicate group size on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their respective teaching audiences.
+:::
+
+---
+
+## Survey time!
+
+![](images/QR-code-core-didactic-principles-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **Intro-Survey** from the list.
+
+::: {.notes}
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+
+Link to survey: [https://partici.fi/30470958](https://partici.fi/30470958)
+:::
+---
+
+## Survey time!
 
 ::: {.panel-tabset}
 
 ### Question 1
 
-**Which of the following concepts or skills do you now feel most confident about in relation to didactics and teaching? (Select all that apply)**
+**Which of the following concepts or skills do you feel most confident about in relation to didactics and teaching? (Select all that apply)**
 
 a. Considering the learner's prior knowledge in the learning process
 
@@ -113,11 +203,27 @@ b. Constructivism
 
 c. Constructive alignment
 
-d. Formulating clear learning objectives
+d. Mental model of skills acquisition
+
+e. Formulating clear learning objectives
+
+f. None of the above
 
 ### Question 2
 
-**What is your level of familiarity with the three learning domains (cogntive, affective and psychomotor)?**
+**What is your level of familiarity with constructive alignment?**
+
+a. I have never heard of it before.
+
+b. I have heard of it but have never implemented it in my teaching.
+
+c. I have a basic working definition in mind and sometimes implement it in my teaching.
+
+d. I am very familiar and have routinely applied this framework in my teaching.
+
+### Question 3
+
+**What is your level of familiarity with the three learning domains (cognitive, affective and psychomotor)?**
 
 a. I have never heard of them before.
 
@@ -126,18 +232,6 @@ b. I have heard of them but have never considered them in my teaching.
 c. I have a basic understanding and sometimes implement them in my teaching.
 
 d. I am very familiar and have routinely applied them in my teaching.
-
-### Question 3
-
-**What is your level of familiarity with Bloom's taxonomy?**
-
-a. I have never heard of it before.
-
-b. I have heard of it but have never implemented it in my teaching.
-
-c. I have a basic working definition in mind and sometimes implement it in my teaching.
-
-d. I am very familiar and have routinely applied this in my teaching.
 
 :::
 
@@ -278,59 +372,6 @@ Notice that I have highlighted the verbs in bold, we will come back to this late
 
 ---
 
-## Getting started!
-
----
-
-### How much teaching experience do you have?
-
-- Workshops, peer training, (guest) lectures, seminars, lab presentations etc. on **open research** topics
-
-<br>
-<br>
-
-![](images/experience-spectrum.png){width=100%, fig-align="center"}
-
-::: {.notes}
-**Instructor Notes**: *For in-person learners*: Get people to stand along imaginary line across the room in terms of how much teaching experience they have. *For online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their experiences. Involve your audience as early as possible, so that they pay attention in case they unexpectedly get called upon. 
-:::
-
----
-
-### How much have you already thought about didactics?
-
-- If and when you teach about open research, do you or would you consider **didactic elements** in you design and/or teaching style..?
-
-<br>
-<br>
-
-![](images/didactics-thoughts-spectrum.png){width=100%, fig-align="center"}
-
-::: {.notes}
-**Presenter Notes**: Next, let us think a little more about "didactics" or "pedagogy". If and when you teach, how often do you think about didactics? What do you connect with that term?
-
-**Instructor Notes**: For *in-person learners*: Get people to stand along imaginary line across the room in terms of how much they think about didactics. For *online learners*: Ask them to indicate experience on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their didactic thinking processes.
-:::
-
----
-
-### How big are your teaching/training audiences?
-
-- i.e., what is the average group size you teach in open research? (< 5 people = very small, > 100 people = very large)
-
-<br>
-<br>
-
-![](images/audience.png){width=100%, fig-align="center"}
-
-::: {.notes}
-**Presenter Notes**: Finally, how big are your training audiences? How many people are in the room with you, virtually or in person? What kind of group would this be?
-
-**Instructor Notes**:  For *in-person learners*: Get people to stand along imaginary line across the room in terms of how large their teaching audiences are. For *online learners*: Ask them to indicate group size on the screen. Pick out two people on either end of the spectrum (one from the in-person audience, one from online audience) and have them explain their teaching experience. Next, pick two people around the middle (one from the in-person audience, one from online audience) and have them explain and compare their respective teaching audiences.
-:::
-
----
-
 ## What *is* didactics?
 
 > The Greek origins:
@@ -397,8 +438,9 @@ Here we have an important key point: the instructors choice of content and metho
 
 What do you **connect** with this concept? First thoughts? Assumptions? Expectations?
 
+![](images/QR-code-core-didactic-principles-OSSS26.png){width=100%, fig-align="center"}
 
-ADD WORDCLOUD
+Scan the QR code and select the item **What is learning** from the list.
 
 ::: {.notes}
 **Presenter Notes**: A natural follow-up question from didactics: What is learning to you? How would you define it? What expectations or assumptions come with it?
@@ -1195,7 +1237,7 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 
 2. **Skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. 
 
-3. Using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
+3. Using Bloom's taxonomy, **formulate two learning objectives** and **assessment methods** that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
 
 ::: {.notes}
 **Presenter Notes**: Your task is the following: **Navigate** to the following online tutorial: [https://lmu-osc.github.io/introduction-to-zotero/](https://lmu-osc.github.io/introduction-to-zotero/). Then, **skim over** the different sections using the navigation menu or the arrows at the bottom of the page to get an idea of the content of the tutorial. Finally, using Bloom's taxonomy, **formulate** three learning objectives and assessment methods that match the content and the teaching activities of the tutorial.  Consider the following: Which level of Bloom's taxonomy are you at and which domain are you targeting?
@@ -1245,7 +1287,15 @@ Place a particular emphasis on the **verbs** when formulating learning objective
 
 ## Survey time!
 
-ADD QR code
+![](images/QR-code-core-didactic-principles-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **End-Survey** from the list.
+
+::: {.notes}
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+
+Link to survey: [https://partici.fi/30470958](https://partici.fi/30470958)
+:::
 
 ---
 
@@ -1263,31 +1313,40 @@ b. Constructivism
 
 c. Constructive alignment
 
-d. Formulating clear learning objectives
+d. Mental model of skills acquisition
+
+e. Formulating clear learning objectives
+
+f. None of the above
+
 
 ### Question 2
 
-**What is your level of familiarity with the three learning domains (cognitive, affective and psychomotor)?**
+**What is your level of confidence now with the mental model of skills acquisition, on a scale from 1 - 5?** *(1 = not confident at all, 5 = extremely confident)*
 
-a. I have never heard of them before.
+a. 5
 
-b. I have heard of them but have never considered them in my teaching.
+b. 4
 
-c. I have a basic understanding and sometimes implement them in my teaching.
+c. 3
 
-d. I am very familiar with these concepts and routinely apply them in my teaching.
+d. 2
+
+e. 1
 
 ### Question 3
 
-**What is your level of familiarity with Bloom's taxonomy?**
+**What is your level of confidence with the three learning domains (cognitive, affective and psychomotor), on a scale from 1 - 5?** *(1 = not confident at all, 5 = extremely confident)*
 
-a. I have never heard of it before.
+a. 5
 
-b. I have heard of it but have never implemented it in my teaching.
+b. 4
 
-c. I have a basic understanding and sometimes implement it in my teaching.
+c. 3
 
-d. I am very familiar and have routinely applied this in my teaching.
+d. 2
+
+e. 1
 
 :::
 
@@ -1389,7 +1448,7 @@ Bloom’s taxonomy has been shown to enhance students’ higher-order thinking s
 
 ## TODO
 
-- [ ] Add wordcloud and QR codes
+- [x] Add wordcloud and QR codes
 - [ ] Add alt text to all figures
 - [ ] Sort out all references
 
