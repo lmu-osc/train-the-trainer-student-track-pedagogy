@@ -192,7 +192,15 @@ At the end of this session, you will be able to:
 
 ## Before we start: Survey time!
 
-Add QR code
+![](images/QR-code-concept-planning-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **Intro-Survey** from the list.
+
+::: {.notes}
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+
+Link to survey: [https://partici.fi/04963182](https://partici.fi/04963182)
+:::
 
 ---
 
@@ -202,7 +210,7 @@ Add QR code
 
 ### Question 1
 
-**What is your level of experience with organzing Open Research events (e.g., a workshop, a seminar, lecture, lecture series..)?**
+**What is your level of experience with organizing Open Research events (e.g., a workshop, a seminar, lecture, lecture series..)?**
 
 a. I have never organized an Open Research event
 
@@ -212,7 +220,7 @@ c. I have organized 3-10 Open Research events
 
 d. I regularly organize Open Research events
 
-e. Organizing Open Research events is all I do because it is my (literal) job. 
+e. Organizing Open Research events is all I do because it is my (literal) job 
 
 ### Question 2
 
@@ -230,17 +238,17 @@ d. I am very familiar and have worked with it extensively.
 
 **Which of the following pedagogical elements do you feel most confident about in your teaching? (*Select all that apply*)**
 
-a. Probing and boosting motivation
+a. Probing and boosting motivation in your learners
 
-b. Formulate and communicate learning objectives for your event
+b. Formulating and communicating learning objectives for your event
 
-c. Conceptualize and communicate the bigger vision of the event
+c. Conceptualizing and communicating the bigger vision of the event
 
-d. Reactivate prior knowledge
+d. Reactivating prior knowledge in your learners
 
-e. Incorporate interactive activities and elements of collaborative learing into your teaching
+e. Providing constructive feedback
 
-f. Providing constructive feedback
+f. None of the above
 
 :::
 
@@ -378,7 +386,7 @@ Finally, check your own working conditions: how much time do you have? What is e
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
 :::footer
-See @stadeli2013aviva. *The "+" generally stands for elements connected to the **learning environment**, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language ... 
+The "**+**" generally stands for elements connected to the **learning environment**, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language, see @stadeli2013aviva.
 :::
 
 ::: {.notes}
@@ -418,7 +426,7 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
 
 ---
 
-## ARIPE+: **A** - *Arrive and adjust*
+## **A**RIPE: *Arrive and adjust*
 ### Orientation
 
 ::: columns
@@ -474,7 +482,7 @@ Finally, be clear about your expectations. Explain practical matters such as att
 
 ---
 
-## ARIPE+: **A** - *Arrive and adjust*
+## **A**RIPE: *Arrive and adjust*
 ### Journey and bigger picture
 
 - Clearly communicate where learners are headed and the **vision** or **bigger picture**
@@ -502,7 +510,7 @@ Next, develop a broader vision for the event. Think about the learning journey y
 
 ---
 
-## ARIPE+: **A** - *Arrive and adjust*
+## **A**RIPE: *Arrive and adjust*
 ### Communicate learning objectives
 
 - Clearly communicate the **learning objectives**
@@ -552,7 +560,7 @@ We will use this example for a workshop later on this session.
 
 ---
 
-## ARIPE+: **A** - *Arrive and adjust*
+## **A**RIPE: *Arrive and adjust*
 ### Motivation
 
 **Why does motivation (and demotivation!) matter when teaching and learning?**
@@ -923,7 +931,7 @@ Take 5 minutes for this exercise.
 
 ---
 
-## ARIPE+: **R** - *Reactivate*
+## A**R**IPE: *Reactivate*
 
 ::: {.callout-important}
 **Remember**: Learners *bring* prior knowledge into the learning environment, can *help* or *hinder* learning.
@@ -951,7 +959,7 @@ For this activity, think about how you as the instructor could explore and activ
 
 ---
 
-## ARIPE+: **R** - *Reactivate*
+## A**R**IPE: *Reactivate*
 ### Methods to **explore and activate** prior knowledge
 
 
@@ -1047,7 +1055,7 @@ Image generated with AI and adapted from [Felix Schönbrodt](https://nicebread.g
 
 ---
 
-## APRIPE+: **I** - *Inform* 
+## AR**I**PE: *Inform* 
 
 **Communication model** by *Lasswell (1948)*:
 
@@ -1072,11 +1080,11 @@ Lasswell’s communication model is a simple way to describe communication using
 
 ---
 
-## ARIPE+: **I** - *Inform* 
+## AR**I**PE: *Inform* 
 
-**Designing slides**...is a **process**: 
+**Designing slides**....................is a **process**: 
 
-![](images/09_slide_design_cropped.png){fig-align="center" fig-alt="ADDD"}
+![](images/09_slide_design_new.png){fig-align="center" fig-alt="ADDD"}
 
 :::footer
 Made with generative AI.
@@ -1124,13 +1132,16 @@ Designing slides is a process. While it is beyond the scope of this session to g
 
 ---
 
-## ARIPE+: **P** - *Process*
+## ARI**P**E: *Process*
 
 Practice and **consolidate** learning:
 
+:::incremental
 - Incorporate **activities**, **discussions** and **collaborative learning**
   - *Examples*: Exercises, quiz, group work, summaries, homework assignments..
   - Use **activation methods** for maximizing learning outcomes (*next session!*)
+  
+:::
 
 ::: {.notes}
 **Presenter Notes**: The Process stage of ARIPE focuses on what learners do with new information. Instead of only receiving input, learners actively work with the content to deepen and consolidate their understanding.
@@ -1156,7 +1167,7 @@ Activation methods are especially useful in this stage. They support learners in
 
 ---
 
-## ARIPE+: **E** - *Evaluate*
+## ARIP**E**: *Evaluate*
 ### Providing feedback
 
 ![](images/06_feedback.png){fig-align="center" fig-alt="figure showing a person obtaining overwhelmingly positive feedback and some negative feedback, and then them filtering out only the one negative feedback making them unable to sleep"}
@@ -1172,6 +1183,8 @@ Activation methods are especially useful in this stage. They support learners in
 ---
 
 ### Providing feedback to learners to enhance learning
+
+![](images/feedback.png){fig-align="center" fig-alt="icon representing feedback bubbles"}
 
 :::incremental
 - Actively **initiate** feedback exchanges
@@ -1202,6 +1215,8 @@ Activation methods are especially useful in this stage. They support learners in
 ---
 
 ### Feedback considerations
+
+![](images/empathy.png){fig-align="center" fig-alt="icon representing feedback bubbles"}
 
 :::incremental
 - Your **words matter**
@@ -1255,7 +1270,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 
 <!-- --- -->
 
-## ARIPE+: **E** - Evaluate
+## ARIP**E**: Evaluate
 ### Wrapping up
 
 :::incremental
@@ -1288,7 +1303,20 @@ Finally, adapting your language and delivery to the norms of the person receivin
 
 ## Don'ts during an Open Research event
 
+
+::: columns
+
+::: {.column width="20%"}
+
 **Do not**:
+
+![](images/do-not.png){width=100%, fig-align="center"}
+
+
+:::
+
+::: {.column width="80%"}
+
 
 :::incremental
 - **Overwhelm** learners with Open Research facts early on
@@ -1299,6 +1327,10 @@ Finally, adapting your language and delivery to the norms of the person receivin
 - Express surprise at unawareness ("*Funny, you have never heard about Git!?*")
 - **Take over** the learner's keyboard to **complete the task yourself** (*e.g., when doing an R demonstration*)
 - ...
+
+:::
+
+:::
 
 :::
 
@@ -1358,7 +1390,15 @@ At the end of this session, you are now able to:
 
 ## To conclude: Survey time!
 
-Add QR code
+![](images/QR-code-concept-planning-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **End-Survey** from the list.
+
+::: {.notes}
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+
+Link to survey: [https://partici.fi/04963182](https://partici.fi/04963182)
+:::
 
 ---
 
@@ -1368,19 +1408,19 @@ Add QR code
 
 ### Question 1
 
-**Which of the following pedagogical elements do you feel most confident about after this workshop?**
+**Which of the following pedagogical elements do you now feel most confident about in your teaching? (*Select all that apply*)**
 
-a. Probing and boosting motivation
+a. Probing and boosting motivation in your learners
 
-b. Formulate and communicate learning objectives for your event
+b. Formulating and communicating learning objectives for your event
 
-c. Conceptualize and communicate the bigger vision of the event
+c. Conceptualizing and communicating the bigger vision of the event
 
-d. Reactivate prior knowledge
+d. Reactivating prior knowledge in your learners
 
-e. Incorporate interactive activities and elements of collaborative learning into your teaching
+e. Providing constructive feedback
 
-f. Providing constructive feedback
+f. None of the above
 
 ### Question 2
 
@@ -1394,19 +1434,21 @@ c. Boosting motivation through specific activities
 
 d. Balancing positive and negative feedback
 
+e. Other
+
 ### Question 3
 
 **On a scale of 1 to 5, how comfortable are you with using  the ARIPE+ scheme to structure your future Open Research workshop? (1 = Not comfortable at all, 5 = Very comfortable)**
 
-a. 1
+a. 5
 
-b. 2
+b. 4
 
 c. 3
 
-d. 4
+d. 2
 
-e. 5
+e. 1
 
 :::
 
@@ -1451,12 +1493,13 @@ What do we see in the results?
 
 ---
 
-## Want to know more about designing slides?
+## LMU: Want to know more about designing slides?
 
 <br>
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
+*For LMU students, researchers and staff:* <br>
 Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide design!
 </div>
 
@@ -1527,5 +1570,12 @@ Finally, less content can improve clarity. Leaving empty space on a slide helps 
 
 **Instructor Notes**: Have examples ready to show if your learners ask for them. 
 :::
+
+---
+
+## TODO
+
+- [ ] Sort out all alt text fir figures
+- [ ] Sort out QR codes for surveys
 
 ---
