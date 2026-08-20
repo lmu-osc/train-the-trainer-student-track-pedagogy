@@ -19,14 +19,14 @@ website:
     contents:
       - section: "Teaching Open Research"
         contents:
-          - href: materials/teaching-open-research/Core-Didactic-Principles/Core-Didactic-Principles.qmd
-          - href: materials/teaching-open-research/Concept-Planning/Concept-Planning.qmd
-          - href: materials/teaching-open-research/Creating-Positive-Learning-Environment/Creating-Positive-Learning-Environment.qmd
-          - href: materials/teaching-open-research/Activation-Methods/Activation-Methods.qmd
+          - href: materials/teaching-open-research/core-didactic-principles/core-didactic-principles.qmd
+          - href: materials/teaching-open-research/concept-planning/concept-planning.qmd
+          - href: materials/teaching-open-research/creating-learning-environment/creating-learning-environment.qmd
+          - href: materials/teaching-open-research/activation-methods/activation-methods.qmd
 
       - section: "Leadership in Open Research"
         contents:
-          - href: materials/leadership-open-research/Citation-Politics/Citation-Politics.qmd
+          - href: materials/leadership-open-research/citation-politics/citation-politics.qmd
 
 
 format:
