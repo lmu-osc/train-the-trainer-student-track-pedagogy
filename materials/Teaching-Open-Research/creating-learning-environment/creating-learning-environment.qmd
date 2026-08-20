@@ -39,10 +39,10 @@ At the end of this session, aspiring Open Research instructors will ...
 
 # Materials
 
-[Click here to see the materials in full screen](Creating-Positive-Learning-Environment-slides.qmd)
+[Click here to see the materials in full screen](creating-learning-environment-slides.qmd)
 
 ```{=html}
-<iframe class="slide-deck" src="Creating-Positive-Learning-Environment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="creating-learning-environment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
 ## Export slides
@@ -50,8 +50,8 @@ At the end of this session, aspiring Open Research instructors will ...
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/Teaching-Open-Research/Creating-Positive-Learning-Environment/Creating-Positive-Learning-Environment-slides.pdf"
-   download="Creating-Positive-Learning-Environment-slides.pdf"
+<a href="../../../docs/materials/teaching-open-tesearch/creating-learning-environment/creating-learning-environment-slides.pdf"
+   download="creating-learning-environment-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF
 </a>

@@ -38,10 +38,10 @@ At the end of this session, aspiring Open Research instructors will ...
 
 # Materials
 
-[Click here to see the materials in full screen](Concept-Planning-slides.qmd)
+[Click here to see the materials in full screen](concept-planning-slides.qmd)
 
 ```{=html}
-<iframe class="slide-deck" src="Concept-Planning-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="concept-planning-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
 ## Export slides
@@ -49,8 +49,8 @@ At the end of this session, aspiring Open Research instructors will ...
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/Teaching-Open-Research/Concept-Planning/Concept-Planning-slides.pdf"
-   download="Concept-Planning-slides.pdf"
+<a href="../../../docs/materials/teaching-open-research/concept-planning/concept-planning-slides.pdf"
+   download="concept-planning-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF
 </a>
