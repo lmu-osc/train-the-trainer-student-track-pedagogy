@@ -60,41 +60,6 @@
     ]
   },
   {
-    "objectID": "materials/teaching-open-research/activation-methods/Activation-Methods.html",
-    "href": "materials/teaching-open-research/activation-methods/Activation-Methods.html",
-    "title": "Activation methods - IN PROGRESS",
-    "section": "",
-    "text": "Something fun here\nClick here to see the materials in full screen"
-  },
-  {
-    "objectID": "materials/teaching-open-research/activation-methods/Activation-Methods.html#who-are-these-materials-for---edit",
-    "href": "materials/teaching-open-research/activation-methods/Activation-Methods.html#who-are-these-materials-for---edit",
-    "title": "Activation methods - IN PROGRESS",
-    "section": "Who are these materials for? - EDIT",
-    "text": "Who are these materials for? - EDIT\nThe target audience of this workshop is twofold\n\nAspiring Open Research Instructors or self-learners with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become Open Research Instructors. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. Presenter notes will help you to understand and reflect on the content of the materials. Note: Group exercises are not possible in this asynchronous setting.\nFuture or current Open Research instructors in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to train others in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors."
-  },
-  {
-    "objectID": "materials/teaching-open-research/activation-methods/Activation-Methods.html#prerequisites---edit",
-    "href": "materials/teaching-open-research/activation-methods/Activation-Methods.html#prerequisites---edit",
-    "title": "Activation methods - IN PROGRESS",
-    "section": "Prerequisites - EDIT",
-    "text": "Prerequisites - EDIT\n\n\n\n\nPrerequisite\nDescription\nWhere to find this\n\n\n\n\nBasic familiarity with Open Science practices\nExamples: R, Quarto, Git, GitHub, preregistration, Open Access etc.\nClick here to get familiar with Open Science first\n\n\nCore didactic principles\nA firm grasp on important didactic tools and elements\nDownload Link\n\n\nKnowledge about designing teaching events\nTools and strategies to create a learning experience to convey content and skills\nDownload Link"
-  },
-  {
-    "objectID": "materials/teaching-open-research/activation-methods/Activation-Methods.html#learning-objectives---edit",
-    "href": "materials/teaching-open-research/activation-methods/Activation-Methods.html#learning-objectives---edit",
-    "title": "Activation methods - IN PROGRESS",
-    "section": "Learning objectives - EDIT",
-    "text": "Learning objectives - EDIT\nAt the end of this session, aspiring Open Research instructors will …\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts"
-  },
-  {
-    "objectID": "materials/teaching-open-research/activation-methods/Activation-Methods.html#export-slides",
-    "href": "materials/teaching-open-research/activation-methods/Activation-Methods.html#export-slides",
-    "title": "Activation methods - IN PROGRESS",
-    "section": "Export slides",
-    "text": "Export slides\nYou can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (in progress).\n\n Download slides as PDF"
-  },
-  {
     "objectID": "materials/teaching-open-research/concept-planning/Concept-Planning.html",
     "href": "materials/teaching-open-research/concept-planning/Concept-Planning.html",
     "title": "Concept planning for Open Research events",
@@ -650,6 +615,66 @@
     "title": "Teaching open research: Core didactic principles",
     "section": "TODO",
     "text": "TODO\n\nAdd wordcloud and QR codes\nAdd alt text to all figures\nSort out all references"
+  },
+  {
+    "objectID": "materials/teaching-open-research/activation-methods/activation-methods.html",
+    "href": "materials/teaching-open-research/activation-methods/activation-methods.html",
+    "title": "Activation methods - IN PROGRESS",
+    "section": "",
+    "text": "Something fun here\nClick here to see the materials in full screen",
+    "crumbs": [
+      "Home",
+      "Teaching Open Research",
+      "Activation methods - IN PROGRESS"
+    ]
+  },
+  {
+    "objectID": "materials/teaching-open-research/activation-methods/activation-methods.html#who-are-these-materials-for---edit",
+    "href": "materials/teaching-open-research/activation-methods/activation-methods.html#who-are-these-materials-for---edit",
+    "title": "Activation methods - IN PROGRESS",
+    "section": "Who are these materials for? - EDIT",
+    "text": "Who are these materials for? - EDIT\nThe target audience of this workshop is twofold\n\nAspiring Open Research Instructors or self-learners with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become Open Research Instructors. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. Presenter notes will help you to understand and reflect on the content of the materials. Note: Group exercises are not possible in this asynchronous setting.\nFuture or current Open Research instructors in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to train others in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.",
+    "crumbs": [
+      "Home",
+      "Teaching Open Research",
+      "Activation methods - IN PROGRESS"
+    ]
+  },
+  {
+    "objectID": "materials/teaching-open-research/activation-methods/activation-methods.html#prerequisites---edit",
+    "href": "materials/teaching-open-research/activation-methods/activation-methods.html#prerequisites---edit",
+    "title": "Activation methods - IN PROGRESS",
+    "section": "Prerequisites - EDIT",
+    "text": "Prerequisites - EDIT\n\n\n\n\nPrerequisite\nDescription\nWhere to find this\n\n\n\n\nBasic familiarity with Open Science practices\nExamples: R, Quarto, Git, GitHub, preregistration, Open Access etc.\nClick here to get familiar with Open Science first\n\n\nCore didactic principles\nA firm grasp on important didactic tools and elements\nDownload Link\n\n\nKnowledge about designing teaching events\nTools and strategies to create a learning experience to convey content and skills\nDownload Link",
+    "crumbs": [
+      "Home",
+      "Teaching Open Research",
+      "Activation methods - IN PROGRESS"
+    ]
+  },
+  {
+    "objectID": "materials/teaching-open-research/activation-methods/activation-methods.html#learning-objectives---edit",
+    "href": "materials/teaching-open-research/activation-methods/activation-methods.html#learning-objectives---edit",
+    "title": "Activation methods - IN PROGRESS",
+    "section": "Learning objectives - EDIT",
+    "text": "Learning objectives - EDIT\nAt the end of this session, aspiring Open Research instructors will …\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts",
+    "crumbs": [
+      "Home",
+      "Teaching Open Research",
+      "Activation methods - IN PROGRESS"
+    ]
+  },
+  {
+    "objectID": "materials/teaching-open-research/activation-methods/activation-methods.html#export-slides",
+    "href": "materials/teaching-open-research/activation-methods/activation-methods.html#export-slides",
+    "title": "Activation methods - IN PROGRESS",
+    "section": "Export slides",
+    "text": "Export slides\nYou can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (in progress).\n\n Download slides as PDF",
+    "crumbs": [
+      "Home",
+      "Teaching Open Research",
+      "Activation methods - IN PROGRESS"
+    ]
   },
   {
     "objectID": "materials/leadership-open-research/citation-politics/citation-politics-slides.html#licence",
