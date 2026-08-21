@@ -3,13 +3,22 @@ title: "Citation Politics"
 #bibliography: references.bib
 ---
 
+> Something fun here.
+
+
+[Click here to see the materials in full screen](citation-politics-slides.qmd)
+
+```{=html}
+<iframe class="slide-deck" src="citation-politics-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
 # About these materials
 
 **Welcome!** This workshop aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercise. This workshop draws inspiration from Sauvé et al.'s (2025) [paper](#0) on citational politics.
 
-### Who are these materials for?
+## Who are these materials for?
 
-The target audience of this workshop is threefold:
+The target audience of this workshop is twofold:
 
 -   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **develop their pedagogical skills and leadership skills** in the context of Open Research by exploring critical issues connected to both Open Research and teaching Open Research practices to various audiences. You can follow the materials by chronologically going through the slides and following along the practical exercises. You **go at your own pace** and within your own time frame. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting.
 
@@ -19,7 +28,7 @@ The target audience of this workshop is threefold:
 
 You will need access to a piece of your **own work** (a report, essay, journal article, blog post, presentation) containing a **bibliography** with **10 or more references**, preferably in **.bib** or **.txt** file format (this is needed for the [GBAT assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
-## Learning goals
+## Learning objectives
 
 -   **Recognize** the social and political context of citations
 -   **Explain** why citational practices are not neutral
@@ -30,15 +39,6 @@ You will need access to a piece of your **own work** (a report, essay, journal a
 -   **Assess** the gender diversity of a bibliography from your own work
 -   **Summarize** the key terms relating to citational politics (citations, citational politics, citational cliques)
 -   **Explain** how to conduct a self-audit of your citation practices
-
-# Materials
-
-[Click here to see the materials in full screen](citation-politics-slides.qmd)
-
-```{=html}
-<iframe class="slide-deck" src="citation-politics-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
-```
-
 
 ## Export slides
 

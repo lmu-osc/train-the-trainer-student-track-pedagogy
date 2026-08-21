@@ -28,7 +28,6 @@ website:
         contents:
           - href: materials/leadership-open-research/citation-politics/citation-politics.qmd
 
-
 format:
   html:
     theme:
