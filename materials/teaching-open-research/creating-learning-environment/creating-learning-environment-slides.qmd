@@ -176,14 +176,14 @@ By the end of the session, you will be able to identify key elements that contri
 
 ## Before we start: Survey time!
 
-ADD QR code
+![](images/QR-code-positive-learning-environment-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **Intro-Survey** from the list.
 
 ::: {.notes}
-**Presenter Notes**: Let us briefly look at where you are at. 
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
 
-**Instructor Notes**: <br>
-- **Aim**: The pre-session survey serves to examine learners' prior knowledge about the session's topic.
-- Use free survey software such as particify to establish the following questions (shown on separate slides).
+Link to survey: [https://partici.fi/47416756](https://partici.fi/47416756)
 :::
 
 ---
@@ -355,7 +355,7 @@ Activity:
 **What is a *positive* learning environment?**
 <br>
 <br>
-*Write a few bullet points on what this means to you. Save this as part of your developing teaching philosophy for future reference.*
+*Write a few bullet points on what this means to you.*
 </div>
 
 ::: {.notes}
@@ -538,7 +538,7 @@ The meaning and interpretation of eye contact, gestures, and personal space can 
 
 ---
 
-## Your turn: 7 minutes
+## Your turn: 6 minutes
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 Activity:
@@ -1037,7 +1037,15 @@ What are your questions?
 
 ## To conclude: Survey time!
 
-ADD QR code
+![](images/QR-code-positive-learning-environment-OSSS26.png){width=100%, fig-align="center"}
+
+Scan the QR code and select the item **End-Survey** from the list.
+
+::: {.notes}
+**Presenter Notes**: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.
+
+Link to survey: [https://partici.fi/47416756](https://partici.fi/47416756)
+:::
 
 ---
 
@@ -1049,15 +1057,15 @@ ADD QR code
 
 **On a scale from 1 to 5, what is your level of confidence with actively creating a positive learning environment for your learners in Open Research events?** (*1 = not confident at all, 5 = extremely confident, let's go*)
 
-a. 1
+a. 5
 
-b. 2
+b. 4
 
 c. 3
 
-d. 4
+d. 2
 
-e. 5
+e. 1
 
 ### Question 2
 
@@ -1128,7 +1136,8 @@ und digitales Lernen. Springer VS.
 
 ## Additional resources
 
-Active listening:
+**Active listening**:
+
 - [https://www.ncbi.nlm.nih.gov/books/NBK442015/](https://www.ncbi.nlm.nih.gov/books/NBK442015/)
 
 - [https://executive.berkeley.edu/thought-leadership/blog/art-active-listening](https://executive.berkeley.edu/thought-leadership/blog/art-active-listening)
@@ -1164,7 +1173,7 @@ Interactively ask participants to provide feedback on the selected method, deliv
 ## TODO Sarah
 
 - [ ] Sort out alt text for all figures
-- [ ] Generate QR codes for teaching
+- [ ] CHECKKK QR CODES!
 - [ ] Change CSS to include level 3 headers
 
 

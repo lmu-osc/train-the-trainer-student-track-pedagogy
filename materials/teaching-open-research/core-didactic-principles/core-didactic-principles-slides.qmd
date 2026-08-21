@@ -523,7 +523,7 @@ As described in Efgivia et al,  learning is an active, learner-centered process,
 :::
 
 :::footer
-[@fosnotConstructivismTheoryPerspectives2013]
+@fosnotConstructivismTheoryPerspectives2013
 :::
 
 ::: {.notes}
@@ -590,7 +590,7 @@ We will also talk more about assessing prior knowledge in the following submodul
 
 What is something that **you are an expert in**?
 
-How does your **experience** when you are acting as an expert **differ** from when you are **not an expert**?
+How does your **experience** differ when you are an expert compared to when you are **not an expert**?
 
 </div>
 
@@ -715,13 +715,13 @@ A greater connectivity of a mental model allows expert to:
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
 1. **Pick a topic** from open research (*different from open access*). 
 2. **Sketch out** the mental model of a novice in comparison to a competent practitioner and an expert
-3. **Provide concrete examples** of how the organization of knowledge differs among these three types of learners. 
+3. **Provide at least two concrete examples** of how the organization of knowledge differs among these three types of learners. 
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Let us compare these mental models across the three types of learners with a concrete example. Think of an open science topic of your choice, not open access since we already had a few examples related to this. Sketch out the mental model of a novice in comparison to a competent practitioner and an expert and provide concrete examples of how the organization of knowledge differs among these three types of learners. Write down your thoughts over the next 5 minutes. 
+**Presenter Notes**: Let us compare these mental models across the three types of learners with a concrete example. Think of an open science topic of your choice, not open access since we already had a few examples related to this. Sketch out the mental model of a novice in comparison to a competent practitioner and an expert and provide at least two concrete examples of how the organization of knowledge differs among these three types of learners. Write down your thoughts over the next 5 minutes. 
 
-**Instructor Notes**: Give people 5 minutes for this. Collect some ideas in the group and discuss. 
+**Instructor Notes**: Give learners 5 minutes for this exercise. Collect some ideas in the group and discuss. 
 :::
 
 ---
@@ -757,7 +757,7 @@ A greater connectivity of a mental model allows expert to:
 Is there something that you are **currently learning how to do**? 
 
 Can you identify things that would help you with 
-**organizing your mental model** in a course or workshop? 
+**organizing your mental model** in a workshop? 
 </div>
 
 ::: {.columns}
@@ -795,7 +795,7 @@ Can you identify things that would help you with
 ::::
 
 ::: {.notes}
-**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learning how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. Write down thoughts for yourself (2 mins). Then discuss with your neighbor (2 mins). We will then discuss in the larger group.
+**Presenter Notes**: Now that we have talked about mental models, next we want to talk about things that could help us move from novice learners to experts. Think about something that you are currently learning or learned how to do. What helps you with organizing your knowledge, beliefs, prior skills, etc. in your mental model, for example in the context of a workshop or course? Think back about things that you encountered in workshops or courses, or even things you have seen during this session. Write down thoughts for yourself (2 mins). Then discuss with your neighbor (2 mins). We will then discuss in the larger group.
 
 **Instructor Notes**: Ask for interaction from the audience or make it an individual activity. Allow for approx. 6 minutes. 
 :::
@@ -1199,7 +1199,7 @@ Learning objectives can be assigned to different taxonomy levels. Taxonomies ser
 ## Your turn! 10 minutes
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
-*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. In pairs, **design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning objective** below.* 
+*You are tasked to design a course module on Open Research practices and would like to include a lesson on open access publishing. In pairs, **design one assessment task** and **define one observable metric** of successfully achieving the learning objective for each **learning domain** below.* 
 
 - **Cognitive domain**: Learners will be able to compare different open access publishing models, e.g., Gold, Green and Diamond Open Access and critically assess their advantages and limitations.
 
