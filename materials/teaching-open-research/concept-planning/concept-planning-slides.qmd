@@ -174,7 +174,6 @@ At the end of this session, you will be able to:
 - **Consider** practical and logistical challenges of organizing an Open Research event
 - **Design** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process
 - **Apply** techniques to **enhance** motivation in your learners
-- **Assess** prior knowledge in your learners 
 - **Understand** key elements of constructive feedback
 
 ::: {.notes}
@@ -183,7 +182,6 @@ At the end of this session, you will be able to:
 * **Consider** the practical and logistical challenges involved in organizing an Open Research event.
 * **Design** an Open Research event using the five phases of the ARIPE+ scheme (Städeli et al., 2013) to support effective learning.
 * **Apply** techniques that enhance learner motivation and engagement.
-* **Assess** learners’ prior knowledge to better tailor instruction.
 * **Understand** the key principles of constructive feedback and how to apply them effectively.
 
 :::
@@ -306,13 +304,13 @@ What do we see in the results?
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-What do you think are some initial **points to consider** when you **plan** an **Open Research event**?
+What do you think are some initial **points to consider** when you **plan** an **Open Research event**? (3 minutes)
 <br>
 *(event = workshop, course, lecture, seminar, talk etc.)*
 </div>
 
 ::: {.notes}
-**Presenter Notes**: Next question when planniung an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc.
+**Presenter Notes**: Next question when planniung an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.
 
 **Instructor Notes**: Answers that instructor might be looking for are: 
 - What is a suitable topic?
@@ -1383,7 +1381,6 @@ At the end of this session, you are now able to:
 - **Consider** practical and logistical challenges of organizing an Open Research event ✅ 
 - **Design** an Open Research event according to the five phases of the ARIPE+ scheme [@stadeli2013aviva] to facilitate the learning process ✅ 
 - **Apply** techniques to **enhance** motivation in your learners ✅ 
-- **Assess** prior knowledge in your learners ✅ 
 - **Understand** key elements of constructive feedback ✅ 
 
 ---

@@ -38,7 +38,6 @@ At the end of this session, aspiring Open Research instructors will ...
 - **Consider** practical and logistical challenges of organizing an Open Research event
 - **Design** an Open Research event according to the five phases of the ARIPE+ scheme (Städeli et al., 2013) to facilitate the learning process
 - **Apply** techniques to **enhance** motivation in your learners
-- **Assess** prior knowledge in your learners 
 - **Understand** key elements of constructive feedback
 
 ## Export slides
