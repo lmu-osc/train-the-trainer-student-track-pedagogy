@@ -4,6 +4,12 @@ title: "Creating a positive learning environment"
 
 > Build the room to grow and learn.
 
+[Click here to see the materials in full screen](creating-learning-environment-slides.qmd)
+
+```{=html}
+<iframe class="slide-deck" src="creating-learning-environment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
 # About these materials
 
 **Welcome!** This workshop is intended to provide future Open Research instructors practical skills for
@@ -28,7 +34,6 @@ The target audience of this workshop is twofold
 | Knowledge about designing teaching events | Tools and strategies to create a learning experience to convey content and skills | [Download Link](https://quarto.org) |
 </div>
 
-
 ## Learning objectives
 
 At the end of this session, aspiring Open Research instructors will ...
@@ -36,14 +41,6 @@ At the end of this session, aspiring Open Research instructors will ...
 - **Describe** the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language
 - **Evaluate** how your behavior, language, and attitude influence learner motivation and engagement
 - **Analyze** challenges affecting the learning environment during an Open Research training event and **evaluate** strategies to address them in different teaching contexts
-
-# Materials
-
-[Click here to see the materials in full screen](creating-learning-environment-slides.qmd)
-
-```{=html}
-<iframe class="slide-deck" src="creating-learning-environment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
-```
 
 ## Export slides
 

@@ -4,10 +4,15 @@ title: "Core didactic principles for teaching Open Research"
 
 > Learn to teach Open Research with impact.
 
+[Click here to see the materials in full screen](core-didactic-principles-slides.qmd)
+
+```{=html}
+<iframe class="slide-deck" src="core-didactic-principles-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
 # About these materials
 
 **Welcome!** This workshop is intended to provide future Open Research instructors with core teaching skills to deliver workshops, seminars, lectures and courses centered around open research topics. In this session, we will discover through a balanced mix of theoretical elements and hands-on exercises how learners build and organize knowledge, how learning objectives, teaching activities, and assessment can work together, and how to design clear and concise learning objectives at different levels of complexity and across learning domains. Whether you are new to teaching or looking to sharpen your approach, this session will give you theoretical and practical foundations for designing engaging and effective teaching events focused on bringing Open Research closer to your learners.
-
 
 ## Who are these materials for?
 
@@ -34,14 +39,6 @@ At the end of this session, aspiring Open Research instructors will ...
 - **Explain** and **compare** how knowledge can be organized depending on the level of expertise
 - **Evaluate** the alignment between learning objectives, assessment types and teaching activities
 - **Formulate** concrete learning objectives according to specific learning domains for real-world content
-
-# Materials
-
-[Click here to see the materials in full screen](core-didactic-principles-slides.qmd)
-
-```{=html}
-<iframe class="slide-deck" src="core-didactic-principles-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
-```
 
 ## Export slides
 
