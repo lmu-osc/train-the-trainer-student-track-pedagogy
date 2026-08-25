@@ -360,7 +360,6 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 
 ::: {.column width="50%"}
 
-:::incremental
 <br>
 
 - Influences **motivation**
@@ -369,8 +368,8 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 
 <br>
 
-All linked to long-term **knowledge retention** and increased **job competencies**
-:::
+All linked to long-term **knowledge retention** and increased **job competencies**.
+
 
 :::
 
