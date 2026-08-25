@@ -9,7 +9,7 @@ format:
     css: ../../../slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../../assets/logos/OSC_FORRT_Logo.png  # Inserts logo in the bottom right corner (default)
+    logo: ../../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
@@ -318,11 +318,58 @@ Research suggests that a positive learning environment can support learner engag
 
 :::incremental
 <br>
-<br>
+
 - Influences **motivation**
 - Influences **performance**
 - Influences **emotional well-being**
-- All linked to long-term **knowledge retention** and increased **job competencies**
+
+<br>
+
+:::
+
+:::
+
+::::
+
+::: footer
+@rusticusWhatAreKey2023
+:::
+
+::: {.notes}
+**Presenter Notes**: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners' motivation to engage with a topic, seminar or course and their overall performance.
+
+The learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.
+
+Its impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.
+
+In brief: it matters where and how you teach your learners, perhaps more than you might think.
+:::
+
+---
+
+
+## Why the learning environment matters
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/01-when-a-flower-doesnt-bloom.jpg){width=100% fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}
+
+:::
+
+::: {.column width="50%"}
+
+:::incremental
+<br>
+
+- Influences **motivation**
+- Influences **performance**
+- Influences **emotional well-being**
+
+<br>
+
+All linked to long-term **knowledge retention** and increased **job competencies**
 :::
 
 :::
