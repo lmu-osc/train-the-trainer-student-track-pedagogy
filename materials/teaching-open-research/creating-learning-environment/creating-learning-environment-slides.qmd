@@ -176,7 +176,7 @@ By the end of the session, you will be able to identify key elements that contri
 
 ## Before we start: Survey time!
 
-![](images/QR-code-positive-learning-environment-OSSS26.png){width=100%, fig-align="center"}
+![](images/QR-code-positive-learning-environment-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code"}
 
 Scan the QR code and select the item **Intro-Survey** from the list.
 
@@ -260,13 +260,9 @@ What do we see in the results?
 
 ## The "learning environment"
 
-<br>
-**What does this mean to you?**
+![](images/QR-code-positive-learning-environment-OSSS26.png){width="80%" fig-align="center" fig-alt="QR code"}
 
-Add QR code.
-
-<br>
-*Take 5 minutes to collect some concepts and thoughts that come to mind with your neighbor.*
+Scan the QR code and select the item **What does "learning environment" mean to you?** from the list.
 
 ::: {.notes}
 **Presenter Notes**: First question to you as the audience: What does the term learning environment mean to you? What thoughts or concepts come to mind? Take 5 minutes to collect some concepts and thoughts that come to mind with your neighbor. Use the QR code.
@@ -310,7 +306,7 @@ Research suggests that a positive learning environment can support learner engag
 
 ::: {.column width="50%"}
 
-![](images/01-when-a-flower-doesnt-bloom.jpg){width=100% fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}
+![](images/01-when-a-flower-doesnt-bloom.jpg){width="100%" fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}
 
 :::
 
@@ -347,7 +343,6 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 
 ---
 
-
 ## Why the learning environment matters
 
 :::: {.columns}
@@ -370,7 +365,6 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 
 All linked to long-term **knowledge retention** and increased **job competencies**.
 
-
 :::
 
 ::::
@@ -391,7 +385,7 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 
 ---
 
-## Your turn! 5 minutes
+## Your turn! Positive learning environment
 
 <br>
 
@@ -399,10 +393,10 @@ In brief: it matters where and how you teach your learners, perhaps more than yo
 Activity:
 <br>
 **What is a *positive* learning environment?**
-<br>
-<br>
-*Write a few bullet points on what this means to you.*
 </div>
+
+*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C1. Take 5 minutes for this exercise.*
+
 
 ::: {.notes}
 **Presenter Notes**: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference in the workbook. Keep this in mind as we go along.
@@ -412,7 +406,7 @@ Activity:
 
 ---
 
-# What *you* can do to create a positive learning environment?
+# What *you* can do to create a positive learning environment
 
 ::: {.notes}
 **Presenter Notes**: In this next section, we will discuss different methods and tools you can use to create a positive learning environment. Note that for now, we will stay a little more general, but throughout the following slides I want you to also think about how these methods and tools could be implemented in an Open Research training event where you are teaching about an Open Science topic.
@@ -449,7 +443,7 @@ Activity:
 
 ::: {.column width="40%"}
 
-![](images/08-small-talk.png){width=70% fig-alt="icon showing two people making small talk with each other"}
+![](images/08-small-talk.png){width="70%" fig-alt="icon showing two people making small talk with each other" fig-align="center"}
 
 :::
 
@@ -503,7 +497,7 @@ Finally, practicing active listening, a very valuable skill that is also quite e
 
 ::: {.column width="40%"}
 
-![](images/02-active-listening.jpg){width=100% fig-alt="illustration showing an hand close to a listening ear representing active listening"}
+![](images/02-active-listening.jpg){width="100%" fig-alt="illustration showing an hand close to a listening ear representing active listening"}
 
 :::
 
@@ -551,14 +545,15 @@ Finally, listen fully before responding. Allowing learners to finish their thoug
 
 :::incremental
 - Maintain **eye contact** with learners
-- Use your **body for communication** *(shake head, use hands)*
+- Use your **body for communication** <br>
+*(shake head, use hands)*
 :::
 
 :::
 
 ::: {.column width="30%"}
 
-![](images/04-gesticulating.jpeg){width=80% fig-alt="photo of Italian astronaut Samantha Cristoforetti at a press conference in Milan, using her hands to get across a point."}
+![](images/04-gesticulating.jpeg){width="100%" fig-alt="photo of Italian astronaut Samantha Cristoforetti at a press conference in Milan, using her hands to get across a point."}
 
 :::
 
@@ -584,24 +579,17 @@ The meaning and interpretation of eye contact, gestures, and personal space can 
 
 ---
 
-## Your turn: 6 minutes
+## Your turn: Practice your active listening
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-Activity:
-<br>
 **Practice your active listening skills and observe your body language while your peer is answering one of the questions below.**
+<br>
+<br>
 
-- How did you first hear about Open Research practices or first become involved in them?
-
-- What does Open Research mean to you and your research work?
-
-- Do you already have an Open Research topic in mind you would like to teach about? What would it be and why?
+*Form groups of three. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C2. Follow the instructions. Take 6 minutes for this exercise.*
 
 </div>
 
-:::footer
-Instructions: Groups of three, one learner, one instructor practicing the active listening, one observer. Learner gives answer to question to the instructor (approx. 2 mins). In the debriefing, discuss observations and experiences with verbal and non-verbal communication.
-:::
 
 ::: {.notes}
 **Presenter Notes**: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner picks one of the questions, then tells the instructor about their thoughts on the question for approx. 2 minutes. The observer focuses on body language and verbal communication. At the end of the two minutes, discuss as the group. The learner goes first, and describes their experience with the body language and verbal strategies of the instructor. The observer shares their insights, and the instructor shares how the exercise was for them. 
@@ -629,7 +617,7 @@ Instructions: Groups of three, one learner, one instructor practicing the active
 
 ::: {.column width="30%"}
 
-![](images/05-introduce-yourself.png){width=70% fig-alt="meme of a white dog with the title Well hello there"}
+![](images/05-introduce-yourself.png){width="70%" fig-alt="meme of a white dog with the title Well hello there"}
 
 :::
 
@@ -660,20 +648,17 @@ Finally, adapting to your audience means being responsive to their needs, experi
 
 ---
 
-## Your turn! 6 minutes
+## Your turn! Collect introductory activities
 
 <br>
-<br>
-
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-Activity:
-
-**Collect introductory activities that you use in your teaching on Open Research or saw in other Open Research training you attended and describe what effect they had on you or the learners**.
+**Collect introductory activities that you use in your teaching on Open Research or saw in other Open Research training you attended and describe what effect you *think* they had on you or the learners**.
 </div>
 
-:::footer
-*Instructions: Write down some thoughts for yourself for 2 minutes, then discuss with your neighbor for 2 minutes, then we will discuss in the big group for 2 minutes.*
-:::
+<br>
+<br>
+
+*Work in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C3. Follow the instructions. Take 6 minutes for this exercise.*
 
 ::: {.notes}
 **Presenter Notes**: With these examples for methods in mind, collect some introductory activities that you use in your teaching on Open Research or have seen in other Open Research teaching events you attended
@@ -693,7 +678,7 @@ Activity:
 
 ::: {.column width="15%"}
 
-![](images/12_growth_mindset.png){width=80% fig-alt="icon with a purple lightbulb and roots to represent a growth mindset"}
+![](images/12_growth_mindset.png){width="80%" fig-alt="icon with a purple lightbulb and roots to represent a growth mindset" fig-align="center"}
 
 :::
 
@@ -751,7 +736,7 @@ Finally, realistic expectations are important. A growth mindset does not mean as
 
 ::: {.column width="20%"}
 
-![](images/11_code-of-conduct.png){width=50% fig-alt="icon of two shaking hands over an official document representing a code of conduct"}
+![](images/11_code-of-conduct.png){width="50%" fig-alt="icon of two shaking hands over an official document representing a code of conduct"}
 
 :::
 
@@ -794,7 +779,7 @@ Examples:
 
 ::: {.column width="40%"}
 
-![](images/07-udl-summary.png){width=100% fig-alt="figure from the official website of universal design for learning showing the three key areas action and expression, representation and engagement"}
+![](images/07-udl-summary.png){width="100%" fig-alt="figure from the official website of universal design for learning showing the three key areas action and expression, representation and engagement"}
 
 :::
 
@@ -842,7 +827,7 @@ We will not go into more detail here, but know that this is a framework that can
 
 <br>
 
-![](images/10_multicultural_audience.png){width=80% fig-alt="icon with multiple speakers representing a multilingual audience"}
+![](images/10_multicultural_audience.png){width="80%" fig-alt="icon with multiple speakers representing a multilingual audience"}
 
 :::
 
@@ -1002,19 +987,16 @@ In a learning environment, inclusive language helps create a sense of belonging 
 
 ---
 
-## Your turn! 10 minutes
+## Your turn! Challenges to a positive learning environment
 
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 1em; text-align: center;">
-Activity:
-<br>
 **What do you think are potential *challenges* to a positive learning environment during an Open Research training event? How would you solve them?** 
 <br>(*e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..*)
-<br>
-<br>
-*In pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.*
 </div>
+
+*Work in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C4. Follow the instructions. Take 10 minutes for this exercise.*
 
 ::: {.notes}
 **Presenter Notes**: What do you think are potential *challenges* to a positive learning environment during an Open Research training event? How would you solve them?, e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..). 
@@ -1058,7 +1040,7 @@ These aspects will be discussed further in the sessions on leadership in Open Re
 
 ## Take-home messages
 
-![](images/01-when-a-flower-doesnt-bloom.jpg){width=100% fig-align="center"}
+![](images/01-when-a-flower-doesnt-bloom.jpg){width="100%" fig-align="center" fig-alt="Quote by Alexander den Heijer that says When a flower does not bloom, you fix the environment in which it grows, not the flower"}}
 
 ---
 
@@ -1083,7 +1065,7 @@ What are your questions?
 
 ## To conclude: Survey time!
 
-![](images/QR-code-positive-learning-environment-OSSS26.png){width=100%, fig-align="center"}
+![](images/QR-code-positive-learning-environment-OSSS26.png){width="80%"fig-align="center" fig-alt="QR code"}
 
 Scan the QR code and select the item **End-Survey** from the list.
 
@@ -1219,9 +1201,9 @@ Interactively ask participants to provide feedback on the selected method, deliv
 ## TODO Sarah
 
 - [ ] Sort out alt text for all figures
-- [ ] CHECKKK QR CODES!
+- [x] CHECKKK QR CODES!
 - [ ] Change CSS to include level 3 headers
-
-
----
+- [ ] Sort out the exercises and highlight links to workbook.
+- [ ] Sort out all presenter notes
+- [x] Create zoom messages for activities
 
