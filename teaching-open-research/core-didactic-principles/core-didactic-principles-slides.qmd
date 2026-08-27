@@ -1425,9 +1425,11 @@ At the end of this session, you now...
 <!-- --- -->
 
 
-<!--## TODO
+## TODO
 
 - [x] Add wordcloud and QR codes
 - [x] Add alt text to all figures
-- [x] Sort out all references -->
+- [x] Sort out all references
+- [ ] Check slide size content in full screen
+
 

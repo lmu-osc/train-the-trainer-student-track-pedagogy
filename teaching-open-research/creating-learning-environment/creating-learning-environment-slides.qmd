@@ -1206,4 +1206,6 @@ Interactively ask participants to provide feedback on the selected method, deliv
 - [ ] Sort out the exercises and highlight links to workbook.
 - [ ] Sort out all presenter notes
 - [x] Create zoom messages for activities
+- [ ] Check slide size content in full screen
+
 

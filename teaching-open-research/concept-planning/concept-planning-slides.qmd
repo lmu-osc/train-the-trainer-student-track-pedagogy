@@ -1575,5 +1575,7 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 - [x ] Sort out all alt text fir figures
 - [x ] Sort out QR codes for surveys
+- [ ] Check slide size content in full screen
+
 
 ---
