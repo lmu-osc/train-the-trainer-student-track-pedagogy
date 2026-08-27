@@ -253,7 +253,7 @@ What do we see in the results?
 
 ## Today's session journey
 
-![](images/journey){width="50%" fig-align="center" fig-alt="Pictogram of journey"}
+![](images/journey.png){width="50%" fig-align="center" fig-alt="Pictogram of journey"}
 
 <div style="background-color: #f0f0f0; padding: 0.1em; border-radius: 5px; font-size: 0.8em; text-align: center;">
 
