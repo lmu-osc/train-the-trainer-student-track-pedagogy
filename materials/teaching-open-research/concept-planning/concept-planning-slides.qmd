@@ -79,13 +79,13 @@ Before completing this submodule, please carefully read about the prerequisites.
 | Prerequisite   |  Description  | Link/Where to find it   |
 |------------|------------|------------|
 | Basic familiarity with Open Science concepts and practices | Examples: Replication crisis, open access, R, version control, preregistration, etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
-| Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
+| Core didactic principles | A firm grasp on didactic tools | [ADD Link](https://quarto.org) |
 </div>
 
 ::: {.notes}
 **Presenter Notes**: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. If you are not yet familiar with these concepts, please see the previous session on "Core didactic principles" when teaching about Open Research. 
 
-**Instructor Notes**: These are the prerequisites for this submodule. Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria.
+**Instructor Notes**: Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria.
 :::
 
 ---
@@ -100,7 +100,7 @@ What are your questions from the previous session?
 </div>
 
 ::: {.notes}
-**Presenter Notes**: What were your questions from the previous session? 
+**Presenter Notes**: What are your questions from the previous session? 
 
 **Instructor Notes**: Instead of asking "Do you have any questions", work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask "What are your questions". 
 :::
@@ -115,9 +115,9 @@ What are your questions from the previous session?
 - **Constructive feedback**:
 
 ::: {.notes}
-**Presenter Notes**: Here are some  key concepts we will be discussing throughout the session. Thin for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the larger group. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.
+**Presenter Notes**: Here are some key concepts we will be discussing throughout the session. You are not meant to be familiar with these concepts at this point, but this serves for you as an overview after we have explore each term in more detail. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.
 
-**Instructor Notes**: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise.
+**Instructor Notes**: *Idea for interactive activity*: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise. *Presenter notes for activity:*: Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the larger group. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.
 :::
 
 ---
@@ -125,9 +125,9 @@ What are your questions from the previous session?
 ## Key terms and definitions
 
 - **ARIPE+ scheme**: A didactic framework for planning competency-based instruction that structures learning in five phases.
-- **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analzye their errors to boost understanding, skills and confidence.
+- **Positive error framing**: A didactic approach that views mistakes as learning opportunities and encourages learners to analyze their errors to boost understanding, skills and confidence.
 - **Error patterns** in the learning process: Systematic mistakes rather than random failure, critical indicators for how learners think and where the misconceptions lie
-- **Constructive feedback**:  Information given to help someone improve their performance, skills, or behavior in a supportive and actionable way through describing observable behavior and offering next steps in a respectful way
+- **Constructive feedback**: Information given to help someone improve their performance, skills, or behavior in a supportive and actionable way through describing observable behavior and offering next steps in a respectful way
 
 ::: {.notes}
 **Presenter Notes**: First, the ARIPE+ scheme by Städeli (2013) is a didactic framework that helps educators systematically plan learning experiences. It structures instruction into five phases, guiding learners from initial engagement and exploration through to application, feedback processes and reflection. 
@@ -145,24 +145,25 @@ Finally, constructive feedback is information given to help someone improve thei
 
 ## Covered in this session
 
-- **Practical** and **logistical** considerations when organizing an Open Research (OR) event
-- **ARIPE+ scheme** to structure an OR event
+- **Practical** and **logistical considerations** when organizing an Open Research (OR) event
+- **Designing and structuring** the event
+  - **ARIPE+ scheme**
   - Fostering **motivation**
   - Assessing **prior/existing knowledge** in your learners
   - Providing useful **feedback**
+- **Tips** for a **successful** OR event
 
 ::: {.notes}
 **Presenter Notes**: This session focuses on both the practical and pedagogical aspects of organizing and delivering an Open Research event.
 
-We will begin by looking at the practical and logistical considerations involved in planning and running an event.
 
-Next, we will explore how the ARIPE+ scheme can be used to structure an individual lesson or event. This framework provides a clear sequence for designing learning activities and provides structure for your learners. 
+**Presenter Notes**: This session covers both the practical and pedagogical aspects of organizing an Open Research event.
 
-A key element of successful instruction is understanding your audience. Therefore, we will discuss strategies for assessing learners’ prior knowledge and existing competencies, enabling you to tailor activities and support to their needs.
+We will begin with the practical and logistical considerations, including what to think about when planning, organizing, and delivering an OR event.
 
-We will also examine ways of boosting motivation, considering how to create an engaging learning environment that encourages active participation, curiosity, and sustained involvement throughout the event.
+We will then focus on designing and structuring the event. We will introduce the ARIPE+ scheme as a framework for structuring the content of an OR event, and consider how to foster learner motivation and active participation to help with the learning process. We will also look at ways to assess learners’ prior or existing knowledge, so that activities can be adapted to their needs, and discuss how to provide useful, timely, and constructive feedback.
 
-Finally, we will address the role of feedback in the learning process. We will focus on how to provide feedback that is timely, constructive, and actionable, helping learners reflect on their progress and continue developing their skills.
+Finally, we will go over some tips on how to make your Open Research even successful.
 :::
 
 ---
@@ -299,7 +300,11 @@ What do we see in the results?
 
 ---
 
-## General framework of an Open Research event
+# General framework of an Open Research event
+
+---
+
+## Your turn! What to consider for planning an Open Research event?
 
 <br>
 
@@ -309,8 +314,10 @@ What do you think are some initial **points to consider** when you **plan** an *
 *(event = workshop, course, lecture, seminar, talk etc.)*
 </div>
 
+*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B1. Write down your thoughts. Take 3 minutes for this exercise.*
+
 ::: {.notes}
-**Presenter Notes**: Next question when planniung an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.
+**Presenter Notes**: Next question when planning an event on Open Research: what do you think are some initial **points to consider** when you **plan** an **event on Open Research**? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.
 
 **Instructor Notes**: Answers that instructor might be looking for are: 
 - What is a suitable topic?
@@ -332,7 +339,7 @@ Made with generative AI.
 :::
 
 ::: {.notes}
-**Presenter Notes**: This is an illustration of what organising an academic event more generally can feel like: at first, it all seems very straightforward and the organization follows a more or less logical sequential flow. In reality though it can also feel a little more like in the image at the bottom, where you are constantly facing micro decisions, sometimes with little time to think about them and running about ten operations in parallel. 
+**Presenter Notes**: This is an illustration of what organizing an academic event more generally can feel like: at first, it all seems very straightforward and the organization follows a more or less logical sequential flow. In reality though it can also feel a little more like in the image at the bottom, where you are constantly facing micro decisions, sometimes with little time to think about them and running about ten operations in parallel. 
 :::
 
 ---
@@ -379,7 +386,15 @@ Finally, check your own working conditions: how much time do you have? What is e
 
 ---
 
-## Structuring your lesson: The ARIPE+ scheme (Städeli et al., 2013)
+# Structuring your lesson
+
+::: {.notes}
+**Presenter Notes**: Moving on from practical considerations to actually designing your event with the aim to boost and foster the learnig progress and success of your learners.
+:::
+
+---
+
+## The ARIPE+ scheme (Städeli et al., 2013)
 
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
 
@@ -388,10 +403,9 @@ The "**+**" generally stands for elements connected to the **learning environmen
 :::
 
 ::: {.notes}
-**Presenter Notes**: One useful framework for structuring an event or individual lesson on Open Research is the ARIPE+ scheme, developed by Städeli and colleagues (2013). The model organizes learning into a sequence of phases that guide learners from initial engagement with a topic through exploration, practice, application, and reflection. ARIPE+ helps educators design learning experiences that are active and learner-centered. Rather than focusing only on content delivery, the framework emphasizes what learners do, experience, and demonstrate throughout the learning process. The "+" generally stands for elements connected to the learning environment, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language ... 
+**Presenter Notes**: One useful framework for structuring an event or individual lesson on Open Research is the ARIPE+ scheme, developed by Städeli and colleagues (2013). The model organizes learning into a sequence of phases that guide learners from initial engagement with a topic through exploration, practice, application, and reflection. ARIPE+ helps educators design learning experiences that are active and learner-centered. Rather than focusing only on content delivery, the framework emphasizes what learners can do and demonstrate throughout the learning process. The "+" generally stands for elements connected to the learning environment, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language ... 
 
 In the following slides, we will explore each phase of the ARIPE+ scheme and consider how it can be applied when designing an Open Research event.
-
 :::
 
 ---
@@ -407,7 +421,7 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
 :::
 
 ::: {.notes}
-**Presenter Notes**: Talking about *how* to structure the learning process and the learning environment for your learners, the ARIPE model is highly relevant. There are different phases, which have been backed up by empirical evidence. 
+**Presenter Notes**: The five phases of the ARIPE scheme are as follows: 
 
 - **A: Arrive and adjust**. This is where learners get oriented. Explain why the session matters, what they'll learn, how the workshop is structured,  how it connects to the bigger picture and what the intended learning objectives are. This phase also helps establish motivation and creates a positive learning environment.
 
@@ -417,7 +431,9 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
 
 - **P: Process**. Learning happens through active engagement. Give participants opportunities to apply what they've learned in the previous phase through exercises, discussions, problem-solving, or collaborative activities. This is often the longest phase of a workshop because practice is essential for learning.
 
-- **E: Evaluate**. Finally, check whether learners have achieved the intended outcomes. Evaluation doesn't have to mean a formal test or exam, it can be reflection, instructor or peer feedback, a short quiz, or a practical task. It also gives you valuable information about what learners have understood and what may need further clarification. The modality and practicalities around this should also already be clearly explained during the first phase to manage expections of your learners.
+- **E: Evaluate**. Finally, check whether learners have achieved the intended outcomes. Evaluation doesn't have to mean a formal test or exam, it can be reflection, instructor or peer feedback, a short quiz, or a practical task. It also gives you valuable information about what learners have understood and what may need further clarification. The modality and practicalities around this should also already be clearly explained during the first phase to manage expectations of your learners.
+
+In practice, you move back and forth between the phases and do not necessarily follow this linear trend.
 
 **Instructor Notes**: While the model is presented as a linear framework, in practice you may move back and forth between phases depending on your learners and context.
 :::
@@ -436,9 +452,10 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
   - Accessibility and **equipment** needed (*laptop, software installed, internet access ...*)
   - Explain what **materials** will be needed (*slides, cheatsheets, Moodle, GitHub*) and where to find them)
   - Highlight the **modality** (*hybrid/in-person/online*)
-  - Let your learners find **common goals** and shared interests
   - Communicate **milestones** and important dates (*deadlines, homework assignments, intermediate and final assessments*)
   - Clarify your **expectations** to the learners (*attendance, homework, criteria for obtaining a certificate, assessments, general conduct...*)
+  - Let your learners find **common goals** and shared interests
+
   
 :::
 
@@ -446,7 +463,6 @@ In the following slides, we will explore each phase of the ARIPE+ scheme and con
 
 ::: {.column width="20%"}
 
-<br>
 <br>
 <br>
 
@@ -469,13 +485,11 @@ Next, explain what materials you'll be using and where learners can find them. T
 
 Be clear about how the course will run. Is it in person, online, or hybrid? If some learners are joining remotely, explain how they can ask questions, join discussions, or take part in activities.
 
-If possible, help learners get to know each other. A short introduction or discussion can help participants discover shared interests or common goals of why they are together in this session. This creates a more welcoming learning environment and makes collaboration easier.
-
-Clearly communicate the learning objectives. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
-
 Point out important milestones such as homework, deadlines, assessments, or major activities. This helps learners plan their time and reduces uncertainty.
 
 Finally, be clear about your expectations. Explain practical matters such as attendance, participation, homework, assessment methods, requirements for a certificate, and expectations for respectful behavior. Setting these expectations from the beginning helps create a positive and productive learning environment.
+
+If possible, help learners get to know each other. A short introduction or discussion can help learners discover shared interests or common goals of why they are together in this session. This creates a more welcoming learning environment and makes collaboration easier.
 :::
 
 ---
@@ -486,11 +500,7 @@ Finally, be clear about your expectations. Explain practical matters such as att
 - Clearly communicate where learners are headed and the **vision** or **bigger picture**
   - e.g., "*Today's workshop helps you move from using open research practices yourself to learning how to teach these practices to the next generation of researchers using evidence-based methods.*"
 
-![](images/03_journey.png){fig-align="center" fig-alt="icon depiciting a starting point and end point connected by a line"}
-
-:::footer
-Icon from [https://icons8.com/](https://icons8.com/).
-:::
+![](images/03_journey.png){width="60%" fig-align="center" fig-alt="icon depiciting a starting point and end point connected by a line"}
 
 ::: {.notes}
 **Presenter Notes**: People are more motivated when they understand not just what they are learning, but why it matters.
