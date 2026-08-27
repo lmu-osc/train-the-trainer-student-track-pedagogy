@@ -45,7 +45,7 @@ You will need access to a piece of your **own work** (a report, essay, journal a
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/leadership-open-research/citation-politics/citation-politics-slides.pdf"
+<a href="../../docs/leadership-open-research/citation-politics/citation-politics-slides.pdf"
    download="citation-politics-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF

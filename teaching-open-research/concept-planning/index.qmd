@@ -1,26 +1,24 @@
 ---
-title: "Creating a positive learning environment"
+title: "Concept planning for Open Research events"
 ---
 
-> Build the room to grow and learn.
+> Plan it. Teach it.
 
-[Click here to see the materials in full screen](creating-learning-environment-slides.qmd)
+[Click here to see the materials in full screen](concept-planning-slides.qmd)
 
 ```{=html}
-<iframe class="slide-deck" src="creating-learning-environment-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="concept-planning-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
 # About these materials
 
-**Welcome!** This workshop is intended to provide future Open Research instructors practical skills for
-creating positive and inclusive learning environments
-Through real-life examples and hands-on exercises, we will explore how instructors’ behaviors, attitudes, communication, and interaction with learners can influence motivation, engagement, and learning success. We will then discover strategies for fostering a growth mindset, practicing active listening, establishing supportive interaction norms, using inclusive language, and taking different learner perspectives into account. This session will provide you with practical foundations for fostering respectful, inclusive, and learner-centered teaching events for the best learning outcomes.
+**Welcome!** This workshop is intended to provide future Open Research instructors practical skills for designing and delivering engaging teaching events on Open Research topics. Through a mix of theoretical elements and hands-on exercises, we will explore practical considerations for planning an Open Research event, whether that is a lecture, workshop, seminar or full course. We will then discover how to foster the learning success by intrinsically structuring your events so that learners have time to arrive and orient themselves, reactivate prior knowledge, get familiar and process new content and obtain feedback on their learning progress.In this, we will also learn how to boost motivation in your learners, methods to activate prior knowledge and how to provide constructive feedback. Whether you are new to teaching or looking to sharpen your approach, this session will provide you with practical foundations for creating structured, learner-centered teaching events that help bring Open Research closer to your learners.
 
 ## Who are these materials for?
 
 The target audience of this workshop is twofold
 
-- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning), basic didactic and lesson conceptualization skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
+- **Aspiring Open Research Instructors** or **self-learners** with familiarity about key Open Research issues and challenges (e.g., reproducibility and replicability), Open Research tools (e.g., computational reproducibility, preregistration, study planning) and basic didactic skills who are interested in building didactic skills to effectively teach Open Research through a combination of theoretical input and practical exercises to become **Open Research Instructors**. You can follow these materials by chronologically going through the slides and following along with the practical exercises. You go at your own pace and within your own timeframe. *Presenter notes* will help you to understand and reflect on the content of the materials. Note: Group exercises are *not* possible in this asynchronous setting. 
 
 - **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
 
@@ -31,24 +29,24 @@ The target audience of this workshop is twofold
 |------------|------------|------------|
 | Basic familiarity with Open Science practices | Examples: R, Quarto, Git, GitHub, preregistration, Open Access etc.| [Click here to get familiar with Open Science first](https://lmu-osc.github.io/train-the-trainer-student-track-OS/) |
 | Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
-| Knowledge about designing teaching events | Tools and strategies to create a learning experience to convey content and skills | [Download Link](https://quarto.org) |
 </div>
 
 ## Learning objectives
 
 At the end of this session, aspiring Open Research instructors will ...
 
-- **Describe** the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language
-- **Evaluate** how your behavior, language, and attitude influence learner motivation and engagement
-- **Analyze** challenges affecting the learning environment during an Open Research training event and **evaluate** strategies to address them in different teaching contexts
+- **Consider** practical and logistical challenges of organizing an Open Research event
+- **Design** an Open Research event according to the five phases of the ARIPE+ scheme (Städeli et al., 2013) to facilitate the learning process
+- **Apply** techniques to **enhance** motivation in your learners
+- **Understand** key elements of constructive feedback
 
 ## Export slides
 
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/teaching-open-tesearch/creating-learning-environment/creating-learning-environment-slides.pdf"
-   download="creating-learning-environment-slides.pdf"
+<a href="../../docs/teaching-open-research/concept-planning/concept-planning-slides.pdf"
+   download="concept-planning-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF
 </a>

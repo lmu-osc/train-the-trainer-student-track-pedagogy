@@ -6,10 +6,10 @@ date-format: "DD/MM/YYYY"
 draft: true
 format: 
   revealjs:
-    css: ../../../slides-custom.css # looks for css file in root
+    css: ../../assets/slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: ../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
@@ -17,8 +17,8 @@ format:
   #pptx: 
     #css: ../../slides-custom.css # looks for css file in root
 
-bibliography: ../../../assets/references.bib
-csl: ../../../assets/apa.csl
+bibliography: ../../assets/references.bib
+csl: ../../assets/apa.csl
 
 execute:
   echo: true
@@ -191,7 +191,7 @@ At the end of this session, you will be able to:
 
 ## Before we start: Survey time!
 
-![](images/QR-code-concept-planning-OSSS26.png){width=100%, fig-align="center"}
+![](images/QR-code-concept-planning-OSSS26.png){width=80% fig-align="center" fig-alt="QR code"}
 
 Scan the QR code and select the item **Intro-Survey** from the list.
 
@@ -667,11 +667,7 @@ Start by exploring **what brought learners to this lesson** and **what motivates
 :::
 
 ::: {.notes}
-**Presenter Notes**: Learning works best when two things come together: first, when learners actually care about the topic, and second, when they feel that they can realistically learn it with the time and effort available. If either of these is missing, engagement drops quickly.
-
-As instructors, we often start with content. But here, the focus is on starting with the learners instead.
-
-At the beginning of a lesson, take time to understand what brought learners here. Ask yourself: Why did they join this session? What are they hoping to get out of it? What problems are they trying to solve, or what interests do they already have in the topic? When learners see that the topic relates to their goals or challenges, they are more likely to stay engaged and persist when things become difficult. Here, you also need to keep in mind that learners may not attend by choice, but because your lesson is part of a compulsory curriculum.
+**Presenter Notes**: Learning works best when two things come together: first, when learners actually care about the topic, and second, when they feel that they can realistically learn it with the time and effort available. If either of these is missing, engagement drops quickly. At the beginning of a lesson, take time to understand what brought learners here. Ask yourself: Why did they join this session? What are they hoping to get out of it? What problems are they trying to solve, or what interests do they already have in the topic? When learners see that the topic relates to their goals or challenges, they are more likely to stay engaged and persist when things become difficult. Here, you also need to keep in mind that learners may not attend by choice, but because your lesson is part of a compulsory curriculum.
 
 A simple way to do this is to ask short questions, run a quick poll, or have a short pair discussion at the start of the session.
 :::
@@ -680,7 +676,7 @@ A simple way to do this is to ask short questions, run a quick poll, or have a s
 
 ### Lesson 2: Establish an early feeling of success
 
-Kick-start the learning process by focusing on something **useful** and **relevant** that requires comparatively **low effort** and connects the materials to their **own interests/goals**.
+**Kick-start** the learning process by focusing on something **useful** and **relevant** that requires comparatively **low effort** and connects the materials to their **own interests/goals**.
 
 <br>
 
@@ -696,11 +692,7 @@ Begin the lesson with something that is **quick to learn** and **useful to your 
 ::: {.notes}
 **Presenter Notes**: When people start learning something new, confidence matters a lot. If the first task feels too difficult or too abstract, learners can quickly feel overwhelmed. But if they achieve something useful early on, it builds confidence and momentum. The idea here is to begin with something that is simple to understand, quick to complete, and clearly relevant to the learners’ own goals or work.
 
-This does not mean simplifying the whole topic. It means choosing a first step that gives learners a positive experience and shows them that progress is possible.
-
-One effective approach is to use real-life examples or scenarios that learners can relate to. For instance, you might use a small task based on a situation you have encountered in your own work, or something that learners are likely to face in their context and that they can immediately succeed at.
-
-The key is that learners should quickly see: “I can do this,” or “this is useful for me.”
+One effective approach is to use real-life examples or scenarios that learners can relate to. For instance, you might use a small task based on a situation you have encountered in your own work, or something that learners are likely to face in their context and that they can immediately succeed at. The key is that learners should quickly see: “I can do this,” or “this is useful for me.”
 :::
 
 ---
@@ -723,13 +715,13 @@ Introduce an **interactive activity** early on in the lesson, e.g., "*What bring
 :::
 
 ::: {.notes}
-**Presenter Notes**: Learning is not something that happens by just listening. People learn more effectively when they are actively engaged—when they ask questions, share ideas, and connect the content to what they already know.
+**Presenter Notes**: Learning is not something that happens by just listening. People learn more effectively when they are actively engaged, when they share ideas, and connect the content to what they already know.
 
 As instructors, we can support this by creating an interactive environment early in the lesson. This means making it clear from the start that questions are welcome, discussion is encouraged, and learners’ own experiences are valuable.
 
-It is especially important to involve learners early on. If a session starts with a long period of passive listening, it can be harder to get participation later. But if learners are engaged from the beginning, they are more likely to stay active throughout.
+Involve learners early on. If a session starts with a long period of passive listening, it can be harder to get participation later. But if learners are engaged from the beginning, they are more likely to stay active throughout.
 
-A simple way to do this is to start with a short interactive activity. For example, you might ask: “What brings you here today?” Then give learners a moment to think, discuss with a neighbour, or share in the group.
+A simple way to do this is to start with a short interactive activity. For example, you might ask: “What brings you here today?” Then give learners a moment to think, discuss with a neighbor, or share in the group.
 
 **Instructor Notes**: Get learners to think back about their own experiences when starting this session. 
 :::
@@ -758,8 +750,6 @@ Integrate activities **in pairs** to foster the exchange.
 
 Peer learning also helps manage differences in prior knowledge. In any group, some learners will already have experience with the topic, while others are completely new. When learners work together, they can support each other and help close these gaps in understanding.
 
-As instructors, we can support this by deliberately building in opportunities for interaction between learners.
-
 A simple and effective approach is to use pair activities. Instead of only addressing the whole group, ask learners to discuss a question with a partner, explain a concept to each other, or compare their solutions to a task.
 
 **Instructor Notes**: Working in pairs can help learners who are less confident to engange in whole group discussions.
@@ -772,7 +762,8 @@ A simple and effective approach is to use pair activities. Instead of only addre
 Make confusion an integral **part of your teaching**.
 
 - **Explore** confusion with **kindness**
-- **Reward learners** for sharing vulnerable information
+- **Reward learners** for sharing vulnerable information, <br>
+e.g., "**I do not understand**"
 
 ![](images/14_confusion.png){width="100%" fig-align="center" fig-alt="icon depiciting a person in the center with a question mark hovering over their heads"}
 
@@ -791,13 +782,14 @@ Integrate **formative assessments** or quizzes to pinpoint misunderstandings. **
 :::
 
 ::: {.notes}
-**Presenter Notes**: A key aspect of boosting motivation is confusion, which at first maybe feels counterintuitive. Confusion is not something to eliminate as quickly as possible. In fact, a certain amount of confusion is often a sign that learning is taking place. When learners encounter information that challenges their existing understanding, they have an opportunity to build stronger mental models, provided they feel safe enough to explore that uncertainty.
+**Presenter Notes**: A key aspect of boosting motivation is confusion, which at first maybe feels counter-intuitive. Confusion is not something to eliminate as quickly as possible. In fact, a certain amount of confusion is often a sign that learning is taking place. When learners encounter information that challenges their existing understanding, they have an opportunity to build stronger mental models and add connections between nodes.
 
-The first point is to make confusion an integral part of your teaching. Rather than presenting a workshop as a smooth transfer of knowledge, normalize that moments of uncertainty are expected. You might even tell participants at the beginning that feeling confused is a natural part of learning something new, especially when discussing topics like Open Research, where practices and terminology may be unfamiliar or evolving.
+The first point is to make confusion an integral part of your teaching and to normalize it. Tell learners at the beginning that feeling confused is a natural part of learning something new, especially when discussing topics like Open Research, where practices and terminology may be unfamiliar or evolving.
 
 When someone expresses uncertainty or gives an incomplete answer, avoid immediately correcting them or moving on. Instead, become curious about their thinking. Ask questions like, "Can you tell us what led you to that conclusion?" or "What part feels unclear?" This helps uncover misconceptions while demonstrating that the learning process is valued just as much as the correct answer.
 
 It is equally important to reward learners for sharing vulnerable information. Admitting "I don't understand" or "I thought it worked differently" requires some form safe space. Thank learners for raising these questions, because chances are others are wondering the same thing. A simple response such as, "Good that you asked, that's an important question," reinforces that speaking up contributes to everyone's learning.
+
 One practical strategy is to integrate formative assessments throughout the workshop. These can be quick polls, multiple-choice questions, short reflective prompts, or think–pair–share activities. Their purpose is not to evaluate learners but to give both you and the learners insight into current understanding and identify misconceptions before they become entrenched.
 :::
 
@@ -807,7 +799,7 @@ One practical strategy is to integrate formative assessments throughout the work
 
 Leverage the **power of "*yet*"**.
 
-- Evidence suggests that learner perseverance is best supported in the long term by **praising effort or improvement** rather than ability or performance.
+- Learner **perseverance** is best supported in the long term by **praising effort or improvement** rather than ability or performance.
 
 <br>
 
@@ -859,7 +851,7 @@ Present **yourself** (the instructor) as a **learner**.
 
 ::: {.callout-tip}
 ## What you can do:
-When discussing an activity involving coding, use the opportunity when you make mistakes to embrace them with enthusiasm and present them as a learning opportunity rather than an index for failure or incompetence. 
+When discussing an activity involving coding, use the opportunity when you make mistakes to **embrace them with enthusiasm** and present them as a learning opportunity rather than an index for failure or incompetence. 
 :::
 
 :::footer
@@ -867,12 +859,14 @@ When discussing an activity involving coding, use the opportunity when you make 
 :::
 
 ::: {.notes}
-**Presenter Notes**:  Remember that instructors are learners too. By presenting yourself as someone who is still learning, you help create a more open and supportive learning environment. Let learners relate to you by being honest about your own learning experiences, challenges, or knowledge gaps. This shows that learning is a continuous process, even for experienced instructors.
+**Presenter Notes**: Remember that instructors are learners too. By presenting yourself as someone who is still learning, you help create a more open learning environment. Let learners relate to you by being honest about your own learning experiences, challenges, or knowledge gaps. This shows that learning is a continuous process, even for experienced instructors.
 
 Don't be afraid to make useful mistakes. For example, when live coding, a mistake can become a valuable teaching moment. Instead of apologizing or hiding it, show learners how you identify the problem, think through possible solutions, and correct it.
 
-This is an example of positive error framing. By responding to mistakes with curiosity rather than frustration, you model that errors are a normal and useful part of learning. This can help learners feel more confident to experiment, ask questions, and learn from their own mistakes.
+This is an example of positive error framing. You show that errors are a normal and useful part of learning. This can help learners feel more confident to experiment, ask questions, and learn from their own mistakes.
 :::
+
+---
 
 <!-- --- -->
 
@@ -888,8 +882,6 @@ This is an example of positive error framing. By responding to mistakes with cur
 
 <!-- **Instructor Notes**: -->
 <!-- ::: -->
-
----
 
 <!-- ### Lesson 8: Your motivation matters too! -->
 
@@ -911,20 +903,22 @@ This is an example of positive error framing. By responding to mistakes with cur
 <!-- ::: -->
 
 
-## Your turn! 5 minutes
+## Your turn! Boosting motivation in your R workshop
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Activity**: Let us get back to our planned **R workshop** for a group of learners. 
+Let us get back to our planned **R workshop** for a group of learners. 
 
 1. What are two **concrete activities** where you could **actively boost motivation** in your learners? 
 
 2. What could be two R-specific **factors** be that could **demotivate** your learners at the workshop? 
 </div>
 
-::: {.notes}
-**Presenter Notes**: Thinking about the R workshop that we started planning earlier: What are **concrete activities** where you could **actively boost motivation** in your learners?  What could some Git-specific **factors** be that could **demotivate** your learners at the workshop? 
+*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B4. Work in pairs. Take 5 minutes for this exercise.*
 
-Take 5 minutes for this exercise. 
+::: {.notes}
+**Presenter Notes**: Thinking about the R workshop that we started planning earlier: What are **concrete activities** where you could **actively boost motivation** in your learners?  What could some Git-specific **factors** be that could **demotivate** your learners at the workshop?
+
+Work in pairs. Take 5 minutes for this exercise. 
 :::
 
 ---
@@ -939,7 +933,6 @@ Take 5 minutes for this exercise.
 
 ::: {.notes}
 **Presenter Notes**: For a quick orientation, we have just been discussing the A - arrive and adjust phase of the ARIPE scheme. Lots went in there. Let us now move onto the next phase. 
-
 :::
 
 ---
@@ -947,13 +940,13 @@ Take 5 minutes for this exercise.
 ## A**R**IPE: *Reactivate*
 
 ::: {.callout-important}
-**Remember**: Learners *bring* prior knowledge into the learning environment, can *help* or *hinder* learning.
+**Remember**: Learners *bring* prior knowledge into the learning environment, which can *help* or *hinder* learning.
 :::
 
 <br>
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Activity**: How could you **explore** and **activate** prior knowledge on *Open Research* in your learners?
+How could you **explore** and **activate** prior knowledge on *Open Research* in your learners?
 </div>
 
 :::footer
@@ -987,9 +980,9 @@ For this activity, think about how you as the instructor could explore and activ
 ::: {.column width="80%"}
 
 :::incremental
-- **Exchange** with other teaching colleagues about the content of preceding workshops
-- **Pre-session surveys** and quizzes to identify existing knowledge
-- **Brainstorm** with learners 
+- Exchange with other teaching colleagues about the content of preceding workshops and integrate **recaps**
+- Use **pre-session surveys** and quizzes to identify existing knowledge
+- **Brainstorm** with learners about specific concepts 
 - Check for **error patterns** in the homework assignment
 - Explicitly **link new materials** to elements from previous sessions
 - Use **analogies** and examples that connect to existing knowledge
@@ -1050,10 +1043,6 @@ Image generated with AI and adapted from [Felix Schönbrodt](https://nicebread.g
 <!-- ::: -->
 
 
-# Break! 5 minutes
-
----
-
 ## ARIPE+ scheme
 
 ![](images/05_ARIPE_scheme.png){fig-align="center" fig-alt="figure visualizing the five stages of the ARIPE+ scheme by Städeli et al. (2013), arrive and adjust, reactivate, inform, process and evaluate"}
@@ -1097,7 +1086,7 @@ Lasswell’s communication model is a simple way to describe communication using
 
 **Designing slides**....................is a **process**: 
 
-![](images/09_slide_design_new.png){fig-align="center" fig-alt="ADDD"}
+![](images/09_slide_design_new.png){fig-align="center" fig-alt="AI-generate image depiciting the five stages of deisgining slides, from brainstorming to sorting the thoughts to generating the story to sketching out the slides manually to generating the slide digitally"}
 
 :::footer
 Made with generative AI.
@@ -1157,9 +1146,7 @@ Practice and **consolidate** learning:
 :::
 
 ::: {.notes}
-**Presenter Notes**: The Process stage of ARIPE focuses on what learners do with new information. Instead of only receiving input, learners actively work with the content to deepen and consolidate their understanding.
-
-This is where activities, discussions, and collaborative learning become central. For example, learners might solve a problem together, discuss a concept in pairs, or apply new knowledge to a short task. These interactions help learners test and refine their understanding.
+**Presenter Notes**: The Process stage of ARIPE focuses on what learners do with new information. This is where activities, discussions, and collaborative learning become central. For example, learners might solve a problem together, discuss a concept in pairs, or apply new knowledge to a short task. These interactions help learners test and refine their understanding.
 
 Activation methods are especially useful in this stage. They support learners in engaging with the material in different ways and help strengthen learning outcomes. We will explore specific activation methods in the next session.
 :::
@@ -1203,9 +1190,10 @@ Activation methods are especially useful in this stage. They support learners in
 - Actively **initiate** feedback exchanges
 - Provide **targeted** feedback **early on** in the process so that learners can adapt
 - Be **constructive** in your feedback: What is a next step from here?
-- **Connect** it to the learning objectives
-- **Balance** positive and negative feedback
-- Integrate **peer feedback** elements
+  - **Connect** it to the learning objectives
+  - **Balance** positive and negative feedback ("*feedback sandwich)
+  
+<!-- - Include **peer feedback** to increase engagement and shared learning -->
 :::
 
 :::footer
@@ -1219,15 +1207,14 @@ Activation methods are especially useful in this stage. They support learners in
 - Actively **initiate** feedback exchanges rather than waiting for learners to request them
 - Provide **targeted feedback early** so learners can adjust during the learning process
 - Make feedback **constructive** by focusing on **clear next steps**
-- **Link** feedback explicitly to the learning objectives
-- **Balance** positive and corrective feedback to support learning and motivation
-- Include **peer feedback** to increase engagement and shared learning
+  - **Link** feedback explicitly to the learning objectives
+  - **Balance** positive and corrective feedback to support learning and motivation (*"feedback sandwich"*)
 
 :::
 
 ---
 
-### Feedback considerations
+### Constructive feedback considerations
 
 ![](images/empathy.png){fig-align="center" fig-alt="icon representing feedback bubbles"}
 
@@ -1323,7 +1310,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 
 **Do not**:
 
-![](images/do-not.png){width=100%, fig-align="center"}
+![](images/do-not.png){width=100% fig-align="center" fig-alt="icon of a prohibited sign"}
 
 
 :::
@@ -1336,7 +1323,7 @@ Finally, adapting your language and delivery to the norms of the person receivin
 - Dive into complex or detailed technical discussions
 - Talk with **scorn** about an Open Research tool or practice
 - **Pretend** to know more than you do
-- Do not use the word "*just*" or other demotivating words/phrases
+- Do not use the word **"*just*"** or other demotivating words/phrases
 - Express surprise at unawareness ("*Funny, you have never heard about Git!?*")
 - **Take over** the learner's keyboard to **complete the task yourself** (*e.g., when doing an R demonstration*)
 - ...
@@ -1352,16 +1339,15 @@ Finally, adapting your language and delivery to the norms of the person receivin
 :::
 
 ::: {.notes}
-**Presenter Notes**: When learning a skill, we develop more than expert awareness gaps – we also develop opinions about tools and methods, and sometimes base a professional identity around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present serious hazards in the classroom! Here are a few things you should not do in your workshop:
+**Presenter Notes**: There are some things that can seriously tamper with the learning success of your learners. Here are a few things you as the instructor should not do in your workshop:
 
-- Talk contemptuously or with scorn about any tool or practice, or the people who use them. Regardless of its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so. Convincing someone to change their practices is much harder when they think you disdain them.
+- Talk contemptuously or with scorn about any tool or practice, or the people who use them. Regardless of its shortcomings, many of your learners may be using that tool, and may have invested time in learning to do so. Convincing someone to change their practices is much harder when they think you disdain them.
 - Dive into complex or detailed technical discussion with the one or two people in the audience who clearly don’t actually need to be there. Reserve those conversations for breaks or follow-up emails.
-- Pretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help. (Also see “Presenting the instructor as a learner,” above)
-- Use the word “just” or other demotivating words we talked about in a previous episode. These signal to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.
-- Take over the learner’s keyboard. It is rarely a good idea to type anything for your learners. Doing so can be demotivating for the learner (as it implies you don’t think they can do it themselves or that you don’t want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
+- Pretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help.
+- Use the word “just”. This signals to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.
+- Take over the learner’s keyboard. Doing so can be demotivating for the learner because it implies you don’t think they can do it themselves or that you don’t want to wait for them. It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
 - Express surprise at unawareness. Saying things like “I can’t believe you don’t know X” or “You’ve never heard of Y?” signals to the learner that they do not have some required pre-knowledge of the material you are teaching, that they don’t belong at the workshop, and it may prevent them from asking questions in the future.
 
-It can be difficult to avoid these demotivators entirely. Some people are so used to complaining about certain tools that they initially fail to realise they’re doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself (and your helpers!) to avoid these types of comments takes practice, but is well worth the effort.
 :::
 
 ---
@@ -1402,7 +1388,7 @@ At the end of this session, you are now able to:
 
 ## To conclude: Survey time!
 
-![](images/QR-code-concept-planning-OSSS26.png){width=100%, fig-align="center"}
+![](images/QR-code-concept-planning-OSSS26.png){width=80% fig-align="center" fig-alt="QR code"}
 
 Scan the QR code and select the item **End-Survey** from the list.
 
@@ -1525,69 +1511,69 @@ Check out [PROFiL](https://www.lmu.de/profil/de/) and their courses on slide des
 
 ---
 
-# For instructors
+<!-- # For instructors -->
 
----
+<!-- --- -->
 
-## Additional considerations when teaching Open Research
+<!-- ## Additional considerations when teaching Open Research -->
 
-:::incremental
-- Some learners may **prioritize immediate task-related knowledge** over fundamental concepts, e.g., they have to submit a paper and want to learn about licencing
-- Recognize **diverse motivations**: not all novices share the same starting interests or passion for open research practices, e.g., some are frustrated about code not being available, some have to "do open research" because the funders want it
-:::
+<!-- :::incremental -->
+<!-- - Some learners may **prioritize immediate task-related knowledge** over fundamental concepts, e.g., they have to submit a paper and want to learn about licencing -->
+<!-- - Recognize **diverse motivations**: not all novices share the same starting interests or passion for open research practices, e.g., some are frustrated about code not being available, some have to "do open research" because the funders want it -->
+<!-- ::: -->
 
-:::footer
-[https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners](https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners)
-:::
+<!-- :::footer -->
+<!-- [https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners](https://carpentries.github.io/instructor-training/04-expertise.html#you-are-not-your-learners) -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
-## Additional resources
+<!-- ## Additional resources -->
 
-Providing feedback:
+<!-- Providing feedback: -->
 
-- [https://www.cultureamp.com/blog/how-to-give-feedback-to-peers](https://www.cultureamp.com/blog/how-to-give-feedback-to-peers)
-- [https://www.youtube.com/watch?v=KE9NleGZqPk](https://www.youtube.com/watch?v=KE9NleGZqPk)
+<!-- - [https://www.cultureamp.com/blog/how-to-give-feedback-to-peers](https://www.cultureamp.com/blog/how-to-give-feedback-to-peers) -->
+<!-- - [https://www.youtube.com/watch?v=KE9NleGZqPk](https://www.youtube.com/watch?v=KE9NleGZqPk) -->
 
-# Additional content slides
+<!-- # Additional content slides -->
 
----
+<!-- --- -->
 
-## Useful principles for designing slides
+<!-- ## Useful principles for designing slides -->
 
-:::incremental
-- Learning effect largest when **visual and auditory channels** are activated
+<!-- :::incremental -->
+<!-- - Learning effect largest when **visual and auditory channels** are activated -->
 
-- **Arrangement of elements matters**: place the most important elements in the top left, arrange the rest according to importance
+<!-- - **Arrangement of elements matters**: place the most important elements in the top left, arrange the rest according to importance -->
 
-- **Play with contrast**: Contrast two elements by changing the size, the shape, color, proximity or direction
+<!-- - **Play with contrast**: Contrast two elements by changing the size, the shape, color, proximity or direction -->
 
-- **Less is sometimes more**: Consciously incorporate empty spaces into your slides to direct attention to the important elements
-:::
+<!-- - **Less is sometimes more**: Consciously incorporate empty spaces into your slides to direct attention to the important elements -->
+<!-- ::: -->
 
-:::footer
-@buehlerVisuelleKommunikationWahrnehmung2017
-:::
+<!-- :::footer -->
+<!-- @buehlerVisuelleKommunikationWahrnehmung2017 -->
+<!-- ::: -->
 
-::: {.notes}
-**Presenter Notes**: When designing slides, here are some useful guiding principles. 
+<!-- ::: {.notes} -->
+<!-- **Presenter Notes**: When designing slides, here are some useful guiding principles.  -->
 
-Learning is often more effective when information is presented through both visual and auditory channels, so combining spoken explanation with clear visuals can support understanding.
+<!-- Learning is often more effective when information is presented through both visual and auditory channels, so combining spoken explanation with clear visuals can support understanding. -->
 
-The arrangement of elements on a slide matters. Viewers tend to focus first on the top left, so placing the most important information there and organizing other elements by importance can help guide attention.
+<!-- The arrangement of elements on a slide matters. Viewers tend to focus first on the top left, so placing the most important information there and organizing other elements by importance can help guide attention. -->
 
-Contrast can be used to highlight differences or key points. This can be done through changes in size, shape, color, proximity, or direction to make important elements stand out.
+<!-- Contrast can be used to highlight differences or key points. This can be done through changes in size, shape, color, proximity, or direction to make important elements stand out. -->
 
-Finally, less content can improve clarity. Leaving empty space on a slide helps reduce visual overload and directs attention to what matters most.
+<!-- Finally, less content can improve clarity. Leaving empty space on a slide helps reduce visual overload and directs attention to what matters most. -->
 
-**Instructor Notes**: Have examples ready to show if your learners ask for them. 
-:::
+<!-- **Instructor Notes**: Have examples ready to show if your learners ask for them.  -->
+<!-- ::: -->
 
----
+<!-- --- -->
 
 ## TODO
 
-- [ ] Sort out all alt text fir figures
-- [ ] Sort out QR codes for surveys
+- [x ] Sort out all alt text fir figures
+- [x ] Sort out QR codes for surveys
 
 ---

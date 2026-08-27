@@ -5,10 +5,10 @@ date: "today"
 date-format: "DD/MM/YYYY"
 format: 
   revealjs:
-    css: ../../../slides-custom.css # looks for css file in root
+    css: ../../assets/slides-custom.css # looks for css file in root
     footer: LMU Open Science Center
     slide-number: true
-    logo: ../../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
+    logo: ../../assets/logos/OSC_Logo.jpg  # Inserts logo in the bottom right corner (default)
   pdf:
     geometry: 
       - top=30mm
@@ -16,8 +16,8 @@ format:
  # pptx: 
  #   css: ../../../slides-custom.css # looks for css file in root
 
-bibliography: ../../../assets/references.bib
-csl: ../../../assets/apa.csl
+bibliography: ../../assets/references.bib
+csl: ../../assets/apa.csl
 
 execute:
   echo: true

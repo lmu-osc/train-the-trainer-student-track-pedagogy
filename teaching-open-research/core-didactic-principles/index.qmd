@@ -45,7 +45,7 @@ At the end of this session, aspiring Open Research instructors will ...
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/teaching-open-research/core-didactic-principles/core-didactic-principles-slides.pdf"
+<a href="../../docs/teaching-open-research/core-didactic-principles/core-didactic-principles-slides.pdf"
    download="core-didactic-principles-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF

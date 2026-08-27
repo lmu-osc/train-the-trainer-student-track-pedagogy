@@ -47,7 +47,7 @@ At the end of this session, aspiring Open Research instructors will ...
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
 <!-- download as pdf -->
-<a href="../../../docs/materials/teaching-open-research/activation-methods/activation-methods-slides.pdf"
+<a href="../../docs/teaching-open-research/activation-methods/activation-methods-slides.pdf"
    download="activation-methods-slides.pdf"
    class="btn btn-primary">
   Download slides as PDF
