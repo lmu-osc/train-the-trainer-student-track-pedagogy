@@ -505,13 +505,11 @@ If possible, help learners get to know each other. A short introduction or discu
 ::: {.notes}
 **Presenter Notes**: People are more motivated when they understand not just what they are learning, but why it matters.
 
-At the beginning of a session, explain the bigger picture. Help learners see how today's topic fits into the overall course, their professional development, or the wider impact of their work. Consider how the event fits within the wider context, such as an existing program, curriculum, or institutional strategy. Alignment with the broader learning environment helps create a more coherent and meaningful experience for participants.
+At the beginning of a session, explain the bigger picture. Help learners see how today's topic fits into the overall curriculum, the course, or the wider impact of their work.
 
 For example, instead of simply saying, "Today we'll learn about teaching methods," you could say: "Today's workshop helps you move from using open research practices yourself to learning how to teach these practices to the next generation of researchers using evidence-based methods."
 
 This gives learners a sense of purpose. It shows that the workshop is not just about learning a new skill, but about increasing their impact by helping others adopt good research practices.
-
-Next, develop a broader vision for the event. Think about the learning journey you want participants to experience and the overall goals you hope to achieve.
 
 **Instructor Notes**: You can return to this vision at the end of the session. Briefly remind learners what they have achieved today and how it moves them one step closer to that larger goal. This helps connect individual activities to the overall learning journey and reinforces motivation.
 :::
@@ -531,28 +529,30 @@ Next, develop a broader vision for the event. Think about the learning journey y
   - "*Learners will **create** a reproducible research document using Quarto and **publish** it on GitHub*"
 
 ::: {.notes}
-**Presenter Notes**: From the broader picture, define specific learning objectives for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners
+**Presenter Notes**: From the broader picture, define specific learning objectives for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners.
 
-Clearly communicate the learning objectives Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
+Clearly communicate these learning objectives. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.
 
-In the first example, "Learners will compare traditional publishing models with open-access publishing models." The key action is compare. This tells us that learners are expected to analyse similarities and differences, not just remember definitions.
+In the first example, "Learners will compare traditional publishing models with open-access publishing models." The key action is compare. This tells us that learners are expected to analyze similarities and differences, not just remember definitions.
 
 In the second example, "Learners will create a reproducible research document using Quarto and publish it on GitHub." Here, the actions are create and publish. These are practical skills that learners can demonstrate by producing a real output.
 
-**Instructor Notes**: Remember: A useful question to ask when writing a learning goal is: "How will I know that learners have achieved this?" If you can clearly observe or assess the action, your learning goal is probably well written.
+**Instructor Notes**: Remember: A useful question to ask when writing a learning goal is: "How will I know that learners have achieved this?" If you can clearly observe or assess the action, your learning goal is likely well-written.
 :::
 
 ---
 
-## Your turn! 5 minutes
+## Your turn! Providing orientation for an R workshop
 
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
 **Thought experiment**: Imagine that you give a half-day workshop on *R* to a group of ten learners. In groups, write down concrete examples on how you could provide orientation at the start of the R workshop.
 </div>
 
-- **Activity on finding common goals**:
 - **Milestones to achieve during the workshop**:
 - **Expectations**: 
+
+<br>
+*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B2. Work in pairs. Take 5 minutes for this exercise.*
 
 ::: {.notes}
 **Presenter Notes**: Now it's your turn to put all of this into practice. Imagine that you are teaching a half-day workshop on R to a group of ten learners. Your task isn't to plan the technical content yet. Instead, focus only on the Arrive and Adjust phase.
@@ -598,14 +598,19 @@ The good news is that instructors can influence motivation. You can't control ev
 
 ### Probing and enhancing motivation in your learners
 
-<br>
 <div style="background-color: #f0f0f0; padding: 0.05em; border-radius: 2px; font-size: 1em;">
-**Activity**: <br>
-Think back to open research courses, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. 
+**What do *you* find motivating or demotivating?** 
+
 <br>
-<br>
-*Try to think of at least two examples for each, and then share them with your  neighbor. You have 5 minutes.*
+Think back to **open research courses**, workshops or seminars you attended in the past. Consider things that a **teacher or trainer** has **said or done** that you found either **motivating** or **demotivating**. 
 </div>
+
+<br>
+*Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B3. Write down your thoughts. Take 5 minutes for this exercise.*
+
+
+<br>
+<br>
 
 <div style="position: absolute; bottom: 10px; left: 0; width: 100%; text-align: center; font-size: 0.4em; color: #888;">
 [https://zenodo.org/records/18905547](https://zenodo.org/records/18905547)
