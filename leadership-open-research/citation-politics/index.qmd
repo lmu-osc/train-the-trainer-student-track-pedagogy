@@ -12,11 +12,11 @@ title: "Citation Politics"
 <iframe class="slide-deck" src="citation-politics-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-# About these materials
+## About these materials
 
 **Welcome!** This workshop aims to examine the concept of citational politics, its links to knowledge production and dissemination and learn to use some tools and practices for more conscientious citations. Across different sections, we will think about the *what* and the *why* of citations and **when** to use them, examine the *mechanisms* and *consequences* of citational inequities and learn how to **conduct a citational self-audit**, before wrapping up with a summary exercise. This workshop draws inspiration from Sauvé et al.'s (2025) [paper](#0) on citational politics.
 
-## Who are these materials for?
+### Who are these materials for?
 
 The target audience of this workshop is twofold:
 
@@ -24,11 +24,11 @@ The target audience of this workshop is twofold:
 
 -   **Educators** in **higher education** (e.g., universities, research institutes) or other teaching contexts aiming to **convey this topic to their learners** in a synchronous (in-person, virtual or hybrid) class-room setting. The slides can be directly presented in full screen below, with presenter and instructor notes providing guidance about the narrative of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint slides corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors.
 
-## Prerequisites
+### Prerequisites
 
 You will need access to a piece of your **own work** (a report, essay, journal article, blog post, presentation) containing a **bibliography** with **10 or more references**, preferably in **.bib** or **.txt** file format (this is needed for the [GBAT assessment](https://jlsumner.shinyapps.io/syllabustool/)).
 
-## Learning objectives
+### Learning objectives
 
 -   **Recognize** the social and political context of citations
 -   **Explain** why citational practices are not neutral
@@ -40,7 +40,7 @@ You will need access to a piece of your **own work** (a report, essay, journal a
 -   **Summarize** the key terms relating to citational politics (citations, citational politics, citational cliques)
 -   **Explain** how to conduct a self-audit of your citation practices
 
-## Export slides
+### Export slides
 
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
@@ -51,7 +51,7 @@ You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. N
   Download slides as PDF
 </a>
 
-# Contributors and licence details
+## Contributors and licence details
 
 **Creator**: Middleton, Sara (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}[0000-0001-5307-8029](https://orcid.org/0000-0001-5307-8029))
 

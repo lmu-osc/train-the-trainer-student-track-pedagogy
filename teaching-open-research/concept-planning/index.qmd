@@ -10,11 +10,11 @@ title: "Concept planning for Open Research events"
 <iframe class="slide-deck" src="concept-planning-slides.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-# About these materials
+## About these materials
 
 **Welcome!** This workshop is intended to provide future Open Research instructors practical skills for designing and delivering engaging teaching events on Open Research topics. Through a mix of theoretical elements and hands-on exercises, we will explore practical considerations for planning an Open Research event, whether that is a lecture, workshop, seminar or full course. We will then discover how to foster the learning success by intrinsically structuring your events so that learners have time to arrive and orient themselves, reactivate prior knowledge, get familiar and process new content and obtain feedback on their learning progress.In this, we will also learn how to boost motivation in your learners, methods to activate prior knowledge and how to provide constructive feedback. Whether you are new to teaching or looking to sharpen your approach, this session will provide you with practical foundations for creating structured, learner-centered teaching events that help bring Open Research closer to your learners.
 
-## Who are these materials for?
+### Who are these materials for?
 
 The target audience of this workshop is twofold
 
@@ -22,7 +22,7 @@ The target audience of this workshop is twofold
 
 - **Future or current Open Research instructors** in higher education (e.g., universities, colleges) who are interested or already engaging in bringing Open Research topics closer to your learners and want to sharpen their own didactic skills for effective teaching; or instructors aiming to *train others* in delivering high-quality Open Research Education. The slides can be directly presented in full screen below, with presenter and instructor notes providing detailed information about the content of the materials and valuable pedagogical tips how to convey the materials to your learners. You can also download the PowerPoint or pdf file corresponding to the materials below and adapt the materials to your learners. Make sure to give appropriate credit to the original authors. 
 
-## Prerequisites
+### Prerequisites
 
 <div style="font-size: 0.8em;">
 | Prerequisite   |  Description  | Where to find this  |
@@ -31,7 +31,7 @@ The target audience of this workshop is twofold
 | Core didactic principles | A firm grasp on important didactic tools and elements | [Download Link](https://quarto.org) |
 </div>
 
-## Learning objectives
+### Learning objectives
 
 At the end of this session, aspiring Open Research instructors will ...
 
@@ -40,7 +40,7 @@ At the end of this session, aspiring Open Research instructors will ...
 - **Apply** techniques to **enhance** motivation in your learners
 - **Understand** key elements of constructive feedback
 
-## Export slides
+### Export slides
 
 You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. Note that basic formatting will be applied for the PowerPoint (*in progress*).
 
@@ -53,7 +53,7 @@ You can export these slides as MS PowerPoint (.pptx) or pdf by clicking below. N
 
  <!-- https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates -->
  
-# Contributors and licence details
+## Contributors and licence details
 
 **Creator**: Von Grebmer zu Wolfsthurn, Sarah (![](images/ORCID-iD_icon_16x16.png){fig-alt="orcid logo"}
 [0000-0002-6413-3895](https://orcid.org/0000-0002-6413-3895))

@@ -1,39 +1,54 @@
 project:
-  type: website
-  output-dir: docs
+  type: tutorial-template
 
+repo-url: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
 website:
   title: "Train the Trainer: Student Track: Pedagogical Content"
-  page-navigation: true
+  page-footer:
+    border: false
+    center: © 2026 Sarah von Grebmer zu Wolfsthurn, Sara Middleton, Malika Ihle, Felix Schönbrodt. Published by LMU Open Science Center. Licensed under CC BY-SA 4.0.
+  repo-url: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
+
   navbar:
     right:
       - about.qmd
     left:
       - href: index.qmd
         text: Home
-      - href: help.qmd
-        text: Help
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy
+          - text: Report a Bug
+            href: https://github.com/lmu-osc/train-the-trainer-student-track-pedagogy/issues
+      - icon: house-heart
+        url: https://www.osc.lmu.de/
+
   sidebar:
     style: "docked"
-    collapse-level: 1
     contents:
+      - text: "Overview"
+        href: index.qmd
       - section: "Teaching Open Research"
         contents:
           - href: teaching-open-research/core-didactic-principles/index.qmd
           - href: teaching-open-research/concept-planning/index.qmd
           - href: teaching-open-research/creating-learning-environment/index.qmd
           - href: teaching-open-research/activation-methods/index.qmd
-
       - section: "Leadership in Open Research"
         contents:
           - href: leadership-open-research/citation-politics/index.qmd
 
 format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: assets/website-custom.css
-    toc: true
+  tutorial-template-html+tutorial:
+    css:
+      - footer/footer-style.css
     include-in-header:
       - file: matomo-analytics.html
+    include-after-body:
+      - file: footer/footer.html
+
+editor: source
+
+bibliography: references.bib
