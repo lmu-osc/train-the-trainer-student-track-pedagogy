@@ -753,7 +753,7 @@ Can you identify things that would help you with
 ### Think (2 min)
 - For yourself: Collect some thoughts for yourself.
 
-:::{.timer #think1 seconds=120 starton=interaction size=70% sound=true}
+:::{.timer #think1 seconds=120 starton=interaction size=40% sound=true}
 ::: 
 
 :::
@@ -763,7 +763,7 @@ Can you identify things that would help you with
 ### Pair (2 min)
 - Discuss your <br> thoughts with your neighbor.
 
-:::{.timer #pair1 seconds=120 starton=interaction size=70% sound=true}
+:::{.timer #pair1 seconds=120 starton=interaction size=40% sound=true}
 :::
 
 :::
@@ -773,7 +773,7 @@ Can you identify things that would help you with
 ### Share (2 min)
 - Share your thoughts with the larger <br> group.
 
-:::{.timer #share1 seconds=120 starton=interaction size=70% sound=true}
+:::{.timer #share1 seconds=120 starton=interaction size=40% sound=true}
 :::
 
 :::
