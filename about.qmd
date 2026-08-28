@@ -3,7 +3,7 @@ title: "About"
 date: 2026-08-28
 citation:
   type: "webpage"
-  title: "Pedagogical tools for teaching open research"
+  title: "Teaching and leading in Open Science"
   container-title: "LMU Open Science Center"
   url: https://lmu-osc.github.io/train-the-trainer-student-track-pedagogy/
   version: 0.0.1
