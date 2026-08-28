@@ -3,7 +3,6 @@ title: "Creating a positive learning environment"
 author: "Sarah von Grebmer zu Wolfsthurn"
 date: "today"
 date-format: "DD/MM/YYYY"
-draft: true
 format: 
   revealjs:
     css: ../../assets/slides-custom.css # looks for css file in root
