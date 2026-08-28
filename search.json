@@ -665,6 +665,300 @@
     ]
   },
   {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#licence",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#licence",
+    "title": "Creating a positive learning environment",
+    "section": "Licence",
+    "text": "Licence\n\n\n\n\n\nThis current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#contribution-statement",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#contribution-statement",
+    "title": "Creating a positive learning environment",
+    "section": "Contribution statement",
+    "text": "Contribution statement\n\nCreator: Von Grebmer zu Wolfsthurn, Sarah ( 0000-0002-6413-3895)\nReviewer: Middleton, Sara (0000-0001-5307-8029)\nConsultant: Ihle, Malika ( 0000-0002-3242-5981)\n\nPresenter Notes: These are the presenter notes. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter.\nInstructor Notes: There are also instructor notes. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.\nAccessibility Tips: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#prerequisites---edit",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#prerequisites---edit",
+    "title": "Creating a positive learning environment",
+    "section": "Prerequisites - EDIT",
+    "text": "Prerequisites - EDIT\n\n\n\n\n\n\nImportant\n\n\nBefore completing this session, please carefully read about the prerequisites.\n\n\n\n\n\n\n\nPrerequisite\nDescription\nLink/Where to find it\n\n\n\n\nBasic familiarity with Open Science concepts and practices\nExamples: Replication crisis, open access, R, version control, preregistration, etc.\nClick here to get familiar with Open Science first\n\n\nCore didactic principles\nA firm grasp on important didactic tools and elements\nDownload Link\n\n\nKnowledge about designing teaching events\nTools and strategies to create a learning experience to convey content and skills\nDownload Link\n\n\n\n\n\nPresenter Notes: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives If you are not yet familiar with these concepts, please see the previous session on “Core didactic principles” when teaching about Open Research or Open Science.\nInstructor Notes: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#questions-from-the-previous-session",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#questions-from-the-previous-session",
+    "title": "Creating a positive learning environment",
+    "section": "Questions from the previous session",
+    "text": "Questions from the previous session\n \n\nWhat are your questions from the previous session?\n\n\nPresenter Notes: What were your questions from the previous session? Instructor Notes: Instead of asking “Do you have any questions”, work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask “What are your questions”."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#key-terms-and-definitions",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#key-terms-and-definitions",
+    "title": "Creating a positive learning environment",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nLearning environment:\nActive listening:\nGrowth mindset:\nInclusive language:\n\n\nPresenter Notes: Here are some key concepts we will be discussing throughout the session. Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the plenum. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.\nInstructor Notes: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#key-terms-and-definitions-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#key-terms-and-definitions-1",
+    "title": "Creating a positive learning environment",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nLearning environment: Comprises “the psychological, cultural, and physical setting in which learning occurs and in which experiences and expectations are co-created among its participants” (Rusticus et al., 2023)\nActive listening: “The deliberate process of listening with attention and intention to understand another person’s message, while showing that understanding through responses such as clarification, reflection, and feedback.” (Carnegie Mellon University)\nGrowth mindset: “The ability to reframe perceived failures as opportunities to learn and grow” (Dweck, 2006)\nInclusive language: Language that acknowledges the diversity of people, avoids stereotypes, discrimination and assumptions and supports equal opportunities (United Nations)"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#covered-in-this-session",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#covered-in-this-session",
+    "title": "Creating a positive learning environment",
+    "section": "Covered in this session",
+    "text": "Covered in this session\n\nWhat is a positive learning environment?\nBehaviors and attitudes towards your audience\nFostering a growth mindset\nEstablishing norms for interactions\nUniversal Design for Learning (UDL)\nInclusive language in your Open Research (OR) event\nTaking perspective and being a role model in your OR event\n\n\nPresenter Notes: This is a little roadmap to what we will be discussing today. All of it falls under the framework of “What is a positive learning environment, what can I do to create one and what does it mean for my Open Research event?\n\nWhat is a positive learning environment?\nBehaviors and attitudes towards your audience\nFostering a growth mindset\nEstablishing norms for interactions\nUniversal Design for Learning (UDL)\nInclusive language\nPerspective-taking and being a role model"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#learning-objectives",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#learning-objectives",
+    "title": "Creating a positive learning environment",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nAt the end of this session, you will be able to:\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts \n\n\nPresenter Notes: In this session, we will explore how to create and maintain a positive learning environment in Open Research training.\nBy the end of the session, you will be able to identify key elements that contribute to a supportive learning environment, reflect on how your own communication and behavior influence learners, and recognize challenges that may affect participation and engagement."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#before-we-start-survey-time",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#before-we-start-survey-time",
+    "title": "Creating a positive learning environment",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\n\nScan the QR code and select the item Intro-Survey from the list.\n\nPresenter Notes: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.\nLink to survey: https://partici.fi/47416756"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#before-we-start-survey-time-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#before-we-start-survey-time-1",
+    "title": "Creating a positive learning environment",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\n\nQuestion 1Question 2Question 3\n\n\nWhat is your experience with actively creating a positive learning environment for your learners in Open Open Research events?\n\nI have never organized an Open Research event, so this does not apply\nI am not familiar with the concept of a positive learning environment yet\nI am familiar with the concept of a positive learning environment, but have not actively taken any steps towards it yet\nI am familiar with the concept of a positive learning environment and have actively taken steps towards it\nCreating a positive learning environment for your learners is all I think about for my Open Research events\n\n\n\nWhat is your level of familiarity with Universal Design for Learning (UDL)?\n\nI have not heard of it yet\nI have heard of it but have never actively engaged with it.\nI have a basic understanding and use it sometimes in my teaching and learner interactions.\nI am very familiar and use it extensively in my teaching and learner interactions.\n\n\n\nWhich of the following elements of creating a positive learning environment do you feel most confident about in your teaching?\n\nUsing verbal strategies\nUsing non-verbal strategies\nFostering a growth mindset\nEstablishing norms for interaction\nUsing inclusive language\nNone of the above"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#discussion-of-survey-results",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#discussion-of-survey-results",
+    "title": "Creating a positive learning environment",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-learning-environment",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-learning-environment",
+    "title": "Creating a positive learning environment",
+    "section": "The “learning environment”",
+    "text": "The “learning environment”\n\nScan the QR code and select the item What does “learning environment” mean to you? from the list.\n\nPresenter Notes: First question to you as the audience: What does the term learning environment mean to you? What thoughts or concepts come to mind? Take 5 minutes to collect some concepts and thoughts that come to mind with your neighbor. Use the QR code.\nInstructor Notes: Collect thoughts with an interactive tool, such as a wordcloud or similar (e.g., with the software Particify). Highlight terms that were said more often by your learners, and also some that were mentioned only once."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-learning-environment-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-learning-environment-1",
+    "title": "Creating a positive learning environment",
+    "section": "The “learning environment”",
+    "text": "The “learning environment”\n\n\n“The learning environment comprises the psychological, social, cultural, and physical setting in which learning occurs and in which experiences and expectations are co-created among its participants.”\n“[…] is the setting and conditions […] which influences learners engagement and success.”\n\n\nSee Rusticus et al. (2023). Adapted from https://www.oecd.org/en/topics/policy-issues/learning-environment.html.\n\n\nPresenter Notes: When we talk about the learning environment, we mean much more than the physical classroom or the online platform. It includes the psychological, social, cultural, and physical conditions in which learning takes place.\nThese different aspects shape how people experience learning. For example, whether learners feel respected, included, supported, and able to participate can influence their engagement with the course.\nThe learning environment is also something that everyone helps create. Learners, instructors, and others involved all contribute through their interactions, expectations, and behaviors.\nResearch suggests that a positive learning environment can support learner engagement and success. This is why it is useful to think about not only what we teach, but also the conditions in which learning happens.\nInstructor Notes: Connect these “official” definitions with what learners had already mentioned during the brainstorming slide."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#why-the-learning-environment-matters",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#why-the-learning-environment-matters",
+    "title": "Creating a positive learning environment",
+    "section": "Why the learning environment matters",
+    "text": "Why the learning environment matters\n\n\n\n\n\n\nInfluences motivation\nInfluences performance\nInfluences emotional well-being\n\n\n\n\nRusticus et al. (2023)\n\n\nPresenter Notes: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners’ motivation to engage with a topic, seminar or course and their overall performance.\nThe learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.\nIts impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.\nIn brief: it matters where and how you teach your learners, perhaps more than you might think."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#why-the-learning-environment-matters-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#why-the-learning-environment-matters-1",
+    "title": "Creating a positive learning environment",
+    "section": "Why the learning environment matters",
+    "text": "Why the learning environment matters\n\n\n\n\n\n\nInfluences motivation\nInfluences performance\nInfluences emotional well-being\n\n\nAll linked to long-term knowledge retention and increased job competencies.\n\n\nRusticus et al. (2023)\n\n\nPresenter Notes: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners’ motivation to engage with a topic, seminar or course and their overall performance.\nThe learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.\nIts impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.\nIn brief: it matters where and how you teach your learners, perhaps more than you might think."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-positive-learning-environment",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-positive-learning-environment",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! Positive learning environment",
+    "text": "Your turn! Positive learning environment\n\n\nActivity:  What is a positive learning environment?\n\nGo to Section 1 of the Open Science Workshop workbook and navigate to exercise C1. Take 5 minutes for this exercise.\n\nPresenter Notes: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference in the workbook. Keep this in mind as we go along.\nInstructor Notes: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example three dimensions of Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes)."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#verbal-strategies",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#verbal-strategies",
+    "title": "Creating a positive learning environment",
+    "section": "Verbal strategies",
+    "text": "Verbal strategies\n\n\n\n\n\n\n\n\n\nSmall-talk (yes, it is important)\nCall learners by their name\nValidate and show appreciation\nAccept silences\nPractice active listening\n\n\n\n\n\n\n\n\nNote\n\n\nConsider potential language barriers or cultural differences in verbal communication, e.g., technical terms, high vs. low context cultures, feedback styles.\n\n\n\n\nChat dialogue icon: OpenClipart / FreeSVG.org — CC0 Public Domain.\n\n\nPresenter Notes: Small, intentional actions can help create a positive learning environment.\nStarting with a little small talk before the event can help build rapport and make learners feel more comfortable participating.\nUsing learners’ names acknowledges them as individuals and can help foster a sense of belonging.\nValidating contributions and expressing appreciation encourages participation, even when responses are incomplete or lead to further discussion.\nIt is also helpful to be comfortable with silence. Giving learners time to think can lead to more thoughtful responses and allows different communication styles to be accommodated.\nFinally, practicing active listening, a very valuable skill that is also quite effective outside the teaching context."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-skill-of-active-listening",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#the-skill-of-active-listening",
+    "title": "Creating a positive learning environment",
+    "section": "The skill of active listening",
+    "text": "The skill of active listening\n\n““…listening with attention and intention to understand another person’s message, while showing that understanding through responses such as clarification, reflection, and feedback.”\n\n\n\n\n\n\nParaphrase what audience members express\nMake explicit connections between statements\nRefrain from premature judgment\nAsk for clarification\nListen fully before responding\n\n\n\nSource: UC Berkely ExceEd Program\n\n\nPresenter Notes: Active listening is a skill that helps learners feel heard and supports meaningful discussion.\nParaphrasing what someone has said helps confirm your understanding and shows that you are listening carefully.\nMaking connections between different contributions can help learners see relationships between ideas and build on each other’s thinking.\nAvoid rushing to evaluate or judge responses. Giving ideas space to develop can encourage more open participation.\nWhen something is unclear, ask for clarification rather than making assumptions. This helps ensure shared understanding.\nFinally, listen fully before responding. Allowing learners to finish their thoughts demonstrates respect and leads to more thoughtful conversations.\nInstructor Notes: Highlight active listening as a transferrable skill."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#body-language",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#body-language",
+    "title": "Creating a positive learning environment",
+    "section": "Body language",
+    "text": "Body language\n\n\n\nMaintain eye contact with learners\nUse your body for communication  (shake head, use hands)\n\n\n\n\n\nAstronaut Samantha Cristoforetti. Milan, Italy. Photo by Pier Marco Tacca/Getty Images.\n\n\n\n\n\n\n\nNote\n\n\nConsider cultural differences in body language, e.g., perception of eye contact and body gestures.\n\n\n\n\nPresenter Notes: Body language can reinforce verbal communication and help create a welcoming learning environment.\nMaintaining appropriate eye contact can show that you are attentive and engaged. At the same time, it’s helpful to be mindful that comfort with eye contact varies across individuals and cultures.\nThe meaning and interpretation of eye contact, gestures, and personal space can vary, so being aware of these differences can help support respectful and inclusive communication. For example, in many Western cultures like Germany, Candada etc. direct eye contact is a sign of confidence and engagement, whereas in other cultures it could be considered confrontational in parts of Japan and South Korea"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-practice-your-active-listening",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-practice-your-active-listening",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn: Practice your active listening",
+    "text": "Your turn: Practice your active listening\n\nPractice your active listening skills and observe your body language while your peer is answering one of the questions below.  \nForm groups of three. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C2. Follow the instructions. Take 6 minutes for this exercise.\n\n\nPresenter Notes: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner picks one of the questions, then tells the instructor about their thoughts on the question for approx. 2 minutes. The observer focuses on body language and verbal communication. At the end of the two minutes, discuss as the group. The learner goes first, and describes their experience with the body language and verbal strategies of the instructor. The observer shares their insights, and the instructor shares how the exercise was for them.\nInstructor Notes: Leave about 5 - 7 minutes for this exercise."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#attitudes-towards-your-audience-methods",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#attitudes-towards-your-audience-methods",
+    "title": "Creating a positive learning environment",
+    "section": "Attitudes towards your audience: methods",
+    "text": "Attitudes towards your audience: methods\n\n\n\nMotivate audience to get involved as early as possible\nHave introductory activities\nUse different visualization methods to encourage different ways of participation (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions…)\nAdapt to your audience: pace, examples, level of difficulty …\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nConsider neurodiversity when designing engagement activities and visualizations: color choices, sensory processing, mental imagery…\n\n\n\n\n© 2018 Cristina Simmons\n\n\nPresenter Notes: Besides verbal strategies and using your body language, you can also create a positive learning environment through different teaching methods. For example, introductory activities can help learners get to know the topic, the instructor, and each other. They can also create an opportunity for everyone to become involved early on.\nEncouraging participation at the start of a session can help establish an environment where learners feel comfortable contributing and sharing ideas.\nUsing different visualization methods and tools can support different ways of engaging with information and can make learning more accessible. With this, you can encourage different ways of participation (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions…)\nFinally, adapting to your audience means being responsive to their needs, experiences, backgrounds, and level of understanding. This may involve adjusting examples, explanations, pacing, or activities to support effective learning.\nNote: When designing activities and visual materials, consider that learners process information in different ways. Use clear visuals, thoughtful color choices, and varied ways of engaging with content to support different sensory and cognitive needs. For example, avoid relying only on color to communicate meaning, consider sensory load in activities, and provide enough structure for learners to process information in their own way.\nInstructor Notes: Refer back to what was collected in previous exercises."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-collect-introductory-activities",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-collect-introductory-activities",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! Collect introductory activities",
+    "text": "Your turn! Collect introductory activities\n\n\nCollect introductory activities that you use in your teaching on Open Research or saw in other Open Research training you attended and describe what effect you think they had on you or the learners.\n\n \nWork in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C3. Follow the instructions. Take 6 minutes for this exercise.\n\nPresenter Notes: With these examples for methods in mind, collect some introductory activities that you use in your teaching on Open Research or have seen in other Open Research teaching events you attended\nInstructor Notes: Allow approx. 6 minutes for this exercise, apply think-pair-share, two minutes each. Discuss as a group in the “share” phase."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#fostering-a-growth-mindset",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#fostering-a-growth-mindset",
+    "title": "Creating a positive learning environment",
+    "section": "Fostering a growth mindset",
+    "text": "Fostering a growth mindset\n\nGrowth mindset = “the ability to reframe perceived failures as opportunities to learn and grow” (Dweck, 2006)\n\n\n\n\n\n\n\n\n\n\nPositive error framing\nPraise effort and improvement, not performance or ability\nProvide opportunities for self-assessment\nPresent multiple possible approaches\nHelp your learners set realistic expectations\n\n\n\nAdapted from Laura Carter: https://zenodo.org/records/18905547  https://icons8.com/icons\n\n\nPresenter Notes: The idea of a growth mindset is that abilities are not simply fixed, but can develop through learning, effort, and effective strategies. The aim is therefore not to avoid errors or failure, but to treat them as useful information for learning and improvement.\nIn practice, this means framing errors constructively and giving feedback that focuses on the learning process. Rather than praising ability or intelligence, we can acknowledge meaningful effort, effective strategies, and improvement. Importantly, effort alone is not enough: when a strategy is not working, learners should be encouraged to try a different approach or seek additional support.\nSelf-assessment can help learners reflect on what they understand, where difficulties remain, and what they might try next. Providing several possible approaches also makes clear that there is often more than one way to solve a problem.\nFinally, realistic expectations are important. A growth mindset does not mean assuming that everyone can achieve anything immediately. It means recognizing that progress is possible while being realistic about the time, practice, strategies, and support that learning may require."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#establish-norms-for-interaction",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#establish-norms-for-interaction",
+    "title": "Creating a positive learning environment",
+    "section": "Establish norms for interaction",
+    "text": "Establish norms for interaction\nQuestion: Which learning interactions will be common in your event/course? (e.g., large group discussions, work in pairs..)\n\n\n\nBased on this: establish rules for interaction  (or a Code of Conduct)\nExamples:\n\nTake group work seriously\nListen respectfully, do not interrupt\nRespect different perspectives and experiences with Open Research, critique ideas, not people\nUse inclusive language and try to avoid assumptions about others\n…\n\n\n\n\n\n\nhttps://crlt.umich.edu/examples-discussion-guidelines  https://zenodo.org/records/18905547\n\n\nPresenter Notes: Next, we want to discuss norms for interacting. First, I need to think about what kind of interactions I am expecting in my class. More group work, more discussions, interactive things etc. Based on this, instructors could formulate a code of conduct.\nExamples:\n\nTake pair work or small group work seriously. Remember that your peers’ learning is partly dependent upon your engagement.\nListen respectfully. Don’t interrupt, turn to technology, or engage in private conversations while others are speaking. Use attentive, courteous body language. Comments that you make (whether asking for clarification, sharing critiques, or expanding on a point) should reflect that you have paid attention to the previous speakers’ comments.\nRespect different perspectives and experiences. Open Research involves different disciplines, communities, and research traditions, as well as different views on “how research is done”.\nUsing inclusive language means choosing words and behaviors that recognize and respect the diversity of learners and avoid assumptions about people’s identities, experiences, or abilities. Example non-inclusive language: “you guys”, “everyone knows that”"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#universal-design-for-learning",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#universal-design-for-learning",
+    "title": "Creating a positive learning environment",
+    "section": "Universal design for learning",
+    "text": "Universal design for learning\n\n\n\nFramework by CAST to improve and optimize teaching and learning for all people based on scientific insights in how humans learn\nAddresses diversity in learning in three categories:\n\nEngagement (the why of learning)\nRepresentation (the what of learning)\nAction & Expression (the how of learning)\n\n\n\n\n\n\nhttps://www.carleton.edu/its/blog/how-you-can-implement-universal-design-for-learning-udl-in-small-steps/\n\n\nPresenter Notes: Universal Design for Learning, or UDL, is a framework developed by CAST that aims to improve and optimize teaching and learning by considering the diversity of learners from the beginning of the design process.\nRather than creating one approach and adapting it later for individual needs, UDL encourages educators to provide flexible ways for learners to engage with content, access information, and demonstrate their learning.\nThe framework is based on research about how people learn and focuses on three key areas.\nEngagement refers to the why of learning—how we motivate learners, support their interests, and encourage active participation.\nRepresentation refers to the what of learning—how information is presented and whether learners have different ways to access and understand content.\nAction and Expression refers to the how of learning—how learners can demonstrate their knowledge and skills through different methods.\nWe will not go into more detail here, but know that this is a framework that can help you design your events and the content for a wider range of learners.\nInstructor Notes: Make an explicit link between norms of interaction and UDL for a recognition effect, Provide a brief overview about UDL and then refer to the resources."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#expression-inclusive-language",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#expression-inclusive-language",
+    "title": "Creating a positive learning environment",
+    "section": "Expression: Inclusive language",
+    "text": "Expression: Inclusive language\n\n\n\n\n= language that acknowledges the diversity of people, avoids stereotypes, discrimination and assumptions and supports equal opportunities (United Nations)\n\n\n\n\n\n\nhttps://www.un.org/en/gender-inclusive-language/  https://icons8.com/icons\n\n\nPresenter Notes: Inclusive language is about choosing words and communication styles that recognize and respect the diversity of people.\nIt means avoiding stereotypes, discrimination, and assumptions about learners’ identities, backgrounds, abilities, experiences, or knowledge.\nIn a learning environment, inclusive language helps create a sense of belonging and supports equal opportunities for everyone to participate and contribute. As instructors, we can choose the language we use during our teaching."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#language-in-your-open-research-event",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#language-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Language in your Open Research event",
+    "text": "Language in your Open Research event\n\nUse respectful and person-centered language\n\n“Everyone”, “all” etc. instead of “You guys”\n\nExplain technical Open Research terms, do not assume prior knowledge\nUse examples from different research fields, not just one domain\nProvide multiple approaches for a problem\n\n“One approach is..” instead of “Of course you would do it this way!”\n\nAvoid idioms, slang, or culture-specific jokes\n\n“Share your research output across different trusted platforms.” instead of “Don’t put all eggs into one basket!”\n\n\n\nPhan et al. (2025)\n\n\nPresenter Notes: Language in your Open Research event is of highest importance. As we have seen, language is a massive part of the learning environment and therefore of the learning experience and process for your learners. It influences how learners feel, but also how learners engage and participate. Here are some ideas for language in your Open Research event:\n\nFirst, use respectful and person-centred language that recognizes participants as individuals and avoids reducing people to a single characteristic. Small changes, such as using “everyone” instead of “you guys,” can make communication more inclusive. At the same time, be mindful and respect people’s preferences, normalize asking how to correctly pronounce someones name and be open to updating your language, for example pronouns).\nAvoid assuming that participants share the same level of knowledge or experience. Explain technical Open Research concepts clearly and create opportunities for learners from different backgrounds to engage.\nWhen presenting examples, include perspectives from different research fields to show that Open Research practices can apply across disciplines.\nIt is also important to acknowledge that there may be multiple valid ways to approach a challenge. Using language such as “one approach is…” encourages exploration rather than suggesting there is only one correct solution.\nFinally, avoid idioms, slang, or culture-specific references that may not be understood by everyone. Clear and accessible language helps ensure that all participants can fully engage with the content.\n\nInstructor Notes: Cocnrete examples connected to Open Research:\n\nLess inclusive: Everyone should already have Git installed. If not, you’re behind.\nMore inclusive: We will use Git during this session. If you have not installed it yet or run into issues, we will provide support to get everyone on the same page."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#taking-perspectives-in-your-open-research-event",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#taking-perspectives-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Taking perspectives in your Open Research event",
+    "text": "Taking perspectives in your Open Research event\nDo not assume. Recognize that learners come to Open Research from different:\n\nperspectives\ndisciplines\ninstitutions\nresources\naccess to (research) infrastructure\n…\n\n\nPresenter Notes: It is very important to keep in mind that Learners come to Open Research with different backgrounds and experiences:\n\nPerspectives: People may have different views on Open Research For example, one researcher may see preprints as a way to share findings quickly, while another may have concerns about sharing work before peer review.\nDisciplines: Open practices vary across fields. For example, open data sharing may be common in astronomy, while researchers in clinical studies may need to consider participant privacy and consent.\nInstitutions: Researchers may have different levels of institutional support. For example, one university may offer Open Access funding and training, while another may provide fewer resources.\nResources: Time, funding, and support can influence participation. For example, a large research centre may have dedicated data managers, while an independent researcher may manage these tasks alone.\nAccess to infrastructure: Researchers may have different access to tools and platforms. For example, some may use institutional repositories, while others rely on public tools to share their work."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#be-a-role-model-in-your-open-research-event",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#be-a-role-model-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Be a role model in your Open Research event",
+    "text": "Be a role model in your Open Research event\n\nAdd anecdotes about your own experiences with Open Research tools: “To get this to work, I had to…”\nShow your learners your workflow, e.g., your GitHub repository or folder structure\nShare mistakes or uncertainties you encountered in your own workflow: “I got my R plot wrong at first because..”\n\n\nPresenter Notes: One very powerful strategy to contribute to a positive learning environment in Open Research is to be a role model. For example:\n\nAdd anecdotes: Briefly share examples from your own use of Open Science tools, including what worked well and what you learned along the way.\nShow your workflows: Demonstrating your own GitHub repository, file organization, or documentation practices can help learners see how Open Research is applied in practice.\nShare uncertainties and limitations: Being open about challenges in your workflow shows that Open Research is an ongoing process and encourages learners to reflect on their own practices.\n\nInstructor Notes: Refer back to positive error framing when discussing uncertainties and challenges in your Open Science workflows."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-challenges-to-a-positive-learning-environment",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn-challenges-to-a-positive-learning-environment",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! Challenges to a positive learning environment",
+    "text": "Your turn! Challenges to a positive learning environment\n\n\nWhat do you think are potential challenges to a positive learning environment during an Open Research training event? How would you solve them? (e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..)\n\nWork in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C4. Follow the instructions. Take 10 minutes for this exercise.\n\nPresenter Notes: What do you think are potential challenges to a positive learning environment during an Open Research training event? How would you solve them?, e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..).\nIn pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.\nInstructor Notes: Plan about 10 minutes for this activity."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#take-home-messages",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#take-home-messages",
+    "title": "Creating a positive learning environment",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\nYou can intentionally create a positive learning environment through (body) language, active listening, teaching methods and many more strategies\nHow you teach is as important as what you teach: Your actions and attitudes as an instructor have a direct impact on the learning process and success\nModel the Open Science values you teach and demonstrate openness, transparency in your own work\nMake mistakes and be open about them, too!\n\n\nPresenter Notes: To wrap up this session, here are some key take-home messages - if you do not remember anything else, this is what I would like for you to take away from today.\nVery important: a positive learning environment is something you can actively create as the instructor. You have power and control over this.\nHow you teach matters just as much as the content you deliver. Your behavior, attitudes, and choices as an instructor influence how learners engage and participate.\nAs Open Research trainers, model the values you promote by demonstrating openness, transparency, and a willingness to learn.\nFinally, remember that making mistakes is part of the learning process. Make mistakes so that learners know that they are normal, and can observe you solving them.\nThese aspects will be discussed further in the sessions on leadership in Open Research."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#take-home-messages-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#take-home-messages-1",
+    "title": "Creating a positive learning environment",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n}"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#learning-objectives---recap",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#learning-objectives---recap",
+    "title": "Creating a positive learning environment",
+    "section": "Learning objectives - Recap",
+    "text": "Learning objectives - Recap\nAt the end of this session, you are now able to:\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language ✅\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement ✅\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts ✅ \n\n\nPresenter Notes: This where we are at now. To recap, you have now explored the key elements of a positive learning environment and how your communication, behavior, and attitude shape learner experiences.\nYou have analyzed potential challenges in Open Research and Open Science training contexts and practiced applying strategies such as active listening and inclusive language to support engagement and participation.\nWhat are your questions?"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#to-conclude-survey-time",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#to-conclude-survey-time",
+    "title": "Creating a positive learning environment",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\n\nScan the QR code and select the item End-Survey from the list.\n\nPresenter Notes: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.\nLink to survey: https://partici.fi/47416756"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#to-conclude-survey-time-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#to-conclude-survey-time-1",
+    "title": "Creating a positive learning environment",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\n\nQuestion 1Question 2\n\n\nOn a scale from 1 to 5, what is your level of confidence with actively creating a positive learning environment for your learners in Open Research events? (1 = not confident at all, 5 = extremely confident, let’s go)\n\n5\n4\n3\n2\n1\n\n\n\nWhich of the following elements of creating a positive learning environment do you feel most confident about in your teaching at this point?\n\nUsing verbal strategies\nUsing non-verbal strategies\nFostering a growth mindset\nEstablishing norms for interaction\nUsing inclusive language\nNone of the above"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#discussion-of-survey-results-1",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#discussion-of-survey-results-1",
+    "title": "Creating a positive learning environment",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#references",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#references",
+    "title": "Creating a positive learning environment",
+    "section": "References",
+    "text": "References\n\n\nDweck, C. S. (2006). Mindset: The new psychology of success. Random House Publishing Group.\n\n\nPhan, J. M., Middleton, S. L., Azevedo, F., Iley, B. J., Grose-Hodge, M., Tyler, S. L., Kapp, S. K., Yeung, S. K., Shaw, J. J., Hartmann, H., & Forrt. (2025). Bridging neurodiversity and open scholarship: How shared values can guide best practices for research integrity, social justice, and principled education. Journal of Social Issues, 81(4), e70035. https://doi.org/10.1111/josi.70035\n\n\nRusticus, S. A., Pashootan, T., & Mah, A. (2023). What are the key elements of a positive learning environment? Perspectives from students and faculty. Learning Environments Research, 26(1), 161–175. https://doi.org/10.1007/s10984-022-09410-4"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#additional-references",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#additional-references",
+    "title": "Creating a positive learning environment",
+    "section": "Additional references",
+    "text": "Additional references\n\nAntosch-Bardohn, J. (2018): Nicht-intentionale Lernprozesse im Alltag von Studierenden. Logos Verlag.\nAntosch-Bardohn, J., Beege, B., & Primus, N. (2019). In die Lehre starten. UTB GmbH.\nAntosch-Bardohn, J. (2019): “Für mein Thema brennen die Studis” - Lernmotivation in der Hochschullehre. In: Neues Handbuch Hochschullehre. Nummer 89, S. 1-18.\nHofmann, E. & Löhle, M. (2004). Erfolgreich lernen. Hogrefe Verlag.\nKergel, D. & Heidkamp-Kergel, B. (2020). E-Learning, EDidaktik und digitales Lernen. Springer VS."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#additional-resources",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#additional-resources",
+    "title": "Creating a positive learning environment",
+    "section": "Additional resources",
+    "text": "Additional resources\nActive listening:\n\nhttps://www.ncbi.nlm.nih.gov/books/NBK442015/\nhttps://executive.berkeley.edu/thought-leadership/blog/art-active-listening\nhttps://www.cmu.edu/student-affairs/civility/resources/active-listening.html"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#interactive-teaching-methods",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#interactive-teaching-methods",
+    "title": "Creating a positive learning environment",
+    "section": "Interactive teaching methods",
+    "text": "Interactive teaching methods\ntransition to activation method"
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#your-turn",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn!",
+    "text": "Your turn!\nTake 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in “class”, with the rest acting as audience.\n\nInteractively ask participants to provide feedback on the selected method, delivery and improvement points."
+  },
+  {
+    "objectID": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#todo-sarah",
+    "href": "teaching-open-research/creating-learning-environment/creating-learning-environment-slides.html#todo-sarah",
+    "title": "Creating a positive learning environment",
+    "section": "TODO Sarah",
+    "text": "TODO Sarah\n\nSort out alt text for all figures\nCHECKKK QR CODES!\nChange CSS to include level 3 headers\nSort out the exercises and highlight links to workbook.\nSort out all presenter notes\nCreate zoom messages for activities\nCheck slide size content in full screen"
+  },
+  {
     "objectID": "teaching-open-research/core-didactic-principles/core-didactic-principles-slides.html#license",
     "href": "teaching-open-research/core-didactic-principles/core-didactic-principles-slides.html#license",
     "title": "Teaching open research: Core didactic principles",
@@ -1036,6 +1330,601 @@
       "Teaching Open Research",
       "Creating a positive learning environment"
     ]
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#licence",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#licence",
+    "title": "Concept planning for Open Research events",
+    "section": "Licence",
+    "text": "Licence\n\n\n\n\n\nThis current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#contribution-statement",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#contribution-statement",
+    "title": "Concept planning for Open Research events",
+    "section": "Contribution statement",
+    "text": "Contribution statement\n\nCreator: Von Grebmer zu Wolfsthurn, Sarah ( 0000-0002-6413-3895)\nReviewer: Middleton, Sara (0000-0001-5307-8029)\nConsultant: Ihle, Malika ( 0000-0002-3242-5981)\n\nPresenter Notes: These are the presenter notes. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter.\nInstructor Notes: There are also instructor notes. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.\nAccessibility Tips: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#prerequisites---edit",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#prerequisites---edit",
+    "title": "Concept planning for Open Research events",
+    "section": "Prerequisites - EDIT",
+    "text": "Prerequisites - EDIT\n\n\n\n\n\n\nImportant\n\n\nBefore completing this submodule, please carefully read about the prerequisites.\n\n\n\n\n\n\n\nPrerequisite\nDescription\nLink/Where to find it\n\n\n\n\nBasic familiarity with Open Science concepts and practices\nExamples: Replication crisis, open access, R, version control, preregistration, etc.\nClick here to get familiar with Open Science first\n\n\nCore didactic principles\nA firm grasp on didactic tools\nADD Link\n\n\n\n\n\nPresenter Notes: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives. If you are not yet familiar with these concepts, please see the previous session on “Core didactic principles” when teaching about Open Research.\nInstructor Notes: Before you get started on this submodule with your audience, you need to ensure that the audience fulfills these criteria."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#questions-from-previous-submodule",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#questions-from-previous-submodule",
+    "title": "Concept planning for Open Research events",
+    "section": "Questions from previous submodule",
+    "text": "Questions from previous submodule\n \n\nWhat are your questions from the previous session?\n\n\nPresenter Notes: What are your questions from the previous session?\nInstructor Notes: Instead of asking “Do you have any questions”, work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask “What are your questions”."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#key-terms-and-definitions",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#key-terms-and-definitions",
+    "title": "Concept planning for Open Research events",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nARIPE+ scheme:\nPositive error framing:\nError patterns in the learning process:\nConstructive feedback:\n\n\nPresenter Notes: Here are some key concepts we will be discussing throughout the session. You are not meant to be familiar with these concepts at this point, but this serves for you as an overview after we have explore each term in more detail. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.\nInstructor Notes: Idea for interactive activity: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise. Presenter notes for activity:: Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the larger group. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#key-terms-and-definitions-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#key-terms-and-definitions-1",
+    "title": "Concept planning for Open Research events",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nARIPE+ scheme: A didactic framework for planning competency-based instruction that structures learning in five phases.\nPositive error framing: A didactic approach that views mistakes as learning opportunities and encourages learners to analyze their errors to boost understanding, skills and confidence.\nError patterns in the learning process: Systematic mistakes rather than random failure, critical indicators for how learners think and where the misconceptions lie\nConstructive feedback: Information given to help someone improve their performance, skills, or behavior in a supportive and actionable way through describing observable behavior and offering next steps in a respectful way\n\n\nPresenter Notes: First, the ARIPE+ scheme by Städeli (2013) is a didactic framework that helps educators systematically plan learning experiences. It structures instruction into five phases, guiding learners from initial engagement and exploration through to application, feedback processes and reflection.\nSecond, positive error framing refers to an educational mindset that treats mistakes as valuable learning opportunities. Instead of viewing errors as signs of failure, learners are encouraged to examine and understand them. This process helps deepen conceptual understanding, develop skills, and build confidence by creating a learning environment where experimentation and reflection are welcomed.\nNext, error patterns are recurring and systematic mistakes that occur during learning. Unlike random errors, these patterns provide important insights into learners’ thinking processes. By identifying and analyzing error patterns, educators can uncover underlying misconceptions and adapt instruction to address specific learning needs more effectively.\nFinally, constructive feedback is information given to help someone improve their performance, skills, or behavior in a supportive and actionable way through describing observable behavior and offering next steps in a respectful way.\nInstructor Notes: If you do the think-pair-share exercice the slide before, skip this slide, this is for learners to come back to these concepts in their own time."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#covered-in-this-session",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#covered-in-this-session",
+    "title": "Concept planning for Open Research events",
+    "section": "Covered in this session",
+    "text": "Covered in this session\n\nPractical and logistical considerations when organizing an Open Research (OR) event\nDesigning and structuring the event\n\nARIPE+ scheme\nFostering motivation\nAssessing prior/existing knowledge in your learners\nProviding useful feedback\n\nTips for a successful OR event\n\n\nPresenter Notes: This session focuses on both the practical and pedagogical aspects of organizing and delivering an Open Research event.\nPresenter Notes: This session covers both the practical and pedagogical aspects of organizing an Open Research event.\nWe will begin with the practical and logistical considerations, including what to think about when planning, organizing, and delivering an OR event.\nWe will then focus on designing and structuring the event. We will introduce the ARIPE+ scheme as a framework for structuring the content of an OR event, and consider how to foster learner motivation and active participation to help with the learning process. We will also look at ways to assess learners’ prior or existing knowledge, so that activities can be adapted to their needs, and discuss how to provide useful, timely, and constructive feedback.\nFinally, we will go over some tips on how to make your Open Research even successful."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#learning-objectives",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#learning-objectives",
+    "title": "Concept planning for Open Research events",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nAt the end of this session, you will be able to:\n\nConsider practical and logistical challenges of organizing an Open Research event\nDesign an Open Research event according to the five phases of the ARIPE+ scheme (Städeli et al., 2013) to facilitate the learning process\nApply techniques to enhance motivation in your learners\nUnderstand key elements of constructive feedback\n\n\nPresenter Notes: In this session, there are several learning objectives. You as the learners will be able to:\n\nConsider the practical and logistical challenges involved in organizing an Open Research event.\nDesign an Open Research event using the five phases of the ARIPE+ scheme (Städeli et al., 2013) to support effective learning.\nApply techniques that enhance learner motivation and engagement.\nUnderstand the key principles of constructive feedback and how to apply them effectively."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#before-we-start-survey-time",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#before-we-start-survey-time",
+    "title": "Concept planning for Open Research events",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\n\nScan the QR code and select the item Intro-Survey from the list.\n\nPresenter Notes: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.\nLink to survey: https://partici.fi/04963182"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#before-we-start-survey-time-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#before-we-start-survey-time-1",
+    "title": "Concept planning for Open Research events",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\n\nQuestion 1Question 2Question 3\n\n\nWhat is your level of experience with organizing Open Research events (e.g., a workshop, a seminar, lecture, lecture series..)?\n\nI have never organized an Open Research event\nI have organised 1-2 Open Research events\nI have organized 3-10 Open Research events\nI regularly organize Open Research events\nOrganizing Open Research events is all I do because it is my (literal) job\n\n\n\nWhat is your level of familiarity with the ARIPE+ scheme?\n\nI have never heard of it before.\nI have heard of it but have never worked with it.\nI have basic understanding and experience with it.\nI am very familiar and have worked with it extensively.\n\n\n\nWhich of the following pedagogical elements do you feel most confident about in your teaching? (Select all that apply)\n\nProbing and boosting motivation in your learners\nFormulating and communicating learning objectives for your event\nConceptualizing and communicating the bigger vision of the event\nReactivating prior knowledge in your learners\nProviding constructive feedback\nNone of the above\n\n\n\n\n\nInstructor Notes: The pre-submodule survey serves to examine learners’ prior knowledge about the submodule’s topic. - Use free survey software such as particify or formR to establish the following questions (shown on separate slides)."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#discussion-of-survey-results",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#discussion-of-survey-results",
+    "title": "Concept planning for Open Research events",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-what-to-consider-for-planning-an-open-research-event",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-what-to-consider-for-planning-an-open-research-event",
+    "title": "Concept planning for Open Research events",
+    "section": "Your turn! What to consider for planning an Open Research event?",
+    "text": "Your turn! What to consider for planning an Open Research event?\n\n\nWhat do you think are some initial points to consider when you plan an Open Research event? (3 minutes)  (event = workshop, course, lecture, seminar, talk etc.)\n\nGo to Section 1 of the Open Science Workshop workbook and navigate to exercise B1. Write down your thoughts. Take 3 minutes for this exercise.\n\nPresenter Notes: Next question when planning an event on Open Research: what do you think are some initial points to consider when you plan an event on Open Research? An event could be a workshop, course, lecture, seminar, talk etc. Take three minutes to collect your thoughts.\nInstructor Notes: Answers that instructor might be looking for are: - What is a suitable topic? - Who is my audience? How much experience do they have with Open Research topic X? - What is the event format? - How long is the event/course? - Prior learning objectives or learning materials? - What do my learners connect with Open Research?"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#logistics-practical-considerations",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#logistics-practical-considerations",
+    "title": "Concept planning for Open Research events",
+    "section": "Logistics: Practical considerations",
+    "text": "Logistics: Practical considerations\n\n\nMade with generative AI.\n\n\nPresenter Notes: This is an illustration of what organizing an academic event more generally can feel like: at first, it all seems very straightforward and the organization follows a more or less logical sequential flow. In reality though it can also feel a little more like in the image at the bottom, where you are constantly facing micro decisions, sometimes with little time to think about them and running about ten operations in parallel."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#logistics-practical-considerations-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#logistics-practical-considerations-1",
+    "title": "Concept planning for Open Research events",
+    "section": "Logistics: Practical considerations",
+    "text": "Logistics: Practical considerations\nThings to consider when organizing an event:\n\nWho could the target audience be?\nWhat are suitable dates and times?\nWhat does my audience need? (accessibility)\nWhat modality is suitable? (in-person, online, hybrid)\nWhat equipment/materials/software do I need?\nHow can I book rooms/equipment?\nWhat are the administrative procedures (catering, room booking..)?\nHow can I advertise my event?\nCheck your working conditions: What is expected from me? How much time do I have?\n\n\n\nPresenter Notes: Before focusing on the learning design itself, it is important to consider the practical aspects of organizing an Open Research event. Good planning helps create an environment in which learners can fully engage with the learning activities.\nThe first question is who the target audience is. Are you designing the event for undergraduate students, doctoral researchers, professional staff, or a mixed audience?\nYou should also think carefully about dates and times. Consider learners’ schedules, competing commitments, and time zones if the event includes online attendees. Choosing an appropriate time can have a significant impact on attendance and engagement. For example, if learners have to travel for your course, you might consider avoiding periods where there are large festivities in town happening at the same time.\nAnother important consideration is accessibility and learners needs. Think about whether learners may require accessible rooms, captioning, alternative formats for materials, or flexible participation options. This ties in with creating an inclusive learning environment.\nNext, consider the most suitable modality. Depending on the goals and audience, an event may work best in person, online, or in a hybrid format. Each option offers different opportunities and challenges in terms of interaction, logistics, and resource requirements.\nYou will also need to identify any equipment, materials, or software required. This could include presentation equipment, laptops, workshop materials, collaboration tools, or specialized research software.\nRelated to this is understanding how to book rooms and equipment. Institutional procedures often require advance planning, and popular spaces or resources may need to be reserved well ahead of time.\nIn addition, familiarize yourself with any administrative procedures that may apply, such as room bookings, catering requests, registration systems, or approval processes. These practical details can have a significant impact on the smooth running of the event.\nThen, consider how you will advertise the event. Effective communication helps ensure that the intended audience is aware of the opportunity and understands its value. This might include email lists, institutional websites, newsletters, social media channels, or personal networks.\nFinally, check your own working conditions: how much time do you have? What is expected of you from your department? What do you need to achieve with your learners? Being clear about these constraints helps ensure that your plans are realistic and focused."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#the-aripe-scheme-städeli-et-al.-2013",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#the-aripe-scheme-städeli-et-al.-2013",
+    "title": "Concept planning for Open Research events",
+    "section": "The ARIPE+ scheme (Städeli et al., 2013)",
+    "text": "The ARIPE+ scheme (Städeli et al., 2013)\n\n\nThe “+” generally stands for elements connected to the learning environment, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language, see Städeli et al. (2013).\n\n\nPresenter Notes: One useful framework for structuring an event or individual lesson on Open Research is the ARIPE+ scheme, developed by Städeli and colleagues (2013). The model organizes learning into a sequence of phases that guide learners from initial engagement with a topic through exploration, practice, application, and reflection. ARIPE+ helps educators design learning experiences that are active and learner-centered. Rather than focusing only on content delivery, the framework emphasizes what learners can do and demonstrate throughout the learning process. The “+” generally stands for elements connected to the learning environment, e.g., creating a supportive, accessible and safe environment, inclusivity, (body) language …\nIn the following slides, we will explore each phase of the ARIPE+ scheme and consider how it can be applied when designing an Open Research event."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#the-aripe-scheme",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#the-aripe-scheme",
+    "title": "Concept planning for Open Research events",
+    "section": "The ARIPE+ scheme",
+    "text": "The ARIPE+ scheme\n\nA - Arrive and adjust: Provide orientation, outline journey and bigger picture, communicate learning objectives, create and foster motivation\nR - Reactivate: Reactivate and assess prior knowledge, link new content to existing content (constructivism)\nI - Inform: Introduce new content\nP - Process: Activities, tasks, discussions, questions, collaborative learning\nE - Evaluate: Check progress on learning objectives, feedback and assessment\n\n\nPresenter Notes: The five phases of the ARIPE scheme are as follows:\n\nA: Arrive and adjust. This is where learners get oriented. Explain why the session matters, what they’ll learn, how the workshop is structured, how it connects to the bigger picture and what the intended learning objectives are. This phase also helps establish motivation and creates a positive learning environment.\nR: Reactivate. Before introducing new ideas, help learners connect with what they already know. This could involve asking questions, discussing previous experiences, or using a quick activity to surface prior knowledge. Within the framework of constructivism, learning is much more effective when new information can be linked to existing mental models.\nI: Inform. This is the instructional phase where you introduce new concepts, methods, or skills. Rather than trying to cover everything, focus on the key ideas that learners need in order to achieve the learning objectives that you introduced in the first phase.\nP: Process. Learning happens through active engagement. Give participants opportunities to apply what they’ve learned in the previous phase through exercises, discussions, problem-solving, or collaborative activities. This is often the longest phase of a workshop because practice is essential for learning.\nE: Evaluate. Finally, check whether learners have achieved the intended outcomes. Evaluation doesn’t have to mean a formal test or exam, it can be reflection, instructor or peer feedback, a short quiz, or a practical task. It also gives you valuable information about what learners have understood and what may need further clarification. The modality and practicalities around this should also already be clearly explained during the first phase to manage expectations of your learners.\n\nIn practice, you move back and forth between the phases and do not necessarily follow this linear trend.\nInstructor Notes: While the model is presented as a linear framework, in practice you may move back and forth between phases depending on your learners and context."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Arrive and adjust",
+    "text": "ARIPE: Arrive and adjust\nOrientation\n\n\n\nProvide orientation at the start and the end\n\nAccessibility and equipment needed (laptop, software installed, internet access …)\nExplain what materials will be needed (slides, cheatsheets, Moodle, GitHub) and where to find them)\nHighlight the modality (hybrid/in-person/online)\nCommunicate milestones and important dates (deadlines, homework assignments, intermediate and final assessments)\nClarify your expectations to the learners (attendance, homework, criteria for obtaining a certificate, assessments, general conduct…)\nLet your learners find common goals and shared interests\n\n\n\n \n\n\n\n\n\n\n\nIcon from https://icons8.com/.\n\n\nPresenter Notes: The Arrive and Adjust phase starts before you teach any content. Your goal is to help learners feel prepared and know what to expect.\nBegin by checking that everyone has what they need. For example, do they have a laptop, the required software installed, a stable internet connection, or access to the online platform? Solving technical issues early saves time later.\nNext, explain what materials you’ll be using and where learners can find them. This might include the slides, cheat sheets, Moodle, GitHub, or any other resources. Make it easy for learners to know where to look during and after the session.\nBe clear about how the course will run. Is it in person, online, or hybrid? If some learners are joining remotely, explain how they can ask questions, join discussions, or take part in activities.\nPoint out important milestones such as homework, deadlines, assessments, or major activities. This helps learners plan their time and reduces uncertainty.\nFinally, be clear about your expectations. Explain practical matters such as attendance, participation, homework, assessment methods, requirements for a certificate, and expectations for respectful behavior. Setting these expectations from the beginning helps create a positive and productive learning environment.\nIf possible, help learners get to know each other. A short introduction or discussion can help learners discover shared interests or common goals of why they are together in this session. This creates a more welcoming learning environment and makes collaboration easier."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-1",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Arrive and adjust",
+    "text": "ARIPE: Arrive and adjust\nJourney and bigger picture\n\nClearly communicate where learners are headed and the vision or bigger picture\n\ne.g., “Today’s workshop helps you move from using open research practices yourself to learning how to teach these practices to the next generation of researchers using evidence-based methods.”\n\n\n\n\nPresenter Notes: People are more motivated when they understand not just what they are learning, but why it matters.\nAt the beginning of a session, explain the bigger picture. Help learners see how today’s topic fits into the overall curriculum, the course, or the wider impact of their work.\nFor example, instead of simply saying, “Today we’ll learn about teaching methods,” you could say: “Today’s workshop helps you move from using open research practices yourself to learning how to teach these practices to the next generation of researchers using evidence-based methods.”\nThis gives learners a sense of purpose. It shows that the workshop is not just about learning a new skill, but about increasing their impact by helping others adopt good research practices.\nInstructor Notes: You can return to this vision at the end of the session. Briefly remind learners what they have achieved today and how it moves them one step closer to that larger goal. This helps connect individual activities to the overall learning journey and reinforces motivation."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-2",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-2",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Arrive and adjust",
+    "text": "ARIPE: Arrive and adjust\nCommunicate learning objectives\n\nClearly communicate the learning objectives\n\nState the learning objectives for the course/event series and provide an outlook on how you are planning to achieve them with your audience\n\n\n\n\nExamples:\n\n“Learners will compare traditional publishing models with open-access publishing models\n“Learners will create a reproducible research document using Quarto and publish it on GitHub”\n\n\n\nPresenter Notes: From the broader picture, define specific learning objectives for individual sessions, workshops, or activities. These should contribute to the broader objectives of the event and provide a clear sense of purpose for your learners.\nClearly communicate these learning objectives. Explain what learners should be able to do by the end of the session or course. Knowing the destination helps learners understand why each activity is included.\nIn the first example, “Learners will compare traditional publishing models with open-access publishing models.” The key action is compare. This tells us that learners are expected to analyze similarities and differences, not just remember definitions.\nIn the second example, “Learners will create a reproducible research document using Quarto and publish it on GitHub.” Here, the actions are create and publish. These are practical skills that learners can demonstrate by producing a real output.\nInstructor Notes: Remember: A useful question to ask when writing a learning goal is: “How will I know that learners have achieved this?” If you can clearly observe or assess the action, your learning goal is likely well-written."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-providing-orientation-for-an-r-workshop",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-providing-orientation-for-an-r-workshop",
+    "title": "Concept planning for Open Research events",
+    "section": "Your turn! Providing orientation for an R workshop",
+    "text": "Your turn! Providing orientation for an R workshop\n\nThought experiment: Imagine that you give a half-day workshop on R to a group of ten learners. In groups, write down concrete examples on how you could provide orientation at the start of the R workshop.\n\n\nMilestones to achieve during the workshop:\nExpectations:\n\n Go to Section 1 of the Open Science Workshop workbook and navigate to exercise B2. Work in pairs. Take 5 minutes for this exercise.\n\nPresenter Notes: Now it’s your turn to put all of this into practice. Imagine that you are teaching a half-day workshop on R to a group of ten learners. Your task isn’t to plan the technical content yet. Instead, focus only on the Arrive and Adjust phase.\nWorking in small groups, think about how you would help learners feel prepared, motivated, and ready to learn before introducing R itself.\nFor each of the prompts on the slide, write down one or two concrete examples. For example, what equipment or materials would participants need? How would you explain the workshop format? What activity could help learners discover shared interests or goals? What milestones would you communicate? What learning objectives would you share? And what expectations would you set from the beginning?\nYou have 10 minutes to discuss and write down your ideas. Afterwards, we’ll come back together and compare approaches to see the range of possibilities.\nWe will use this example for a workshop later on this session."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-3",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-arrive-and-adjust-3",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Arrive and adjust",
+    "text": "ARIPE: Arrive and adjust\nMotivation\nWhy does motivation (and demotivation!) matter when teaching and learning?\n\nApplying didactic tools can be unsuccessful if learners are demotivated\nMotivation (and demotivation) are contagious\nMotivation can be positively influenced by the instructor\n\n\n\nIcon from https://icons8.com/.\n\n\nPresenter Notes: Motivation is a critical element in the learning process. It matters because even the best-designed learning activities are less effective if learners do not see the value in participating or do not feel engaged. You can have excellent content and well-planned exercises on open research topics, but if learners are disengaged, learning becomes much harder. Motivation is especially important in the context of open research, because some of its practices are difficult to implement in different contexts, learners may face obstacles or challenges within their research groups etc.\nWhen learners are curious, engaged, and willing to participate, that positive energy often encourages others to join in. The opposite is also true, if frustration or disengagement spreads, it can affect the whole learning environment. This can come from both the other learners, or the instructor.\nThe good news is that instructors can influence motivation. You can’t control every learner’s level of interest, but you can create conditions that support motivation and make it a key element of the design process. Explaining why the topic matters, connecting it to learners’ goals, providing achievable challenges, creating opportunities for success, and fostering a respectful and inclusive atmosphere can all make a real difference."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#motivation-lessons",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#motivation-lessons",
+    "title": "Concept planning for Open Research events",
+    "section": "Motivation: Lessons",
+    "text": "Motivation: Lessons\n \n\nWhat can you do to enhance motivation in your learners?\n\n\nPresenter Notes: Bringing it all together, let us now discuss concrete strategies how you can actively increase motivation in your learners."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-boosting-motivation-in-your-r-workshop",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#your-turn-boosting-motivation-in-your-r-workshop",
+    "title": "Concept planning for Open Research events",
+    "section": "Your turn! Boosting motivation in your R workshop",
+    "text": "Your turn! Boosting motivation in your R workshop\n\nLet us get back to our planned R workshop for a group of learners.\n\nWhat are two concrete activities where you could actively boost motivation in your learners?\nWhat could be two R-specific factors be that could demotivate your learners at the workshop?\n\n\nGo to Section 1 of the Open Science Workshop workbook and navigate to exercise B4. Work in pairs. Take 5 minutes for this exercise.\n\nPresenter Notes: Thinking about the R workshop that we started planning earlier: What are concrete activities where you could actively boost motivation in your learners? What could some Git-specific factors be that could demotivate your learners at the workshop?\nWork in pairs. Take 5 minutes for this exercise."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE+ scheme",
+    "text": "ARIPE+ scheme\n\n\nStädeli et al. (2013)\n\n\nPresenter Notes: For a quick orientation, we have just been discussing the A - arrive and adjust phase of the ARIPE scheme. Lots went in there. Let us now move onto the next phase."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-reactivate",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-reactivate",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Reactivate",
+    "text": "ARIPE: Reactivate\n\n\n\n\n\n\nImportant\n\n\nRemember: Learners bring prior knowledge into the learning environment, which can help or hinder learning.\n\n\n\n\n\nHow could you explore and activate prior knowledge on Open Research in your learners?\n\n\nhttps://zenodo.org/records/18905547\n\n\nPresenter Notes: Moving onto the second phase of the ARIPE scheme, we are now in the reactivate phase. Before introducing new concepts, it is important to remember that learners already bring knowledge, experiences, and ideas into the learning environment.\nThis prior knowledge can support learning if it is accurate, but it can also make learning more difficult if learners have misconceptions or different understandings of key concepts. Taking time to explore what learners already know helps you build on their existing knowledge and identify areas that may need clarification.\nFor this activity, think about how you as the instructor could explore and activate prior knowledge in an Open Research workshop.\nInstructor Notes: Encourage using examples from this session, or examples such as asking learners what Open Research means to them, using a short poll or quiz, or having learners discuss their previous experiences in pairs before introducing new content, see also the next slide for an overview."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-reactivate-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-reactivate-1",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Reactivate",
+    "text": "ARIPE: Reactivate\nMethods to explore and activate prior knowledge\n\n\n\n\n\n\n\n\n\nExchange with other teaching colleagues about the content of preceding workshops and integrate recaps\nUse pre-session surveys and quizzes to identify existing knowledge\nBrainstorm with learners about specific concepts\nCheck for error patterns in the homework assignment\nExplicitly link new materials to elements from previous sessions\nUse analogies and examples that connect to existing knowledge\n…\n\n\n\nPresenter Notes: Some ideas and concrete strategies to explore and reactivate prior knowledge:\n\nExchange with other teaching colleagues about the content of preceding workshops\nPre-session surveys and quizzes to identify existing knowledge\nBrainstorm with learners\nCheck for error patterns in the homework assignment\nExplicitly link new materials to elements from previous sessions\nUse analogies and examples that connect to existing knowledge\n…\n\nInstructor Notes: Visualize these ideas on a whiteboard or an online visualization tool for everyone to see."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-1",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE+ scheme",
+    "text": "ARIPE+ scheme\n\n\nStädeli et al. (2013)\n\n\nPresenter Notes: Moving onto the third phase of the ARIPE scheme: Inform."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-inform",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-inform",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Inform",
+    "text": "ARIPE: Inform\nCommunication model by Lasswell (1948):\n\n\n\nSapienza et al. (2015)\n\n\nPresenter Notes: The next phase is all about informing or conveying content. At this stage, the instructor provides core concepts, explanations, and models that learners need to understand the topic. The goal is to give learners a shared foundation of accurate information. Lasswell’s communication model is a simple way to describe communication using five questions: Who says what, in which channel, to whom, and with what effect?\n\nWho: the instructor or facilitator\nSays what: the key concepts or content being taught\nChannel: the teaching method (lecture, slides, demo, discussion)\nTo whom: the learners\nEffect: learners understand and build a shared knowledge base"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-inform-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-inform-1",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Inform",
+    "text": "ARIPE: Inform\nDesigning slides………………..is a process:\n\n\nMade with generative AI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresenter Notes: The Lasswell model is particularly important when using slides to inform your learners about content, concepts, models, explanations, skills etc. It is a useful framework to think about the purpose and message of your slides, not just the content and to design slides with intent.\nDesigning slides is a process. While it is beyond the scope of this session to go into detail, keeping the Lasswell model in mind can help you move through the basic stages of designing slides. First, you braindump your ideas. Next, you sort your brain dump and formulate the core message. Next, you generate the flow of the story you are trying to tell. Next, you sketch out the slides in an analog format. Finally, you create them digitally.\nInstructor Notes: Emphasize that this could be a session in itself and is merely intended as a brief overview. Welcome questions about this at the end."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-2",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-2",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE+ scheme",
+    "text": "ARIPE+ scheme\n\n\nStädeli et al. (2013)\n\n\nPresenter Notes: We have reached the fourth stage of successful learning, the processing stage."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-process",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-process",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Process",
+    "text": "ARIPE: Process\nPractice and consolidate learning:\n\nIncorporate activities, discussions and collaborative learning\n\nExamples: Exercises, quiz, group work, summaries, homework assignments..\nUse activation methods for maximizing learning outcomes (next session!)\n\n\n\nPresenter Notes: The Process stage of ARIPE focuses on what learners do with new information. This is where activities, discussions, and collaborative learning become central. For example, learners might solve a problem together, discuss a concept in pairs, or apply new knowledge to a short task. These interactions help learners test and refine their understanding.\nActivation methods are especially useful in this stage. They support learners in engaging with the material in different ways and help strengthen learning outcomes. We will explore specific activation methods in the next session."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-3",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-scheme-3",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE+ scheme",
+    "text": "ARIPE+ scheme\n\n\nStädeli et al. (2013)\n\n\nPresenter Notes: Reaching the evaluation stage! This is where learners and instructors assess understanding and learning outcomes to determine what has been achieved and what may need further development."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-evaluate",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-evaluate",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Evaluate",
+    "text": "ARIPE: Evaluate\nProviding feedback\n\n\nhttps://carpentries.github.io/instructor-training/11-practice-teaching.html#feedback-is-hard\n\n\nPresenter Notes: Depending on the types of people and learners we are, you may encounter learners who are biased towards weighing the negative feedback more than the positive, because our brain seeks survival and not happiness, so it tries to extract information necessary for survival from negative feedback whenever possible. This makes feedback an extremely important tool in your teaching, particularly when you are teaching about Open Research practices where confidence with the topic might be low to begin with."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-evaluate-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#aripe-evaluate-1",
+    "title": "Concept planning for Open Research events",
+    "section": "ARIPE: Evaluate",
+    "text": "ARIPE: Evaluate\nWrapping up\n\nSummarize and recap covered content\nReiterate the learning objectives\nHighlight important take-home messages\nSmall check-in assessment to see where your learners are at\nClearly communicate expectations and timeframe for homework\nProvide an outlook on the following sessions\nOpen the floor for questions\n\n“What are your questions?” instead of “Do you have any questions?”\n\n\n\nPresenter Notes: Wrapping up is equally part of the evaluation process. Some important elements of concluding a lesson and the learning process:\n\nSummarize and recap covered content\nReiterate the learning objectives\nHighlight important take-home messages\nSmall check-in assessment to see where your learners are at\nClearly communicate expectations and timeframe for homework\nProvide an outlook on the following sessions\nOpen the floor for questions\n\n“What are your questions?” instead of “Do you have any questions?”"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#donts-during-an-open-research-event",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#donts-during-an-open-research-event",
+    "title": "Concept planning for Open Research events",
+    "section": "Don’ts during an Open Research event",
+    "text": "Don’ts during an Open Research event\n\n\nDo not:\n\n\n\n\n\n\n\nOverwhelm learners with Open Research facts early on\nDive into complex or detailed technical discussions\nTalk with scorn about an Open Research tool or practice\nPretend to know more than you do\nDo not use the word “just” or other demotivating words/phrases\nExpress surprise at unawareness (“Funny, you have never heard about Git!?”)\nTake over the learner’s keyboard to complete the task yourself (e.g., when doing an R demonstration)\n…\n\n\n\nhttps://carpentries.github.io/instructor-training/08-motivation.html#first-do-no-harm\n\n\nPresenter Notes: There are some things that can seriously tamper with the learning success of your learners. Here are a few things you as the instructor should not do in your workshop:\n\nTalk contemptuously or with scorn about any tool or practice, or the people who use them. Regardless of its shortcomings, many of your learners may be using that tool, and may have invested time in learning to do so. Convincing someone to change their practices is much harder when they think you disdain them.\nDive into complex or detailed technical discussion with the one or two people in the audience who clearly don’t actually need to be there. Reserve those conversations for breaks or follow-up emails.\nPretend to know more than you do. People will actually trust you more if you are frank about the limitations of your knowledge, and will be more likely to ask questions and seek help.\nUse the word “just”. This signals to the learner that the instructor thinks their problem is trivial and by extension that they therefore must be deficient if they are not able to figure it out.\nTake over the learner’s keyboard. Doing so can be demotivating for the learner because it implies you don’t think they can do it themselves or that you don’t want to wait for them. It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.\nExpress surprise at unawareness. Saying things like “I can’t believe you don’t know X” or “You’ve never heard of Y?” signals to the learner that they do not have some required pre-knowledge of the material you are teaching, that they don’t belong at the workshop, and it may prevent them from asking questions in the future."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#take-home-messages",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#take-home-messages",
+    "title": "Concept planning for Open Research events",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\nStart from the beginning: logistics and practical considerations\nStructure your open research lesson so that it includes orientation, reactivation of prior knowledge, transfer and processing of content and wrapping up elements\nActively foster motivation early on and throughout\nAssess and activate prior/existing knowledge about open research to boost the learning process\nUse feedback procedures as a foundational element of the learning process\n\n\nPresenter Notes: Implementing immediately what we have just heard, here is a quick recap of what is important when planning for an Open Research event.\n\nStart from the beginning: logistics and practical considerations\nStructure your lesson so that it includes orientation, reactivation of prior knowledge, transfer and processing of content and wrapping up elements\nActively foster motivation early on and throughout\nAssess and activate prior/existing knowledge to boost the learning process\nUse feedback procedures as a foundational element of the learning process"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#learning-objectives---recap",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#learning-objectives---recap",
+    "title": "Concept planning for Open Research events",
+    "section": "Learning objectives - Recap",
+    "text": "Learning objectives - Recap\nAt the end of this session, you are now able to:\n\nConsider practical and logistical challenges of organizing an Open Research event ✅\nDesign an Open Research event according to the five phases of the ARIPE+ scheme (Städeli et al., 2013) to facilitate the learning process ✅\nApply techniques to enhance motivation in your learners ✅\nUnderstand key elements of constructive feedback ✅"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#to-conclude-survey-time",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#to-conclude-survey-time",
+    "title": "Concept planning for Open Research events",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\n\nScan the QR code and select the item End-Survey from the list.\n\nPresenter Notes: Please scan this QR code. It will take you to a survey with a few questions intended to gauge your current familiarity with important concepts in this session.\nLink to survey: https://partici.fi/04963182"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#to-conclude-survey-time-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#to-conclude-survey-time-1",
+    "title": "Concept planning for Open Research events",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\n\nQuestion 1Question 2Question 3\n\n\nWhich of the following pedagogical elements do you now feel most confident about in your teaching? (Select all that apply)\n\nProbing and boosting motivation in your learners\nFormulating and communicating learning objectives for your event\nConceptualizing and communicating the bigger vision of the event\nReactivating prior knowledge in your learners\nProviding constructive feedback\nNone of the above\n\n\n\nWhich of the following elements or skills do you feel most curious about to implement in your future teaching?\n\nPlanning for the logistics of the workshop\nDesigning orientation activities\nBoosting motivation through specific activities\nBalancing positive and negative feedback\nOther\n\n\n\nOn a scale of 1 to 5, how comfortable are you with using the ARIPE+ scheme to structure your future Open Research workshop? (1 = Not comfortable at all, 5 = Very comfortable)\n\n5\n4\n3\n2\n1"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#discussion-of-survey-results-1",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#discussion-of-survey-results-1",
+    "title": "Concept planning for Open Research events",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#references",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#references",
+    "title": "Concept planning for Open Research events",
+    "section": "References",
+    "text": "References\n\n\nO’Brien, K. M., Cumming, M. M., Binkert, G. D., & Oré, D. R. (2022). Providing positive and constructive feedback. In High Leverage Practices for Inclusive Classrooms (2nd ed., pp. 343–356). Routledge. https://doi.org/10.4324/9781003148609-28\n\n\nSapienza, Z. S., Iyer, N., & Veenstra, A. S. (2015). Reading Lasswell’s model of communication backward: Three scholarly misconceptions. Mass Communication and Society, 18(5), 599–622. https://doi.org/10.1080/15205436.2015.1063666\n\n\nStädeli, C., Maurer, M., Caduff, C., & Pfiffner, M. (2013). Das AVIVA-modell. Kompetenzorientiert Unterrichten Und Prüfen. Bern.\n\n\nWu, Y., & Schunn, C. D. (2023). Passive, active, and constructive engagement with peer feedback: A revised model of learning from peer feedback. Contemporary Educational Psychology, 73, 102160. https://doi.org/10.1016/j.cedpsych.2023.102160"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#your-own-stereotypes-and-biases-about-learners",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#your-own-stereotypes-and-biases-about-learners",
+    "title": "Concept planning for Open Research events",
+    "section": "Your own stereotypes and biases about learners",
+    "text": "Your own stereotypes and biases about learners\n\n\n\n\n\n\nTip\n\n\nWant to know more about your own stereotypes and biases about learners? https://carpentries.github.io/instructor-training/09-eia.html#what-are-stereotypes.\n\n\n\n\nPresenter Notes: Want to know more about your own stereotypes and biases about your learners? Then see the link for more information."
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#lmu-want-to-know-more-about-designing-slides",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#lmu-want-to-know-more-about-designing-slides",
+    "title": "Concept planning for Open Research events",
+    "section": "LMU: Want to know more about designing slides?",
+    "text": "LMU: Want to know more about designing slides?\n \n\nFor LMU students, researchers and staff:  Check out PROFiL and their courses on slide design!\n\n\nPresenter Notes: If you want to know more, please visit the website of Profil if you are an LMU member or contact your local didactics expert!"
+  },
+  {
+    "objectID": "teaching-open-research/concept-planning/concept-planning-slides.html#todo",
+    "href": "teaching-open-research/concept-planning/concept-planning-slides.html#todo",
+    "title": "Concept planning for Open Research events",
+    "section": "TODO",
+    "text": "TODO\n\n[x ] Sort out all alt text fir figures\n[x ] Sort out QR codes for surveys\nCheck slide size content in full screen"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#licence",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#licence",
+    "title": "Creating a positive learning environment",
+    "section": "Licence",
+    "text": "Licence\n\n\n\n\n\nThis current work by Sarah von Grebmer zu Wolfsthurn, Sara Lil Middleton and Malika Ihle is licensed under a CC-BY-SA 4.0 Creative Commons Attribution 4.0 International SA License. It permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\n\nPresenter Notes: The Creative Commons Attribution–ShareAlike 4.0 license, or CC BY-SA 4.0, allows others to copy, share, and adapt a work in any medium, including for commercial purposes. These permissions are broad and cannot be withdrawn as long as the license terms are followed. The main requirement is attribution: users must give appropriate credit to the original creator, provide a link to the license, and clearly indicate whether any changes were made, without implying endorsement by the original author. In addition, the ShareAlike condition means that if someone modifies or builds upon the work, the resulting material must be distributed under the same CC BY-SA 4.0 license, or a compatible one. Finally, users are not allowed to apply legal or technical restrictions, such as DRM, that would prevent others from exercising these same rights."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#contribution-statement",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#contribution-statement",
+    "title": "Creating a positive learning environment",
+    "section": "Contribution statement",
+    "text": "Contribution statement\n\nCreator: Von Grebmer zu Wolfsthurn, Sarah ( 0000-0002-6413-3895)\nReviewer: Middleton, Sara (0000-0001-5307-8029)\nConsultant: Ihle, Malika ( 0000-0002-3242-5981)\n\nPresenter Notes: These are the presenter notes. You will a script for the presenter for every slide. In presentation mode, your audience will not be able to see these presenter notes, they are only visible to the presenter.\nInstructor Notes: There are also instructor notes. For some slides, there will be pedagogical tips, suggestions for activites and troubleshooting tips for issues your audience might run into. You can find these notes underneath the presenter notes.\nAccessibility Tips: Where applicable, this is a space to add any tips you may have to facilitate the accessibility of your slides and activities."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#prerequisites---edit",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#prerequisites---edit",
+    "title": "Creating a positive learning environment",
+    "section": "Prerequisites - EDIT",
+    "text": "Prerequisites - EDIT\n\n\n\n\n\n\nImportant\n\n\nBefore completing this session, please carefully read about the prerequisites.\n\n\n\n\n\n\n\nPrerequisite\nDescription\nLink/Where to find it\n\n\n\n\nBasic familiarity with Open Science practices\nExamples: R, Quarto, Git, GitHub, preregistration, Open Access etc.\nClick here to get familiar with Open Science first\n\n\nCore didactic principles\nA firm grasp on important didactic tools and elements\nDownload Link\n\n\nKnowledge about designing teaching events\nTools and strategies to create a learning experience to convey content and skills\nDownload Link\n\n\n\n\n\nPresenter Notes: For this session, it is important that you have previously thought about didactics and incorporating pedagogical elements in your teaching. You should be familiar with the basics of what learning means, the framework of constructivism, constructive alignment and how to set and formulate learning objectives If you are not yet familiar with these concepts, please see the previous session on “Core didactic principles” when teaching about Open Research or Open Science.\nInstructor Notes: These are the prerequisites for this session. Before you get started on this session with your audience, you need to ensure that the audience fulfills these criteria."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#questions-from-the-previous-session",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#questions-from-the-previous-session",
+    "title": "Creating a positive learning environment",
+    "section": "Questions from the previous session",
+    "text": "Questions from the previous session\n \n\nWhat are your questions from the previous session?\n\n\nPresenter Notes: What were your questions from the previous session? Instructor Notes: Instead of asking “Do you have any questions”, work under the assumption that there are questions to show your learners that it is normal to ask questions and to still be unsure about specific elements of previous sessions. Instead, ask “What are your questions”."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#key-terms-and-definitions",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#key-terms-and-definitions",
+    "title": "Creating a positive learning environment",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nLearning environment:\nActive listening:\nGrowth mindset:\nInclusive language:\n\n\nPresenter Notes: Here are some key concepts we will be discussing throughout the session. Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the plenum. At the end of the session, we will come back to these terms and you will have formed new concepts relared to each of these terms.\nInstructor Notes: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#key-terms-and-definitions-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#key-terms-and-definitions-1",
+    "title": "Creating a positive learning environment",
+    "section": "Key terms and definitions",
+    "text": "Key terms and definitions\n\nLearning environment: Comprises “the psychological, cultural, and physical setting in which learning occurs and in which experiences and expectations are co-created among its participants” (Rusticus et al., 2023)\nActive listening: “The deliberate process of listening with attention and intention to understand another person’s message, while showing that understanding through responses such as clarification, reflection, and feedback.” (Carnegie Mellon University)\nGrowth mindset: “The ability to reframe perceived failures as opportunities to learn and grow” (Dweck, 2006)\nInclusive language: Language that acknowledges the diversity of people, avoids stereotypes, discrimination and assumptions and supports equal opportunities (United Nations)"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#covered-in-this-session",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#covered-in-this-session",
+    "title": "Creating a positive learning environment",
+    "section": "Covered in this session",
+    "text": "Covered in this session\n\nWhat is a positive learning environment?\nBehaviors and attitudes towards your audience\nFostering a growth mindset\nEstablishing norms for interactions\nUniversal Design for Learning (UDL)\nInclusive language in your Open Research (OR) event\nTaking perspective and being a role model in your OR event\n\n\nPresenter Notes: This is a little roadmap to what we will be discussing today. All of it falls under the framework of “What is a positive learning environment, what can I do to create one and what does it mean for my Open Research event?\n\nWhat is a positive learning environment?\nBehaviors and attitudes towards your audience\nFostering a growth mindset\nEstablishing norms for interactions\nUniversal Design for Learning (UDL)\nInclusive language\nPerspective-taking and being a role model"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#learning-objectives",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#learning-objectives",
+    "title": "Creating a positive learning environment",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nAt the end of this session, you will be able to:\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts \n\n\nPresenter Notes: In this session, we will explore how to create and maintain a positive learning environment in Open Research training.\nBy the end of the session, you will be able to identify key elements that contribute to a supportive learning environment, reflect on how your own communication and behavior influence learners, and recognize challenges that may affect participation and engagement."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#before-we-start-survey-time",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#before-we-start-survey-time",
+    "title": "Creating a positive learning environment",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\nADD QR code\n\nPresenter Notes: Let us briefly look at where you are at.\nInstructor Notes:  - Aim: The pre-session survey serves to examine learners’ prior knowledge about the session’s topic. - Use free survey software such as particify to establish the following questions (shown on separate slides)."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#before-we-start-survey-time-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#before-we-start-survey-time-1",
+    "title": "Creating a positive learning environment",
+    "section": "Before we start: Survey time!",
+    "text": "Before we start: Survey time!\n\nQuestion 1Question 2Question 3\n\n\nWhat is your experience with actively creating a positive learning environment for your learners in Open Open Research events?\n\nI have never organized an Open Research event, so this does not apply\nI am not familiar with the concept of a positive learning environment yet\nI am familiar with the concept of a positive learning environment, but have not actively taken any steps towards it yet\nI am familiar with the concept of a positive learning environment and have actively taken steps towards it\nCreating a positive learning environment for your learners is all I think about for my Open Research events\n\n\n\nWhat is your level of familiarity with Universal Design for Learning (UDL)?\n\nI have not heard of it yet\nI have heard of it but have never actively engaged with it.\nI have a basic understanding and use it sometimes in my teaching and learner interactions.\nI am very familiar and use it extensively in my teaching and learner interactions.\n\n\n\nWhich of the following elements of creating a positive learning environment do you feel most confident about in your teaching?\n\nUsing verbal strategies\nUsing non-verbal strategies\nFostering a growth mindset\nEstablishing norms for interaction\nUsing inclusive language\nNone of the above"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#discussion-of-survey-results",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#discussion-of-survey-results",
+    "title": "Creating a positive learning environment",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#the-learning-environment",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#the-learning-environment",
+    "title": "Creating a positive learning environment",
+    "section": "The “learning environment”",
+    "text": "The “learning environment”\n What does this mean to you?\nAdd QR code.\n Take 5 minutes to collect some concepts and thoughts that come to mind with your neighbor.\n\nPresenter Notes: First question to you as the audience: What does the term learning environment mean to you? What thoughts or concepts come to mind? Take 5 minutes to collect some concepts and thoughts that come to mind with your neighbor. Use the QR code.\nInstructor Notes: Collect thoughts with an interactive tool, such as a wordcloud or similar (e.g., with the software Particify). Highlight terms that were said more often by your learners, and also some that were mentioned only once."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#the-learning-environment-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#the-learning-environment-1",
+    "title": "Creating a positive learning environment",
+    "section": "The “learning environment”",
+    "text": "The “learning environment”\n\n\n“The learning environment comprises the psychological, social, cultural, and physical setting in which learning occurs and in which experiences and expectations are co-created among its participants.”\n“[…] is the setting and conditions […] which influences learners engagement and success.”\n\n\nSee Rusticus et al. (2023). Adapted from https://www.oecd.org/en/topics/policy-issues/learning-environment.html.\n\n\nPresenter Notes: When we talk about the learning environment, we mean much more than the physical classroom or the online platform. It includes the psychological, social, cultural, and physical conditions in which learning takes place.\nThese different aspects shape how people experience learning. For example, whether learners feel respected, included, supported, and able to participate can influence their engagement with the course.\nThe learning environment is also something that everyone helps create. Learners, instructors, and others involved all contribute through their interactions, expectations, and behaviors.\nResearch suggests that a positive learning environment can support learner engagement and success. This is why it is useful to think about not only what we teach, but also the conditions in which learning happens.\nInstructor Notes: Connect these “official” definitions with what learners had already mentioned during the brainstorming slide."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#why-the-learning-environment-matters",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#why-the-learning-environment-matters",
+    "title": "Creating a positive learning environment",
+    "section": "Why the learning environment matters",
+    "text": "Why the learning environment matters\n\n\n\n\n  - Influences motivation - Influences performance - Influences emotional well-being - All linked to long-term knowledge retention and increased job competencies\n\n\nRusticus et al. (2023)\n\n\nPresenter Notes: Research shows that the learning environment has a meaningful impact on learning outcomes. It can influence learners’ motivation to engage with a topic, seminar or course and their overall performance.\nThe learning environment also affects emotional well-being. When learners feel supported, respected, and psychologically safe, they are generally better able to participate and learn.\nIts impact can extend beyond the event or course itself. Positive learning environments are associated with better long-term knowledge retention and the development of competencies that learners can apply in their professional roles.\nIn brief: it matters where and how you teach your learners, perhaps more than you might think."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-5-minutes",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-5-minutes",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! 5 minutes",
+    "text": "Your turn! 5 minutes\n\n\nActivity:  What is a positive learning environment?   Write a few bullet points on what this means to you. Save this as part of your developing teaching philosophy for future reference.\n\n\nPresenter Notes: Time for an activity! What is a positive learning environment to you? What elements are in there? Write a few bullet points on your thoughts and what you connect with this concept. Save this as part of your developing teaching philosophy for future reference in the workbook. Keep this in mind as we go along.\nInstructor Notes: Plan about 5 minutes for this activity. Some possible elements of a positive learning environment, see for example three dimensions of Rusticus et al., 2023 from a learners perspective: personal development (active learning in class, practical applications of their learning, visuals, realistic expectations); relationships (faculty support, peer interaction, group work); and institutional setting (physical structure, expectations and culture of environment, community, smaller class sizes)."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#verbal-strategies",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#verbal-strategies",
+    "title": "Creating a positive learning environment",
+    "section": "Verbal strategies",
+    "text": "Verbal strategies\n\n\n\n\n\nSmall-talk (yes, it is important)\nCall learners by their name\nValidate and show appreciation\nAccept silences\nPractice active listening\n\n\n\n\n\n\n\n\nNote\n\n\nConsider potential language barriers or cultural differences in verbal communication, e.g., technical terms, high vs. low context cultures, feedback styles.\n\n\n\n\nChat dialogue icon: OpenClipart / FreeSVG.org — CC0 Public Domain.\n\n\nPresenter Notes: Small, intentional actions can help create a positive learning environment.\nStarting with a little small talk before the event can help build rapport and make learners feel more comfortable participating.\nUsing learners’ names acknowledges them as individuals and can help foster a sense of belonging.\nValidating contributions and expressing appreciation encourages participation, even when responses are incomplete or lead to further discussion.\nIt is also helpful to be comfortable with silence. Giving learners time to think can lead to more thoughtful responses and allows different communication styles to be accommodated.\nFinally, practicing active listening, a very valuable skill that is also quite effective outside the teaching context."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#the-skill-of-active-listening",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#the-skill-of-active-listening",
+    "title": "Creating a positive learning environment",
+    "section": "The skill of active listening",
+    "text": "The skill of active listening\n\n““…listening with attention and intention to understand another person’s message, while showing that understanding through responses such as clarification, reflection, and feedback.”\n\n\n\n\n\n\nParaphrase what audience members express\nMake explicit connections between statements\nRefrain from premature judgment\nAsk for clarification\nListen fully before responding\n\n\n\nSource: UC Berkely ExceEd Program\n\n\nPresenter Notes: Active listening is a skill that helps learners feel heard and supports meaningful discussion.\nParaphrasing what someone has said helps confirm your understanding and shows that you are listening carefully.\nMaking connections between different contributions can help learners see relationships between ideas and build on each other’s thinking.\nAvoid rushing to evaluate or judge responses. Giving ideas space to develop can encourage more open participation.\nWhen something is unclear, ask for clarification rather than making assumptions. This helps ensure shared understanding.\nFinally, listen fully before responding. Allowing learners to finish their thoughts demonstrates respect and leads to more thoughtful conversations.\nInstructor Notes: Highlight active listening as a transferrable skill."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#body-language",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#body-language",
+    "title": "Creating a positive learning environment",
+    "section": "Body language",
+    "text": "Body language\n\n\n\nMaintain eye contact with learners\nUse your body for communication (shake head, use hands)\n\n\n\n\n\nAstronaut Samantha Cristoforetti. Milan, Italy. Photo by Pier Marco Tacca/Getty Images.\n\n\n\n\n\n\n\nNote\n\n\nConsider cultural differences in body language, e.g., perception of eye contact and body gestures.\n\n\n\n\nPresenter Notes: Body language can reinforce verbal communication and help create a welcoming learning environment.\nMaintaining appropriate eye contact can show that you are attentive and engaged. At the same time, it’s helpful to be mindful that comfort with eye contact varies across individuals and cultures.\nThe meaning and interpretation of eye contact, gestures, and personal space can vary, so being aware of these differences can help support respectful and inclusive communication. For example, in many Western cultures like Germany, Candada etc. direct eye contact is a sign of confidence and engagement, whereas in other cultures it could be considered confrontational in parts of Japan and South Korea"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-7-minutes",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-7-minutes",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn: 7 minutes",
+    "text": "Your turn: 7 minutes\n\nActivity:  Practice your active listening skills and observe your body language while your peer is answering one of the questions below.\n\nHow did you first hear about Open Research practices or first become involved in them?\nWhat does Open Research mean to you and your research work?\nDo you already have an Open Research topic in mind you would like to teach about? What would it be and why?\n\n\n\nInstructions: Groups of three, one learner, one instructor practicing the active listening, one observer. Learner gives answer to question to the instructor (approx. 2 mins). In the debriefing, discuss observations and experiences with verbal and non-verbal communication.\n\n\nPresenter Notes: Form groups of three, one is the learner, one the instructor practicing the active listening, one the observer. The learner picks one of the questions, then tells the instructor about their thoughts on the question for approx. 2 minutes. The observer focuses on body language and verbal communication. At the end of the two minutes, discuss as the group. The learner goes first, and describes their experience with the body language and verbal strategies of the instructor. The observer shares their insights, and the instructor shares how the exercise was for them.\nInstructor Notes: Leave about 5 - 7 minutes for this exercise."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#attitudes-towards-your-audience-methods",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#attitudes-towards-your-audience-methods",
+    "title": "Creating a positive learning environment",
+    "section": "Attitudes towards your audience: methods",
+    "text": "Attitudes towards your audience: methods\n\n\n\nMotivate audience to get involved as early as possible\nHave introductory activities\nUse different visualization methods to encourage different ways of participation (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions…)\nAdapt to your audience: pace, examples, level of difficulty …\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nConsider neurodiversity when designing engagement activities and visualizations: color choices, sensory processing, mental imagery…\n\n\n\n\n© 2018 Cristina Simmons\n\n\nPresenter Notes: Besides verbal strategies and using your body language, you can also create a positive learning environment through different teaching methods. For example, introductory activities can help learners get to know the topic, the instructor, and each other. They can also create an opportunity for everyone to become involved early on.\nEncouraging participation at the start of a session can help establish an environment where learners feel comfortable contributing and sharing ideas.\nUsing different visualization methods and tools can support different ways of engaging with information and can make learning more accessible. With this, you can encourage different ways of participation (e.g., through speaking, chat, collaborative documents, whiteboards, anonymous questions…)\nFinally, adapting to your audience means being responsive to their needs, experiences, backgrounds, and level of understanding. This may involve adjusting examples, explanations, pacing, or activities to support effective learning.\nNote: When designing activities and visual materials, consider that learners process information in different ways. Use clear visuals, thoughtful color choices, and varied ways of engaging with content to support different sensory and cognitive needs. For example, avoid relying only on color to communicate meaning, consider sensory load in activities, and provide enough structure for learners to process information in their own way.\nInstructor Notes: Refer back to what was collected in previous exercises."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-6-minutes",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-6-minutes",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! 6 minutes",
+    "text": "Your turn! 6 minutes\n \n\nActivity:\nCollect introductory activities that you use in your teaching on Open Research or saw in other Open Research training you attended and describe what effect they had on you or the learners.\n\n\nInstructions: Write down some thoughts for yourself for 2 minutes, then discuss with your neighbor for 2 minutes, then we will discuss in the big group for 2 minutes.\n\n\nPresenter Notes: With these examples for methods in mind, collect some introductory activities that you use in your teaching on Open Research or have seen in other Open Research teaching events you attended\nInstructor Notes: Allow approx. 6 minutes for this exercise, apply think-pair-share, two minutes each. Discuss as a group in the “share” phase."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#fostering-a-growth-mindset",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#fostering-a-growth-mindset",
+    "title": "Creating a positive learning environment",
+    "section": "Fostering a growth mindset",
+    "text": "Fostering a growth mindset\n\nGrowth mindset = “the ability to reframe perceived failures as opportunities to learn and grow” (Dweck, 2006)\n\n\n\n\n\n\nPositive error framing\nPraise effort and improvement, not performance or ability\nProvide opportunities for self-assessment\nPresent multiple possible approaches\nHelp your learners set realistic expectations\n\n\n\nAdapted from Laura Carter: https://zenodo.org/records/18905547  https://icons8.com/icons\n\n\nPresenter Notes: The idea of a growth mindset is that abilities are not simply fixed, but can develop through learning, effort, and effective strategies. The aim is therefore not to avoid errors or failure, but to treat them as useful information for learning and improvement.\nIn practice, this means framing errors constructively and giving feedback that focuses on the learning process. Rather than praising ability or intelligence, we can acknowledge meaningful effort, effective strategies, and improvement. Importantly, effort alone is not enough: when a strategy is not working, learners should be encouraged to try a different approach or seek additional support.\nSelf-assessment can help learners reflect on what they understand, where difficulties remain, and what they might try next. Providing several possible approaches also makes clear that there is often more than one way to solve a problem.\nFinally, realistic expectations are important. A growth mindset does not mean assuming that everyone can achieve anything immediately. It means recognizing that progress is possible while being realistic about the time, practice, strategies, and support that learning may require."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#establish-norms-for-interaction",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#establish-norms-for-interaction",
+    "title": "Creating a positive learning environment",
+    "section": "Establish norms for interaction",
+    "text": "Establish norms for interaction\nQuestion: Which learning interactions will be common in your event/course? (e.g., large group discussions, work in pairs..)\n\n\n\nBased on this: establish rules for interaction  (or a Code of Conduct)\nExamples:\n\nTake group work seriously\nListen respectfully, do not interrupt\nRespect different perspectives and experiences with Open Research, critique ideas, not people\nUse inclusive language and try to avoid assumptions about others\n…\n\n\n\n\n\n\nhttps://crlt.umich.edu/examples-discussion-guidelines  https://zenodo.org/records/18905547\n\n\nPresenter Notes: Next, we want to discuss norms for interacting. First, I need to think about what kind of interactions I am expecting in my class. More group work, more discussions, interactive things etc. Based on this, instructors could formulate a code of conduct.\nExamples:\n\nTake pair work or small group work seriously. Remember that your peers’ learning is partly dependent upon your engagement.\nListen respectfully. Don’t interrupt, turn to technology, or engage in private conversations while others are speaking. Use attentive, courteous body language. Comments that you make (whether asking for clarification, sharing critiques, or expanding on a point) should reflect that you have paid attention to the previous speakers’ comments.\nRespect different perspectives and experiences. Open Research involves different disciplines, communities, and research traditions, as well as different views on “how research is done”.\nUsing inclusive language means choosing words and behaviors that recognize and respect the diversity of learners and avoid assumptions about people’s identities, experiences, or abilities. Example non-inclusive language: “you guys”, “everyone knows that”"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#universal-design-for-learning",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#universal-design-for-learning",
+    "title": "Creating a positive learning environment",
+    "section": "Universal design for learning",
+    "text": "Universal design for learning\n\n\n\nFramework by CAST to improve and optimize teaching and learning for all people based on scientific insights in how humans learn\nAddresses diversity in learning in three categories:\n\nEngagement (the why of learning)\nRepresentation (the what of learning)\nAction & Expression (the how of learning)\n\n\n\n\n\n\nhttps://www.carleton.edu/its/blog/how-you-can-implement-universal-design-for-learning-udl-in-small-steps/\n\n\nPresenter Notes: Universal Design for Learning, or UDL, is a framework developed by CAST that aims to improve and optimize teaching and learning by considering the diversity of learners from the beginning of the design process.\nRather than creating one approach and adapting it later for individual needs, UDL encourages educators to provide flexible ways for learners to engage with content, access information, and demonstrate their learning.\nThe framework is based on research about how people learn and focuses on three key areas.\nEngagement refers to the why of learning—how we motivate learners, support their interests, and encourage active participation.\nRepresentation refers to the what of learning—how information is presented and whether learners have different ways to access and understand content.\nAction and Expression refers to the how of learning—how learners can demonstrate their knowledge and skills through different methods.\nWe will not go into more detail here, but know that this is a framework that can help you design your events and the content for a wider range of learners.\nInstructor Notes: Make an explicit link between norms of interaction and UDL for a recognition effect, Provide a brief overview about UDL and then refer to the resources."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#expression-inclusive-language",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#expression-inclusive-language",
+    "title": "Creating a positive learning environment",
+    "section": "Expression: Inclusive language",
+    "text": "Expression: Inclusive language\n\n\n\n\n= language that acknowledges the diversity of people, avoids stereotypes, discrimination and assumptions and supports equal opportunities (United Nations)\n\n\n\n\n\n\nhttps://www.un.org/en/gender-inclusive-language/  https://icons8.com/icons\n\n\nPresenter Notes: Inclusive language is about choosing words and communication styles that recognize and respect the diversity of people.\nIt means avoiding stereotypes, discrimination, and assumptions about learners’ identities, backgrounds, abilities, experiences, or knowledge.\nIn a learning environment, inclusive language helps create a sense of belonging and supports equal opportunities for everyone to participate and contribute. As instructors, we can choose the language we use during our teaching."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#language-in-your-open-research-event",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#language-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Language in your Open Research event",
+    "text": "Language in your Open Research event\n\nUse respectful and person-centered language\n\n“Everyone”, “all” etc. instead of “You guys”\n\nExplain technical Open Research terms, do not assume prior knowledge\nUse examples from different research fields, not just one domain\nProvide multiple approaches for a problem\n\n“One approach is..” instead of “Of course you would do it this way!”\n\nAvoid idioms, slang, or culture-specific jokes\n\n“Share your research output across different trusted platforms.” instead of “Don’t put all eggs into one basket!”\n\n\n\nPhan et al. (2025)\n\n\nPresenter Notes: Language in your Open Research event is of highest importance. As we have seen, language is a massive part of the learning environment and therefore of the learning experience and process for your learners. It influences how learners feel, but also how learners engage and participate. Here are some ideas for language in your Open Research event:\n\nFirst, use respectful and person-centred language that recognizes participants as individuals and avoids reducing people to a single characteristic. Small changes, such as using “everyone” instead of “you guys,” can make communication more inclusive. At the same time, be mindful and respect people’s preferences, normalize asking how to correctly pronounce someones name and be open to updating your language, for example pronouns).\nAvoid assuming that participants share the same level of knowledge or experience. Explain technical Open Research concepts clearly and create opportunities for learners from different backgrounds to engage.\nWhen presenting examples, include perspectives from different research fields to show that Open Research practices can apply across disciplines.\nIt is also important to acknowledge that there may be multiple valid ways to approach a challenge. Using language such as “one approach is…” encourages exploration rather than suggesting there is only one correct solution.\nFinally, avoid idioms, slang, or culture-specific references that may not be understood by everyone. Clear and accessible language helps ensure that all participants can fully engage with the content.\n\nInstructor Notes: Cocnrete examples connected to Open Research:\n\nLess inclusive: Everyone should already have Git installed. If not, you’re behind.\nMore inclusive: We will use Git during this session. If you have not installed it yet or run into issues, we will provide support to get everyone on the same page."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#taking-perspectives-in-your-open-research-event",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#taking-perspectives-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Taking perspectives in your Open Research event",
+    "text": "Taking perspectives in your Open Research event\nDo not assume. Recognize that learners come to Open Research from different:\n\nperspectives\ndisciplines\ninstitutions\nresources\naccess to (research) infrastructure\n…\n\n\nPresenter Notes: It is very important to keep in mind that Learners come to Open Research with different backgrounds and experiences:\n\nPerspectives: People may have different views on Open Research For example, one researcher may see preprints as a way to share findings quickly, while another may have concerns about sharing work before peer review.\nDisciplines: Open practices vary across fields. For example, open data sharing may be common in astronomy, while researchers in clinical studies may need to consider participant privacy and consent.\nInstitutions: Researchers may have different levels of institutional support. For example, one university may offer Open Access funding and training, while another may provide fewer resources.\nResources: Time, funding, and support can influence participation. For example, a large research centre may have dedicated data managers, while an independent researcher may manage these tasks alone.\nAccess to infrastructure: Researchers may have different access to tools and platforms. For example, some may use institutional repositories, while others rely on public tools to share their work."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#be-a-role-model-in-your-open-research-event",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#be-a-role-model-in-your-open-research-event",
+    "title": "Creating a positive learning environment",
+    "section": "Be a role model in your Open Research event",
+    "text": "Be a role model in your Open Research event\n\nAdd anecdotes about your own experiences with Open Research tools: “To get this to work, I had to…”\nShow your learners your workflow, e.g., your GitHub repository or folder structure\nShare mistakes or uncertainties you encountered in your own workflow: “I got my R plot wrong at first because..”\n\n\nPresenter Notes: One very powerful strategy to contribute to a positive learning environment in Open Research is to be a role model. For example:\n\nAdd anecdotes: Briefly share examples from your own use of Open Science tools, including what worked well and what you learned along the way.\nShow your workflows: Demonstrating your own GitHub repository, file organization, or documentation practices can help learners see how Open Research is applied in practice.\nShare uncertainties and limitations: Being open about challenges in your workflow shows that Open Research is an ongoing process and encourages learners to reflect on their own practices.\n\nInstructor Notes: Refer back to positive error framing when discussing uncertainties and challenges in your Open Science workflows."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-10-minutes",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn-10-minutes",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn! 10 minutes",
+    "text": "Your turn! 10 minutes\n\n\nActivity:  What do you think are potential challenges to a positive learning environment during an Open Research training event? How would you solve them? (e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..)   In pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.\n\n\nPresenter Notes: What do you think are potential challenges to a positive learning environment during an Open Research training event? How would you solve them?, e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..).\nIn pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.\nInstructor Notes: Plan about 10 minutes for this activity."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#take-home-messages",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#take-home-messages",
+    "title": "Creating a positive learning environment",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\nYou can intentionally create a positive learning environment through (body) language, active listening, teaching methods and many more strategies\nHow you teach is as important as what you teach: Your actions and attitudes as an instructor have a direct impact on the learning process and success\nModel the Open Science values you teach and demonstrate openness, transparency in your own work\nMake mistakes and be open about them, too!\n\n\nPresenter Notes: To wrap up this session, here are some key take-home messages - if you do not remember anything else, this is what I would like for you to take away from today.\nVery important: a positive learning environment is something you can actively create as the instructor. You have power and control over this.\nHow you teach matters just as much as the content you deliver. Your behavior, attitudes, and choices as an instructor influence how learners engage and participate.\nAs Open Research trainers, model the values you promote by demonstrating openness, transparency, and a willingness to learn.\nFinally, remember that making mistakes is part of the learning process. Make mistakes so that learners know that they are normal, and can observe you solving them.\nThese aspects will be discussed further in the sessions on leadership in Open Research."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#take-home-messages-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#take-home-messages-1",
+    "title": "Creating a positive learning environment",
+    "section": "Take-home messages",
+    "text": "Take-home messages"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#learning-objectives---recap",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#learning-objectives---recap",
+    "title": "Creating a positive learning environment",
+    "section": "Learning objectives - Recap",
+    "text": "Learning objectives - Recap\nAt the end of this session, you are now able to:\n\nDescribe the key features of a positive learning environment, including the roles of verbal strategies, body language, growth mindset, interaction norms, perspective-taking, role modelling and inclusive language ✅\nEvaluate how your behavior, language, and attitude influence learner motivation and engagement ✅\nAnalyze challenges affecting the learning environment during an Open Research training event and evaluate strategies to address them in different teaching contexts ✅ \n\n\nPresenter Notes: This where we are at now. To recap, you have now explored the key elements of a positive learning environment and how your communication, behavior, and attitude shape learner experiences.\nYou have analyzed potential challenges in Open Research and Open Science training contexts and practiced applying strategies such as active listening and inclusive language to support engagement and participation.\nWhat are your questions?"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#to-conclude-survey-time",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#to-conclude-survey-time",
+    "title": "Creating a positive learning environment",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\nADD QR code"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#to-conclude-survey-time-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#to-conclude-survey-time-1",
+    "title": "Creating a positive learning environment",
+    "section": "To conclude: Survey time!",
+    "text": "To conclude: Survey time!\n\nQuestion 1Question 2\n\n\nOn a scale from 1 to 5, what is your level of confidence with actively creating a positive learning environment for your learners in Open Research events? (1 = not confident at all, 5 = extremely confident, let’s go)\n\n1\n2\n3\n4\n5\n\n\n\nWhich of the following elements of creating a positive learning environment do you feel most confident about in your teaching at this point?\n\nUsing verbal strategies\nUsing non-verbal strategies\nFostering a growth mindset\nEstablishing norms for interaction\nUsing inclusive language\nNone of the above"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#discussion-of-survey-results-1",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#discussion-of-survey-results-1",
+    "title": "Creating a positive learning environment",
+    "section": "Discussion of survey results",
+    "text": "Discussion of survey results\n\n\nWhat do we see in the results?\n\n\nPresenter Notes: Let us have a look at these results.\nInstructor Notes: Briefly examine the answers given to each question interactively with the group. Use visuals from the survey to highlight specific answers.\nAccessibility Tip: Have people work in pairs if someone did not bring their phone/does not have a phone. This survey also cannot be completed in an asynchronous setting."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#references",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#references",
+    "title": "Creating a positive learning environment",
+    "section": "References",
+    "text": "References\n\n\nDweck, C. S. (2006). Mindset: The new psychology of success. Random House Publishing Group.\n\n\nPhan, J. M., Middleton, S. L., Azevedo, F., Iley, B. J., Grose-Hodge, M., Tyler, S. L., Kapp, S. K., Yeung, S. K., Shaw, J. J., Hartmann, H., & Forrt. (2025). Bridging neurodiversity and open scholarship: How shared values can guide best practices for research integrity, social justice, and principled education. Journal of Social Issues, 81(4), e70035. https://doi.org/10.1111/josi.70035\n\n\nRusticus, S. A., Pashootan, T., & Mah, A. (2023). What are the key elements of a positive learning environment? Perspectives from students and faculty. Learning Environments Research, 26(1), 161–175. https://doi.org/10.1007/s10984-022-09410-4"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#additional-references",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#additional-references",
+    "title": "Creating a positive learning environment",
+    "section": "Additional references",
+    "text": "Additional references\n\nAntosch-Bardohn, J. (2018): Nicht-intentionale Lernprozesse im Alltag von Studierenden. Logos Verlag.\nAntosch-Bardohn, J., Beege, B., & Primus, N. (2019). In die Lehre starten. UTB GmbH.\nAntosch-Bardohn, J. (2019): “Für mein Thema brennen die Studis” - Lernmotivation in der Hochschullehre. In: Neues Handbuch Hochschullehre. Nummer 89, S. 1-18.\nHofmann, E. & Löhle, M. (2004). Erfolgreich lernen. Hogrefe Verlag.\nKergel, D. & Heidkamp-Kergel, B. (2020). E-Learning, EDidaktik und digitales Lernen. Springer VS."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#additional-resources",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#additional-resources",
+    "title": "Creating a positive learning environment",
+    "section": "Additional resources",
+    "text": "Additional resources\nActive listening: - https://www.ncbi.nlm.nih.gov/books/NBK442015/\n\nhttps://executive.berkeley.edu/thought-leadership/blog/art-active-listening\nhttps://www.cmu.edu/student-affairs/civility/resources/active-listening.html"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#interactive-teaching-methods",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#interactive-teaching-methods",
+    "title": "Creating a positive learning environment",
+    "section": "Interactive teaching methods",
+    "text": "Interactive teaching methods\ntransition to activation method"
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#your-turn",
+    "title": "Creating a positive learning environment",
+    "section": "Your turn!",
+    "text": "Your turn!\nTake 20 minutes in pairs to practise an activation method of your choice in the context of a topic of your choice. Each pair demonstrates the activity in “class”, with the rest acting as audience.\n\nInteractively ask participants to provide feedback on the selected method, delivery and improvement points."
+  },
+  {
+    "objectID": "teaching-open-research/activation-methods/activation-methods-slides.html#todo-sarah",
+    "href": "teaching-open-research/activation-methods/activation-methods-slides.html#todo-sarah",
+    "title": "Creating a positive learning environment",
+    "section": "TODO Sarah",
+    "text": "TODO Sarah\n\nSort out alt text for all figures\nGenerate QR codes for teaching\nChange CSS to include level 3 headers"
   },
   {
     "objectID": "LICENSE-CODE.html",
