@@ -2,6 +2,14 @@
 title: "Pedagogical tools for teaching open research"
 ---
 
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+library(downlit)
+library(xml2)
+```
+
 
 ## Welcome!
 
@@ -41,7 +49,7 @@ The materials are completely **free to use**, given that you add an appropriate 
 
 When you click the following button, it takes you to the first developed module, as we are still working on the introductory modules. Enjoy!
 
-<a href="materials/PMM-M4/PMM-M4-S3-Citation-Politics/PMM-M4-S3-Citation-Politics.html" target="_blank" 
+<a href="leadership-open-research/citation-politics/index.html" target="_blank" 
    style="display:inline-block;
           padding:12px 20px;
           background-color:#009933;
@@ -107,3 +115,28 @@ Note that code embedded in these materials is licenced under a **CC0 [Creative C
 ## Funding and partners
 
 This project is funded by the [VolksWagen Foundation](https://www.volkswagenstiftung.de/de) and is developed in collaboration with [FORRT](https://forrt.org/).
+
+
+:::: {.columns}
+
+::: {.column width="47.5%"}
+
+::: {.callout-tip title="Support the LMU Open Science Center!"}
+
+**Like these materials? Be sure to give [the repository]({{< meta repo-url >}}) a star and [follow us on GitHub](https://github.com/lmu-osc)!**
+:::
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="47.5%"}
+
+::: {.callout-tip title="Questions about these materials?"}
+**If you have questions for the authors of these materials, please take a look at the [About](about.qmd) page.**
+:::
+
+:::
+
+::::
