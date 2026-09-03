@@ -1009,14 +1009,14 @@ In a positive learning environment, inclusive language helps create a sense of b
 <br>(*e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..*)
 </div>
 
-*Work in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C4. Follow the instructions. Take 10 minutes for this exercise.*
+*Work in pairs. Go to Section 1 of the Open Science Workshop workbook and navigate to exercise C4. Follow the instructions. Take 5 minutes for this exercise.*
 
 ::: {.notes}
 **Presenter Notes**: What do you think are potential *challenges* to a positive learning environment during an Open Research training event? How would you solve them?, e.g., format, modality, level of experience, audience group size, asynchronous work, technical set-up..). 
 
 In pairs, write a few bullet points about this. Save this as part of your developing teaching philosophy for future reference.
 
-**Instructor Notes**: Plan about 10 minutes for this activity.
+**Instructor Notes**: Plan about 5 minutes for this activity.
 :::
 
 ---
