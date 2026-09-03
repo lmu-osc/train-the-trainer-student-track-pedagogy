@@ -597,7 +597,7 @@ How does your **experience** with a topic differ when you are an expert compared
 
 **Instructor Notes**: *For the discussion round*: In reviewing the answers to the third question above, you will find that the expert experience amounts to much more than just knowing more facts in your learners. What makes an expert? The answer is that experts have more connections among pieces of knowledge that help them think and problem-solve quickly; more “short-cuts”, if you will.
 
-*Idea for a group activity*: Replace the individual work with work in pairs. Use the think-pair-share method: Think for two minutes for yourself, collect your thoughts with a partner for two minutes, then we discuss in the large group for two minutes.
+*Idea for a group activity*: Replace the individual work with work in pairs. Use the think-pair-share method [@mundelseeThinkPairShare2021]: Think for two minutes for yourself, collect your thoughts with a partner for two minutes, then we discuss in the large group for two minutes.
 :::
 
 ---

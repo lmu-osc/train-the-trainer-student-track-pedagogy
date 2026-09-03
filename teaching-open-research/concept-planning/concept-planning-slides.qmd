@@ -116,7 +116,7 @@ What are your questions from the previous session?
 ::: {.notes}
 **Presenter Notes**: Here are some key concepts we will be discussing throughout the session. You are not meant to be familiar with these concepts at this point, but this serves for you as an overview after we have explore each term in more detail. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.
 
-**Instructor Notes**: *Idea for interactive activity*: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method. Allow for about 5 minutes for this exercise. *Presenter notes for activity:*: Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the larger group. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.
+**Instructor Notes**: *Idea for interactive activity*: Identify prior knowledge of learners at this point and come back to possible misconceptions throughout the session. Use the think-pair-share method [@mundelseeThinkPairShare2021]. Allow for about 5 minutes for this exercise. *Presenter notes for activity:*: Think for yourself what each one of these concepts means to you at this points, or have an educated guess based on your experience what the key term could mean. Then, discuss with your partner. We will then briefly discuss the terms in the larger group. At the end of the session, we will come back to these terms and you will have formed new concepts related to each of these terms.
 :::
 
 ---
@@ -137,7 +137,7 @@ Next, error patterns are recurring and systematic mistakes that occur during lea
 
 Finally, constructive feedback is information given to help someone improve their performance, skills, or behavior in a supportive and actionable way through describing observable behavior and offering next steps in a respectful way.
 
-**Instructor Notes**: If you do the think-pair-share exercice the slide before, skip this slide, this is for learners to come back to these concepts in their own time.
+**Instructor Notes**: If you did the think-pair-share exercise the slide before, skip this slide, this is for learners to come back to these concepts in their own time.
 :::
 
 ---
@@ -789,7 +789,7 @@ When someone expresses uncertainty or gives an incomplete answer, avoid immediat
 
 It is equally important to reward learners for sharing vulnerable information. Admitting "I don't understand" or "I thought it worked differently" requires some form safe space. Thank learners for raising these questions, because chances are others are wondering the same thing. A simple response such as, "Good that you asked, that's an important question," reinforces that speaking up contributes to everyone's learning.
 
-One practical strategy is to integrate formative assessments throughout the workshop. These can be quick polls, multiple-choice questions, short reflective prompts, or think–pair–share activities. Their purpose is not to evaluate learners but to give both you and the learners insight into current understanding and identify misconceptions before they become entrenched.
+One practical strategy is to integrate formative assessments throughout the workshop. These can be quick polls, multiple-choice questions, short reflective prompts, or think–pair–share activities [@mundelseeThinkPairShare2021]. Their purpose is not to evaluate learners but to give both you and the learners insight into current understanding and identify misconceptions before they become entrenched.
 :::
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Citation Politics"
+title: "Citation politics"
 #bibliography: references.bib
 ---
 

@@ -35,7 +35,7 @@ website:
           - href: teaching-open-research/core-didactic-principles/index.qmd
           - href: teaching-open-research/concept-planning/index.qmd
           - href: teaching-open-research/creating-learning-environment/index.qmd
-          - href: teaching-open-research/activation-methods/index.qmd
+          #- href: teaching-open-research/activation-methods/index.qmd
       - section: "Leadership in Open Research"
         contents:
           - href: leadership-open-research/citation-politics/index.qmd
